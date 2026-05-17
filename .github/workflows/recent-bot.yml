@@ -1,8 +1,8 @@
 name: Recent Bot Update
 on:
   schedule:
-    - cron: '*/30 9-13 * * 1-5' # 평일: KST 18시~22시 사이에 30분마다
-    - cron: '*/30 5-10 * * 0,6' # 주말: KST 14시~19시 사이에 30분마다
+    - cron: '*/30 9-13 * * 1-5'
+    - cron: '*/30 5-10 * * 0,6'
   workflow_dispatch:
 
 jobs:
