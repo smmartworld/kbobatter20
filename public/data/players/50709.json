@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260510LGHH02026",
+    "gameDate": "20260510",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "함덕주",
+    "pitcherPcode": "63248",
+    "resultCode": "O",
+    "resultText": "박정현 : 우익수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  }
+]

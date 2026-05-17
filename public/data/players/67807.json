@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260517LGSK02026",
+    "gameDate": "20260517",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이정범",
+    "batterPcode": "67807",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "2B",
+    "resultText": "이정범 : 우익수 오른쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "체인지업"
+  }
+]

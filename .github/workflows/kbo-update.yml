@@ -1,0 +1,33 @@
+name: KBO Data Auto Updater
+
+on:
+  schedule:
+    # 매 2시간마다 실행 (UTC 기준이라 한국 시간 홀수 시간대에 주로 돎)
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # 깃헙 웹에서 수동으로 버튼 눌러서 즉시 실행할 수 있게 해줌!
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 세팅
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 패키지 설치
+        run: npm install
+
+      - name: 크롤러 스크립트 실행 (JSON 굽기)
+        run: npx tsx scripts/update-data.ts
+
+      - name: 변경된 JSON 파일 깃헙에 커밋하고 푸시
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/data/
+          git commit -m "⚾️ KBO 데이터 자동 업데이트: $(date)" || echo "변경된 데이터가 없습니다."
+          git push
