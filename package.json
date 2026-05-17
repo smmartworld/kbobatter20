@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "update:master": "tsx scripts/update-master.ts",
+    "update:recent": "tsx scripts/update-recent.ts"
   },
   "dependencies": {
     "axios": "^1.16.1",
