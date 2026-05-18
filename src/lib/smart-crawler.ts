@@ -21,7 +21,9 @@ export async function fetchSmartKboStats(kboPlayerId: string, playerName: string
     // 💡 모든 테이블을 뒤져서 영어 약자(AVG, OBP 등)가 있는 시즌 스탯 테이블을 찾습니다!
     $("table").each((_, table) => {
       const headers: string[] = [];
-      $(table).find("thead th").each((_, th) => headers.push($(th).text().trim().toUpperCase()));
+      $(table).find("thead th").each((_, th) => { 
+  headers.push($(th).text().trim().toUpperCase()); 
+});
 
       // 💡 [핵심] 최근 10경기 테이블(일자, 상대) 등 가짜 테이블은 스킵!
       if (headers.includes("일자") || headers.includes("상대")) return;
