@@ -1,16 +1,9 @@
-// 1. 맨 윗줄에 NextRequest 추가!
-import { NextRequest, NextResponse } from 'next/server'; 
+import { NextRequest, NextResponse } from 'next/server';
 import { fetchPlayerRecentAtBats } from '@/lib/naver-crawler';
 import { searchPlayerByName } from '@/lib/kbo-crawler'; 
 
-// 2. 파라미터의 Request를 NextRequest로 변경!
-export async function GET(
-  request: NextRequest, 
-  { params }: { params: Promise<{ pcode: string }> }
-) {
-  const resolvedParams = await params;
-  const pcode = resolvedParams.pcode;
-
+// 💡 두 번째 파라미터였던 params를 아예 싹 지워버렸어!
+export async function GET(request: NextRequest) {
   // 프론트에서 보낸 이름과 팀 정보를 꺼냄
   const { searchParams } = new URL(request.url);
   const name = searchParams.get('name');
@@ -21,10 +14,7 @@ export async function GET(
   }
 
   try {
-    // 1. 네이버 pcode 대신, 이름으로 KBO 공식 사이트를 검색해서 진짜 KBO ID를 찾기!
     const searchResults = await searchPlayerByName(name);
-    
-    // 동명이인이 있을 수 있으니 소속 팀으로 필터링해서 정확한 선수 찾기
     const matchedPlayer = searchResults.find(p => p.team.includes(team) || team.includes(p.team));
 
     if (!matchedPlayer) {
@@ -35,8 +25,6 @@ export async function GET(
     }
 
     const kboPlayerId = matchedPlayer.kboPlayerId;
-
-    // 2. 찾은 진짜 KBO ID를 넣어서 20타석 기록 긁어오기
     const atBats = await fetchPlayerRecentAtBats(kboPlayerId, name, team, 20);
     
     return NextResponse.json(atBats);
