@@ -4,7 +4,6 @@ import axios from 'axios';
 import { crawlAllTeamLineups } from '../src/lib/naver-lineup-crawler';
 import { fetchGameAtBats, TEAM_TO_NAVER_CODE } from '../src/lib/naver-crawler';
 import { searchPlayerByName } from '../src/lib/kbo-crawler';
-// 💡 방금 만든 스마트 크롤러 소환!
 import { fetchSmartKboStats } from '../src/lib/smart-crawler'; 
 
 const NAVER_TEAM_TO_KBO_KEYWORD: Record<string, string> = {
@@ -46,7 +45,7 @@ async function fetchNaverSeasonStats(pcode: string) {
 }
 
 async function generateData() {
-  console.log('🔥 [마스터 로스터 누적 & 30일 타석 수집] 시작...');
+  console.log('🔥 [마스터 로스터 누적 & 타석 수집] 시작...');
   const publicDir = path.join(process.cwd(), 'public', 'data');
   await fs.mkdir(publicDir, { recursive: true });
 
@@ -87,7 +86,6 @@ async function generateData() {
         kboPos = matched.position ? matched.position.split('(')[0] : kboPos;
         if (matched.backNumber !== null) kboBackNum = matched.backNumber;
 
-        // 💡 네이버가 스탯 못 주면 새 스마트 크롤러 출동!
         if (stats.seasonAvg === ".---") {
           const details = await fetchSmartKboStats(matched.kboPlayerId, p.name);
           if (details.seasonAvg !== ".---") {
@@ -119,8 +117,9 @@ async function generateData() {
   );
   console.log('✅ 마스터 로스터 & 스탯 굽기 완료!');
 
-  console.log('🔥 최근 30일치 경기 타석 수집 중...');
+  console.log('🔥 경기 타석 수집 중...');
   const dates: string[] = [];
+  
   for (let i = 0; i < 3; i++) {
     const d = new Date();
     d.setDate(d.getDate() - i);
@@ -158,12 +157,21 @@ async function generateData() {
     }
   }
 
+  // ✅ 데이터 누적(Merge) 로직 완벽 적용 완료!
   const playerDir = path.join(publicDir, 'players');
   await fs.mkdir(playerDir, { recursive: true });
 
-  for (const [pcode, atBats] of playerAtBatsMap.entries()) {
+  for (const [pcode, newAtBats] of playerAtBatsMap.entries()) {
+    let existingAtBats: any[] = [];
+    try {
+      const fileData = await fs.readFile(path.join(playerDir, `${pcode}.json`), 'utf-8');
+      existingAtBats = JSON.parse(fileData);
+    } catch (e) {}
+
+    const allAtBats = [...newAtBats, ...existingAtBats];
+
     const uniqueAtBats = Array.from(
-      new Map(atBats.map(ab => [`${ab.gameDate}-${ab.inning}-${ab.resultText}`, ab])).values()
+      new Map(allAtBats.map(ab => [`${ab.gameDate}-${ab.inning}-${ab.resultText}`, ab])).values()
     );
 
     uniqueAtBats.sort((a, b) => {
