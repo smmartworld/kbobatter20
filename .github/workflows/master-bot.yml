@@ -1,7 +1,7 @@
 name: Master Bot Update
 on:
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '12 */2 * * *'
   workflow_dispatch:
 
 jobs:
