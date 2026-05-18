@@ -1,15 +1,15 @@
-import { NextResponse } from 'next/server';
+// 1. 맨 윗줄에 NextRequest 추가!
+import { NextRequest, NextResponse } from 'next/server'; 
 import { fetchPlayerRecentAtBats } from '@/lib/naver-crawler';
-import { searchPlayerByName } from '@/lib/kbo-crawler'; // 💡 KBO 크롤러 추가!
+import { searchPlayerByName } from '@/lib/kbo-crawler'; 
 
+// 2. 파라미터의 Request를 NextRequest로 변경!
 export async function GET(
-  request: Request,
-  { params }: { params: Promise<{ pcode: string }> } // 👈 여기서 Promise로 감싸줬어!
+  request: NextRequest, 
+  { params }: { params: Promise<{ pcode: string }> }
 ) {
-  // 👈 Next.js 16 규칙에 맞게 params를 await로 먼저 풀어주기!
-  // (실제 로직에선 pcode를 안 쓰지만, 빌드 에러를 없애기 위해 꼭 해줘야 함)
   const resolvedParams = await params;
-  const pcode = resolvedParams.pcode; 
+  const pcode = resolvedParams.pcode;
 
   // 프론트에서 보낸 이름과 팀 정보를 꺼냄
   const { searchParams } = new URL(request.url);
