@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519NCOB02026",
+    "gameDate": "20260519",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "최우석",
+    "pitcherPcode": "54903",
+    "resultCode": "O",
+    "resultText": "김인태 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260516LTOB02026",
     "gameDate": "20260516",
     "opponent": "롯데",

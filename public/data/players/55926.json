@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519LGHT02026",
+    "gameDate": "20260519",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "성동현",
+    "pitcherPcode": "68159",
+    "resultCode": "O",
+    "resultText": "정현창 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260515HTSS02026",
     "gameDate": "20260515",
     "opponent": "삼성",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519LGHT02026",
+    "gameDate": "20260519",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "한재승",
+    "pitcherPcode": "51994",
+    "resultCode": "BB",
+    "resultText": "이재원 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260517LGSK02026",
     "gameDate": "20260517",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260508LGHH02026",
-    "gameDate": "20260508",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "K",
-    "resultText": "이재원 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]

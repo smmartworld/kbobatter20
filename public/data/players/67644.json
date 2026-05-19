@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519KTSS02026",
+    "gameDate": "20260519",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "미야지",
+    "pitcherPcode": "56415",
+    "resultCode": "O",
+    "resultText": "이정훈 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260517HHKT02026",
     "gameDate": "20260517",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260421HTKT02026",
-    "gameDate": "20260421",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "조상우",
-    "pitcherPcode": "63342",
-    "resultCode": "BB",
-    "resultText": "이정훈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

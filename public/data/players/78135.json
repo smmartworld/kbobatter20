@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "gameId": "20260519SKWO02026",
+    "gameDate": "20260519",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이형종",
+    "batterPcode": "78135",
+    "pitcherName": "노경은",
+    "pitcherPcode": "73211",
+    "resultCode": "O",
+    "resultText": "이형종 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
+    "gameId": "20260519SKWO02026",
+    "gameDate": "20260519",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이형종",
+    "batterPcode": "78135",
+    "pitcherName": "이로운",
+    "pitcherPcode": "53892",
+    "resultCode": "BB",
+    "resultText": "이형종 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  }
+]

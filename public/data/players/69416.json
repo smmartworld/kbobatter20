@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519KTSS02026",
+    "gameDate": "20260519",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "이해승",
+    "batterPcode": "69416",
+    "pitcherName": "임준형",
+    "pitcherPcode": "69113",
+    "resultCode": "H",
+    "resultText": "이해승 : 좌중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260517HTSS02026",
     "gameDate": "20260517",
     "opponent": "KIA",

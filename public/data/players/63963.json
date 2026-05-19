@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519NCOB02026",
+    "gameDate": "20260519",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "이병헌",
+    "pitcherPcode": "52204",
+    "resultCode": "O",
+    "resultText": "권희동 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260517WONC02026",
     "gameDate": "20260517",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "123",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260508SSNC02026",
-    "gameDate": "20260508",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "O",
-    "resultText": "권희동 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

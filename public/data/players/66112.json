@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519NCOB02026",
+    "gameDate": "20260519",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김기연",
+    "batterPcode": "66112",
+    "pitcherName": "김준원",
+    "pitcherPcode": "54910",
+    "resultCode": "GDP",
+    "resultText": "김기연 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260515LTOB02026",
     "gameDate": "20260515",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260503OBWO02026",
-    "gameDate": "20260503",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김기연",
-    "batterPcode": "66112",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "BB",
-    "resultText": "김기연 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "155",
-    "lastPitchType": "직구"
   }
 ]

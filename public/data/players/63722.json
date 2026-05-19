@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519KTSS02026",
+    "gameDate": "20260519",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "배찬승",
+    "pitcherPcode": "55455",
+    "resultCode": "2B",
+    "resultText": "한승택 : 우익수 오른쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260517HHKT02026",
     "gameDate": "20260517",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260503KTHT02026",
-    "gameDate": "20260503",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "O",
-    "resultText": "한승택 : 유격수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
