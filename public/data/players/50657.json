@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519LGHT02026",
+    "gameDate": "20260519",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박민",
+    "batterPcode": "50657",
+    "pitcherName": "김윤식",
+    "pitcherPcode": "50157",
+    "resultCode": "GDP",
+    "resultText": "박민 : 3루수 병살타 아웃 (3루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260517HTSS02026",
     "gameDate": "20260517",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260508HTLT02026",
-    "gameDate": "20260508",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박민",
-    "batterPcode": "50657",
-    "pitcherName": "쿄야마",
-    "pitcherPcode": "56548",
-    "resultCode": "K",
-    "resultText": "박민 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "포크"
   }
 ]

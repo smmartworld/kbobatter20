@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260519NCOB02026",
+    "gameDate": "20260519",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "최정원 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260517WONC02026",
     "gameDate": "20260517",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260503NCLG02026",
-    "gameDate": "20260503",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "이종준",
-    "pitcherPcode": "50904",
-    "resultCode": "2B",
-    "resultText": "최정원 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
