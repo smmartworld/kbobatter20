@@ -157,13 +157,17 @@ export default function Home() {
 
     atBats.forEach(ab => {
       const code = ab.resultCode || "O";
+      const text = ab.resultText || "";
+
       if (code === "HR") hr++;
       else if (code === "3B") b3++;
       else if (code === "2B") b2++;
       else if (code === "H") b1++;
-      else if (code === "BB") bb++;
+      // 💡 볼넷, 고의사구, 몸에맞는볼 완벽하게 카운트!
+      else if (code === "BB" || code === "IBB" || code === "HP" || text.includes("몸에") || text.includes("고의")) bb++;
       else if (code === "K") k++;
-      else if (code === "SAC") sac++;
+      // 💡 희생플라이/번트 카운트
+      else if (code === "SAC" || text.includes("희생")) sac++;
     });
 
     const h_total = b1 + b2 + b3 + hr;
@@ -462,7 +466,7 @@ export default function Home() {
               ) : atBats.length === 0 ? (
                 <div className="text-center text-slate-500 py-10 bg-white rounded-xl border">최근 타석 기록을 불러오지 못했거나 경기가 없습니다.</div>
               ) : (
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-3">
                   {atBats.map((ab, idx) => {
                     const bases = [];
                     if (ab.base1) bases.push("1루");
@@ -471,34 +475,34 @@ export default function Home() {
                     const baseText = bases.length > 0 ? bases.join(", ") : "주자 없음";
 
                     return (
-                      <div key={idx} className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between min-h-[140px]">
+                      <div key={idx} className="bg-white border border-slate-200 rounded-xl p-3 sm:p-4 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between">
                         
                         <div>
-                          <div className="flex justify-between items-start mb-2">
+                          <div className="flex justify-between items-start mb-1.5 sm:mb-2">
                             <span className="bg-blue-50 text-blue-700 text-[10px] font-bold px-1.5 py-0.5 rounded border border-blue-100">
                               {formatDate(ab.gameDate)}
                             </span>
                             <span className="text-xs text-slate-500 font-semibold">{ab.inning}회 vs {ab.opponent}</span>
                           </div>
                           
-                          <div className="text-lg font-extrabold text-slate-800 leading-tight mb-1">
+                          <div className="text-base sm:text-lg font-extrabold text-slate-800 leading-tight mb-1">
                             {cleanResultText(ab.resultText, selectedPlayer.name)}
                           </div>
                           
-                          <div className="text-[11px] font-medium text-slate-500 flex items-center gap-1">
+                          <div className="text-[10px] sm:text-[11px] font-medium text-slate-500 flex items-center gap-1">
                             <span className="text-red-500 font-bold">{ab.outCount}아웃</span>
                             <span className="text-slate-300">|</span>
-                            <span>{baseText}</span>
+                            <span className="truncate">{baseText}</span>
                           </div>
                         </div>
 
-                        <div className="mt-3 pt-2 border-t border-slate-100 text-xs text-slate-600 space-y-1">
+                        <div className="mt-2 sm:mt-3 pt-2 border-t border-slate-100 text-[11px] sm:text-xs text-slate-600 space-y-0.5 sm:space-y-1">
                           <div className="flex justify-between font-medium">
                             <span>투수: <span className="text-slate-800 font-semibold">{ab.pitcherName || "-"}</span></span>
                             <span className="text-blue-600 font-semibold">{ab.pitchCount}구</span>
                           </div>
                           {ab.lastPitchSpeed && (
-                            <div className="text-[10px] text-slate-400 font-mono">
+                            <div className="text-[10px] text-slate-400 font-mono hidden sm:block">
                               {ab.lastPitchSpeed}km/h · {ab.lastPitchType}
                             </div>
                           )}
