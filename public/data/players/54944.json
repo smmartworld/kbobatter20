@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260519NCOB02026",
+    "gameDate": "20260519",
+    "opponent": "두산",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "데이비슨",
+    "batterPcode": "54944",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "K",
+    "resultText": "데이비슨 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "스위퍼"
+  }
+]
