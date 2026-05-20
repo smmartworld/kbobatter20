@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260520SKWO02026",
+    "gameDate": "20260520",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "H",
+    "resultText": "김정민 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260514SKKT02026",
     "gameDate": "20260514",
     "opponent": "KT",
