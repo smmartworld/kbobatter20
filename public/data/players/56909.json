@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260521NCOB02026",
+    "gameDate": "20260521",
+    "opponent": "두산",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "신재인 : 1루수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260519NCOB02026",
     "gameDate": "20260519",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 7,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260423NCWO02026",
-    "gameDate": "20260423",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "BB",
-    "resultText": "신재인 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "154",
     "lastPitchType": "직구"
   }
 ]

@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "gameId": "20260521SKWO02026",
+    "gameDate": "20260521",
+    "opponent": "키움",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김민식",
+    "batterPcode": "62864",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "O",
+    "resultText": "김민식 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
+    "gameId": "20260521SKWO02026",
+    "gameDate": "20260521",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김민식",
+    "batterPcode": "62864",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "O",
+    "resultText": "김민식 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  }
+]

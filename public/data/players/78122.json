@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260521LGHT02026",
+    "gameDate": "20260521",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김태군",
+    "batterPcode": "78122",
+    "pitcherName": "치리노스",
+    "pitcherPcode": "55146",
+    "resultCode": "BB",
+    "resultText": "김태군 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260517HTSS02026",
     "gameDate": "20260517",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260509HTLT02026",
-    "gameDate": "20260509",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김태군",
-    "batterPcode": "78122",
-    "pitcherName": "정철원",
-    "pitcherPcode": "68242",
-    "resultCode": "SAC",
-    "resultText": "김태군 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

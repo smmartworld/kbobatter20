@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260521SKWO02026",
+    "gameDate": "20260521",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "K",
+    "resultText": "김정민 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260520SKWO02026",
     "gameDate": "20260520",
     "opponent": "키움",
