@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260521KTSS02026",
+    "gameDate": "20260521",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "이승민",
+    "pitcherPcode": "50464",
+    "resultCode": "K",
+    "resultText": "장준원 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260517HHKT02026",
     "gameDate": "20260517",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "138",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260430LGKT02026",
-    "gameDate": "20260430",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "O",
-    "resultText": "장준원 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
   }
 ]
