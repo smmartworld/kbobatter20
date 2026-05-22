@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260522OBHH02026",
+    "gameDate": "20260522",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "O",
+    "resultText": "김인태 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260519NCOB02026",
     "gameDate": "20260519",
     "opponent": "NC",

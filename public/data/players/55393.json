@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260522WOLG02026",
+    "gameDate": "20260522",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "E",
+    "resultText": "여동욱 : 투수 땅볼 실책으로 출루 (투수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  }
+]

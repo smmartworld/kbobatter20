@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260522WOLG02026",
+    "gameDate": "20260522",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박수종",
+    "batterPcode": "52305",
+    "pitcherName": "이민호",
+    "pitcherPcode": "50126",
+    "resultCode": "BB",
+    "resultText": "박수종 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260517WONC02026",
     "gameDate": "20260517",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260502OBWO02026",
-    "gameDate": "20260502",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박수종",
-    "batterPcode": "52305",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "BB",
-    "resultText": "박수종 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
