@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260522OBHH02026",
+    "gameDate": "20260522",
+    "opponent": "두산",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "이원석",
+    "batterPcode": "68700",
+    "pitcherName": "양재훈",
+    "pitcherPcode": "55215",
+    "resultCode": "K",
+    "resultText": "이원석 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260517HHKT02026",
     "gameDate": "20260517",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260510LGHH02026",
-    "gameDate": "20260510",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "이원석",
-    "batterPcode": "68700",
-    "pitcherName": "웰스",
-    "pitcherPcode": "55348",
-    "resultCode": "O",
-    "resultText": "이원석 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]

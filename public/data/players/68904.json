@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260522NCKT02026",
+    "gameDate": "20260522",
+    "opponent": "KT",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오영수",
+    "batterPcode": "68904",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "오영수 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260519NCOB02026",
     "gameDate": "20260519",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260512NCLT02026",
-    "gameDate": "20260512",
-    "opponent": "롯데",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "오영수",
-    "batterPcode": "68904",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "오영수 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "커브"
   }
 ]
