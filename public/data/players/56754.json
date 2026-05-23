@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523OBHH02026",
+    "gameDate": "20260523",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "오재원",
+    "batterPcode": "56754",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "BB",
+    "resultText": "오재원 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260514HHWO02026",
     "gameDate": "20260514",
     "opponent": "키움",

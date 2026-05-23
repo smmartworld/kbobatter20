@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260523SKHT02026",
+    "gameDate": "20260523",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "H",
+    "resultText": "한유섬 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  }
+]

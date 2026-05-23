@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523OBHH02026",
+    "gameDate": "20260523",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "박상원",
+    "pitcherPcode": "67703",
+    "resultCode": "K",
+    "resultText": "김인태 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260522OBHH02026",
     "gameDate": "20260522",
     "opponent": "한화",
