@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SKHT02026",
+    "gameDate": "20260523",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "김민",
+    "pitcherPcode": "68043",
+    "resultCode": "H",
+    "resultText": "박정우 : 1루수 앞 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260522SKHT02026",
     "gameDate": "20260522",
     "opponent": "SSG",

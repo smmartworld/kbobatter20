@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "HR",
+    "resultText": "신재인 : 좌익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260521NCOB02026",
     "gameDate": "20260521",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260423NCWO02026",
-    "gameDate": "20260423",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "정다훈",
-    "pitcherPcode": "56345",
-    "resultCode": "2B",
-    "resultText": "신재인 : 좌중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

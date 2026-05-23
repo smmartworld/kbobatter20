@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "NC",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "김준원",
+    "pitcherPcode": "54910",
+    "resultCode": "O",
+    "resultText": "배정대 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260430LGKT02026",
-    "gameDate": "20260430",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "O",
-    "resultText": "배정대 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
     "lastPitchType": "커브"
   }
 ]

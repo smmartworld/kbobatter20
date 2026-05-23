@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "O",
+    "resultText": "김한별 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260521NCOB02026",
     "gameDate": "20260521",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "125",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260513NCLT02026",
-    "gameDate": "20260513",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "BB",
-    "resultText": "김한별 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]
