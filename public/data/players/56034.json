@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "힐리어드 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "136",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260516HHKT02026",
-    "gameDate": "20260516",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "E",
-    "resultText": "힐리어드 : 1루수 땅볼 실책으로 출루 (1루수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "143",
     "lastPitchType": "커터"
   }
 ]

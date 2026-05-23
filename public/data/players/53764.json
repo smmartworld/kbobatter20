@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523OBHH02026",
+    "gameDate": "20260523",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "문현빈",
+    "batterPcode": "53764",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "H",
+    "resultText": "문현빈 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260522OBHH02026",
     "gameDate": "20260522",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260516HHKT02026",
-    "gameDate": "20260516",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "문현빈",
-    "batterPcode": "53764",
-    "pitcherName": "김민수",
-    "pitcherPcode": "65048",
-    "resultCode": "BB",
-    "resultText": "문현빈 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "커터"
   }
 ]

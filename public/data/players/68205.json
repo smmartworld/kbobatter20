@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SSLT02026",
+    "gameDate": "20260523",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "전민재 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260522SSLT02026",
     "gameDate": "20260522",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260516LTOB02026",
-    "gameDate": "20260516",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "전민재 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

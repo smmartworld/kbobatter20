@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SKHT02026",
+    "gameDate": "20260523",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "안상현",
+    "batterPcode": "66864",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "O",
+    "resultText": "안상현 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260522SKHT02026",
     "gameDate": "20260522",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260515LGSK02026",
-    "gameDate": "20260515",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "안상현",
-    "batterPcode": "66864",
-    "pitcherName": "손주영",
-    "pitcherPcode": "67143",
-    "resultCode": "E",
-    "resultText": "안상현 : 3루수 땅볼 실책으로 출루 (3루수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "커터"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SSLT02026",
+    "gameDate": "20260523",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "H",
+    "resultText": "황성빈 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260521LTHH02026",
     "gameDate": "20260521",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "133",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260514NCLT02026",
-    "gameDate": "20260514",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "H",
-    "resultText": "황성빈 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

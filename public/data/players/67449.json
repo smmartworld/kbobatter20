@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SSLT02026",
+    "gameDate": "20260523",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "H",
+    "resultText": "김성윤 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260522SSLT02026",
     "gameDate": "20260522",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260517HTSS02026",
-    "gameDate": "20260517",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "김성윤 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

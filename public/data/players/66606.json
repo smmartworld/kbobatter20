@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "H",
+    "resultText": "최원준 : 좌익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "138",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260516HHKT02026",
-    "gameDate": "20260516",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "2B",
-    "resultText": "최원준 : 중견수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

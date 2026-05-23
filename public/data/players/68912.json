@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "H",
+    "resultText": "김형준 : 좌익수 왼쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260514NCLT02026",
-    "gameDate": "20260514",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "김형준 : 3루수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "슬라이더"
   }
 ]

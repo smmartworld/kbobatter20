@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "H",
+    "resultText": "박건우 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260514NCLT02026",
-    "gameDate": "20260514",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "BB",
-    "resultText": "박건우 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523WOLG02026",
+    "gameDate": "20260523",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "신민재",
+    "batterPcode": "65207",
+    "pitcherName": "원종현",
+    "pitcherPcode": "76118",
+    "resultCode": "H",
+    "resultText": "신민재 : 우중간 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260522WOLG02026",
     "gameDate": "20260522",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260515LGSK02026",
-    "gameDate": "20260515",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "신민재",
-    "batterPcode": "65207",
-    "pitcherName": "조병현",
-    "pitcherPcode": "51897",
-    "resultCode": "2B",
-    "resultText": "신민재 : 좌익수 왼쪽 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

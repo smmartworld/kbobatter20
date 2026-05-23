@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SSLT02026",
+    "gameDate": "20260523",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "나승엽 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260522SSLT02026",
     "gameDate": "20260522",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260516LTOB02026",
-    "gameDate": "20260516",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "H",
-    "resultText": "나승엽 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

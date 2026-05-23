@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523OBHH02026",
+    "gameDate": "20260523",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "손아섭",
+    "batterPcode": "77532",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "손아섭 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260522OBHH02026",
     "gameDate": "20260522",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260516LTOB02026",
-    "gameDate": "20260516",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "손아섭",
-    "batterPcode": "77532",
-    "pitcherName": "정철원",
-    "pitcherPcode": "68242",
-    "resultCode": "O",
-    "resultText": "손아섭 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

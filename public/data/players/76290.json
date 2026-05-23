@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "H",
+    "resultText": "김현수 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260516HHKT02026",
-    "gameDate": "20260516",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "O",
-    "resultText": "김현수 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "커브"
   }
 ]

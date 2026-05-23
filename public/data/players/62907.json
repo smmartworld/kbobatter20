@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "O",
+    "resultText": "박민우 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "115",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260515WONC02026",
-    "gameDate": "20260515",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "유토",
-    "pitcherPcode": "56348",
-    "resultCode": "O",
-    "resultText": "박민우 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

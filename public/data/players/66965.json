@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523NCKT02026",
+    "gameDate": "20260523",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "도태훈",
+    "batterPcode": "66965",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "BB",
+    "resultText": "도태훈 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260522NCKT02026",
     "gameDate": "20260522",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260510SSNC02026",
-    "gameDate": "20260510",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "도태훈",
-    "batterPcode": "66965",
-    "pitcherName": "이승현",
-    "pitcherPcode": "60146",
-    "resultCode": "BB",
-    "resultText": "도태훈 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260523SSLT02026",
+    "gameDate": "20260523",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "H",
+    "resultText": "김지찬 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260522SSLT02026",
     "gameDate": "20260522",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "139",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260513SSLG02026",
-    "gameDate": "20260513",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "배재준",
-    "pitcherPcode": "63145",
-    "resultCode": "O",
-    "resultText": "김지찬 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]
