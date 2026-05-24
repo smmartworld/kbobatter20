@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260524SKHT02026",
+    "gameDate": "20260524",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "O",
+    "resultText": "오태곤 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260523SKHT02026",
     "gameDate": "20260523",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260515LGSK02026",
-    "gameDate": "20260515",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "O",
-    "resultText": "오태곤 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "커브"
   }
 ]

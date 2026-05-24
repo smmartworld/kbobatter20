@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260524SSLT02026",
+    "gameDate": "20260524",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "박준우",
+    "pitcherPcode": "54503",
+    "resultCode": "3B",
+    "resultText": "박승규 : 중견수 왼쪽 앞 3루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260523SSLT02026",
     "gameDate": "20260523",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260515HTSS02026",
-    "gameDate": "20260515",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "E",
-    "resultText": "박승규 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
     "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260524NCKT02026",
+    "gameDate": "20260524",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "주권",
+    "pitcherPcode": "65060",
+    "resultCode": "O",
+    "resultText": "최정원 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260523NCKT02026",
     "gameDate": "20260523",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "111",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260507NCSK02026",
-    "gameDate": "20260507",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "2B",
-    "resultText": "최정원 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

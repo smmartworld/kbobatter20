@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260524WOLG02026",
+    "gameDate": "20260524",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "유토",
+    "pitcherPcode": "56348",
+    "resultCode": "2B",
+    "resultText": "이재원 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260522WOLG02026",
     "gameDate": "20260522",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260509LGHH02026",
-    "gameDate": "20260509",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "이재원 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "스위퍼"
   }
 ]

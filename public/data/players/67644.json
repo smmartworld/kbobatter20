@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260524NCKT02026",
+    "gameDate": "20260524",
+    "opponent": "NC",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "배재환",
+    "pitcherPcode": "64995",
+    "resultCode": "BB",
+    "resultText": "이정훈 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260523NCKT02026",
     "gameDate": "20260523",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260422HTKT02026",
-    "gameDate": "20260422",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "H",
-    "resultText": "이정훈 : 우중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "커터"
   }
 ]
