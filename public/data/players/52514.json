@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260526LGLT02026",
+    "gameDate": "20260526",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김세민",
+    "batterPcode": "52514",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "BB",
+    "resultText": "김세민 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260524SSLT02026",
     "gameDate": "20260524",
     "opponent": "삼성",

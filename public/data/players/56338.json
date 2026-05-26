@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260526HTWO02026",
+    "gameDate": "20260526",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "최재영",
+    "batterPcode": "56338",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "K",
+    "resultText": "최재영 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260514HHWO02026",
     "gameDate": "20260514",
     "opponent": "한화",

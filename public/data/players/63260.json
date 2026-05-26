@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260526HHNC02026",
+    "gameDate": "20260526",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "H",
+    "resultText": "이우성 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260524NCKT02026",
     "gameDate": "20260524",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260517WONC02026",
-    "gameDate": "20260517",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "김성진",
-    "pitcherPcode": "51301",
-    "resultCode": "2B",
-    "resultText": "이우성 : 중견수 오른쪽 뒤 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
