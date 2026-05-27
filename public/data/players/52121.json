@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260527LGLT02026",
+    "gameDate": "20260527",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "홍민기",
+    "pitcherPcode": "50596",
+    "resultCode": "3B",
+    "resultText": "문정빈 : 우익수 오른쪽 뒤 3루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260523WOLG02026",
     "gameDate": "20260523",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260516LGSK02026",
-    "gameDate": "20260516",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "H",
-    "resultText": "문정빈 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "커브"
   }
 ]

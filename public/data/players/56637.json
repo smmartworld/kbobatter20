@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260527HTWO02026",
+    "gameDate": "20260527",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "K",
+    "resultText": "김민규 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  }
+]

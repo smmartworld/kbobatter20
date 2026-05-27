@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260527KTOB02026",
+    "gameDate": "20260527",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "유준규",
+    "batterPcode": "51013",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "E",
+    "resultText": "유준규 : 1루수 땅볼 실책으로 출루 (1루수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260526KTOB02026",
     "gameDate": "20260526",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260513SKKT02026",
-    "gameDate": "20260513",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "유준규",
-    "batterPcode": "51013",
-    "pitcherName": "김도현",
-    "pitcherPcode": "52844",
-    "resultCode": "BB",
-    "resultText": "유준규 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

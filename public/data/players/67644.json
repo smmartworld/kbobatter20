@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260527KTOB02026",
+    "gameDate": "20260527",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "이정훈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260524NCKT02026",
     "gameDate": "20260524",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260425KTSK02026",
-    "gameDate": "20260425",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "이정훈 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260527KTOB02026",
+    "gameDate": "20260527",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "류현인 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  }
+]

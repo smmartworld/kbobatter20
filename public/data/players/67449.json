@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260527SSSK02026",
+    "gameDate": "20260527",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "O",
+    "resultText": "김성윤 : 1루수 플라이 아웃 (번트)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260524SSLT02026",
     "gameDate": "20260524",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260521KTSS02026",
-    "gameDate": "20260521",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "O",
-    "resultText": "김성윤 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260527HTWO02026",
+    "gameDate": "20260527",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "한승연",
+    "batterPcode": "52628",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "H",
+    "resultText": "한승연 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260523SKHT02026",
     "gameDate": "20260523",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260505HHHT02026",
-    "gameDate": "20260505",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "한승연",
-    "batterPcode": "52628",
-    "pitcherName": "권민규",
-    "pitcherPcode": "55764",
-    "resultCode": "BB",
-    "resultText": "한승연 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]
