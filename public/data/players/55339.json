@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260527HTWO02026",
+    "gameDate": "20260527",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "염승원",
+    "batterPcode": "55339",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "염승원 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  }
+]

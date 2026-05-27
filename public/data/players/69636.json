@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260527HTWO02026",
+    "gameDate": "20260527",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "오선우",
+    "batterPcode": "69636",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "BB",
+    "resultText": "오선우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "포크"
+  }
+]
