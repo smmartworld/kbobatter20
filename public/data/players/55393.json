@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260528HTWO02026",
+    "gameDate": "20260528",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "O",
+    "resultText": "여동욱 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260526HTWO02026",
     "gameDate": "20260526",
     "opponent": "KIA",
