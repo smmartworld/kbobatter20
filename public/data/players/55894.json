@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260528SSSK02026",
+    "gameDate": "20260528",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최윤석",
+    "batterPcode": "55894",
+    "pitcherName": "백정현",
+    "pitcherPcode": "77446",
+    "resultCode": "2B",
+    "resultText": "최윤석 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  }
+]

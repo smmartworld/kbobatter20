@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260528LGLT02026",
+    "gameDate": "20260528",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "김윤식",
+    "pitcherPcode": "50157",
+    "resultCode": "O",
+    "resultText": "장두성 : 포수 파울플라이 아웃 (번트)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260527LGLT02026",
     "gameDate": "20260527",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260521LTHH02026",
-    "gameDate": "20260521",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "BB",
-    "resultText": "장두성 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "직구"
   }
 ]

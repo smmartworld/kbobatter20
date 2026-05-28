@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260528HHNC02026",
+    "gameDate": "20260528",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "김준원",
+    "pitcherPcode": "54910",
+    "resultCode": "BB",
+    "resultText": "최인호 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260523OBHH02026",
     "gameDate": "20260523",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260528KTOB02026",
+    "gameDate": "20260528",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "우규민",
+    "pitcherPcode": "73117",
+    "resultCode": "O",
+    "resultText": "오명진 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260526KTOB02026",
     "gameDate": "20260526",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260516LTOB02026",
-    "gameDate": "20260516",
-    "opponent": "롯데",
-    "inning": 11,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "O",
-    "resultText": "오명진 : 자동 고의4구",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "커터"
   }
 ]

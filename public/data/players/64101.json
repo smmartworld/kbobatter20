@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260528HHNC02026",
+    "gameDate": "20260528",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "한석현",
+    "batterPcode": "64101",
+    "pitcherName": "박상원",
+    "pitcherPcode": "67703",
+    "resultCode": "O",
+    "resultText": "한석현 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260527HHNC02026",
     "gameDate": "20260527",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260519NCOB02026",
-    "gameDate": "20260519",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "한석현",
-    "batterPcode": "64101",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "H",
-    "resultText": "한석현 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "커터"
   }
 ]
