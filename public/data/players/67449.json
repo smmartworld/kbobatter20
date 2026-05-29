@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260529OBSS02026",
+    "gameDate": "20260529",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "O",
+    "resultText": "김성윤 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260528SSSK02026",
     "gameDate": "20260528",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260521KTSS02026",
-    "gameDate": "20260521",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "O",
-    "resultText": "김성윤 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
     "lastPitchType": "직구"
   }
 ]

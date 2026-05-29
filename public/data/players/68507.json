@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260529LTNC02026",
+    "gameDate": "20260529",
+    "opponent": "NC",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "H",
+    "resultText": "장두성 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260528LGLT02026",
     "gameDate": "20260528",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "139",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260521LTHH02026",
-    "gameDate": "20260521",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "SAC",
-    "resultText": "장두성 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "슬라이더"
   }
 ]

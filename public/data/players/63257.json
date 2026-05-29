@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260529OBSS02026",
+    "gameDate": "20260529",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "김재윤",
+    "pitcherPcode": "65062",
+    "resultCode": "BB",
+    "resultText": "김인태 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260526KTOB02026",
     "gameDate": "20260526",
     "opponent": "KT",

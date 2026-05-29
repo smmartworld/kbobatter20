@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260529SKHH02026",
+    "gameDate": "20260529",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "O",
+    "resultText": "최인호 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260528HHNC02026",
     "gameDate": "20260528",
     "opponent": "NC",
