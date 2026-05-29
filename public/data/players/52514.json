@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260529LTNC02026",
+    "gameDate": "20260529",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김세민",
+    "batterPcode": "52514",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "김세민 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260526LGLT02026",
     "gameDate": "20260526",
     "opponent": "LG",
