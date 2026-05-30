@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530LTNC02026",
+    "gameDate": "20260530",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "H",
+    "resultText": "고승민 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260529LTNC02026",
     "gameDate": "20260529",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "127",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260524SSLT02026",
-    "gameDate": "20260524",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "O",
-    "resultText": "고승민 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

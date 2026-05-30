@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260529LTNC02026",
+    "gameDate": "20260529",
+    "opponent": "NC",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "BB",
+    "resultText": "노진혁 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "투심"
+  }
+]

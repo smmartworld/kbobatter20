@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530HTLG02026",
+    "gameDate": "20260530",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "O",
+    "resultText": "박재현 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260529HTLG02026",
     "gameDate": "20260529",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260524SKHT02026",
-    "gameDate": "20260524",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "O",
-    "resultText": "박재현 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

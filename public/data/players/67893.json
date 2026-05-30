@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530SKHH02026",
+    "gameDate": "20260530",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "E",
+    "resultText": "박성한 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260529SKHH02026",
     "gameDate": "20260529",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "115",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260523SKHT02026",
-    "gameDate": "20260523",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "O",
-    "resultText": "박성한 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "체인지업"
   }
 ]

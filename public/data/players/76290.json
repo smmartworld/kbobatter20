@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530KTWO02026",
+    "gameDate": "20260530",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "박정훈",
+    "pitcherPcode": "55394",
+    "resultCode": "2B",
+    "resultText": "김현수 : 중견수 오른쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260529KTWO02026",
     "gameDate": "20260529",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "139",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260524NCKT02026",
-    "gameDate": "20260524",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "H",
-    "resultText": "김현수 : 우중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "투심"
   }
 ]
