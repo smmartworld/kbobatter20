@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530KTWO02026",
+    "gameDate": "20260530",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "HR",
+    "resultText": "여동욱 : 좌익수 뒤 홈런 (홈런거리:120M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529KTWO02026",
     "gameDate": "20260529",
     "opponent": "KT",

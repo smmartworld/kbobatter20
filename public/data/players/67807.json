@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530SKHH02026",
+    "gameDate": "20260530",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이정범",
+    "batterPcode": "67807",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "O",
+    "resultText": "이정범 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260528SSSK02026",
     "gameDate": "20260528",
     "opponent": "삼성",
