@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530SKHH02026",
+    "gameDate": "20260530",
+    "opponent": "한화",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "김종수",
+    "pitcherPcode": "63765",
+    "resultCode": "H",
+    "resultText": "한유섬 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529SKHH02026",
     "gameDate": "20260529",
     "opponent": "한화",

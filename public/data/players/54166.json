@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530HTLG02026",
+    "gameDate": "20260530",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김현종",
+    "batterPcode": "54166",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "H",
+    "resultText": "김현종 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529HTLG02026",
     "gameDate": "20260529",
     "opponent": "KIA",

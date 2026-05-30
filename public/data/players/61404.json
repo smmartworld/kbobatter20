@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530OBSS02026",
+    "gameDate": "20260530",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "BB",
+    "resultText": "김헌곤 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260528SSSK02026",
     "gameDate": "20260528",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260502HHSS02026",
-    "gameDate": "20260502",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "권민규",
-    "pitcherPcode": "55764",
-    "resultCode": "O",
-    "resultText": "김헌곤 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

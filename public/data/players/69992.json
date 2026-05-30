@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260530LTNC02026",
+    "gameDate": "20260530",
+    "opponent": "롯데",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "이민석",
+    "pitcherPcode": "52530",
+    "resultCode": "O",
+    "resultText": "최정원 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260527HHNC02026",
     "gameDate": "20260527",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260507NCSK02026",
-    "gameDate": "20260507",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "백승건",
-    "pitcherPcode": "69839",
-    "resultCode": "H",
-    "resultText": "최정원 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]
