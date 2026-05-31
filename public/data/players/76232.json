@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260531OBSS02026",
+    "gameDate": "20260531",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "양의지",
+    "batterPcode": "76232",
+    "pitcherName": "배찬승",
+    "pitcherPcode": "55455",
+    "resultCode": "H",
+    "resultText": "양의지 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260530OBSS02026",
     "gameDate": "20260530",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260523OBHH02026",
-    "gameDate": "20260523",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "양의지",
-    "batterPcode": "76232",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "GDP",
-    "resultText": "양의지 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "스위퍼"
   }
 ]

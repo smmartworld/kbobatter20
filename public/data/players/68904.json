@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260531LTNC02026",
+    "gameDate": "20260531",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "오영수",
+    "batterPcode": "68904",
+    "pitcherName": "이승헌",
+    "pitcherPcode": "68529",
+    "resultCode": "O",
+    "resultText": "오영수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529LTNC02026",
     "gameDate": "20260529",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260513NCLT02026",
-    "gameDate": "20260513",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "오영수",
-    "batterPcode": "68904",
-    "pitcherName": "김원중",
-    "pitcherPcode": "62528",
-    "resultCode": "O",
-    "resultText": "오영수 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

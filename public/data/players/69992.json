@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260531LTNC02026",
+    "gameDate": "20260531",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "이승헌",
+    "pitcherPcode": "68529",
+    "resultCode": "2B",
+    "resultText": "최정원 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260530LTNC02026",
     "gameDate": "20260530",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260507NCSK02026",
-    "gameDate": "20260507",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "한두솔",
-    "pitcherPcode": "68092",
-    "resultCode": "SAC",
-    "resultText": "최정원 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

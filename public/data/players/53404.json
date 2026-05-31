@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260531OBSS02026",
+    "gameDate": "20260531",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "류승민",
+    "batterPcode": "53404",
+    "pitcherName": "이재희",
+    "pitcherPcode": "51460",
+    "resultCode": "O",
+    "resultText": "류승민 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  }
+]
