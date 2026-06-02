@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602HHOB02026",
+    "gameDate": "20260602",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "O",
+    "resultText": "황영묵 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260521LTHH02026",
     "gameDate": "20260521",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "125",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260510LGHH02026",
-    "gameDate": "20260510",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "H",
-    "resultText": "황영묵 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "포크"
   }
 ]

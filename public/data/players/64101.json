@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602NCSS02026",
+    "gameDate": "20260602",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "한석현",
+    "batterPcode": "64101",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "한석현 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260531LTNC02026",
     "gameDate": "20260531",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260523NCKT02026",
-    "gameDate": "20260523",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "한석현",
-    "batterPcode": "64101",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "한석현 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

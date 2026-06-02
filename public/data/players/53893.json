@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260602WOSK02026",
+    "gameDate": "20260602",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김민준",
+    "batterPcode": "53893",
+    "pitcherName": "박지성",
+    "pitcherPcode": "56337",
+    "resultCode": "O",
+    "resultText": "김민준 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  }
+]

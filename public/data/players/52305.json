@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602WOSK02026",
+    "gameDate": "20260602",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박수종",
+    "batterPcode": "52305",
+    "pitcherName": "전영준",
+    "pitcherPcode": "52809",
+    "resultCode": "H",
+    "resultText": "박수종 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260524WOLG02026",
     "gameDate": "20260524",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260505WOSS02026",
-    "gameDate": "20260505",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "박수종",
-    "batterPcode": "52305",
-    "pitcherName": "오러클린",
-    "pitcherPcode": "56464",
-    "resultCode": "2B",
-    "resultText": "박수종 : 좌중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "체인지업"
   }
 ]
