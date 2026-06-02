@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602HHOB02026",
+    "gameDate": "20260602",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "최인호 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260530SKHH02026",
     "gameDate": "20260530",
     "opponent": "SSG",

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260602LGKT02026",
+    "gameDate": "20260602",
+    "opponent": "LG",
+    "inning": 4,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "K",
+    "resultText": "장진혁 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "체인지업"
+  }
+]

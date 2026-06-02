@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602LTHT02026",
+    "gameDate": "20260602",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김세민",
+    "batterPcode": "52514",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "김세민 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260531LTNC02026",
     "gameDate": "20260531",
     "opponent": "NC",

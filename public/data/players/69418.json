@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260602NCSS02026",
+    "gameDate": "20260602",
+    "opponent": "NC",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "배재환",
+    "pitcherPcode": "64995",
+    "resultCode": "O",
+    "resultText": "박승규 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260531OBSS02026",
     "gameDate": "20260531",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260524SSLT02026",
-    "gameDate": "20260524",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "박준우",
-    "pitcherPcode": "54503",
-    "resultCode": "3B",
-    "resultText": "박승규 : 중견수 왼쪽 앞 3루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]
