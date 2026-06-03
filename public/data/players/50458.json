@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603NCSS02026",
+    "gameDate": "20260603",
+    "opponent": "NC",
+    "inning": 10,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "김진호",
+    "pitcherPcode": "67954",
+    "resultCode": "BB",
+    "resultText": "김지찬 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260602NCSS02026",
     "gameDate": "20260602",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528SSSK02026",
-    "gameDate": "20260528",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "긴지로",
-    "pitcherPcode": "56800",
-    "resultCode": "BB",
-    "resultText": "김지찬 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "커터"
   }
 ]

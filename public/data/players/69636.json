@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603LTHT02026",
+    "gameDate": "20260603",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "오선우",
+    "batterPcode": "69636",
+    "pitcherName": "박정민",
+    "pitcherPcode": "56536",
+    "resultCode": "H",
+    "resultText": "오선우 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260531HTLG02026",
     "gameDate": "20260531",
     "opponent": "LG",

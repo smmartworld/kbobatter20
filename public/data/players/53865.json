@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603WOSK02026",
+    "gameDate": "20260603",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "O",
+    "resultText": "김정민 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260521SKWO02026",
     "gameDate": "20260521",
     "opponent": "키움",

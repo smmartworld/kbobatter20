@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603LTHT02026",
+    "gameDate": "20260603",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박승욱",
+    "batterPcode": "62802",
+    "pitcherName": "김범수",
+    "pitcherPcode": "65769",
+    "resultCode": "K",
+    "resultText": "박승욱 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260530LTNC02026",
     "gameDate": "20260530",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "124",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260524SSLT02026",
-    "gameDate": "20260524",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박승욱",
-    "batterPcode": "62802",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "K",
-    "resultText": "박승욱 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

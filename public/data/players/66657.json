@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603HHOB02026",
+    "gameDate": "20260603",
+    "opponent": "두산",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이진영",
+    "batterPcode": "66657",
+    "pitcherName": "박정수",
+    "pitcherPcode": "65639",
+    "resultCode": "H",
+    "resultText": "이진영 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260528HHNC02026",
     "gameDate": "20260528",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260513HHWO02026",
-    "gameDate": "20260513",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "이진영",
-    "batterPcode": "66657",
-    "pitcherName": "원종현",
-    "pitcherPcode": "76118",
-    "resultCode": "K",
-    "resultText": "이진영 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

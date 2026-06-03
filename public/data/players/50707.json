@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260603HHOB02026",
+    "gameDate": "20260603",
+    "opponent": "두산",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "박정수",
+    "pitcherPcode": "65639",
+    "resultCode": "O",
+    "resultText": "최인호 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260602HHOB02026",
     "gameDate": "20260602",
     "opponent": "두산",
