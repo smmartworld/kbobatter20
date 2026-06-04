@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604HHOB02026",
+    "gameDate": "20260604",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "심우준",
+    "batterPcode": "64006",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "O",
+    "resultText": "심우준 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260603HHOB02026",
     "gameDate": "20260603",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "141",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260529SKHH02026",
-    "gameDate": "20260529",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "심우준",
-    "batterPcode": "64006",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "심우준 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]
