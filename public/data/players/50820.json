@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604WOSK02026",
+    "gameDate": "20260604",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "O",
+    "resultText": "전의산 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260603WOSK02026",
     "gameDate": "20260603",
     "opponent": "키움",

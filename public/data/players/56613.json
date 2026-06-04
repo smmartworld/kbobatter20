@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "아데를린",
+    "batterPcode": "56613",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "O",
+    "resultText": "아데를린 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260603LTHT02026",
     "gameDate": "20260603",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "138",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260528HTWO02026",
-    "gameDate": "20260528",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "아데를린",
-    "batterPcode": "56613",
-    "pitcherName": "김재웅",
-    "pitcherPcode": "67391",
-    "resultCode": "O",
-    "resultText": "아데를린 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "직구"
   }
 ]

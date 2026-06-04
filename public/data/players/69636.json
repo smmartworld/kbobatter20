@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오선우",
+    "batterPcode": "69636",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "2B",
+    "resultText": "오선우 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603LTHT02026",
     "gameDate": "20260603",
     "opponent": "롯데",

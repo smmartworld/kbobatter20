@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604HHOB02026",
+    "gameDate": "20260604",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "김민석 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260603HHOB02026",
     "gameDate": "20260603",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "132",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260528KTOB02026",
-    "gameDate": "20260528",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "BB",
-    "resultText": "김민석 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
     "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604HHOB02026",
+    "gameDate": "20260604",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이진영",
+    "batterPcode": "66657",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "이진영 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603HHOB02026",
     "gameDate": "20260603",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260514HHWO02026",
-    "gameDate": "20260514",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "이진영",
-    "batterPcode": "66657",
-    "pitcherName": "김윤하",
-    "pitcherPcode": "54319",
-    "resultCode": "O",
-    "resultText": "이진영 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

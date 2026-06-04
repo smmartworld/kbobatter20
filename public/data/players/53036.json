@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LGKT02026",
+    "gameDate": "20260604",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "H",
+    "resultText": "류현인 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603LGKT02026",
     "gameDate": "20260603",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529KTWO02026",
-    "gameDate": "20260529",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "H",
-    "resultText": "류현인 : 중견수 왼쪽 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "110",
-    "lastPitchType": "커브"
   }
 ]

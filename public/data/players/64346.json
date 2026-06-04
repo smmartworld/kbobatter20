@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604WOSK02026",
+    "gameDate": "20260604",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "임병욱",
+    "batterPcode": "64346",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "임병욱 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260603WOSK02026",
     "gameDate": "20260603",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528HTWO02026",
-    "gameDate": "20260528",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "임병욱",
-    "batterPcode": "64346",
-    "pitcherName": "황동하",
-    "pitcherPcode": "52641",
-    "resultCode": "O",
-    "resultText": "임병욱 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
   }
 ]

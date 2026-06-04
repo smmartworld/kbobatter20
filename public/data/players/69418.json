@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604NCSS02026",
+    "gameDate": "20260604",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "박승규 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260603NCSS02026",
     "gameDate": "20260603",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528SSSK02026",
-    "gameDate": "20260528",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "긴지로",
-    "pitcherPcode": "56800",
-    "resultCode": "BB",
-    "resultText": "박승규 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]

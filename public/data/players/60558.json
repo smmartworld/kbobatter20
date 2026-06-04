@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604WOSK02026",
+    "gameDate": "20260604",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "HR",
+    "resultText": "오태곤 : 좌익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603WOSK02026",
     "gameDate": "20260603",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529SKHH02026",
-    "gameDate": "20260529",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "O",
-    "resultText": "오태곤 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "스위퍼"
   }
 ]

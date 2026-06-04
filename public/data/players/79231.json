@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604HHOB02026",
+    "gameDate": "20260604",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "정수빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603HHOB02026",
     "gameDate": "20260603",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529OBSS02026",
-    "gameDate": "20260529",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "BB",
-    "resultText": "정수빈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

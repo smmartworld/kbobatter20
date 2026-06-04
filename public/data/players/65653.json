@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김호령",
+    "batterPcode": "65653",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "BB",
+    "resultText": "김호령 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260603LTHT02026",
     "gameDate": "20260603",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "124",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260528HTWO02026",
-    "gameDate": "20260528",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김호령",
-    "batterPcode": "65653",
-    "pitcherName": "로젠버그",
-    "pitcherPcode": "55322",
-    "resultCode": "O",
-    "resultText": "김호령 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
     "lastPitchType": "체인지업"
   }
 ]

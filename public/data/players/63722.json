@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LGKT02026",
+    "gameDate": "20260604",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "한승택 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260603LGKT02026",
     "gameDate": "20260603",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528KTOB02026",
-    "gameDate": "20260528",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "O",
-    "resultText": "한승택 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

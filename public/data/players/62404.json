@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604NCSS02026",
+    "gameDate": "20260604",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "구자욱 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603NCSS02026",
     "gameDate": "20260603",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "126",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260529OBSS02026",
-    "gameDate": "20260529",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "2B",
-    "resultText": "구자욱 : 좌익수 뒤 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

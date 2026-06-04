@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604NCSS02026",
+    "gameDate": "20260604",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "2B",
+    "resultText": "전병우 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260603NCSS02026",
     "gameDate": "20260603",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529OBSS02026",
-    "gameDate": "20260529",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "BB",
-    "resultText": "전병우 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]
