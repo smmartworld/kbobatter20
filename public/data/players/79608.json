@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604WOSK02026",
+    "gameDate": "20260604",
+    "opponent": "SSG",
+    "inning": 4,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "H",
+    "resultText": "안치홍 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260603WOSK02026",
     "gameDate": "20260603",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260529KTWO02026",
-    "gameDate": "20260529",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "안치홍 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

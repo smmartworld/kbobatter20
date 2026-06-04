@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604HHOB02026",
+    "gameDate": "20260604",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "3B",
+    "resultText": "오명진 : 우중간 3루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529OBSS02026",
     "gameDate": "20260529",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260517LTOB02026",
-    "gameDate": "20260517",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "박준우",
-    "pitcherPcode": "54503",
-    "resultCode": "BB",
-    "resultText": "오명진 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
