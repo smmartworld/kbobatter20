@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260604LGKT02026",
+    "gameDate": "20260604",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이재원",
+    "batterPcode": "56005",
+    "pitcherName": "우강훈",
+    "pitcherPcode": "51526",
+    "resultCode": "HR",
+    "resultText": "이재원 : 좌익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  }
+]

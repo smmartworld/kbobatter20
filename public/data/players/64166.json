@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LGKT02026",
+    "gameDate": "20260604",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "손주영",
+    "pitcherPcode": "67143",
+    "resultCode": "O",
+    "resultText": "배정대 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260602LGKT02026",
     "gameDate": "20260602",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260514SKKT02026",
-    "gameDate": "20260514",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "노경은",
-    "pitcherPcode": "73211",
-    "resultCode": "O",
-    "resultText": "배정대 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "박준우",
+    "pitcherPcode": "54503",
+    "resultCode": "BB",
+    "resultText": "정현창 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260529HTLG02026",
     "gameDate": "20260529",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "127",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260419HTOB02026",
-    "gameDate": "20260419",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "H",
-    "resultText": "정현창 : 좌익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

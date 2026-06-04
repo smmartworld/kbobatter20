@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "최항",
+    "batterPcode": "62884",
+    "pitcherName": "김현수",
+    "pitcherPcode": "69516",
+    "resultCode": "K",
+    "resultText": "최항 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  }
+]

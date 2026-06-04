@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김민성",
+    "batterPcode": "77564",
+    "pitcherName": "김현수",
+    "pitcherPcode": "69516",
+    "resultCode": "O",
+    "resultText": "김민성 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  }
+]

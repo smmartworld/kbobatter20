@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LTHT02026",
+    "gameDate": "20260604",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "윤도현",
+    "batterPcode": "52667",
+    "pitcherName": "박준우",
+    "pitcherPcode": "54503",
+    "resultCode": "O",
+    "resultText": "윤도현 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260519LGHT02026",
     "gameDate": "20260519",
     "opponent": "LG",

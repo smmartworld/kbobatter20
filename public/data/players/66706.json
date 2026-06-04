@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260604LGKT02026",
+    "gameDate": "20260604",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "우강훈",
+    "pitcherPcode": "51526",
+    "resultCode": "O",
+    "resultText": "장진혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260602LGKT02026",
     "gameDate": "20260602",
     "opponent": "LG",
