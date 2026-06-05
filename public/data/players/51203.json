@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "안재석",
+    "batterPcode": "51203",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "안재석 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "한화",

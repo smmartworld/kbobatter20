@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "O",
+    "resultText": "최지훈 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260527SSSK02026",
-    "gameDate": "20260527",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "김재윤",
-    "pitcherPcode": "65062",
-    "resultCode": "O",
-    "resultText": "최지훈 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

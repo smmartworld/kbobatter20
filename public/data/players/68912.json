@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605LGNC02026",
+    "gameDate": "20260605",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "김윤식",
+    "pitcherPcode": "50157",
+    "resultCode": "BB",
+    "resultText": "김형준 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604NCSS02026",
     "gameDate": "20260604",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260528HHNC02026",
-    "gameDate": "20260528",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "황준서",
-    "pitcherPcode": "54729",
-    "resultCode": "H",
-    "resultText": "김형준 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

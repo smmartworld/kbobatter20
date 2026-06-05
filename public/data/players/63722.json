@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "BB",
+    "resultText": "한승택 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LGKT02026",
     "gameDate": "20260604",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "135",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529KTWO02026",
-    "gameDate": "20260529",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "H",
-    "resultText": "한승택 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

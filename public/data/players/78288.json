@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최재훈",
+    "batterPcode": "78288",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "최재훈 : 1루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260530SKHH02026",
     "gameDate": "20260530",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260506HHHT02026",
-    "gameDate": "20260506",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "최재훈",
-    "batterPcode": "78288",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "최재훈 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
   }
 ]

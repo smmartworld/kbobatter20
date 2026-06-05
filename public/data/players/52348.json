@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "박찬혁 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  }
+]

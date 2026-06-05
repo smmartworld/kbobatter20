@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605SSHT02026",
+    "gameDate": "20260605",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "아데를린",
+    "batterPcode": "56613",
+    "pitcherName": "오러클린",
+    "pitcherPcode": "56464",
+    "resultCode": "H",
+    "resultText": "아데를린 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "123",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260530HTLG02026",
-    "gameDate": "20260530",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "아데를린",
-    "batterPcode": "56613",
-    "pitcherName": "송승기",
-    "pitcherPcode": "51111",
-    "resultCode": "2B",
-    "resultText": "아데를린 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "체인지업"
   }
 ]

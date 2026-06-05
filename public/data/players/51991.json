@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605LGNC02026",
+    "gameDate": "20260605",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오장한",
+    "batterPcode": "51991",
+    "pitcherName": "김윤식",
+    "pitcherPcode": "50157",
+    "resultCode": "H",
+    "resultText": "오장한 : 2루수 왼쪽 내야안타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604NCSS02026",
     "gameDate": "20260604",
     "opponent": "삼성",

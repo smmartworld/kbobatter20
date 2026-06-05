@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "2B",
+    "resultText": "박성한 : 중견수 오른쪽 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "E",
-    "resultText": "박성한 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605SSHT02026",
+    "gameDate": "20260605",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "오러클린",
+    "pitcherPcode": "56464",
+    "resultCode": "BB",
+    "resultText": "김도영 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260530HTLG02026",
-    "gameDate": "20260530",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "송승기",
-    "pitcherPcode": "51111",
-    "resultCode": "O",
-    "resultText": "김도영 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "체인지업"
   }
 ]

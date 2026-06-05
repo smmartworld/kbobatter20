@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "3B",
+    "resultText": "오명진 : 우중간 3루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260519NCOB02026",
-    "gameDate": "20260519",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "임정호",
-    "pitcherPcode": "63959",
-    "resultCode": "2B",
-    "resultText": "오명진 : 우중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "이형종",
+    "batterPcode": "78135",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "이형종 : 3루수 땅볼 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "115",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "145",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260530KTWO02026",
-    "gameDate": "20260530",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "이형종",
-    "batterPcode": "78135",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "K",
-    "resultText": "이형종 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "117",
-    "lastPitchType": "커브"
   }
 ]

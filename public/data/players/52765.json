@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "유민",
+    "batterPcode": "52765",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "K",
+    "resultText": "유민 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "두산",

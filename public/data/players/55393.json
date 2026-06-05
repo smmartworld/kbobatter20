@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "2B",
+    "resultText": "여동욱 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260603WOSK02026",
     "gameDate": "20260603",
     "opponent": "SSG",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "임병욱",
+    "batterPcode": "64346",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "임병욱 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260529KTWO02026",
-    "gameDate": "20260529",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "임병욱",
-    "batterPcode": "64346",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "임병욱 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "O",
+    "resultText": "조형우 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "133",
-    "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260515LGSK02026",
-    "gameDate": "20260515",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "치리노스",
-    "pitcherPcode": "55146",
-    "resultCode": "O",
-    "resultText": "조형우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "132",
     "lastPitchType": "스위퍼"
   }
 ]

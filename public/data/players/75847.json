@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "최정",
+    "batterPcode": "75847",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "O",
+    "resultText": "최정 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "128",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "최정",
-    "batterPcode": "75847",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "GDP",
-    "resultText": "최정 : 투수 병살타 아웃 (투수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]

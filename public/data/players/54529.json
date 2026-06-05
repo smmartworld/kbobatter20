@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "레이예스 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260530LTNC02026",
-    "gameDate": "20260530",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "O",
-    "resultText": "레이예스 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커브"
   }
 ]

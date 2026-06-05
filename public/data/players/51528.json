@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "손성빈 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "151",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260528LGLT02026",
-    "gameDate": "20260528",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "손성빈 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

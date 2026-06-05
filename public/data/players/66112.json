@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김기연",
+    "batterPcode": "66112",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "김기연 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260531OBSS02026",
     "gameDate": "20260531",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260505OBLG02026",
-    "gameDate": "20260505",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김기연",
-    "batterPcode": "66112",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "O",
-    "resultText": "김기연 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "체인지업"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "나승엽 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "117",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530LTNC02026",
-    "gameDate": "20260530",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "BB",
-    "resultText": "나승엽 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

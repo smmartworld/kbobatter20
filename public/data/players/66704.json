@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "김태연 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "SAC",
-    "resultText": "김태연 : 투수 희생번트 아웃 (투수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "투심"
   }
 ]

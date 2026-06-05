@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "카메론",
+    "batterPcode": "56251",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "카메론 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530OBSS02026",
-    "gameDate": "20260530",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "카메론",
-    "batterPcode": "56251",
-    "pitcherName": "오러클린",
-    "pitcherPcode": "56464",
-    "resultCode": "O",
-    "resultText": "카메론 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
   }
 ]

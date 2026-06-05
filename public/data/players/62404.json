@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605SSHT02026",
+    "gameDate": "20260605",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "BB",
+    "resultText": "구자욱 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604NCSS02026",
     "gameDate": "20260604",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260530OBSS02026",
-    "gameDate": "20260530",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "BB",
-    "resultText": "구자욱 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

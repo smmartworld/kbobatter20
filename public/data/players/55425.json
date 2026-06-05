@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605SSHT02026",
+    "gameDate": "20260605",
+    "opponent": "KIA",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "김상준 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260517HTSS02026",
     "gameDate": "20260517",
     "opponent": "KIA",
