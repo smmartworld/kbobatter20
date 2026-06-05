@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605HHLT02026",
+    "gameDate": "20260605",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "이원석",
+    "batterPcode": "68700",
+    "pitcherName": "이진하",
+    "pitcherPcode": "53562",
+    "resultCode": "O",
+    "resultText": "이원석 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "이원석",
-    "batterPcode": "68700",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "O",
-    "resultText": "이원석 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
   }
 ]

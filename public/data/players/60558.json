@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605KTSK02026",
+    "gameDate": "20260605",
+    "opponent": "KT",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "전용주",
+    "pitcherPcode": "69047",
+    "resultCode": "O",
+    "resultText": "오태곤 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "O",
-    "resultText": "오태곤 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]
