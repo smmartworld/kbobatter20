@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260605WOOB02026",
+    "gameDate": "20260605",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "원종현",
+    "pitcherPcode": "76118",
+    "resultCode": "SAC",
+    "resultText": "이유찬 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603HHOB02026",
     "gameDate": "20260603",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260526KTOB02026",
-    "gameDate": "20260526",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "한승혁",
-    "pitcherPcode": "61666",
-    "resultCode": "O",
-    "resultText": "이유찬 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]
