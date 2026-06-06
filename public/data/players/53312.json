@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606WOOB02026",
+    "gameDate": "20260606",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "김건희 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260605WOOB02026",
     "gameDate": "20260605",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530KTWO02026",
-    "gameDate": "20260530",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "BB",
-    "resultText": "김건희 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

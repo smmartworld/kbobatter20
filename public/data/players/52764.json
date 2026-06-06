@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606HHLT02026",
+    "gameDate": "20260606",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "이민석",
+    "pitcherPcode": "52530",
+    "resultCode": "H",
+    "resultText": "허인서 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605HHLT02026",
     "gameDate": "20260605",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "HR",
-    "resultText": "허인서 : 좌중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "슬라이더"
   }
 ]

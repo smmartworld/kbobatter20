@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "문성주 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260605LGNC02026",
     "gameDate": "20260605",
     "opponent": "NC",

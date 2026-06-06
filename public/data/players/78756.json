@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606WOOB02026",
+    "gameDate": "20260606",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "오선진",
+    "batterPcode": "78756",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "2B",
+    "resultText": "오선진 : 좌중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260602WOSK02026",
     "gameDate": "20260602",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260508KTWO02026",
-    "gameDate": "20260508",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "오선진",
-    "batterPcode": "78756",
-    "pitcherName": "김민수",
-    "pitcherPcode": "65048",
-    "resultCode": "O",
-    "resultText": "오선진 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

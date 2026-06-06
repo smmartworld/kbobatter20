@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606HHLT02026",
+    "gameDate": "20260606",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "손성빈 : 1루수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605HHLT02026",
     "gameDate": "20260605",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528LGLT02026",
-    "gameDate": "20260528",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "박시원",
-    "pitcherPcode": "55121",
-    "resultCode": "O",
-    "resultText": "손성빈 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "커브"
   }
 ]

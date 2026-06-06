@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606KTSK02026",
+    "gameDate": "20260606",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김성욱",
+    "batterPcode": "62934",
+    "pitcherName": "한승혁",
+    "pitcherPcode": "61666",
+    "resultCode": "H",
+    "resultText": "김성욱 : 2루수 오른쪽 뒤 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260604WOSK02026",
     "gameDate": "20260604",
     "opponent": "키움",

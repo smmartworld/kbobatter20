@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606HHLT02026",
+    "gameDate": "20260606",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "전민재 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605HHLT02026",
     "gameDate": "20260605",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "149",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260528LGLT02026",
-    "gameDate": "20260528",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "H",
-    "resultText": "전민재 : 우익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "포크"
   }
 ]

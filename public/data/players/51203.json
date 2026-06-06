@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606WOOB02026",
+    "gameDate": "20260606",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안재석",
+    "batterPcode": "51203",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "3B",
+    "resultText": "안재석 : 우중간 3루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260605WOOB02026",
     "gameDate": "20260605",
     "opponent": "키움",

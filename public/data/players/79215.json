@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "박건우 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605LGNC02026",
     "gameDate": "20260605",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "130",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260530LTNC02026",
-    "gameDate": "20260530",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "H",
-    "resultText": "박건우 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

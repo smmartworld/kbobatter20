@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "오스틴",
+    "batterPcode": "53123",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "H",
+    "resultText": "오스틴 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260605LGNC02026",
     "gameDate": "20260605",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "오스틴",
-    "batterPcode": "53123",
-    "pitcherName": "한차현",
-    "pitcherPcode": "51058",
-    "resultCode": "HR",
-    "resultText": "오스틴 : 좌익수 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "SAC",
+    "resultText": "문보경 : 중견수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260605LGNC02026",
     "gameDate": "20260605",
     "opponent": "NC",

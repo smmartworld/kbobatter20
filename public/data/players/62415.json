@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "박해민 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605LGNC02026",
     "gameDate": "20260605",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260531HTLG02026",
-    "gameDate": "20260531",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "곽도규",
-    "pitcherPcode": "53609",
-    "resultCode": "H",
-    "resultText": "박해민 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "투심"
   }
 ]
