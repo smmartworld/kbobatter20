@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "배찬승",
+    "pitcherPcode": "55455",
+    "resultCode": "2B",
+    "resultText": "김민규 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "롯데",

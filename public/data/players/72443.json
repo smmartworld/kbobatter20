@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "곽도규",
+    "pitcherPcode": "53609",
+    "resultCode": "O",
+    "resultText": "최형우 : 유격수 앞 땅볼로 출루",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260605SSHT02026",
     "gameDate": "20260605",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260531OBSS02026",
-    "gameDate": "20260531",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "BB",
-    "resultText": "최형우 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

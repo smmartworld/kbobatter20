@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "이승민",
+    "pitcherPcode": "50464",
+    "resultCode": "BB",
+    "resultText": "김선빈 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605SSHT02026",
     "gameDate": "20260605",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260531HTLG02026",
-    "gameDate": "20260531",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "김선빈 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

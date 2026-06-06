@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606HHLT02026",
+    "gameDate": "20260606",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "강백호",
+    "batterPcode": "68050",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "O",
+    "resultText": "강백호 : 자동 고의4구",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 0,
+    "lastPitchSpeed": "",
+    "lastPitchType": ""
+  },
+  {
     "gameId": "20260605HHLT02026",
     "gameDate": "20260605",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260529SKHH02026",
-    "gameDate": "20260529",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "강백호",
-    "batterPcode": "68050",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "강백호 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

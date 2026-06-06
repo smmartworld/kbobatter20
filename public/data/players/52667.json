@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "윤도현",
+    "batterPcode": "52667",
+    "pitcherName": "이승민",
+    "pitcherPcode": "50464",
+    "resultCode": "O",
+    "resultText": "윤도현 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260605SSHT02026",
     "gameDate": "20260605",
     "opponent": "삼성",
