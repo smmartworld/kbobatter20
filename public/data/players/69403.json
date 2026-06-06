@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "KIA",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "양우현",
+    "batterPcode": "69403",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "O",
+    "resultText": "양우현 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260603NCSS02026",
     "gameDate": "20260603",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260507WOSS02026",
-    "gameDate": "20260507",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "양우현",
-    "batterPcode": "69403",
-    "pitcherName": "김서준",
-    "pitcherPcode": "55359",
-    "resultCode": "H",
-    "resultText": "양우현 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

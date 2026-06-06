@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606LGNC02026",
+    "gameDate": "20260606",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "O",
+    "resultText": "천성호 : 3루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260603LGKT02026",
     "gameDate": "20260603",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260524WOLG02026",
-    "gameDate": "20260524",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "원종현",
-    "pitcherPcode": "76118",
-    "resultCode": "O",
-    "resultText": "천성호 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
   }
 ]

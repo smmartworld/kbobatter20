@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260606WOOB02026",
+    "gameDate": "20260606",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김대한",
+    "batterPcode": "69238",
+    "pitcherName": "김성진",
+    "pitcherPcode": "51301",
+    "resultCode": "K",
+    "resultText": "김대한 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  }
+]

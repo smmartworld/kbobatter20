@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260606SSHT02026",
+    "gameDate": "20260606",
+    "opponent": "삼성",
+    "inning": 10,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "김태군",
+    "batterPcode": "78122",
+    "pitcherName": "이재희",
+    "pitcherPcode": "51460",
+    "resultCode": "GDP",
+    "resultText": "김태군 : 투수 병살타 아웃 (투수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "119",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260526HTWO02026",
-    "gameDate": "20260526",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김태군",
-    "batterPcode": "78122",
-    "pitcherName": "박지성",
-    "pitcherPcode": "56337",
-    "resultCode": "E",
-    "resultText": "김태군 : 1루수 플라이 실책으로 출루 (1루수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
