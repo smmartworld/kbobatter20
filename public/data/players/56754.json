@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607HHLT02026",
+    "gameDate": "20260607",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "오재원",
+    "batterPcode": "56754",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "H",
+    "resultText": "오재원 : 1루수 왼쪽 앞 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260606HHLT02026",
     "gameDate": "20260606",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "125",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260429SKHH02026",
-    "gameDate": "20260429",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "오재원",
-    "batterPcode": "56754",
-    "pitcherName": "화이트",
-    "pitcherPcode": "55855",
-    "resultCode": "O",
-    "resultText": "오재원 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "143",
     "lastPitchType": "체인지업"
   }
 ]

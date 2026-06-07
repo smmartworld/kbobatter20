@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607WOOB02026",
+    "gameDate": "20260607",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "BB",
+    "resultText": "여동욱 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607SSHT02026",
+    "gameDate": "20260607",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "BB",
+    "resultText": "김성윤 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260606SSHT02026",
     "gameDate": "20260606",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602NCSS02026",
-    "gameDate": "20260602",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "H",
-    "resultText": "김성윤 : 좌익수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]

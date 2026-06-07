@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607LGNC02026",
+    "gameDate": "20260607",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "H",
+    "resultText": "이우성 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606LGNC02026",
     "gameDate": "20260606",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603NCSS02026",
-    "gameDate": "20260603",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "2B",
-    "resultText": "이우성 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "체인지업"
   }
 ]

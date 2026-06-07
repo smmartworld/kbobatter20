@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607KTSK02026",
+    "gameDate": "20260607",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "허경민",
+    "batterPcode": "79240",
+    "pitcherName": "베니지아노",
+    "pitcherPcode": "56841",
+    "resultCode": "O",
+    "resultText": "허경민 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "115",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "허경민",
-    "batterPcode": "79240",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "허경민 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

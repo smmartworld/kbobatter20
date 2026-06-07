@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607HHLT02026",
+    "gameDate": "20260607",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "BB",
+    "resultText": "허인서 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260606HHLT02026",
     "gameDate": "20260606",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260531SKHH02026",
-    "gameDate": "20260531",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "허인서 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "투심"
   }
 ]

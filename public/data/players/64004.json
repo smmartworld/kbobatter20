@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607KTSK02026",
+    "gameDate": "20260607",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "베니지아노",
+    "pitcherPcode": "56841",
+    "resultCode": "H",
+    "resultText": "김민혁 : 좌익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "김영우",
-    "pitcherPcode": "55167",
-    "resultCode": "O",
-    "resultText": "김민혁 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

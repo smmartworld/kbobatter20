@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607HHLT02026",
+    "gameDate": "20260607",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "노시환 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260606HHLT02026",
     "gameDate": "20260606",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602HHOB02026",
-    "gameDate": "20260602",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "이영하",
-    "pitcherPcode": "66291",
-    "resultCode": "2B",
-    "resultText": "노시환 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "커브"
   }
 ]

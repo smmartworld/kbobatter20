@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607KTSK02026",
+    "gameDate": "20260607",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "H",
+    "resultText": "박성한 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "E",
-    "resultText": "박성한 : 2루수 땅볼 실책으로 출루 (2루수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

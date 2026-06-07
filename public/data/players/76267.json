@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607WOOB02026",
+    "gameDate": "20260607",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "2B",
+    "resultText": "최주환 : 좌중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "138",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530KTWO02026",
-    "gameDate": "20260530",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "전용주",
-    "pitcherPcode": "69047",
-    "resultCode": "O",
-    "resultText": "최주환 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
