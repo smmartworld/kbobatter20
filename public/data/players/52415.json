@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607SSHT02026",
+    "gameDate": "20260607",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "SAC",
+    "resultText": "이재현 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260603NCSS02026",
     "gameDate": "20260603",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260527SSSK02026",
-    "gameDate": "20260527",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "베니지아노",
-    "pitcherPcode": "56841",
-    "resultCode": "O",
-    "resultText": "이재현 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
     "lastPitchType": "투심"
   }
 ]

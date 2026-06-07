@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607HHLT02026",
+    "gameDate": "20260607",
+    "opponent": "한화",
+    "inning": 10,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "BB",
+    "resultText": "김동혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "KIA",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607SSHT02026",
+    "gameDate": "20260607",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "O",
+    "resultText": "김도환 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260605SSHT02026",
     "gameDate": "20260605",
     "opponent": "KIA",

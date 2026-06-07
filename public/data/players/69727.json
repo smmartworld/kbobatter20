@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260607SSHT02026",
+    "gameDate": "20260607",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "변우혁",
+    "batterPcode": "69727",
+    "pitcherName": "이승민",
+    "pitcherPcode": "50464",
+    "resultCode": "O",
+    "resultText": "변우혁 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  }
+]

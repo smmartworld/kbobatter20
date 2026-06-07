@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607WOOB02026",
+    "gameDate": "20260607",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "박정훈",
+    "pitcherPcode": "55394",
+    "resultCode": "H",
+    "resultText": "이유찬 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260527KTOB02026",
-    "gameDate": "20260527",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "H",
-    "resultText": "이유찬 : 3루수 앞 번트안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]
