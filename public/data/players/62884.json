@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607HHLT02026",
+    "gameDate": "20260607",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "최항",
+    "batterPcode": "62884",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "H",
+    "resultText": "최항 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260604LTHT02026",
     "gameDate": "20260604",
     "opponent": "KIA",
