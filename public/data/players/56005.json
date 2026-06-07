@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607KTSK02026",
+    "gameDate": "20260607",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이재원",
+    "batterPcode": "56005",
+    "pitcherName": "전영준",
+    "pitcherPcode": "52809",
+    "resultCode": "O",
+    "resultText": "이재원 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "SSG",

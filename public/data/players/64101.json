@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607LGNC02026",
+    "gameDate": "20260607",
+    "opponent": "LG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "한석현",
+    "batterPcode": "64101",
+    "pitcherName": "김진성",
+    "pitcherPcode": "75867",
+    "resultCode": "O",
+    "resultText": "한석현 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260606LGNC02026",
     "gameDate": "20260606",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 6,
     "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260524NCKT02026",
-    "gameDate": "20260524",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "한석현",
-    "batterPcode": "64101",
-    "pitcherName": "김정운",
-    "pitcherPcode": "53029",
-    "resultCode": "BB",
-    "resultText": "한석현 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "141",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607SSHT02026",
+    "gameDate": "20260607",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "김범수",
+    "pitcherPcode": "65769",
+    "resultCode": "SAC",
+    "resultText": "전병우 : 중견수 희생플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260606SSHT02026",
     "gameDate": "20260606",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260531OBSS02026",
-    "gameDate": "20260531",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "최주형",
-    "pitcherPcode": "56215",
-    "resultCode": "2B",
-    "resultText": "전병우 : 중견수 뒤 2루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]

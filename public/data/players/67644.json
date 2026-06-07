@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260607KTSK02026",
+    "gameDate": "20260607",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "전영준",
+    "pitcherPcode": "52809",
+    "resultCode": "BB",
+    "resultText": "이정훈 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260605KTSK02026",
     "gameDate": "20260605",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260501KTHT02026",
-    "gameDate": "20260501",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "성영탁",
-    "pitcherPcode": "54610",
-    "resultCode": "K",
-    "resultText": "이정훈 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "커터"
   }
 ]
