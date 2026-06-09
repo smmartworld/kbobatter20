@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "E",
+    "resultText": "조수행 : 3루수 땅볼 실책으로 출루 (3루수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260607WOOB02026",
     "gameDate": "20260607",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260527KTOB02026",
-    "gameDate": "20260527",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "H",
-    "resultText": "조수행 : 투수 앞 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

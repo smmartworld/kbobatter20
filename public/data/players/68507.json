@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "O",
+    "resultText": "장두성 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260607HHLT02026",
     "gameDate": "20260607",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260529LTNC02026",
-    "gameDate": "20260529",
-    "opponent": "NC",
-    "inning": 10,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "H",
-    "resultText": "장두성 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]

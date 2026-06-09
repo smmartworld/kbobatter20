@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609HTHH02026",
+    "gameDate": "20260609",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "HR",
+    "resultText": "박정현 : 좌익수 뒤 홈런 (홈런거리:120M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260604HHOB02026",
     "gameDate": "20260604",
     "opponent": "두산",
