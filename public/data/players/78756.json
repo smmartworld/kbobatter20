@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609NCWO02026",
+    "gameDate": "20260609",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "오선진",
+    "batterPcode": "78756",
+    "pitcherName": "류진욱",
+    "pitcherPcode": "65949",
+    "resultCode": "O",
+    "resultText": "오선진 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260513HHWO02026",
-    "gameDate": "20260513",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "오선진",
-    "batterPcode": "78756",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "H",
-    "resultText": "오선진 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "커터"
   }
 ]
