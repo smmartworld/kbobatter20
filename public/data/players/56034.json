@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609SSKT02026",
+    "gameDate": "20260609",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "H",
+    "resultText": "힐리어드 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260607KTSK02026",
     "gameDate": "20260607",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603LGKT02026",
-    "gameDate": "20260603",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "힐리어드 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "115",
-    "lastPitchType": "커브"
   }
 ]

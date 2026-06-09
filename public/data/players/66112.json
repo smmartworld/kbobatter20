@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김기연",
+    "batterPcode": "66112",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "김기연 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260605WOOB02026",
     "gameDate": "20260605",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260506OBLG02026",
-    "gameDate": "20260506",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김기연",
-    "batterPcode": "66112",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "O",
-    "resultText": "김기연 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

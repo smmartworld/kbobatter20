@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609HTHH02026",
+    "gameDate": "20260609",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "문현빈",
+    "batterPcode": "53764",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "O",
+    "resultText": "문현빈 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260607HHLT02026",
     "gameDate": "20260607",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "138",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260603HHOB02026",
-    "gameDate": "20260603",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "문현빈",
-    "batterPcode": "53764",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "문현빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

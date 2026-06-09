@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609HTHH02026",
+    "gameDate": "20260609",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "김민규 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607SSHT02026",
     "gameDate": "20260607",
     "opponent": "삼성",

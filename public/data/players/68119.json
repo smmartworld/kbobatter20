@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609SKLG02026",
+    "gameDate": "20260609",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "GDP",
+    "resultText": "문성주 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607LGNC02026",
     "gameDate": "20260607",
     "opponent": "NC",

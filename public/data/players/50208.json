@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "H",
+    "resultText": "오명진 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607WOOB02026",
     "gameDate": "20260607",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260526KTOB02026",
-    "gameDate": "20260526",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "보쉴리",
-    "pitcherPcode": "56036",
-    "resultCode": "O",
-    "resultText": "오명진 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

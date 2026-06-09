@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609SSKT02026",
+    "gameDate": "20260609",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "허경민",
+    "batterPcode": "79240",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "허경민 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260607KTSK02026",
     "gameDate": "20260607",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "128",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "허경민",
-    "batterPcode": "79240",
-    "pitcherName": "함덕주",
-    "pitcherPcode": "63248",
-    "resultCode": "O",
-    "resultText": "허경민 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

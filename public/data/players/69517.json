@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "2B",
+    "resultText": "고승민 : 우중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260607HHLT02026",
     "gameDate": "20260607",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "125",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260603LTHT02026",
-    "gameDate": "20260603",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "곽도규",
-    "pitcherPcode": "53609",
-    "resultCode": "O",
-    "resultText": "고승민 : 3루수 플라이 아웃 (번트)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

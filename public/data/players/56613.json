@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609HTHH02026",
+    "gameDate": "20260609",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "아데를린",
+    "batterPcode": "56613",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "2B",
+    "resultText": "아데를린 : 좌중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607SSHT02026",
     "gameDate": "20260607",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260603LTHT02026",
-    "gameDate": "20260603",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "아데를린",
-    "batterPcode": "56613",
-    "pitcherName": "김진욱",
-    "pitcherPcode": "51516",
-    "resultCode": "O",
-    "resultText": "아데를린 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]

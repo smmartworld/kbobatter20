@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609OBLT02026",
+    "gameDate": "20260609",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "손호영",
+    "batterPcode": "50150",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "SAC",
+    "resultText": "손호영 : 중견수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260607HHLT02026",
     "gameDate": "20260607",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260603LTHT02026",
-    "gameDate": "20260603",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "손호영",
-    "batterPcode": "50150",
-    "pitcherName": "황동하",
-    "pitcherPcode": "52641",
-    "resultCode": "E",
-    "resultText": "손호영 : 포수 플라이 실책으로 출루 (포수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
   }
 ]

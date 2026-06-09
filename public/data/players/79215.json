@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609NCWO02026",
+    "gameDate": "20260609",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "로젠버그",
+    "pitcherPcode": "55322",
+    "resultCode": "H",
+    "resultText": "박건우 : 중견수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260607LGNC02026",
     "gameDate": "20260607",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603NCSS02026",
-    "gameDate": "20260603",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "박건우 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]
