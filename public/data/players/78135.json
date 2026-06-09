@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260609NCWO02026",
+    "gameDate": "20260609",
+    "opponent": "NC",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이형종",
+    "batterPcode": "78135",
+    "pitcherName": "신영우",
+    "pitcherPcode": "53919",
+    "resultCode": "BB",
+    "resultText": "이형종 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260607WOOB02026",
     "gameDate": "20260607",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "이형종",
-    "batterPcode": "78135",
-    "pitcherName": "한두솔",
-    "pitcherPcode": "68092",
-    "resultCode": "2B",
-    "resultText": "이형종 : 우중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
