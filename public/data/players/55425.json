@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SSKT02026",
+    "gameDate": "20260610",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "SAC",
+    "resultText": "김상준 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607SSHT02026",
     "gameDate": "20260607",
     "opponent": "KIA",

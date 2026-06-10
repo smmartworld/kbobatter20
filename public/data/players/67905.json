@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "윤석원",
+    "pitcherPcode": "52395",
+    "resultCode": "3B",
+    "resultText": "천재환 : 우중간 3루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  }
+]

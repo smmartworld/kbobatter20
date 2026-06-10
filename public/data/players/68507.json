@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "BB",
+    "resultText": "장두성 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "135",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260530LTNC02026",
-    "gameDate": "20260530",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "임지민",
-    "pitcherPcode": "52902",
-    "resultCode": "O",
-    "resultText": "장두성 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

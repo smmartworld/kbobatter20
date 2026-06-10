@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SSKT02026",
+    "gameDate": "20260610",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "BB",
+    "resultText": "박승규 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609SSKT02026",
     "gameDate": "20260609",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603NCSS02026",
-    "gameDate": "20260603",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "김태경",
-    "pitcherPcode": "50992",
-    "resultCode": "BB",
-    "resultText": "박승규 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]
