@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "이진하",
+    "pitcherPcode": "53562",
+    "resultCode": "O",
+    "resultText": "김민석 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "124",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260531OBSS02026",
-    "gameDate": "20260531",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "O",
-    "resultText": "김민석 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

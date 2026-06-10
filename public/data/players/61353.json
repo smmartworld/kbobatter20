@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "고종욱",
+    "batterPcode": "61353",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "K",
+    "resultText": "고종욱 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "스위퍼"
+  }
+]

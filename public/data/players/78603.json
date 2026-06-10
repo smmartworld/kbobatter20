@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "이상규",
+    "pitcherPcode": "65117",
+    "resultCode": "O",
+    "resultText": "김선빈 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602LTHT02026",
-    "gameDate": "20260602",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "김선빈 : 포수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]
