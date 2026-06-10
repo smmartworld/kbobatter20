@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조세진",
+    "batterPcode": "52516",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "조세진 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "두산",

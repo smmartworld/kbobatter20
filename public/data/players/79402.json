@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SSKT02026",
+    "gameDate": "20260610",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "김상수 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609SSKT02026",
     "gameDate": "20260609",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603LGKT02026",
-    "gameDate": "20260603",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "김상수 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

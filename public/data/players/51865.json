@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SKLG02026",
+    "gameDate": "20260610",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "K",
+    "resultText": "조형우 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609SKLG02026",
     "gameDate": "20260609",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "2B",
-    "resultText": "조형우 : 좌익수 왼쪽 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

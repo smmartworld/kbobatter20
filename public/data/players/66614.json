@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김규성",
+    "batterPcode": "66614",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "K",
+    "resultText": "김규성 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260607SSHT02026",
     "gameDate": "20260607",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260529HTLG02026",
-    "gameDate": "20260529",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김규성",
-    "batterPcode": "66614",
-    "pitcherName": "박시원",
-    "pitcherPcode": "55121",
-    "resultCode": "O",
-    "resultText": "김규성 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

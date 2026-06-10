@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "2B",
+    "resultText": "전민재 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602LTHT02026",
-    "gameDate": "20260602",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "BB",
-    "resultText": "전민재 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

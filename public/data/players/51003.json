@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SSKT02026",
+    "gameDate": "20260610",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "BB",
+    "resultText": "권동진 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260609SSKT02026",
     "gameDate": "20260609",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "BB",
-    "resultText": "권동진 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "아데를린",
+    "batterPcode": "56613",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "아데를린 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604LTHT02026",
-    "gameDate": "20260604",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "아데를린",
-    "batterPcode": "56613",
-    "pitcherName": "박세진",
-    "pitcherPcode": "66047",
-    "resultCode": "HR",
-    "resultText": "아데를린 : 좌익수 뒤 홈런 (홈런거리:115M)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

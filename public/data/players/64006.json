@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심우준",
+    "batterPcode": "64006",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "BB",
+    "resultText": "심우준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260603HHOB02026",
-    "gameDate": "20260603",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "심우준",
-    "batterPcode": "64006",
-    "pitcherName": "최준호",
-    "pitcherPcode": "53259",
-    "resultCode": "O",
-    "resultText": "심우준 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

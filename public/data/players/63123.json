@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "BB",
+    "resultText": "강승호 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260531OBSS02026",
-    "gameDate": "20260531",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "SAC",
-    "resultText": "강승호 : 우익수 희생플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
     "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SKLG02026",
+    "gameDate": "20260610",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "최지훈 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260609SKLG02026",
     "gameDate": "20260609",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "140",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260604WOSK02026",
-    "gameDate": "20260604",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "박진형",
-    "pitcherPcode": "63512",
-    "resultCode": "O",
-    "resultText": "최지훈 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "132",
     "lastPitchType": "포크"
   }
 ]

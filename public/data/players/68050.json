@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "강백호",
+    "batterPcode": "68050",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "강백호 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "강백호",
-    "batterPcode": "68050",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "O",
-    "resultText": "강백호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

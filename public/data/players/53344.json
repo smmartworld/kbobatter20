@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김동헌",
+    "batterPcode": "53344",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "김동헌 : 우익수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "NC",

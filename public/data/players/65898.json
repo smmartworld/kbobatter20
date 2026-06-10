@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 3루수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "한두솔",
-    "pitcherPcode": "68092",
-    "resultCode": "K",
-    "resultText": "김웅빈 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

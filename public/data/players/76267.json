@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "최주환 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "한두솔",
-    "pitcherPcode": "68092",
-    "resultCode": "O",
-    "resultText": "최주환 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]

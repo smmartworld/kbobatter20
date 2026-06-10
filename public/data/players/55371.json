@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "권혁빈",
+    "batterPcode": "55371",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "H",
+    "resultText": "권혁빈 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "140",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602WOSK02026",
-    "gameDate": "20260602",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "권혁빈",
-    "batterPcode": "55371",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "O",
-    "resultText": "권혁빈 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

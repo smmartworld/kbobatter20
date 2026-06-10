@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610SKLG02026",
+    "gameDate": "20260610",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "구본혁 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609SKLG02026",
     "gameDate": "20260609",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603LGKT02026",
-    "gameDate": "20260603",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "김민수",
-    "pitcherPcode": "65048",
-    "resultCode": "H",
-    "resultText": "구본혁 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

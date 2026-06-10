@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610OBLT02026",
+    "gameDate": "20260610",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "황성빈 : 1루수 땅볼 아웃 (1루수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609OBLT02026",
     "gameDate": "20260609",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604LTHT02026",
-    "gameDate": "20260604",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "O",
-    "resultText": "황성빈 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
   }
 ]

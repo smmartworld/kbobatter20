@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610NCWO02026",
+    "gameDate": "20260610",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "서호철",
+    "batterPcode": "69995",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "SAC",
+    "resultText": "서호철 : 포수 희생번트 아웃 (포수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 6,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260531LTNC02026",
-    "gameDate": "20260531",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "서호철",
-    "batterPcode": "69995",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "BB",
-    "resultText": "서호철 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

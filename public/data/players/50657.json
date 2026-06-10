@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260610HTHH02026",
+    "gameDate": "20260610",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박민",
+    "batterPcode": "50657",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "박민 : 1루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 15,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530HTLG02026",
-    "gameDate": "20260530",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박민",
-    "batterPcode": "50657",
-    "pitcherName": "송승기",
-    "pitcherPcode": "51111",
-    "resultCode": "O",
-    "resultText": "박민 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "117",
-    "lastPitchType": "커브"
   }
 ]
