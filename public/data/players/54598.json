@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260611OBLT02026",
+    "gameDate": "20260611",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이호준",
+    "batterPcode": "54598",
+    "pitcherName": "김동주",
+    "pitcherPcode": "51230",
+    "resultCode": "O",
+    "resultText": "이호준 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260610OBLT02026",
     "gameDate": "20260610",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "137",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260428WOLT02026",
-    "gameDate": "20260428",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이호준",
-    "batterPcode": "54598",
-    "pitcherName": "박진형",
-    "pitcherPcode": "63512",
-    "resultCode": "O",
-    "resultText": "이호준 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]
