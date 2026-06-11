@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260611HTHH02026",
+    "gameDate": "20260611",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김규성",
+    "batterPcode": "66614",
+    "pitcherName": "박상원",
+    "pitcherPcode": "67703",
+    "resultCode": "O",
+    "resultText": "김규성 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260610HTHH02026",
     "gameDate": "20260610",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260531HTLG02026",
-    "gameDate": "20260531",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김규성",
-    "batterPcode": "66614",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "2B",
-    "resultText": "김규성 : 좌중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

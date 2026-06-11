@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260611SKLG02026",
+    "gameDate": "20260611",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "신상연",
+    "pitcherPcode": "56808",
+    "resultCode": "BB",
+    "resultText": "천성호 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606LGNC02026",
     "gameDate": "20260606",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260526LGLT02026",
-    "gameDate": "20260526",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "K",
-    "resultText": "천성호 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260611NCWO02026",
+    "gameDate": "20260611",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "유토",
+    "pitcherPcode": "56348",
+    "resultCode": "SAC",
+    "resultText": "천재환 : 좌익수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260610NCWO02026",
     "gameDate": "20260610",
     "opponent": "키움",

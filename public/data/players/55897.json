@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260611SKLG02026",
+    "gameDate": "20260611",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "2B",
+    "resultText": "홍대인 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "KT",
