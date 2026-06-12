@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612SKSS02026",
+    "gameDate": "20260612",
+    "opponent": "SSG",
+    "inning": 4,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "H",
+    "resultText": "최형우 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260611SSKT02026",
     "gameDate": "20260611",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260603NCSS02026",
-    "gameDate": "20260603",
-    "opponent": "NC",
-    "inning": 10,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "김진호",
-    "pitcherPcode": "67954",
-    "resultCode": "BB",
-    "resultText": "최형우 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

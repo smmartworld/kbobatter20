@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612OBHT02026",
+    "gameDate": "20260612",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "고종욱",
+    "batterPcode": "61353",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "O",
+    "resultText": "고종욱 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260611HTHH02026",
     "gameDate": "20260611",
     "opponent": "한화",

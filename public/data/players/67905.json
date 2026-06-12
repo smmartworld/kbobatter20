@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612NCKT02026",
+    "gameDate": "20260612",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "전용주",
+    "pitcherPcode": "69047",
+    "resultCode": "2B",
+    "resultText": "천재환 : 중견수 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260611NCWO02026",
     "gameDate": "20260611",
     "opponent": "키움",

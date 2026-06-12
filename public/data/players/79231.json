@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612OBHT02026",
+    "gameDate": "20260612",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "BB",
+    "resultText": "정수빈 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260611OBLT02026",
     "gameDate": "20260611",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260607WOOB02026",
-    "gameDate": "20260607",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "정수빈 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "포크"
   }
 ]
