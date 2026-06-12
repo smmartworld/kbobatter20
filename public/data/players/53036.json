@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612NCKT02026",
+    "gameDate": "20260612",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "K",
+    "resultText": "류현인 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260611SSKT02026",
     "gameDate": "20260611",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260604LGKT02026",
-    "gameDate": "20260604",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "웰스",
-    "pitcherPcode": "55348",
-    "resultCode": "O",
-    "resultText": "류현인 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

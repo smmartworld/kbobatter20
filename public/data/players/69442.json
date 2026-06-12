@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612SKSS02026",
+    "gameDate": "20260612",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "H",
+    "resultText": "김도환 : 우중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260611SSKT02026",
     "gameDate": "20260611",
     "opponent": "KT",

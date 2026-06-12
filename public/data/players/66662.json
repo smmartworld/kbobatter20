@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612SKSS02026",
+    "gameDate": "20260612",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신범수",
+    "batterPcode": "66662",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "HR",
+    "resultText": "신범수 : 중견수 뒤 홈런 (홈런거리:130M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260611SKLG02026",
     "gameDate": "20260611",
     "opponent": "LG",

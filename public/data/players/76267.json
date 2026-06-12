@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612HHWO02026",
+    "gameDate": "20260612",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "최주환 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260611NCWO02026",
     "gameDate": "20260611",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606WOOB02026",
-    "gameDate": "20260606",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "최지강",
-    "pitcherPcode": "52206",
-    "resultCode": "H",
-    "resultText": "최주환 : 1루수 맞고 2루수 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "투심"
   }
 ]

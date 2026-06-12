@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612HHWO02026",
+    "gameDate": "20260612",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "H",
+    "resultText": "김건희 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260611NCWO02026",
     "gameDate": "20260611",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260603WOSK02026",
-    "gameDate": "20260603",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "조병현",
-    "pitcherPcode": "51897",
-    "resultCode": "H",
-    "resultText": "김건희 : 투수 오른쪽 내야안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
