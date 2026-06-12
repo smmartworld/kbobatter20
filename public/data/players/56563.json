@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260612LTLG02026",
+    "gameDate": "20260612",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "이서준",
+    "batterPcode": "56563",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "O",
+    "resultText": "이서준 : 1루수 땅볼 아웃 (1루수 태그아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  }
+]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260612LTLG02026",
+    "gameDate": "20260612",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "H",
+    "resultText": "김동혁 : 1루수 왼쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607HHLT02026",
     "gameDate": "20260607",
     "opponent": "한화",

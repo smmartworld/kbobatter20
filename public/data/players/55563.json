@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260612LTLG02026",
+    "gameDate": "20260612",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "김대현",
+    "pitcherPcode": "66145",
+    "resultCode": "H",
+    "resultText": "박재엽 : 1루수 맞고 2루수 내야안타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  }
+]
