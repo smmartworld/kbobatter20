@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613HHWO02026",
+    "gameDate": "20260613",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박수종",
+    "batterPcode": "52305",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "O",
+    "resultText": "박수종 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612HHWO02026",
     "gameDate": "20260612",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260506WOSS02026",
-    "gameDate": "20260506",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "박수종",
-    "batterPcode": "52305",
-    "pitcherName": "이승민",
-    "pitcherPcode": "50464",
-    "resultCode": "K",
-    "resultText": "박수종 : 삼진 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613SKSS02026",
+    "gameDate": "20260613",
+    "opponent": "SSG",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "베니지아노",
+    "pitcherPcode": "56841",
+    "resultCode": "O",
+    "resultText": "김상준 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612SKSS02026",
     "gameDate": "20260612",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "124",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260509SSNC02026",
-    "gameDate": "20260509",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "신민혁",
-    "pitcherPcode": "68902",
-    "resultCode": "H",
-    "resultText": "김상준 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "116",
-    "lastPitchType": "체인지업"
   }
 ]
