@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613LTLG02026",
+    "gameDate": "20260613",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "박정민",
+    "pitcherPcode": "56536",
+    "resultCode": "BB",
+    "resultText": "구본혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612LTLG02026",
     "gameDate": "20260612",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "150",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260606LGNC02026",
-    "gameDate": "20260606",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "이용준",
-    "pitcherPcode": "51948",
-    "resultCode": "O",
-    "resultText": "구본혁 : 1루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

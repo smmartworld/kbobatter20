@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613OBHT02026",
+    "gameDate": "20260613",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박지훈",
+    "batterPcode": "50204",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "K",
+    "resultText": "박지훈 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612OBHT02026",
     "gameDate": "20260612",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260607WOOB02026",
-    "gameDate": "20260607",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "박지훈",
-    "batterPcode": "50204",
-    "pitcherName": "박정훈",
-    "pitcherPcode": "55394",
-    "resultCode": "O",
-    "resultText": "박지훈 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]
