@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613NCKT02026",
+    "gameDate": "20260613",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "O",
+    "resultText": "박민우 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612NCKT02026",
     "gameDate": "20260612",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "123",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260607LGNC02026",
-    "gameDate": "20260607",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "김영우",
-    "pitcherPcode": "55167",
-    "resultCode": "H",
-    "resultText": "박민우 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

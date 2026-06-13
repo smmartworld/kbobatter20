@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613NCKT02026",
+    "gameDate": "20260613",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "O",
+    "resultText": "이우성 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612NCKT02026",
     "gameDate": "20260612",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606LGNC02026",
-    "gameDate": "20260606",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "H",
-    "resultText": "이우성 : 우중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

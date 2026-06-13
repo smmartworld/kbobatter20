@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613OBHT02026",
+    "gameDate": "20260613",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "2B",
+    "resultText": "김도영 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260612OBHT02026",
     "gameDate": "20260612",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260607SSHT02026",
-    "gameDate": "20260607",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "H",
-    "resultText": "김도영 : 3루수 앞 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

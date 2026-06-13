@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613SKSS02026",
+    "gameDate": "20260613",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "베니지아노",
+    "pitcherPcode": "56841",
+    "resultCode": "O",
+    "resultText": "구자욱 : 포수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260612SKSS02026",
     "gameDate": "20260612",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "132",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260607SSHT02026",
-    "gameDate": "20260607",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "조상우",
-    "pitcherPcode": "63342",
-    "resultCode": "O",
-    "resultText": "구자욱 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 9,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

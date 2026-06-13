@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613LTLG02026",
+    "gameDate": "20260613",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "O",
+    "resultText": "나승엽 : 3루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260612LTLG02026",
     "gameDate": "20260612",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260609OBLT02026",
-    "gameDate": "20260609",
-    "opponent": "두산",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "O",
-    "resultText": "나승엽 : 3루수 파울플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
   }
 ]

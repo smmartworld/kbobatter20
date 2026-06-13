@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613NCKT02026",
+    "gameDate": "20260613",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "BB",
+    "resultText": "최원준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612NCKT02026",
     "gameDate": "20260612",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260607KTSK02026",
-    "gameDate": "20260607",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "베니지아노",
-    "pitcherPcode": "56841",
-    "resultCode": "O",
-    "resultText": "최원준 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

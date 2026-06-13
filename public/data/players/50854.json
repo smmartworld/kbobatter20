@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613SKSS02026",
+    "gameDate": "20260613",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "O",
+    "resultText": "최지훈 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260612SKSS02026",
     "gameDate": "20260612",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606KTSK02026",
-    "gameDate": "20260606",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "BB",
-    "resultText": "최지훈 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

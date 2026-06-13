@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613OBHT02026",
+    "gameDate": "20260613",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "나성범 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260612OBHT02026",
     "gameDate": "20260612",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260607SSHT02026",
-    "gameDate": "20260607",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "HR",
-    "resultText": "나성범 : 우익수 뒤 홈런 (홈런거리:125M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "체인지업"
   }
 ]

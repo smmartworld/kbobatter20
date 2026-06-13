@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260613LTLG02026",
+    "gameDate": "20260613",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "O",
+    "resultText": "황성빈 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "115",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260612LTLG02026",
     "gameDate": "20260612",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "156",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260607HHLT02026",
-    "gameDate": "20260607",
-    "opponent": "한화",
-    "inning": 10,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "O",
-    "resultText": "황성빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "141",
     "lastPitchType": "직구"
   }
 ]
