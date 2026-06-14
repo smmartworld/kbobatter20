@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614HHWO02026",
+    "gameDate": "20260614",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "로젠버그",
+    "pitcherPcode": "55322",
+    "resultCode": "BB",
+    "resultText": "김태연 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260613HHWO02026",
     "gameDate": "20260613",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260609HTHH02026",
-    "gameDate": "20260609",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "황동하",
-    "pitcherPcode": "52641",
-    "resultCode": "BB",
-    "resultText": "김태연 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]
