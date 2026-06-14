@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614LTLG02026",
+    "gameDate": "20260614",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이호준",
+    "batterPcode": "54598",
+    "pitcherName": "손주영",
+    "pitcherPcode": "67143",
+    "resultCode": "K",
+    "resultText": "이호준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260612LTLG02026",
     "gameDate": "20260612",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 9,
     "lastPitchSpeed": "123",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260430WOLT02026",
-    "gameDate": "20260430",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이호준",
-    "batterPcode": "54598",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "O",
-    "resultText": "이호준 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "126",
     "lastPitchType": "체인지업"
   }
 ]

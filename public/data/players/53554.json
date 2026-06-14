@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614OBHT02026",
+    "gameDate": "20260614",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "지현",
+    "pitcherPcode": "56633",
+    "resultCode": "O",
+    "resultText": "김민석 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260613OBHT02026",
     "gameDate": "20260613",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260607WOOB02026",
-    "gameDate": "20260607",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "김민석 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]

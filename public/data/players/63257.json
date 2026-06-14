@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614OBHT02026",
+    "gameDate": "20260614",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "지현",
+    "pitcherPcode": "56633",
+    "resultCode": "H",
+    "resultText": "김인태 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 8,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "키움",
