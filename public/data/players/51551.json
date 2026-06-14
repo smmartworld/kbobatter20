@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614LTLG02026",
+    "gameDate": "20260614",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "나승엽 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260613LTLG02026",
     "gameDate": "20260613",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260609OBLT02026",
-    "gameDate": "20260609",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "이영하",
-    "pitcherPcode": "66291",
-    "resultCode": "2B",
-    "resultText": "나승엽 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

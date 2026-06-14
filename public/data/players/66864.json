@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614SKSS02026",
+    "gameDate": "20260614",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "안상현",
+    "batterPcode": "66864",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "GDP",
+    "resultText": "안상현 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260613SKSS02026",
     "gameDate": "20260613",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260528SSSK02026",
-    "gameDate": "20260528",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "안상현",
-    "batterPcode": "66864",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "안상현 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "커브"
   }
 ]

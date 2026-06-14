@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614SKSS02026",
+    "gameDate": "20260614",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "H",
+    "resultText": "최지훈 : 2루수 맞고 우전 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260613SKSS02026",
     "gameDate": "20260613",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260607KTSK02026",
-    "gameDate": "20260607",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "O",
-    "resultText": "최지훈 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

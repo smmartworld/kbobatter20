@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614SKSS02026",
+    "gameDate": "20260614",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "E",
+    "resultText": "박승규 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260613SKSS02026",
     "gameDate": "20260613",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606SSHT02026",
-    "gameDate": "20260606",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "O",
-    "resultText": "박승규 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614OBHT02026",
+    "gameDate": "20260614",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "O",
+    "resultText": "오명진 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260613OBHT02026",
     "gameDate": "20260613",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260607WOOB02026",
-    "gameDate": "20260607",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "오명진 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

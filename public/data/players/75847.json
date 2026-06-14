@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614SKSS02026",
+    "gameDate": "20260614",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "최정",
+    "batterPcode": "75847",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "BB",
+    "resultText": "최정 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "119",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260613SKSS02026",
     "gameDate": "20260613",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260604WOSK02026",
-    "gameDate": "20260604",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "최정",
-    "batterPcode": "75847",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "2B",
-    "resultText": "최정 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]

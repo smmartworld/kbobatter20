@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614LTLG02026",
+    "gameDate": "20260614",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "BB",
+    "resultText": "박해민 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260613LTLG02026",
     "gameDate": "20260613",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260609SKLG02026",
-    "gameDate": "20260609",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "H",
-    "resultText": "박해민 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

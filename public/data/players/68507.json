@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614LTLG02026",
+    "gameDate": "20260614",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "H",
+    "resultText": "장두성 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260613LTLG02026",
     "gameDate": "20260613",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604LTHT02026",
-    "gameDate": "20260604",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "K",
-    "resultText": "장두성 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260614OBHT02026",
+    "gameDate": "20260614",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "H",
+    "resultText": "정수빈 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260613OBHT02026",
     "gameDate": "20260613",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260609OBLT02026",
-    "gameDate": "20260609",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "정수빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "포크"
   }
 ]
