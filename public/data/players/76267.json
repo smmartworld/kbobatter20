@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616WOSS02026",
+    "gameDate": "20260616",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "최지광",
+    "pitcherPcode": "67421",
+    "resultCode": "BB",
+    "resultText": "최주환 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260614HHWO02026",
     "gameDate": "20260614",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260610NCWO02026",
-    "gameDate": "20260610",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "O",
-    "resultText": "최주환 : 포수 땅볼 아웃 (포수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

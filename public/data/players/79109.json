@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616LGHT02026",
+    "gameDate": "20260616",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "지현",
+    "pitcherPcode": "56633",
+    "resultCode": "O",
+    "resultText": "오지환 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260614LTLG02026",
     "gameDate": "20260614",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260609SKLG02026",
-    "gameDate": "20260609",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "2B",
-    "resultText": "오지환 : 우익수 오른쪽 뒤 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

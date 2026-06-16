@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616HHNC02026",
+    "gameDate": "20260616",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이원석",
+    "batterPcode": "68700",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "O",
+    "resultText": "이원석 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260614HHWO02026",
     "gameDate": "20260614",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260604HHOB02026",
-    "gameDate": "20260604",
-    "opponent": "두산",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "이원석",
-    "batterPcode": "68700",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "이원석 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

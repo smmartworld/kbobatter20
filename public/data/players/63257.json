@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616KTOB02026",
+    "gameDate": "20260616",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "GDP",
+    "resultText": "김인태 : 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260614OBHT02026",
     "gameDate": "20260614",
     "opponent": "KIA",

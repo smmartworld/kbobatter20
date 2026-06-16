@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "gameId": "20260616LTSK02026",
+    "gameDate": "20260616",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "신윤후",
+    "batterPcode": "69508",
+    "pitcherName": "박시후",
+    "pitcherPcode": "50812",
+    "resultCode": "O",
+    "resultText": "신윤후 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
+    "gameId": "20260616LTSK02026",
+    "gameDate": "20260616",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "신윤후",
+    "batterPcode": "69508",
+    "pitcherName": "최용준",
+    "pitcherPcode": "50650",
+    "resultCode": "BB",
+    "resultText": "신윤후 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  }
+]

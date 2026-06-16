@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616LGHT02026",
+    "gameDate": "20260616",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "지현",
+    "pitcherPcode": "56633",
+    "resultCode": "O",
+    "resultText": "천성호 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260614LTLG02026",
     "gameDate": "20260614",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530HTLG02026",
-    "gameDate": "20260530",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "천성호 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]
