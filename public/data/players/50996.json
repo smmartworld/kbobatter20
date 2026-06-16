@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616HHNC02026",
+    "gameDate": "20260616",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박시원",
+    "batterPcode": "50996",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "K",
+    "resultText": "박시원 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260612NCKT02026",
     "gameDate": "20260612",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260531LTNC02026",
-    "gameDate": "20260531",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "박시원",
-    "batterPcode": "50996",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "2B",
-    "resultText": "박시원 : 우중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

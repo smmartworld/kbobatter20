@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260616KTOB02026",
+    "gameDate": "20260616",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "장성우",
+    "batterPcode": "78548",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "BB",
+    "resultText": "장성우 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260613NCKT02026",
     "gameDate": "20260613",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260521KTSS02026",
-    "gameDate": "20260521",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "장성우",
-    "batterPcode": "78548",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "장성우 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
     "lastPitchType": "투심"
   }
 ]
