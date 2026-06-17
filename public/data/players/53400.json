@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "gameId": "20260617WOSS02026",
+    "gameDate": "20260617",
+    "opponent": "키움",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김재상",
+    "batterPcode": "53400",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "O",
+    "resultText": "김재상 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "슬라이더"
+  },
+  {
+    "gameId": "20260617WOSS02026",
+    "gameDate": "20260617",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김재상",
+    "batterPcode": "53400",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "O",
+    "resultText": "김재상 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  }
+]
