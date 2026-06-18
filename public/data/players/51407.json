@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260617WOSS02026",
+    "gameDate": "20260617",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "원종현",
+    "pitcherPcode": "76118",
+    "resultCode": "H",
+    "resultText": "이창용 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  }
+]
