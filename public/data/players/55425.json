@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618WOSS02026",
+    "gameDate": "20260618",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "BB",
+    "resultText": "김상준 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260616WOSS02026",
     "gameDate": "20260616",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "127",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260606SSHT02026",
-    "gameDate": "20260606",
-    "opponent": "KIA",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "정해영",
-    "pitcherPcode": "50662",
-    "resultCode": "H",
-    "resultText": "김상준 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

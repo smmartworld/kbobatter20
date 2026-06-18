@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618HHNC02026",
+    "gameDate": "20260618",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "원종해",
+    "pitcherPcode": "54906",
+    "resultCode": "O",
+    "resultText": "황영묵 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260616HHNC02026",
     "gameDate": "20260616",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "130",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260514HHWO02026",
-    "gameDate": "20260514",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "황영묵 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

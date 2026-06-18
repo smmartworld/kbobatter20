@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618LTSK02026",
+    "gameDate": "20260618",
+    "opponent": "SSG",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박승욱",
+    "batterPcode": "62802",
+    "pitcherName": "이건욱",
+    "pitcherPcode": "64861",
+    "resultCode": "H",
+    "resultText": "박승욱 : 중견수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260617LTSK02026",
     "gameDate": "20260617",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260528LGLT02026",
-    "gameDate": "20260528",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박승욱",
-    "batterPcode": "62802",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "박승욱 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
   }
 ]
