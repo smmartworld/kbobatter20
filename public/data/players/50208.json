@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618KTOB02026",
+    "gameDate": "20260618",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "전용주",
+    "pitcherPcode": "69047",
+    "resultCode": "O",
+    "resultText": "오명진 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260617KTOB02026",
     "gameDate": "20260617",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260610OBLT02026",
-    "gameDate": "20260610",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "HR",
-    "resultText": "오명진 : 우중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
   }
 ]

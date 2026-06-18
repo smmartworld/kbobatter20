@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618LTSK02026",
+    "gameDate": "20260618",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "GDP",
+    "resultText": "노진혁 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260614LTLG02026",
     "gameDate": "20260614",
     "opponent": "LG",

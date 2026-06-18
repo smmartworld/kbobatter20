@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260618WOSS02026",
+    "gameDate": "20260618",
+    "opponent": "키움",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "박정훈",
+    "pitcherPcode": "55394",
+    "resultCode": "H",
+    "resultText": "김도환 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260617WOSS02026",
     "gameDate": "20260617",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260611SSKT02026",
-    "gameDate": "20260611",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "스기모토",
-    "pitcherPcode": "56011",
-    "resultCode": "O",
-    "resultText": "김도환 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]
