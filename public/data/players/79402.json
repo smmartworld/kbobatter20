@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619HTKT02026",
+    "gameDate": "20260619",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "O",
+    "resultText": "김상수 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260617KTOB02026",
     "gameDate": "20260617",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260606KTSK02026",
-    "gameDate": "20260606",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "H",
-    "resultText": "김상수 : 중견수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
