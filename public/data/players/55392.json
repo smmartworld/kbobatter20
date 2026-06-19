@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619LTWO02026",
+    "gameDate": "20260619",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "어준서",
+    "batterPcode": "55392",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "O",
+    "resultText": "어준서 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260618WOSS02026",
     "gameDate": "20260618",
     "opponent": "삼성",

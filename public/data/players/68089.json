@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619HTKT02026",
+    "gameDate": "20260619",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "HR",
+    "resultText": "조대현 : 좌익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260618KTOB02026",
     "gameDate": "20260618",
     "opponent": "두산",

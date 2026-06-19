@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619OBLG02026",
+    "gameDate": "20260619",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "김동주",
+    "pitcherPcode": "51230",
+    "resultCode": "O",
+    "resultText": "박동원 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260618LGHT02026",
     "gameDate": "20260618",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260613LTLG02026",
-    "gameDate": "20260613",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "BB",
-    "resultText": "박동원 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

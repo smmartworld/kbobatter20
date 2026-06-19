@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619HTKT02026",
+    "gameDate": "20260619",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "전용주",
+    "pitcherPcode": "69047",
+    "resultCode": "H",
+    "resultText": "정현창 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260609HTHH02026",
     "gameDate": "20260609",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "130",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260502KTHT02026",
-    "gameDate": "20260502",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "O",
-    "resultText": "정현창 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "직구"
   }
 ]

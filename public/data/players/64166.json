@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260619HTKT02026",
+    "gameDate": "20260619",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "BB",
+    "resultText": "배정대 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260613NCKT02026",
     "gameDate": "20260613",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "125",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260526KTOB02026",
-    "gameDate": "20260526",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "박정수",
-    "pitcherPcode": "65639",
-    "resultCode": "K",
-    "resultText": "배정대 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "커브"
   }
 ]
