@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SKNC02026",
+    "gameDate": "20260620",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "안중열",
+    "batterPcode": "64022",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "O",
+    "resultText": "안중열 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260618HHNC02026",
     "gameDate": "20260618",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260606LGNC02026",
-    "gameDate": "20260606",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "안중열",
-    "batterPcode": "64022",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "안중열 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
   }
 ]

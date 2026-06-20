@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "K",
+    "resultText": "김상준 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 8,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619SSHH02026",
     "gameDate": "20260619",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260610SSKT02026",
-    "gameDate": "20260610",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "박영현",
-    "pitcherPcode": "52060",
-    "resultCode": "SAC",
-    "resultText": "김상준 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

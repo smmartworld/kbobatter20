@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "김태연 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619SSHH02026",
     "gameDate": "20260619",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260613HHWO02026",
-    "gameDate": "20260613",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "H",
-    "resultText": "김태연 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

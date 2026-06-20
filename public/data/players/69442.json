@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "김도환 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260619SSHH02026",
     "gameDate": "20260619",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "130",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260612SKSS02026",
-    "gameDate": "20260612",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "문승원",
-    "pitcherPcode": "62869",
-    "resultCode": "SAC",
-    "resultText": "김도환 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
