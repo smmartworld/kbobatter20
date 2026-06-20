@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "삼성",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권광민",
+    "batterPcode": "52769",
+    "pitcherName": "미야지",
+    "pitcherPcode": "56415",
+    "resultCode": "K",
+    "resultText": "권광민 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  }
+]

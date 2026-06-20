@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620OBLG02026",
+    "gameDate": "20260620",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "H",
+    "resultText": "천성호 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260618LGHT02026",
     "gameDate": "20260618",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 10,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "주권",
-    "pitcherPcode": "65060",
-    "resultCode": "H",
-    "resultText": "천성호 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
   }
 ]
