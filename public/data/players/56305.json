@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620LTWO02026",
+    "gameDate": "20260620",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "히우라",
+    "batterPcode": "56305",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "H",
+    "resultText": "히우라 : 좌익수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260619LTWO02026",
     "gameDate": "20260619",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614HHWO02026",
-    "gameDate": "20260614",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "히우라",
-    "batterPcode": "56305",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "H",
-    "resultText": "히우라 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "체인지업"
   }
 ]

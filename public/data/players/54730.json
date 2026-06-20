@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "HR",
+    "resultText": "페라자 : 좌익수 뒤 홈런 (홈런거리:105M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619SSHH02026",
     "gameDate": "20260619",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260613HHWO02026",
-    "gameDate": "20260613",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "페라자 : 1루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

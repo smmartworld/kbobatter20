@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620OBLG02026",
+    "gameDate": "20260620",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "류승민",
+    "batterPcode": "53404",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "류승민 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260618KTOB02026",
     "gameDate": "20260618",
     "opponent": "KT",

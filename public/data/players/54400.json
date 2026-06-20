@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "디아즈",
+    "batterPcode": "54400",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "디아즈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260619SSHH02026",
     "gameDate": "20260619",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260614SKSS02026",
-    "gameDate": "20260614",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "디아즈",
-    "batterPcode": "54400",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "H",
-    "resultText": "디아즈 : 중견수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]

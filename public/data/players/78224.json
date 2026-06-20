@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SKNC02026",
+    "gameDate": "20260620",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "김재환",
+    "batterPcode": "78224",
+    "pitcherName": "김준원",
+    "pitcherPcode": "54910",
+    "resultCode": "HR",
+    "resultText": "김재환 : 중견수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619SKNC02026",
     "gameDate": "20260619",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260612SKSS02026",
-    "gameDate": "20260612",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "김재환",
-    "batterPcode": "78224",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "O",
-    "resultText": "김재환 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

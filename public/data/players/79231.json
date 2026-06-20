@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620OBLG02026",
+    "gameDate": "20260620",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "정수빈 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260619OBLG02026",
     "gameDate": "20260619",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260610OBLT02026",
-    "gameDate": "20260610",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "O",
-    "resultText": "정수빈 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "체인지업"
   }
 ]
