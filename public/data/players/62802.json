@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620LTWO02026",
+    "gameDate": "20260620",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박승욱",
+    "batterPcode": "62802",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "O",
+    "resultText": "박승욱 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260618LTSK02026",
     "gameDate": "20260618",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "125",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260528LGLT02026",
-    "gameDate": "20260528",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박승욱",
-    "batterPcode": "62802",
-    "pitcherName": "장현식",
-    "pitcherPcode": "63950",
-    "resultCode": "O",
-    "resultText": "박승욱 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
   }
 ]

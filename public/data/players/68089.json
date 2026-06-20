@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620HTKT02026",
+    "gameDate": "20260620",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "O",
+    "resultText": "조대현 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619HTKT02026",
     "gameDate": "20260619",
     "opponent": "KIA",

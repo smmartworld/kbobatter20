@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SSHH02026",
+    "gameDate": "20260620",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "O",
+    "resultText": "김헌곤 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260616WOSS02026",
     "gameDate": "20260616",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260505WOSS02026",
-    "gameDate": "20260505",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "정세영",
-    "pitcherPcode": "55377",
-    "resultCode": "O",
-    "resultText": "김헌곤 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

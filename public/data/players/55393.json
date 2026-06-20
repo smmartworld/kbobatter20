@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620LTWO02026",
+    "gameDate": "20260620",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "박정민",
+    "pitcherPcode": "56536",
+    "resultCode": "O",
+    "resultText": "여동욱 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260619LTWO02026",
     "gameDate": "20260619",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260607WOOB02026",
-    "gameDate": "20260607",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "O",
-    "resultText": "여동욱 : 1루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

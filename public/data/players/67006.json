@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620HTKT02026",
+    "gameDate": "20260620",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안치영",
+    "batterPcode": "67006",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "BB",
+    "resultText": "안치영 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260619HTKT02026",
     "gameDate": "20260619",
     "opponent": "KIA",

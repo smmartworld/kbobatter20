@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620LTWO02026",
+    "gameDate": "20260620",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "최재영",
+    "batterPcode": "56338",
+    "pitcherName": "박정민",
+    "pitcherPcode": "56536",
+    "resultCode": "O",
+    "resultText": "최재영 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260526HTWO02026",
     "gameDate": "20260526",
     "opponent": "KIA",

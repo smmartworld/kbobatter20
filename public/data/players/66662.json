@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260620SKNC02026",
+    "gameDate": "20260620",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신범수",
+    "batterPcode": "66662",
+    "pitcherName": "원종해",
+    "pitcherPcode": "54906",
+    "resultCode": "K",
+    "resultText": "신범수 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260618LTSK02026",
     "gameDate": "20260618",
     "opponent": "롯데",
