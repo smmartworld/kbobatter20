@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621LTWO02026",
+    "gameDate": "20260621",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "H",
+    "resultText": "김건희 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620LTWO02026",
     "gameDate": "20260620",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260613HHWO02026",
-    "gameDate": "20260613",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "O",
-    "resultText": "김건희 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "스위퍼"
   }
 ]

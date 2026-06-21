@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621LTWO02026",
+    "gameDate": "20260621",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "주성원",
+    "batterPcode": "69332",
+    "pitcherName": "정철원",
+    "pitcherPcode": "68242",
+    "resultCode": "O",
+    "resultText": "주성원 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620LTWO02026",
     "gameDate": "20260620",
     "opponent": "롯데",

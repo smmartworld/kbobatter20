@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621LTWO02026",
+    "gameDate": "20260621",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "원성준",
+    "batterPcode": "54307",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "O",
+    "resultText": "원성준 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620LTWO02026",
     "gameDate": "20260620",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614HHWO02026",
-    "gameDate": "20260614",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "원성준",
-    "batterPcode": "54307",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "H",
-    "resultText": "원성준 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

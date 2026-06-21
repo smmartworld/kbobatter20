@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621OBLG02026",
+    "gameDate": "20260621",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "K",
+    "resultText": "윤준호 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619OBLG02026",
     "gameDate": "20260619",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603HHOB02026",
-    "gameDate": "20260603",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "윤준호 : 3루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

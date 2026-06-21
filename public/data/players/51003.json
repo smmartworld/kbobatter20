@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621HTKT02026",
+    "gameDate": "20260621",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "O",
+    "resultText": "권동진 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260616KTOB02026",
-    "gameDate": "20260616",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "O",
-    "resultText": "권동진 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "슬라이더"
   }
 ]

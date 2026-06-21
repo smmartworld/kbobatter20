@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621OBLG02026",
+    "gameDate": "20260621",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "HR",
+    "resultText": "문정빈 : 좌중간 뒤 홈런 (홈런거리:130M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619OBLG02026",
     "gameDate": "20260619",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603LGKT02026",
-    "gameDate": "20260603",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "김민수",
-    "pitcherPcode": "65048",
-    "resultCode": "2B",
-    "resultText": "문정빈 : 우중간 2루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621HTKT02026",
+    "gameDate": "20260621",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "O",
+    "resultText": "이정훈 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "127",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260527KTOB02026",
-    "gameDate": "20260527",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "김정우",
-    "pitcherPcode": "68830",
-    "resultCode": "O",
-    "resultText": "이정훈 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "129",
     "lastPitchType": "체인지업"
   }
 ]

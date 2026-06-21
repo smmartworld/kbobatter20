@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621HTKT02026",
+    "gameDate": "20260621",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "카스트로",
+    "batterPcode": "56626",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "O",
+    "resultText": "카스트로 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KT",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260621OBLG02026",
+    "gameDate": "20260621",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "오명진 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 9,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260619OBLG02026",
     "gameDate": "20260619",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260611OBLT02026",
-    "gameDate": "20260611",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "홍민기",
-    "pitcherPcode": "50596",
-    "resultCode": "BB",
-    "resultText": "오명진 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]
