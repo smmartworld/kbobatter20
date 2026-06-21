@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260621HTKT02026",
+    "gameDate": "20260621",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "안인산",
+    "batterPcode": "50901",
+    "pitcherName": "곽도규",
+    "pitcherPcode": "53609",
+    "resultCode": "K",
+    "resultText": "안인산 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  }
+]
