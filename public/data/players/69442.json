@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SSLG02026",
+    "gameDate": "20260623",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "리오스",
+    "pitcherPcode": "56146",
+    "resultCode": "H",
+    "resultText": "김도환 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260620SSHH02026",
     "gameDate": "20260620",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260613SKSS02026",
-    "gameDate": "20260613",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "문승원",
-    "pitcherPcode": "62869",
-    "resultCode": "O",
-    "resultText": "김도환 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

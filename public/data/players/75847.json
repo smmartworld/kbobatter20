@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SKKT02026",
+    "gameDate": "20260623",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최정",
+    "batterPcode": "75847",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "GDP",
+    "resultText": "최정 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260619SKNC02026",
     "gameDate": "20260619",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260614SKSS02026",
-    "gameDate": "20260614",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "최정",
-    "batterPcode": "75847",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "BB",
-    "resultText": "최정 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
   }
 ]

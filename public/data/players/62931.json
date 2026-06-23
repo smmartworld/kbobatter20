@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623NCLT02026",
+    "gameDate": "20260623",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "김진호",
+    "pitcherPcode": "67954",
+    "resultCode": "HR",
+    "resultText": "노진혁 : 우중간 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260621LTWO02026",
     "gameDate": "20260621",
     "opponent": "키움",
