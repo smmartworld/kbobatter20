@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SKKT02026",
+    "gameDate": "20260623",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "신상연",
+    "pitcherPcode": "56808",
+    "resultCode": "O",
+    "resultText": "배정대 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "155",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260528KTOB02026",
-    "gameDate": "20260528",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "박정수",
-    "pitcherPcode": "65639",
-    "resultCode": "O",
-    "resultText": "배정대 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

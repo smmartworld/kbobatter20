@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623HTWO02026",
+    "gameDate": "20260623",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "K",
+    "resultText": "정현창 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621HTKT02026",
     "gameDate": "20260621",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260509HTLT02026",
-    "gameDate": "20260509",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "정현수",
-    "pitcherPcode": "54537",
-    "resultCode": "O",
-    "resultText": "정현창 : 유격수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]
