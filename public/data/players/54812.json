@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SKKT02026",
+    "gameDate": "20260623",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "정준재",
+    "batterPcode": "54812",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "정준재 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260621SKNC02026",
     "gameDate": "20260621",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "132",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260617LTSK02026",
-    "gameDate": "20260617",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "정준재",
-    "batterPcode": "54812",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "H",
-    "resultText": "정준재 : 유격수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

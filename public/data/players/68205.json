@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623NCLT02026",
+    "gameDate": "20260623",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "전민재 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260621LTWO02026",
     "gameDate": "20260621",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617LTSK02026",
-    "gameDate": "20260617",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "H",
-    "resultText": "전민재 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623OBHH02026",
+    "gameDate": "20260623",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "H",
+    "resultText": "박찬호 : 좌익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621OBLG02026",
     "gameDate": "20260621",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617KTOB02026",
-    "gameDate": "20260617",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "박찬호 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "스위퍼"
   }
 ]

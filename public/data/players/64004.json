@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SKKT02026",
+    "gameDate": "20260623",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "BB",
+    "resultText": "김민혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621HTKT02026",
     "gameDate": "20260621",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260613NCKT02026",
-    "gameDate": "20260613",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "김민혁 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "커터"
   }
 ]

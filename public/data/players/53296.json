@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623OBHH02026",
+    "gameDate": "20260623",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "SAC",
+    "resultText": "윤준호 : 좌익수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 10,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621OBLG02026",
     "gameDate": "20260621",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604HHOB02026",
-    "gameDate": "20260604",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "윤산흠",
-    "pitcherPcode": "69213",
-    "resultCode": "O",
-    "resultText": "윤준호 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "커브"
   }
 ]

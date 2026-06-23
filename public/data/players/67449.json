@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SSLG02026",
+    "gameDate": "20260623",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "O",
+    "resultText": "김성윤 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621SSHH02026",
     "gameDate": "20260621",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617WOSS02026",
-    "gameDate": "20260617",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "H",
-    "resultText": "김성윤 : 유격수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SKKT02026",
+    "gameDate": "20260623",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "SAC",
+    "resultText": "안현민 : 좌익수 희생플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260621HTKT02026",
     "gameDate": "20260621",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260616KTOB02026",
-    "gameDate": "20260616",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "H",
-    "resultText": "안현민 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
   }
 ]

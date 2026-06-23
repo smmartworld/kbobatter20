@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623HTWO02026",
+    "gameDate": "20260623",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "BB",
+    "resultText": "한준수 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621HTKT02026",
     "gameDate": "20260621",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "131",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260614OBHT02026",
-    "gameDate": "20260614",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "최지강",
-    "pitcherPcode": "52206",
-    "resultCode": "O",
-    "resultText": "한준수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "투심"
   }
 ]

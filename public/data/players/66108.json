@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SSLG02026",
+    "gameDate": "20260623",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "홍창기",
+    "batterPcode": "66108",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "H",
+    "resultText": "홍창기 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260621OBLG02026",
     "gameDate": "20260621",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614LTLG02026",
-    "gameDate": "20260614",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "홍창기",
-    "batterPcode": "66108",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "2B",
-    "resultText": "홍창기 : 좌익수 왼쪽 뒤 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623NCLT02026",
+    "gameDate": "20260623",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "2B",
+    "resultText": "황성빈 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621LTWO02026",
     "gameDate": "20260621",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260616LTSK02026",
-    "gameDate": "20260616",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "이로운",
-    "pitcherPcode": "53892",
-    "resultCode": "O",
-    "resultText": "황성빈 : 좌익수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SSLG02026",
+    "gameDate": "20260623",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "오지환 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260621OBLG02026",
     "gameDate": "20260621",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260613LTLG02026",
-    "gameDate": "20260613",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "O",
-    "resultText": "오지환 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

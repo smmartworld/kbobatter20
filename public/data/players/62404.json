@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623SSLG02026",
+    "gameDate": "20260623",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "O",
+    "resultText": "구자욱 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 9,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621SSHH02026",
     "gameDate": "20260621",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260617WOSS02026",
-    "gameDate": "20260617",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "O",
-    "resultText": "구자욱 : 좌익수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "154",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260623OBHH02026",
+    "gameDate": "20260623",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "O",
+    "resultText": "페라자 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260621SSHH02026",
     "gameDate": "20260621",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260616HHNC02026",
-    "gameDate": "20260616",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "김진호",
-    "pitcherPcode": "67954",
-    "resultCode": "BB",
-    "resultText": "페라자 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
