@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624OBHH02026",
+    "gameDate": "20260624",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "황준서",
+    "pitcherPcode": "54729",
+    "resultCode": "O",
+    "resultText": "이유찬 : 포수 스트라이크 낫아웃 다른주자 수비로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260621OBLG02026",
     "gameDate": "20260621",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260613OBHT02026",
-    "gameDate": "20260613",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "K",
-    "resultText": "이유찬 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "스위퍼"
   }
 ]
