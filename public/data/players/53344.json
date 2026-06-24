@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624HTWO02026",
+    "gameDate": "20260624",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "김동헌",
+    "batterPcode": "53344",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "O",
+    "resultText": "김동헌 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260623HTWO02026",
     "gameDate": "20260623",
     "opponent": "KIA",

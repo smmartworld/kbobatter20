@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SKKT02026",
+    "gameDate": "20260624",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "이건욱",
+    "pitcherPcode": "64861",
+    "resultCode": "BB",
+    "resultText": "이정훈 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260621HTKT02026",
     "gameDate": "20260621",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "148",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260530KTWO02026",
-    "gameDate": "20260530",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "김성진",
-    "pitcherPcode": "51301",
-    "resultCode": "H",
-    "resultText": "이정훈 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "150",
     "lastPitchType": "투심"
   }
 ]
