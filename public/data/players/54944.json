@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "데이비슨",
+    "batterPcode": "54944",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "데이비슨 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260623NCLT02026",
     "gameDate": "20260623",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260617HHNC02026",
-    "gameDate": "20260617",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "데이비슨",
-    "batterPcode": "54944",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "O",
-    "resultText": "데이비슨 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

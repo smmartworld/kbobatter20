@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SSLG02026",
+    "gameDate": "20260624",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "오러클린",
+    "pitcherPcode": "56464",
+    "resultCode": "O",
+    "resultText": "박해민 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260623SSLG02026",
     "gameDate": "20260623",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260618LGHT02026",
-    "gameDate": "20260618",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "BB",
-    "resultText": "박해민 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "직구"
   }
 ]

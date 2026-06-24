@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SSLG02026",
+    "gameDate": "20260624",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "김성윤 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 9,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260623SSLG02026",
     "gameDate": "20260623",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260618WOSS02026",
-    "gameDate": "20260618",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "김성윤 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "커브"
   }
 ]

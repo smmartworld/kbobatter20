@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624HTWO02026",
+    "gameDate": "20260624",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김규성",
+    "batterPcode": "66614",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "김규성 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260623HTWO02026",
     "gameDate": "20260623",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260617LGHT02026",
-    "gameDate": "20260617",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김규성",
-    "batterPcode": "66614",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "O",
-    "resultText": "김규성 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
     "lastPitchType": "포크"
   }
 ]

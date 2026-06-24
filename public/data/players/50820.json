@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SKKT02026",
+    "gameDate": "20260624",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "O",
+    "resultText": "전의산 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260623SKKT02026",
     "gameDate": "20260623",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260618LTSK02026",
-    "gameDate": "20260618",
-    "opponent": "롯데",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "전의산 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]

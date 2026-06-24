@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "H",
+    "resultText": "권희동 : 유격수 왼쪽 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260621SKNC02026",
     "gameDate": "20260621",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260613NCKT02026",
-    "gameDate": "20260613",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "GDP",
-    "resultText": "권희동 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "118",
-    "lastPitchType": "커브"
   }
 ]

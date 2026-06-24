@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "BB",
+    "resultText": "김휘집 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "스위퍼"
+  }
+]

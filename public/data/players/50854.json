@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SKKT02026",
+    "gameDate": "20260624",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "O",
+    "resultText": "최지훈 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260623SKKT02026",
     "gameDate": "20260623",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "134",
-    "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260618LTSK02026",
-    "gameDate": "20260618",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "K",
-    "resultText": "최지훈 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "137",
     "lastPitchType": "스위퍼"
   }
 ]

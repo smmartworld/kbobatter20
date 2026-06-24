@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624SSLG02026",
+    "gameDate": "20260624",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "BB",
+    "resultText": "최형우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260623SSLG02026",
     "gameDate": "20260623",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 6,
     "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260618WOSS02026",
-    "gameDate": "20260618",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "2B",
-    "resultText": "최형우 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

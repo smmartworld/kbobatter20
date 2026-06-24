@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김주원",
+    "batterPcode": "51907",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "김주원 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260623NCLT02026",
     "gameDate": "20260623",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260617HHNC02026",
-    "gameDate": "20260617",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김주원",
-    "batterPcode": "51907",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "O",
-    "resultText": "김주원 : 자동 고의4구",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "투심"
   }
 ]
