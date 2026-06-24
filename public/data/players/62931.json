@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "H",
+    "resultText": "노진혁 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260623NCLT02026",
     "gameDate": "20260623",
     "opponent": "NC",

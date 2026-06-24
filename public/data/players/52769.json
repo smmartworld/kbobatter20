@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624OBHH02026",
+    "gameDate": "20260624",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권광민",
+    "batterPcode": "52769",
+    "pitcherName": "김동주",
+    "pitcherPcode": "51230",
+    "resultCode": "BB",
+    "resultText": "권광민 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620SSHH02026",
     "gameDate": "20260620",
     "opponent": "삼성",

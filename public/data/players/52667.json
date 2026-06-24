@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624HTWO02026",
+    "gameDate": "20260624",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "윤도현",
+    "batterPcode": "52667",
+    "pitcherName": "김성진",
+    "pitcherPcode": "51301",
+    "resultCode": "K",
+    "resultText": "윤도현 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260619HTKT02026",
     "gameDate": "20260619",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260513OBHT02026",
-    "gameDate": "20260513",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "윤도현",
-    "batterPcode": "52667",
-    "pitcherName": "최주형",
-    "pitcherPcode": "56215",
-    "resultCode": "K",
-    "resultText": "윤도현 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

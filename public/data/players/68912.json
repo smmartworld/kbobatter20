@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624NCLT02026",
+    "gameDate": "20260624",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "정철원",
+    "pitcherPcode": "68242",
+    "resultCode": "SAC",
+    "resultText": "김형준 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260623NCLT02026",
     "gameDate": "20260623",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260611NCWO02026",
-    "gameDate": "20260611",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "BB",
-    "resultText": "김형준 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260624HTWO02026",
+    "gameDate": "20260624",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "김동규",
+    "pitcherPcode": "53164",
+    "resultCode": "BB",
+    "resultText": "박정우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260522SKHT02026",
-    "gameDate": "20260522",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "박정우 : 1루수 땅볼 아웃 (1루수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]
