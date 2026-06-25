@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SSLG02026",
+    "gameDate": "20260625",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장승현",
+    "batterPcode": "63202",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "O",
+    "resultText": "장승현 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260618WOSS02026",
     "gameDate": "20260618",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260509SSNC02026",
-    "gameDate": "20260509",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "장승현",
-    "batterPcode": "63202",
-    "pitcherName": "류진욱",
-    "pitcherPcode": "65949",
-    "resultCode": "BB",
-    "resultText": "장승현 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

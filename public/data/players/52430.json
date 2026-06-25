@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SSLG02026",
+    "gameDate": "20260625",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김영웅",
+    "batterPcode": "52430",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "K",
+    "resultText": "김영웅 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260624SSLG02026",
     "gameDate": "20260624",
     "opponent": "LG",

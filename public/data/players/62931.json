@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625NCLT02026",
+    "gameDate": "20260625",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "송명기",
+    "pitcherPcode": "69962",
+    "resultCode": "E",
+    "resultText": "노진혁 : 중견수 플라이 실책으로 출루 (중견수 포구 실책)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260624NCLT02026",
     "gameDate": "20260624",
     "opponent": "NC",
