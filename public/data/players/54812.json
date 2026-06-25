@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SKKT02026",
+    "gameDate": "20260625",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "정준재",
+    "batterPcode": "54812",
+    "pitcherName": "소형준",
+    "pitcherPcode": "50030",
+    "resultCode": "O",
+    "resultText": "정준재 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260624SKKT02026",
     "gameDate": "20260624",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 10,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260620SKNC02026",
-    "gameDate": "20260620",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "정준재",
-    "batterPcode": "54812",
-    "pitcherName": "김준원",
-    "pitcherPcode": "54910",
-    "resultCode": "2B",
-    "resultText": "정준재 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

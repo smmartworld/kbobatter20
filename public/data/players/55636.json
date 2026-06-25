@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "O",
+    "resultText": "박재현 : 좌익수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260624HTWO02026",
     "gameDate": "20260624",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620HTKT02026",
-    "gameDate": "20260620",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "K",
-    "resultText": "박재현 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "포크"
   }
 ]

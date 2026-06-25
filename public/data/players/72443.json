@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SSLG02026",
+    "gameDate": "20260625",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "이정용",
+    "pitcherPcode": "69134",
+    "resultCode": "O",
+    "resultText": "최형우 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260624SSLG02026",
     "gameDate": "20260624",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "124",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260618WOSS02026",
-    "gameDate": "20260618",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "박진형",
-    "pitcherPcode": "63512",
-    "resultCode": "SAC",
-    "resultText": "최형우 : 중견수 희생플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

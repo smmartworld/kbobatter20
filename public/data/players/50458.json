@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SSLG02026",
+    "gameDate": "20260625",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "이정용",
+    "pitcherPcode": "69134",
+    "resultCode": "H",
+    "resultText": "김지찬 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260624SSLG02026",
     "gameDate": "20260624",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "119",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260619SSHH02026",
-    "gameDate": "20260619",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "H",
-    "resultText": "김지찬 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "서건창",
+    "batterPcode": "78168",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "서건창 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260624HTWO02026",
     "gameDate": "20260624",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619LTWO02026",
-    "gameDate": "20260619",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "서건창",
-    "batterPcode": "78168",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "O",
-    "resultText": "서건창 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
   }
 ]

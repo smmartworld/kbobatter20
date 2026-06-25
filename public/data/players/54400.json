@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SSLG02026",
+    "gameDate": "20260625",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "디아즈",
+    "batterPcode": "54400",
+    "pitcherName": "이정용",
+    "pitcherPcode": "69134",
+    "resultCode": "HR",
+    "resultText": "디아즈 : 우익수 뒤 홈런 (홈런거리:120M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260624SSLG02026",
     "gameDate": "20260624",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260619SSHH02026",
-    "gameDate": "20260619",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "디아즈",
-    "batterPcode": "54400",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "O",
-    "resultText": "디아즈 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

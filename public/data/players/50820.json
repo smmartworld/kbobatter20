@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SKKT02026",
+    "gameDate": "20260625",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "소형준",
+    "pitcherPcode": "50030",
+    "resultCode": "O",
+    "resultText": "전의산 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260624SKKT02026",
     "gameDate": "20260624",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619SKNC02026",
-    "gameDate": "20260619",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "전의산 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]
