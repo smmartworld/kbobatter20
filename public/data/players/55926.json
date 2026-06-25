@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "정다훈",
+    "pitcherPcode": "56345",
+    "resultCode": "O",
+    "resultText": "정현창 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260623HTWO02026",
     "gameDate": "20260623",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260514OBHT02026",
-    "gameDate": "20260514",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "E",
-    "resultText": "정현창 : 2루수 땅볼 실책으로 출루 (2루수 포구 실책)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

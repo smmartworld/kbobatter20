@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SKKT02026",
+    "gameDate": "20260625",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "BB",
+    "resultText": "오태곤 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260623SKKT02026",
     "gameDate": "20260623",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "130",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260606KTSK02026",
-    "gameDate": "20260606",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "한승혁",
-    "pitcherPcode": "61666",
-    "resultCode": "O",
-    "resultText": "오태곤 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

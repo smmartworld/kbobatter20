@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625NCLT02026",
+    "gameDate": "20260625",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "김강현",
+    "pitcherPcode": "65522",
+    "resultCode": "GDP",
+    "resultText": "신재인 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260528HHNC02026",
     "gameDate": "20260528",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260502NCLG02026",
-    "gameDate": "20260502",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "O",
-    "resultText": "신재인 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

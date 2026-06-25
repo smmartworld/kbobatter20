@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박수종",
+    "batterPcode": "52305",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "O",
+    "resultText": "박수종 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260616WOSS02026",
     "gameDate": "20260616",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260517WONC02026",
-    "gameDate": "20260517",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박수종",
-    "batterPcode": "52305",
-    "pitcherName": "김영규",
-    "pitcherPcode": "68900",
-    "resultCode": "H",
-    "resultText": "박수종 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "투심"
   }
 ]

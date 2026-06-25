@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "변우혁",
+    "batterPcode": "69727",
+    "pitcherName": "정다훈",
+    "pitcherPcode": "56345",
+    "resultCode": "O",
+    "resultText": "변우혁 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260624HTWO02026",
     "gameDate": "20260624",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260613OBHT02026",
-    "gameDate": "20260613",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "변우혁",
-    "batterPcode": "69727",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "O",
-    "resultText": "변우혁 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]
