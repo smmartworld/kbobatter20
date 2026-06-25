@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625SKKT02026",
+    "gameDate": "20260625",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "베니지아노",
+    "pitcherPcode": "56841",
+    "resultCode": "K",
+    "resultText": "한승택 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260624SKKT02026",
     "gameDate": "20260624",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617KTOB02026",
-    "gameDate": "20260617",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "타카다",
-    "pitcherPcode": "56212",
-    "resultCode": "2B",
-    "resultText": "한승택 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

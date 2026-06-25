@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260625HTWO02026",
+    "gameDate": "20260625",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "최주환 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260623HTWO02026",
     "gameDate": "20260623",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614HHWO02026",
-    "gameDate": "20260614",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "O",
-    "resultText": "최주환 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "슬라이더"
   }
 ]
