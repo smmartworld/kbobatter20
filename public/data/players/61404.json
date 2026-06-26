@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626KTSS02026",
+    "gameDate": "20260626",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "이상동",
+    "pitcherPcode": "69054",
+    "resultCode": "O",
+    "resultText": "김헌곤 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260510SSNC02026",
-    "gameDate": "20260510",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "H",
-    "resultText": "김헌곤 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
   }
 ]

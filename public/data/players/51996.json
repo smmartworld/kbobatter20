@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626WONC02026",
+    "gameDate": "20260626",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "오태양",
+    "batterPcode": "51996",
+    "pitcherName": "김동규",
+    "pitcherPcode": "53164",
+    "resultCode": "BB",
+    "resultText": "오태양 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260620SKNC02026",
     "gameDate": "20260620",
     "opponent": "SSG",
