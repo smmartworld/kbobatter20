@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626WONC02026",
+    "gameDate": "20260626",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "김태경",
+    "pitcherPcode": "50992",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625HTWO02026",
     "gameDate": "20260625",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260619LTWO02026",
-    "gameDate": "20260619",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "O",
-    "resultText": "김웅빈 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626WONC02026",
+    "gameDate": "20260626",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김주원",
+    "batterPcode": "51907",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "O",
+    "resultText": "김주원 : 2루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260620SKNC02026",
-    "gameDate": "20260620",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김주원",
-    "batterPcode": "51907",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "O",
-    "resultText": "김주원 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HTOB02026",
+    "gameDate": "20260626",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "H",
+    "resultText": "김도영 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "156",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625HTWO02026",
     "gameDate": "20260625",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "138",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260620HTKT02026",
-    "gameDate": "20260620",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "주권",
-    "pitcherPcode": "65060",
-    "resultCode": "O",
-    "resultText": "김도영 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "스위퍼"
   }
 ]

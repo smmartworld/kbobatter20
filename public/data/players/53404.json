@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HTOB02026",
+    "gameDate": "20260626",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "류승민",
+    "batterPcode": "53404",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "BB",
+    "resultText": "류승민 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625OBHH02026",
     "gameDate": "20260625",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "121",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260621OBLG02026",
-    "gameDate": "20260621",
-    "opponent": "LG",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "류승민",
-    "batterPcode": "53404",
-    "pitcherName": "웰스",
-    "pitcherPcode": "55348",
-    "resultCode": "K",
-    "resultText": "류승민 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

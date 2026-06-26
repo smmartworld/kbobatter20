@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626KTSS02026",
+    "gameDate": "20260626",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "최원준 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SKKT02026",
     "gameDate": "20260625",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260621HTKT02026",
-    "gameDate": "20260621",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "HR",
-    "resultText": "최원준 : 우익수 뒤 홈런 (홈런거리:125M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HHSK02026",
+    "gameDate": "20260626",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "최정",
+    "batterPcode": "75847",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "GDP",
+    "resultText": "최정 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260625SKKT02026",
     "gameDate": "20260625",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617LTSK02026",
-    "gameDate": "20260617",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "최정",
-    "batterPcode": "75847",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "H",
-    "resultText": "최정 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
   }
 ]

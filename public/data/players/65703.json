@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HHSK02026",
+    "gameDate": "20260626",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이도윤",
+    "batterPcode": "65703",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "K",
+    "resultText": "이도윤 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260625OBHH02026",
     "gameDate": "20260625",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620SSHH02026",
-    "gameDate": "20260620",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "이도윤",
-    "batterPcode": "65703",
-    "pitcherName": "미야지",
-    "pitcherPcode": "56415",
-    "resultCode": "H",
-    "resultText": "이도윤 : 우중간 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "슬라이더"
   }
 ]

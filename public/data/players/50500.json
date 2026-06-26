@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "E",
+    "resultText": "황성빈 : 2루수 땅볼 실책으로 출루 (2루수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "로젠버그",
-    "pitcherPcode": "55322",
-    "resultCode": "H",
-    "resultText": "황성빈 : 투수 오른쪽 번트안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "138",
     "lastPitchType": "직구"
   }
 ]

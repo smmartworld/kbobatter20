@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "오스틴",
+    "batterPcode": "53123",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "BB",
+    "resultText": "오스틴 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260619OBLG02026",
-    "gameDate": "20260619",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "오스틴",
-    "batterPcode": "53123",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "O",
-    "resultText": "오스틴 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]

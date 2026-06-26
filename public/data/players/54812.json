@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HHSK02026",
+    "gameDate": "20260626",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "정준재",
+    "batterPcode": "54812",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "K",
+    "resultText": "정준재 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 9,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SKKT02026",
     "gameDate": "20260625",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260620SKNC02026",
-    "gameDate": "20260620",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "정준재",
-    "batterPcode": "54812",
-    "pitcherName": "원종해",
-    "pitcherPcode": "54906",
-    "resultCode": "O",
-    "resultText": "정준재 : 투수 앞 땅볼로 출루",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "투심"
   }
 ]

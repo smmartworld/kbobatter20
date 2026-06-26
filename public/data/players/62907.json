@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626WONC02026",
+    "gameDate": "20260626",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "O",
+    "resultText": "박민우 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620SKNC02026",
-    "gameDate": "20260620",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "GDP",
-    "resultText": "박민우 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

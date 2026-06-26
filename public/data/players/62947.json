@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626HTOB02026",
+    "gameDate": "20260626",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "나성범 : 3루수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260625HTWO02026",
     "gameDate": "20260625",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260620HTKT02026",
-    "gameDate": "20260620",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "김민수",
-    "pitcherPcode": "65048",
-    "resultCode": "H",
-    "resultText": "나성범 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "131",
     "lastPitchType": "커브"
   }
 ]

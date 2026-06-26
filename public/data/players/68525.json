@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "한동희",
+    "batterPcode": "68525",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "한동희 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "한동희",
-    "batterPcode": "68525",
-    "pitcherName": "로젠버그",
-    "pitcherPcode": "55322",
-    "resultCode": "O",
-    "resultText": "한동희 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "117",
     "lastPitchType": "체인지업"
   }
 ]

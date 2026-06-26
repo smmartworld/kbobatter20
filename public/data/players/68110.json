@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "송찬의 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "127",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260619OBLG02026",
-    "gameDate": "20260619",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "HR",
-    "resultText": "송찬의 : 좌익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]

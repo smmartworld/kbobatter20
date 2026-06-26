@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626KTSS02026",
+    "gameDate": "20260626",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "2B",
+    "resultText": "김현수 : 중견수 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SKKT02026",
     "gameDate": "20260625",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260618KTOB02026",
-    "gameDate": "20260618",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "BB",
-    "resultText": "김현수 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

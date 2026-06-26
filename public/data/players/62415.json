@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "박해민 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "138",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260619OBLG02026",
-    "gameDate": "20260619",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "H",
-    "resultText": "박해민 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]
