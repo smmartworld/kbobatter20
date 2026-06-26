@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "gameId": "20260626KTSS02026",
+    "gameDate": "20260626",
+    "opponent": "KT",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "O",
+    "resultText": "심재훈 : 우익수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
+    "gameId": "20260626KTSS02026",
+    "gameDate": "20260626",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "H",
+    "resultText": "심재훈 : 투수 왼쪽 앞 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "체인지업"
+  }
+]

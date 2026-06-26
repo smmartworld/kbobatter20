@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260626LGLT02026",
+    "gameDate": "20260626",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "노진혁 : 2루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "NC",
