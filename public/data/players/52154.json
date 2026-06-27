@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "O",
+    "resultText": "이주헌 : 3루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260530HTLG02026",
-    "gameDate": "20260530",
-    "opponent": "KIA",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "이주헌 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

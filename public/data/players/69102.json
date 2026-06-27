@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "현도훈",
+    "pitcherPcode": "68260",
+    "resultCode": "E",
+    "resultText": "문보경 : 1루수 땅볼 실책으로 출루 (1루수 송구 실책->투수)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260626LGLT02026",
     "gameDate": "20260626",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260621OBLG02026",
-    "gameDate": "20260621",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "박신지",
-    "pitcherPcode": "68249",
-    "resultCode": "BB",
-    "resultText": "문보경 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

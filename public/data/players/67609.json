@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "박정우 : 포수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626HTOB02026",
     "gameDate": "20260626",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260524SKHT02026",
-    "gameDate": "20260524",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "K",
-    "resultText": "박정우 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
