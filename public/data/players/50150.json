@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "손호영",
+    "batterPcode": "50150",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "BB",
+    "resultText": "손호영 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260625NCLT02026",
     "gameDate": "20260625",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260613LTLG02026",
-    "gameDate": "20260613",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "손호영",
-    "batterPcode": "50150",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "2B",
-    "resultText": "손호영 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

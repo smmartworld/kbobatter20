@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "윤동희",
+    "batterPcode": "52591",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "윤동희 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626LGLT02026",
     "gameDate": "20260626",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "윤동희",
-    "batterPcode": "52591",
-    "pitcherName": "조영건",
-    "pitcherPcode": "69360",
-    "resultCode": "K",
-    "resultText": "윤동희 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 8,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

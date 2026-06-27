@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "2B",
+    "resultText": "나성범 : 중견수 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260626HTOB02026",
     "gameDate": "20260626",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260621HTKT02026",
-    "gameDate": "20260621",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "BB",
-    "resultText": "나성범 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "포크"
   }
 ]

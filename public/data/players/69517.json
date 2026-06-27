@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "고승민 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626LGLT02026",
     "gameDate": "20260626",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "김윤하",
-    "pitcherPcode": "54319",
-    "resultCode": "O",
-    "resultText": "고승민 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

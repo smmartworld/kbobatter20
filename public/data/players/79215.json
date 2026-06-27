@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627WONC02026",
+    "gameDate": "20260627",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "박건우 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260626WONC02026",
     "gameDate": "20260626",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 6,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "박건우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "한동희",
+    "batterPcode": "68525",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "한동희 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260626LGLT02026",
     "gameDate": "20260626",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "한동희",
-    "batterPcode": "68525",
-    "pitcherName": "김서준",
-    "pitcherPcode": "55359",
-    "resultCode": "BB",
-    "resultText": "한동희 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

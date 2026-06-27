@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "E",
+    "resultText": "손성빈 : 3루수 땅볼 실책으로 출루 (3루수 송구 실책->1루수)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260626LGLT02026",
     "gameDate": "20260626",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260616LTSK02026",
-    "gameDate": "20260616",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "O",
-    "resultText": "손성빈 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

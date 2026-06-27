@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HHSK02026",
+    "gameDate": "20260627",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "박성한 : 3루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260626HHSK02026",
     "gameDate": "20260626",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "임지민",
-    "pitcherPcode": "52902",
-    "resultCode": "H",
-    "resultText": "박성한 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

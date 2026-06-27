@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김태군",
+    "batterPcode": "78122",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "김태군 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260626HTOB02026",
     "gameDate": "20260626",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260613OBHT02026",
-    "gameDate": "20260613",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김태군",
-    "batterPcode": "78122",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "H",
-    "resultText": "김태군 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "스위퍼"
   }
 ]

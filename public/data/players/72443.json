@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627KTSS02026",
+    "gameDate": "20260627",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "O",
+    "resultText": "최형우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260626KTSS02026",
     "gameDate": "20260626",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "143",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260620SSHH02026",
-    "gameDate": "20260620",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "H",
-    "resultText": "최형우 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
     "lastPitchType": "커터"
   }
 ]

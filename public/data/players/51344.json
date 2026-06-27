@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627WONC02026",
+    "gameDate": "20260627",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "김휘집 : 포수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626WONC02026",
     "gameDate": "20260626",
     "opponent": "키움",

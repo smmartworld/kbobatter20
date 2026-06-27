@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "김인태 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260625OBHH02026",
     "gameDate": "20260625",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260514OBHT02026",
-    "gameDate": "20260514",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김인태",
-    "batterPcode": "63257",
-    "pitcherName": "성영탁",
-    "pitcherPcode": "54610",
-    "resultCode": "K",
-    "resultText": "김인태 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
   }
 ]

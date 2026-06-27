@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박성재",
+    "batterPcode": "51298",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "박성재 : 중견수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260519NCOB02026",
     "gameDate": "20260519",
     "opponent": "NC",

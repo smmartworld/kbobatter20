@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HHSK02026",
+    "gameDate": "20260627",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김성욱",
+    "batterPcode": "62934",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "H",
+    "resultText": "김성욱 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260626HHSK02026",
     "gameDate": "20260626",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619SKNC02026",
-    "gameDate": "20260619",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김성욱",
-    "batterPcode": "62934",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "김성욱 : 3루수 라인드라이브 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]

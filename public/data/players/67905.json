@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627WONC02026",
+    "gameDate": "20260627",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "천재환 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260626WONC02026",
     "gameDate": "20260626",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619SKNC02026",
-    "gameDate": "20260619",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "최용준",
-    "pitcherPcode": "50650",
-    "resultCode": "BB",
-    "resultText": "천재환 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

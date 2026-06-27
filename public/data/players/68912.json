@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627WONC02026",
+    "gameDate": "20260627",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "K",
+    "resultText": "김형준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260626WONC02026",
     "gameDate": "20260626",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "137",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260619SKNC02026",
-    "gameDate": "20260619",
-    "opponent": "SSG",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "베니지아노",
-    "pitcherPcode": "56841",
-    "resultCode": "K",
-    "resultText": "김형준 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

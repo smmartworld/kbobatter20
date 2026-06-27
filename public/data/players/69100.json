@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627LGLT02026",
+    "gameDate": "20260627",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "O",
+    "resultText": "구본혁 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625SSLG02026",
     "gameDate": "20260625",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 6,
     "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260616LGHT02026",
-    "gameDate": "20260616",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "O",
-    "resultText": "구본혁 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "121",
     "lastPitchType": "체인지업"
   }
 ]

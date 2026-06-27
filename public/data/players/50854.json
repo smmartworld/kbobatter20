@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HHSK02026",
+    "gameDate": "20260627",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "최지훈 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626HHSK02026",
     "gameDate": "20260626",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "신영우",
-    "pitcherPcode": "53919",
-    "resultCode": "O",
-    "resultText": "최지훈 : 포수 스트라이크 낫아웃 다른주자 수비로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260627HTOB02026",
+    "gameDate": "20260627",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "변우혁",
+    "batterPcode": "69727",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "K",
+    "resultText": "변우혁 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 8,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260625HTWO02026",
     "gameDate": "20260625",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "156",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260613OBHT02026",
-    "gameDate": "20260613",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "변우혁",
-    "batterPcode": "69727",
-    "pitcherName": "김동주",
-    "pitcherPcode": "51230",
-    "resultCode": "O",
-    "resultText": "변우혁 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]
