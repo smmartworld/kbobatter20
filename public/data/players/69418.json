@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628KTSS02026",
+    "gameDate": "20260628",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "3B",
+    "resultText": "박승규 : 우익수 뒤 3루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260627KTSS02026",
     "gameDate": "20260627",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "158",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623SSLG02026",
-    "gameDate": "20260623",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "장현식",
-    "pitcherPcode": "63950",
-    "resultCode": "O",
-    "resultText": "박승규 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

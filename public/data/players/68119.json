@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628LGLT02026",
+    "gameDate": "20260628",
+    "opponent": "롯데",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "김강현",
+    "pitcherPcode": "65522",
+    "resultCode": "BB",
+    "resultText": "문성주 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260627LGLT02026",
     "gameDate": "20260627",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621OBLG02026",
-    "gameDate": "20260621",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "김동주",
-    "pitcherPcode": "51230",
-    "resultCode": "O",
-    "resultText": "문성주 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]
