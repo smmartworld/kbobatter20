@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628LGLT02026",
+    "gameDate": "20260628",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "이주헌 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260627LGLT02026",
     "gameDate": "20260627",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "119",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260602LGKT02026",
-    "gameDate": "20260602",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "김정운",
-    "pitcherPcode": "53029",
-    "resultCode": "BB",
-    "resultText": "이주헌 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]
