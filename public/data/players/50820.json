@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628HHSK02026",
+    "gameDate": "20260628",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "O",
+    "resultText": "전의산 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "140",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "임지민",
-    "pitcherPcode": "52902",
-    "resultCode": "HR",
-    "resultText": "전의산 : 중견수 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "155",
-    "lastPitchType": "직구"
   }
 ]

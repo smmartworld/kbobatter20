@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628KTSS02026",
+    "gameDate": "20260628",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "H",
+    "resultText": "심재훈 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260627KTSS02026",
     "gameDate": "20260627",
     "opponent": "KT",
