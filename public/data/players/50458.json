@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628KTSS02026",
+    "gameDate": "20260628",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "김지찬 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260627KTSS02026",
     "gameDate": "20260627",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621SSHH02026",
-    "gameDate": "20260621",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "H",
-    "resultText": "김지찬 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628WONC02026",
+    "gameDate": "20260628",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "서건창",
+    "batterPcode": "78168",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "H",
+    "resultText": "서건창 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260627WONC02026",
     "gameDate": "20260627",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260623HTWO02026",
-    "gameDate": "20260623",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "서건창",
-    "batterPcode": "78168",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "서건창 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "138",
     "lastPitchType": "체인지업"
   }
 ]

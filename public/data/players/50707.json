@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628HHSK02026",
+    "gameDate": "20260628",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "H",
+    "resultText": "최인호 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "SSG",

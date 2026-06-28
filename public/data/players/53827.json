@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628HHSK02026",
+    "gameDate": "20260628",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "에레디아",
+    "batterPcode": "53827",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "에레디아 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "122",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260623SKKT02026",
-    "gameDate": "20260623",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "에레디아",
-    "batterPcode": "53827",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "O",
-    "resultText": "에레디아 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "116",
     "lastPitchType": "체인지업"
   }
 ]

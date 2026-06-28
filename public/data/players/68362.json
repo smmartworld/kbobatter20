@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628WONC02026",
+    "gameDate": "20260628",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "BB",
+    "resultText": "추재현 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260627WONC02026",
     "gameDate": "20260627",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260621LTWO02026",
-    "gameDate": "20260621",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "O",
-    "resultText": "추재현 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "포크"
   }
 ]

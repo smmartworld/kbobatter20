@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628HHSK02026",
+    "gameDate": "20260628",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "강백호",
+    "batterPcode": "68050",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "강백호 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260623OBHH02026",
-    "gameDate": "20260623",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "강백호",
-    "batterPcode": "68050",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "강백호 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "포크"
   }
 ]

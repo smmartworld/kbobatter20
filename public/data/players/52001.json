@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628KTSS02026",
+    "gameDate": "20260628",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "O",
+    "resultText": "안현민 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260627KTSS02026",
     "gameDate": "20260627",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260623SKKT02026",
-    "gameDate": "20260623",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "신상연",
-    "pitcherPcode": "56808",
-    "resultCode": "HR",
-    "resultText": "안현민 : 좌익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
   }
 ]

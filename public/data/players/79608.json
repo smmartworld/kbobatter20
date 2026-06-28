@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260628WONC02026",
+    "gameDate": "20260628",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "2B",
+    "resultText": "안치홍 : 좌익수 왼쪽 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260627WONC02026",
     "gameDate": "20260627",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260618WOSS02026",
-    "gameDate": "20260618",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "오러클린",
-    "pitcherPcode": "56464",
-    "resultCode": "O",
-    "resultText": "안치홍 : 3루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]
