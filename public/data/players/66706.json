@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630KTHH02026",
+    "gameDate": "20260630",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "장진혁 : 1루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628KTSS02026",
     "gameDate": "20260628",
     "opponent": "삼성",

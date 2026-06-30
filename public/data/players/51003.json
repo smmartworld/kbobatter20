@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630KTHH02026",
+    "gameDate": "20260630",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "권동진 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628KTSS02026",
     "gameDate": "20260628",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620HTKT02026",
-    "gameDate": "20260620",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "성영탁",
-    "pitcherPcode": "54610",
-    "resultCode": "H",
-    "resultText": "권동진 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]
