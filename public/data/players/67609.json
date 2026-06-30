@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "박시후",
+    "pitcherPcode": "50812",
+    "resultCode": "H",
+    "resultText": "박정우 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260628HTOB02026",
     "gameDate": "20260628",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260524SKHT02026",
-    "gameDate": "20260524",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "조병현",
-    "pitcherPcode": "51897",
-    "resultCode": "O",
-    "resultText": "박정우 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

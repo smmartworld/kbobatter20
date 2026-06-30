@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LTOB02026",
+    "gameDate": "20260630",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "박재엽 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260612LTLG02026",
     "gameDate": "20260612",
     "opponent": "LG",
