@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "최지훈 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HHSK02026",
     "gameDate": "20260628",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260624SKKT02026",
-    "gameDate": "20260624",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "SAC",
-    "resultText": "최지훈 : 중견수 희생플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "투심"
   }
 ]

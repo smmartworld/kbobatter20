@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김호령",
+    "batterPcode": "65653",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "K",
+    "resultText": "김호령 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HTOB02026",
     "gameDate": "20260628",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260624HTWO02026",
-    "gameDate": "20260624",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김호령",
-    "batterPcode": "65653",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "김호령 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "커브"
   }
 ]

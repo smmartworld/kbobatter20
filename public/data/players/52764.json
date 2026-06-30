@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630KTHH02026",
+    "gameDate": "20260630",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "H",
+    "resultText": "허인서 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621SSHH02026",
-    "gameDate": "20260621",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "SAC",
-    "resultText": "허인서 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
     "lastPitchType": "직구"
   }
 ]

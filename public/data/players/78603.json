@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "O",
+    "resultText": "김선빈 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HTOB02026",
     "gameDate": "20260628",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621HTKT02026",
-    "gameDate": "20260621",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "H",
-    "resultText": "김선빈 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "커터"
   }
 ]

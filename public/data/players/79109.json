@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LGWO02026",
+    "gameDate": "20260630",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "K",
+    "resultText": "오지환 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620OBLG02026",
-    "gameDate": "20260620",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "오지환 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630KTHH02026",
+    "gameDate": "20260630",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "2B",
+    "resultText": "김태연 : 좌중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HHSK02026",
     "gameDate": "20260628",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623OBHH02026",
-    "gameDate": "20260623",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "김태연 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

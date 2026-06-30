@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "고명준",
+    "batterPcode": "51868",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "K",
+    "resultText": "고명준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HHSK02026",
     "gameDate": "20260628",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260624SKKT02026",
-    "gameDate": "20260624",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "고명준",
-    "batterPcode": "51868",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "H",
-    "resultText": "고명준 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

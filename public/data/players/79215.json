@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SSNC02026",
+    "gameDate": "20260630",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "오러클린",
+    "pitcherPcode": "56464",
+    "resultCode": "SAC",
+    "resultText": "박건우 : 중견수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "118",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260628WONC02026",
     "gameDate": "20260628",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260624NCLT02026",
-    "gameDate": "20260624",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "박건우 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "커브"
   }
 ]

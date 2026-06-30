@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "H",
+    "resultText": "나성범 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "112",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260628HTOB02026",
     "gameDate": "20260628",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260624HTWO02026",
-    "gameDate": "20260624",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "나성범 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "138",
     "lastPitchType": "체인지업"
   }
 ]

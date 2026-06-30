@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LGWO02026",
+    "gameDate": "20260630",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "박해민 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623SSLG02026",
-    "gameDate": "20260623",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "김태훈",
-    "pitcherPcode": "62360",
-    "resultCode": "O",
-    "resultText": "박해민 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "투심"
   }
 ]

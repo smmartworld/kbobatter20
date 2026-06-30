@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LGWO02026",
+    "gameDate": "20260630",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "SAC",
+    "resultText": "안치홍 : 중견수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628WONC02026",
     "gameDate": "20260628",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260619LTWO02026",
-    "gameDate": "20260619",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "O",
-    "resultText": "안치홍 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

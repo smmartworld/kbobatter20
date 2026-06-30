@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630KTHH02026",
+    "gameDate": "20260630",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "O",
+    "resultText": "힐리어드 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628KTSS02026",
     "gameDate": "20260628",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260624SKKT02026",
-    "gameDate": "20260624",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "문승원",
-    "pitcherPcode": "62869",
-    "resultCode": "BB",
-    "resultText": "힐리어드 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

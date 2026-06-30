@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LGWO02026",
+    "gameDate": "20260630",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "홍창기",
+    "batterPcode": "66108",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "홍창기 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260623SSLG02026",
-    "gameDate": "20260623",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "홍창기",
-    "batterPcode": "66108",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "홍창기 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "커터"
   }
 ]

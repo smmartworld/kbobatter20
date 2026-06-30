@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630SKHT02026",
+    "gameDate": "20260630",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "H",
+    "resultText": "전의산 : 좌익수 오른쪽 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HHSK02026",
     "gameDate": "20260628",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "류진욱",
-    "pitcherPcode": "65949",
-    "resultCode": "O",
-    "resultText": "전의산 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260630LTOB02026",
+    "gameDate": "20260630",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "H",
+    "resultText": "레이예스 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260624NCLT02026",
-    "gameDate": "20260624",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "2B",
-    "resultText": "레이예스 : 좌중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
   }
 ]
