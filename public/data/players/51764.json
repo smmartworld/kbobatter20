@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "정민규",
+    "batterPcode": "51764",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "K",
+    "resultText": "정민규 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  }
+]
