@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "최준우",
+    "batterPcode": "68868",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "BB",
+    "resultText": "최준우 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606KTSK02026",
     "gameDate": "20260606",
     "opponent": "KT",

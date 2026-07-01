@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김민준",
+    "batterPcode": "53893",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "O",
+    "resultText": "김민준 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260607KTSK02026",
     "gameDate": "20260607",
     "opponent": "KT",

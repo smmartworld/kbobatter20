@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신범수",
+    "batterPcode": "66662",
+    "pitcherName": "김범수",
+    "pitcherPcode": "65769",
+    "resultCode": "K",
+    "resultText": "신범수 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "KIA",
