@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LGWO02026",
+    "gameDate": "20260701",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "홍창기",
+    "batterPcode": "66108",
+    "pitcherName": "최현우",
+    "pitcherPcode": "56312",
+    "resultCode": "O",
+    "resultText": "홍창기 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260630LGWO02026",
     "gameDate": "20260630",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "홍창기",
-    "batterPcode": "66108",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "H",
-    "resultText": "홍창기 : 중견수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

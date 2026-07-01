@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "임기영",
+    "pitcherPcode": "62754",
+    "resultCode": "H",
+    "resultText": "최정원 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260627WONC02026",
     "gameDate": "20260627",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260527HHNC02026",
-    "gameDate": "20260527",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "김종수",
-    "pitcherPcode": "63765",
-    "resultCode": "H",
-    "resultText": "최정원 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

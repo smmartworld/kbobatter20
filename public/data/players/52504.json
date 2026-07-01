@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "두산",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "BB",
+    "resultText": "김동혁 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "LG",

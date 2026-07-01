@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LGWO02026",
+    "gameDate": "20260701",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "김진성",
+    "pitcherPcode": "75867",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260630LGWO02026",
     "gameDate": "20260630",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260621LTWO02026",
-    "gameDate": "20260621",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "H",
-    "resultText": "김웅빈 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

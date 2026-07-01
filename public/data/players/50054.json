@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LGWO02026",
+    "gameDate": "20260701",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "원종현",
+    "pitcherPcode": "76118",
+    "resultCode": "2B",
+    "resultText": "천성호 : 좌중간 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614LTLG02026",
-    "gameDate": "20260614",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "O",
-    "resultText": "천성호 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "스위퍼"
   }
 ]

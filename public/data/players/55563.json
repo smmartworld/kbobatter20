@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "두산",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "2B",
+    "resultText": "박재엽 : 좌익수 앞 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "황영묵 : 투수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260628HHSK02026",
     "gameDate": "20260628",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260603HHOB02026",
-    "gameDate": "20260603",
-    "opponent": "두산",
-    "inning": 11,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "박정수",
-    "pitcherPcode": "65639",
-    "resultCode": "SAC",
-    "resultText": "황영묵 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

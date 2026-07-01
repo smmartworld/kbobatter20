@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "2B",
+    "resultText": "류현인 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260628KTSS02026",
     "gameDate": "20260628",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "139",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260619HTKT02026",
-    "gameDate": "20260619",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "K",
-    "resultText": "류현인 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "스위퍼"
   }
 ]

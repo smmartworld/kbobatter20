@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "H",
+    "resultText": "장진혁 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260630KTHH02026",
     "gameDate": "20260630",
     "opponent": "한화",

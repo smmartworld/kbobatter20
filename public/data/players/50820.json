@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "2B",
+    "resultText": "전의산 : 중견수 뒤 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260623SKKT02026",
-    "gameDate": "20260623",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "H",
-    "resultText": "전의산 : 1루수 맞고 2루수 내야안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "120",
-    "lastPitchType": "체인지업"
   }
 ]

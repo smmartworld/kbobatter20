@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "HR",
+    "resultText": "박정현 : 중견수 뒤 홈런 (홈런거리:130M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260624OBHH02026",
     "gameDate": "20260624",
     "opponent": "두산",

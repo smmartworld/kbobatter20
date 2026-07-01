@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "변우혁",
+    "batterPcode": "69727",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "O",
+    "resultText": "변우혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260621HTKT02026",
-    "gameDate": "20260621",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "변우혁",
-    "batterPcode": "69727",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "HR",
-    "resultText": "변우혁 : 중견수 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
