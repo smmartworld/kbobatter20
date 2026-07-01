@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "O",
+    "resultText": "박재현 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625HTWO02026",
-    "gameDate": "20260625",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "박재현 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

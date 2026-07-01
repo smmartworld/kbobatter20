@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "O",
+    "resultText": "김형준 : 우익수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260623NCLT02026",
-    "gameDate": "20260623",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "O",
-    "resultText": "김형준 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "커브"
   }
 ]

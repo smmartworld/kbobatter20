@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "H",
+    "resultText": "천재환 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "천재환 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
   }
 ]

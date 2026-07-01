@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "O",
+    "resultText": "구자욱 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "H",
-    "resultText": "구자욱 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

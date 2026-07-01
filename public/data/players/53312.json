@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LGWO02026",
+    "gameDate": "20260701",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "함덕주",
+    "pitcherPcode": "63248",
+    "resultCode": "O",
+    "resultText": "김건희 : 1루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260630LGWO02026",
     "gameDate": "20260630",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260620LTWO02026",
-    "gameDate": "20260620",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "김건희 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

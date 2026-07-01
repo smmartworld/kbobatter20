@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "HR",
+    "resultText": "최형우 : 좌익수 뒤 홈런 (홈런거리:105M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "배재준",
-    "pitcherPcode": "63145",
-    "resultCode": "H",
-    "resultText": "최형우 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

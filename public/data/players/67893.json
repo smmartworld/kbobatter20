@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "BB",
+    "resultText": "박성한 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260625SKKT02026",
-    "gameDate": "20260625",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "H",
-    "resultText": "박성한 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "134",
     "lastPitchType": "체인지업"
   }
 ]

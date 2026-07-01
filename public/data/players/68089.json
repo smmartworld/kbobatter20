@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "O",
+    "resultText": "조대현 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260626KTSS02026",
     "gameDate": "20260626",
     "opponent": "삼성",

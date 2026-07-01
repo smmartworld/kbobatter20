@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "최정",
+    "batterPcode": "75847",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "H",
+    "resultText": "최정 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "131",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260624SKKT02026",
-    "gameDate": "20260624",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "최정",
-    "batterPcode": "75847",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "H",
-    "resultText": "최정 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

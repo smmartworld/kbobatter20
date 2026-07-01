@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "레이예스 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260625NCLT02026",
-    "gameDate": "20260625",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "H",
-    "resultText": "레이예스 : 1루수 맞고 우전 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "커터"
   }
 ]

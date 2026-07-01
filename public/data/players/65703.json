@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701KTHH02026",
+    "gameDate": "20260701",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이도윤",
+    "batterPcode": "65703",
+    "pitcherName": "소형준",
+    "pitcherPcode": "50030",
+    "resultCode": "O",
+    "resultText": "이도윤 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 10,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260630KTHH02026",
     "gameDate": "20260630",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "128",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260624OBHH02026",
-    "gameDate": "20260624",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "이도윤",
-    "batterPcode": "65703",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "E",
-    "resultText": "이도윤 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "커터"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박건우",
+    "batterPcode": "55509",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "박건우 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "두산",

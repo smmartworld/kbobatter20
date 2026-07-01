@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박상준",
+    "batterPcode": "52634",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "BB",
+    "resultText": "박상준 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260522SKHT02026",
     "gameDate": "20260522",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260517HTSS02026",
-    "gameDate": "20260517",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박상준",
-    "batterPcode": "52634",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "박상준 : 유격수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]

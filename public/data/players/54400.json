@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "디아즈",
+    "batterPcode": "54400",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "BB",
+    "resultText": "디아즈 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "디아즈",
-    "batterPcode": "54400",
-    "pitcherName": "배재준",
-    "pitcherPcode": "63145",
-    "resultCode": "2B",
-    "resultText": "디아즈 : 우중간 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

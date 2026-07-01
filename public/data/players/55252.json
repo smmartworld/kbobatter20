@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박준순",
+    "batterPcode": "55252",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "박준순 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625OBHH02026",
-    "gameDate": "20260625",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "박준순",
-    "batterPcode": "55252",
-    "pitcherName": "정우주",
-    "pitcherPcode": "55743",
-    "resultCode": "H",
-    "resultText": "박준순 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
   }
 ]
