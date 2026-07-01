@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701LTOB02026",
+    "gameDate": "20260701",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "O",
+    "resultText": "노진혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614LTLG02026",
-    "gameDate": "20260614",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "노진혁 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]

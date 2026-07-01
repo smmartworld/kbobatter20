@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "H",
+    "resultText": "고준휘 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  }
+]

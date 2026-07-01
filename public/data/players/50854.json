@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SKHT02026",
+    "gameDate": "20260701",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "K",
+    "resultText": "최지훈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260630SKHT02026",
     "gameDate": "20260630",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "138",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260625SKKT02026",
-    "gameDate": "20260625",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "O",
-    "resultText": "최지훈 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 9,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "체인지업"
   }
 ]

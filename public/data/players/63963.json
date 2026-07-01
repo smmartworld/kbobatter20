@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260701SSNC02026",
+    "gameDate": "20260701",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "백정현",
+    "pitcherPcode": "77446",
+    "resultCode": "HR",
+    "resultText": "권희동 : 좌익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260624NCLT02026",
-    "gameDate": "20260624",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "H",
-    "resultText": "권희동 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
