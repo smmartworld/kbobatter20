@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702LTOB02026",
+    "gameDate": "20260702",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "노진혁 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260701LTOB02026",
     "gameDate": "20260701",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260618LTSK02026",
-    "gameDate": "20260618",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "문승원",
-    "pitcherPcode": "62869",
-    "resultCode": "GDP",
-    "resultText": "노진혁 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]

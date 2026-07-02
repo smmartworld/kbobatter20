@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702LTOB02026",
+    "gameDate": "20260702",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "김강현",
+    "pitcherPcode": "65522",
+    "resultCode": "O",
+    "resultText": "이유찬 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260630LTOB02026",
     "gameDate": "20260630",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "120",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260614OBHT02026",
-    "gameDate": "20260614",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "지현",
-    "pitcherPcode": "56633",
-    "resultCode": "O",
-    "resultText": "이유찬 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]
