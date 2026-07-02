@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702KTHH02026",
+    "gameDate": "20260702",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "장유호",
+    "pitcherPcode": "69645",
+    "resultCode": "H",
+    "resultText": "조대현 : 좌중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260701KTHH02026",
     "gameDate": "20260701",
     "opponent": "한화",

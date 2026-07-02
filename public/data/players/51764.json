@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702KTHH02026",
+    "gameDate": "20260702",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "정민규",
+    "batterPcode": "51764",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "O",
+    "resultText": "정민규 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260701KTHH02026",
     "gameDate": "20260701",
     "opponent": "KT",

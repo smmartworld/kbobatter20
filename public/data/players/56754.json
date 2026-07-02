@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702KTHH02026",
+    "gameDate": "20260702",
+    "opponent": "KT",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "오재원",
+    "batterPcode": "56754",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "BB",
+    "resultText": "오재원 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260618HHNC02026",
     "gameDate": "20260618",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 11,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260610HTHH02026",
-    "gameDate": "20260610",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "오재원",
-    "batterPcode": "56754",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "O",
-    "resultText": "오재원 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]
