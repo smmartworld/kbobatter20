@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702LTOB02026",
+    "gameDate": "20260702",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박찬형",
+    "batterPcode": "55530",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "H",
+    "resultText": "박찬형 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260627LGLT02026",
     "gameDate": "20260627",
     "opponent": "LG",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702LTOB02026",
+    "gameDate": "20260702",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "박찬호 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260701LTOB02026",
     "gameDate": "20260701",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "136",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260624OBHH02026",
-    "gameDate": "20260624",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "황준서",
-    "pitcherPcode": "54729",
-    "resultCode": "O",
-    "resultText": "박찬호 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "124",
     "lastPitchType": "포크"
   }
 ]

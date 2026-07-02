@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260702SSNC02026",
+    "gameDate": "20260702",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "손주환",
+    "pitcherPcode": "54904",
+    "resultCode": "BB",
+    "resultText": "김상준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260701SSNC02026",
     "gameDate": "20260701",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260614SKSS02026",
-    "gameDate": "20260614",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "O",
-    "resultText": "김상준 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "커터"
   }
 ]
