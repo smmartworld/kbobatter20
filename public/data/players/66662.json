@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703SSSK02026",
+    "gameDate": "20260703",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "신범수",
+    "batterPcode": "66662",
+    "pitcherName": "김재윤",
+    "pitcherPcode": "65062",
+    "resultCode": "O",
+    "resultText": "신범수 : 1루수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260701SKHT02026",
     "gameDate": "20260701",
     "opponent": "KIA",

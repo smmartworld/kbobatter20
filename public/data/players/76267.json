@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703OBWO02026",
+    "gameDate": "20260703",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "2B",
+    "resultText": "최주환 : 우중간 2루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260702LGWO02026",
     "gameDate": "20260702",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621LTWO02026",
-    "gameDate": "20260621",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "O",
-    "resultText": "최주환 : 1루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "포크"
   }
 ]

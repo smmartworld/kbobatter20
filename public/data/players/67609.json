@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703NCHT02026",
+    "gameDate": "20260703",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "55995",
+    "resultCode": "O",
+    "resultText": "박정우 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260701SKHT02026",
     "gameDate": "20260701",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260604LTHT02026",
-    "gameDate": "20260604",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "이승헌",
-    "pitcherPcode": "68529",
-    "resultCode": "BB",
-    "resultText": "박정우 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

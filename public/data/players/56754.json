@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703HHLG02026",
+    "gameDate": "20260703",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "오재원",
+    "batterPcode": "56754",
+    "pitcherName": "이상영",
+    "pitcherPcode": "69168",
+    "resultCode": "H",
+    "resultText": "오재원 : 유격수 오른쪽 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260702KTHH02026",
     "gameDate": "20260702",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "139",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260610HTHH02026",
-    "gameDate": "20260610",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "오재원",
-    "batterPcode": "56754",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "BB",
-    "resultText": "오재원 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 11,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]

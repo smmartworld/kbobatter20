@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703HHLG02026",
+    "gameDate": "20260703",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "이상영",
+    "pitcherPcode": "69168",
+    "resultCode": "BB",
+    "resultText": "박정현 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260702KTHH02026",
     "gameDate": "20260702",
     "opponent": "KT",
