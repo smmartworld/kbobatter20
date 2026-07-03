@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703OBWO02026",
+    "gameDate": "20260703",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김동헌",
+    "batterPcode": "53344",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "김동헌 : 우익수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260702LGWO02026",
     "gameDate": "20260702",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "135",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260617WOSS02026",
-    "gameDate": "20260617",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김동헌",
-    "batterPcode": "53344",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "김동헌 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "포크"
   }
 ]

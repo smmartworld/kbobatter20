@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703HHLG02026",
+    "gameDate": "20260703",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "K",
+    "resultText": "이주헌 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 9,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260628LGLT02026",
     "gameDate": "20260628",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260603LGKT02026",
-    "gameDate": "20260603",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "O",
-    "resultText": "이주헌 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "투심"
   }
 ]

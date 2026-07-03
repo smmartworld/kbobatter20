@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703OBWO02026",
+    "gameDate": "20260703",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "여동욱 : 1루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260702LGWO02026",
     "gameDate": "20260702",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "139",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626WONC02026",
-    "gameDate": "20260626",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "김태경",
-    "pitcherPcode": "50992",
-    "resultCode": "K",
-    "resultText": "여동욱 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

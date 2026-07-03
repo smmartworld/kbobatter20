@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703SSSK02026",
+    "gameDate": "20260703",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "H",
+    "resultText": "최지훈 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260702SKHT02026",
     "gameDate": "20260702",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626HHSK02026",
-    "gameDate": "20260626",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "H",
-    "resultText": "최지훈 : 1루수 앞 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]

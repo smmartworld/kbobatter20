@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260703SSSK02026",
+    "gameDate": "20260703",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "정준재",
+    "batterPcode": "54812",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "정준재 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260702SKHT02026",
     "gameDate": "20260702",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260627HHSK02026",
-    "gameDate": "20260627",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "정준재",
-    "batterPcode": "54812",
-    "pitcherName": "장유호",
-    "pitcherPcode": "69645",
-    "resultCode": "E",
-    "resultText": "정준재 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 9,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]
