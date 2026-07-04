@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704LTKT02026",
+    "gameDate": "20260704",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "H",
+    "resultText": "노진혁 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260702LTOB02026",
     "gameDate": "20260702",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260619LTWO02026",
-    "gameDate": "20260619",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "노진혁 : 1루수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

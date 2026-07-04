@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704NCHT02026",
+    "gameDate": "20260704",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "H",
+    "resultText": "고준휘 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260702SSNC02026",
     "gameDate": "20260702",
     "opponent": "삼성",
