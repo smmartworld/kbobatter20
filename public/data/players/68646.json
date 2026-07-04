@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704NCHT02026",
+    "gameDate": "20260704",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "한준수 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260628HTOB02026",
-    "gameDate": "20260628",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "H",
-    "resultText": "한준수 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "슬라이더"
   }
 ]

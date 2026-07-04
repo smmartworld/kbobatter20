@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704OBWO02026",
+    "gameDate": "20260704",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "히우라",
+    "batterPcode": "56305",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "H",
+    "resultText": "히우라 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703OBWO02026",
     "gameDate": "20260703",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260628WONC02026",
-    "gameDate": "20260628",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "히우라",
-    "batterPcode": "56305",
-    "pitcherName": "하준영",
-    "pitcherPcode": "68639",
-    "resultCode": "H",
-    "resultText": "히우라 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

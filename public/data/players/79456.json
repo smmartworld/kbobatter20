@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이지영",
+    "batterPcode": "79456",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "이지영 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260530SKHH02026",
     "gameDate": "20260530",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260516LGSK02026",
-    "gameDate": "20260516",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이지영",
-    "batterPcode": "79456",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "이지영 : 1루수 플라이 아웃 (번트)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "127",
     "lastPitchType": "슬라이더"
   }
 ]

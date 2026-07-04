@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704LTKT02026",
+    "gameDate": "20260704",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "박찬형",
+    "batterPcode": "55530",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "박찬형 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260702LTOB02026",
     "gameDate": "20260702",
     "opponent": "두산",

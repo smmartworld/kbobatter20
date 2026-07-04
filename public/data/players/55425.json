@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "O",
+    "resultText": "김상준 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260703SSSK02026",
     "gameDate": "20260703",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "120",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260618WOSS02026",
-    "gameDate": "20260618",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "박진형",
-    "pitcherPcode": "63512",
-    "resultCode": "BB",
-    "resultText": "김상준 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

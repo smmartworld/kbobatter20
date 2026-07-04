@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704LTKT02026",
+    "gameDate": "20260704",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "K",
+    "resultText": "힐리어드 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260703LTKT02026",
     "gameDate": "20260703",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260627KTSS02026",
-    "gameDate": "20260627",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "2B",
-    "resultText": "힐리어드 : 우익수 뒤 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

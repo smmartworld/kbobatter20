@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704HHLG02026",
+    "gameDate": "20260704",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "O",
+    "resultText": "박정현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260703HHLG02026",
     "gameDate": "20260703",
     "opponent": "LG",

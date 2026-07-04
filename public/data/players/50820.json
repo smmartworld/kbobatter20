@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "HR",
+    "resultText": "전의산 : 우익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703SSSK02026",
     "gameDate": "20260703",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 8,
     "lastPitchSpeed": "140",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260625SKKT02026",
-    "gameDate": "20260625",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "O",
-    "resultText": "전의산 : 2루수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "142",
     "lastPitchType": "커터"
   }
 ]

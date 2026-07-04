@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704OBWO02026",
+    "gameDate": "20260704",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "O",
+    "resultText": "강승호 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703OBWO02026",
     "gameDate": "20260703",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260610OBLT02026",
-    "gameDate": "20260610",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "김진욱",
-    "pitcherPcode": "51516",
-    "resultCode": "BB",
-    "resultText": "강승호 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

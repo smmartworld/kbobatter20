@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704OBWO02026",
+    "gameDate": "20260704",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "박찬혁 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260703OBWO02026",
     "gameDate": "20260703",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "133",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260628WONC02026",
-    "gameDate": "20260628",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "O",
-    "resultText": "박찬혁 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "131",
     "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704LTKT02026",
+    "gameDate": "20260704",
+    "opponent": "롯데",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "한승택 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260703LTKT02026",
     "gameDate": "20260703",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623SKKT02026",
-    "gameDate": "20260623",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "O",
-    "resultText": "한승택 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

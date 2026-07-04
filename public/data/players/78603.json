@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704NCHT02026",
+    "gameDate": "20260704",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "김선빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260628HTOB02026",
-    "gameDate": "20260628",
-    "opponent": "두산",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "O",
-    "resultText": "김선빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

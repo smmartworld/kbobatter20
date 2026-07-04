@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704HHLG02026",
+    "gameDate": "20260704",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "H",
+    "resultText": "김태연 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260703HHLG02026",
     "gameDate": "20260703",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260627HHSK02026",
-    "gameDate": "20260627",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "O",
-    "resultText": "김태연 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]

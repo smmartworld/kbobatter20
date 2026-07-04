@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704NCHT02026",
+    "gameDate": "20260704",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "2B",
+    "resultText": "나성범 : 우중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "121",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260628HTOB02026",
-    "gameDate": "20260628",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "O",
-    "resultText": "나성범 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

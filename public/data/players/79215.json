@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704NCHT02026",
+    "gameDate": "20260704",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "BB",
+    "resultText": "박건우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260628WONC02026",
-    "gameDate": "20260628",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "와일스",
-    "pitcherPcode": "56334",
-    "resultCode": "HR",
-    "resultText": "박건우 : 좌중간 뒤 홈런 (홈런거리:115M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "체인지업"
   }
 ]
