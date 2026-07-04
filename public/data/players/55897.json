@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "임기영",
+    "pitcherPcode": "62754",
+    "resultCode": "O",
+    "resultText": "홍대인 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260627HHSK02026",
     "gameDate": "20260627",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260509SKOB02026",
-    "gameDate": "20260509",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "홍대인",
-    "batterPcode": "55897",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "O",
-    "resultText": "홍대인 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

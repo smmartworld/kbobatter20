@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704OBWO02026",
+    "gameDate": "20260704",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "오선진",
+    "batterPcode": "78756",
+    "pitcherName": "김동주",
+    "pitcherPcode": "51230",
+    "resultCode": "H",
+    "resultText": "오선진 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260609NCWO02026",
     "gameDate": "20260609",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260514HHWO02026",
-    "gameDate": "20260514",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "오선진",
-    "batterPcode": "78756",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "O",
-    "resultText": "오선진 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

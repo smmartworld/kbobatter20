@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "노경은",
+    "pitcherPcode": "73211",
+    "resultCode": "O",
+    "resultText": "심재훈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260630SSNC02026",
     "gameDate": "20260630",
     "opponent": "NC",

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260704SSSK02026",
+    "gameDate": "20260704",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "이성규",
+    "batterPcode": "66409",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "이성규 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  }
+]
