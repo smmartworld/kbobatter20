@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "에레디아",
+    "batterPcode": "53827",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "O",
+    "resultText": "에레디아 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "128",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260630SKHT02026",
-    "gameDate": "20260630",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "에레디아",
-    "batterPcode": "53827",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "O",
-    "resultText": "에레디아 : 1루수 땅볼 아웃 (1루수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

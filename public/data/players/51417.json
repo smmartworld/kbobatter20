@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "BB",
+    "resultText": "김현준 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260702SSNC02026",
     "gameDate": "20260702",
     "opponent": "NC",

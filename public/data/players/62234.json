@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "O",
+    "resultText": "류지혁 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630SSNC02026",
-    "gameDate": "20260630",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "송명기",
-    "pitcherPcode": "69962",
-    "resultCode": "H",
-    "resultText": "류지혁 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

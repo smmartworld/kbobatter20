@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705LTKT02026",
+    "gameDate": "20260705",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "H",
+    "resultText": "나승엽 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704LTKT02026",
     "gameDate": "20260704",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "116",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260626LGLT02026",
-    "gameDate": "20260626",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "GDP",
-    "resultText": "나승엽 : 1루수 병살타 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

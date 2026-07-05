@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "O",
+    "resultText": "박성한 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "137",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630SKHT02026",
-    "gameDate": "20260630",
-    "opponent": "KIA",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "김범수",
-    "pitcherPcode": "65769",
-    "resultCode": "O",
-    "resultText": "박성한 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

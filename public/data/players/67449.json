@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "BB",
+    "resultText": "김성윤 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630SSNC02026",
-    "gameDate": "20260630",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "H",
-    "resultText": "김성윤 : 투수 맞고 유격수 내야안타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705LTKT02026",
+    "gameDate": "20260705",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "H",
+    "resultText": "고승민 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260704LTKT02026",
     "gameDate": "20260704",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630LTOB02026",
-    "gameDate": "20260630",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "O",
-    "resultText": "고승민 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]
