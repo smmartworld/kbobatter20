@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260705SSSK02026",
+    "gameDate": "20260705",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "이승민",
+    "pitcherPcode": "50464",
+    "resultCode": "O",
+    "resultText": "홍대인 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "125",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260513SKKT02026",
-    "gameDate": "20260513",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "홍대인",
-    "batterPcode": "55897",
-    "pitcherName": "보쉴리",
-    "pitcherPcode": "56036",
-    "resultCode": "H",
-    "resultText": "홍대인 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]
