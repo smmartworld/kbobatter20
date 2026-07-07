@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707SKOB02026",
+    "gameDate": "20260707",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "안재석",
+    "batterPcode": "51203",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "O",
+    "resultText": "안재석 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705OBWO02026",
     "gameDate": "20260705",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260701LTOB02026",
-    "gameDate": "20260701",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "안재석",
-    "batterPcode": "51203",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "H",
-    "resultText": "안재석 : 우익수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

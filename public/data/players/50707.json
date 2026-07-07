@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "최인호 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704HHLG02026",
     "gameDate": "20260704",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260630KTHH02026",
-    "gameDate": "20260630",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "최인호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
   }
 ]

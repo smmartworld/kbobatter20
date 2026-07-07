@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707WOKT02026",
+    "gameDate": "20260707",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "H",
+    "resultText": "조대현 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260702KTHH02026",
     "gameDate": "20260702",
     "opponent": "한화",

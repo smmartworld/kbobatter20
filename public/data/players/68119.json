@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707LGSS02026",
+    "gameDate": "20260707",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "O",
+    "resultText": "문성주 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260703HHLG02026",
     "gameDate": "20260703",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 7,
     "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260627LGLT02026",
-    "gameDate": "20260627",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "김강현",
-    "pitcherPcode": "65522",
-    "resultCode": "H",
-    "resultText": "문성주 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
   }
 ]

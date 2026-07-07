@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707WOKT02026",
+    "gameDate": "20260707",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "H",
+    "resultText": "김현수 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260701KTHH02026",
-    "gameDate": "20260701",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "H",
-    "resultText": "김현수 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

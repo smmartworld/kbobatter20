@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707WOKT02026",
+    "gameDate": "20260707",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "최원준 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625SKKT02026",
-    "gameDate": "20260625",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "노경은",
-    "pitcherPcode": "73211",
-    "resultCode": "O",
-    "resultText": "최원준 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "BB",
+    "resultText": "박재현 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704NCHT02026",
     "gameDate": "20260704",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260630SKHT02026",
-    "gameDate": "20260630",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "3B",
-    "resultText": "박재현 : 우중간 3루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

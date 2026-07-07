@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707SKOB02026",
+    "gameDate": "20260707",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "양의지",
+    "batterPcode": "76232",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "O",
+    "resultText": "양의지 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705OBWO02026",
     "gameDate": "20260705",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 11,
     "lastPitchSpeed": "154",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701LTOB02026",
-    "gameDate": "20260701",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "양의지",
-    "batterPcode": "76232",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "양의지 : 1루수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "커터"
   }
 ]

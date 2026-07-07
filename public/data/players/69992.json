@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "O",
+    "resultText": "최정원 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "113",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260531LTNC02026",
-    "gameDate": "20260531",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "이승헌",
-    "pitcherPcode": "68529",
-    "resultCode": "2B",
-    "resultText": "최정원 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "한태양",
+    "batterPcode": "52568",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "H",
+    "resultText": "한태양 : 2루수 앞 내야안타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260603LTHT02026",
     "gameDate": "20260603",
     "opponent": "KIA",

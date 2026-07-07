@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "H",
+    "resultText": "장두성 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260611OBLT02026",
-    "gameDate": "20260611",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "O",
-    "resultText": "장두성 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "130",
     "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "O",
+    "resultText": "박민우 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "123",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260628WONC02026",
-    "gameDate": "20260628",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "박지성",
-    "pitcherPcode": "56337",
-    "resultCode": "O",
-    "resultText": "박민우 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "124",
     "lastPitchType": "체인지업"
   }
 ]

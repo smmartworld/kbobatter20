@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "김태형",
+    "pitcherPcode": "55610",
+    "resultCode": "2B",
+    "resultText": "황성빈 : 우익수 오른쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260701LTOB02026",
-    "gameDate": "20260701",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "벤자민",
-    "pitcherPcode": "52043",
-    "resultCode": "O",
-    "resultText": "황성빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "커터"
   }
 ]

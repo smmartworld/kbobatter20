@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "블레인",
+    "batterPcode": "56950",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "H",
+    "resultText": "블레인 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260704NCHT02026",
     "gameDate": "20260704",
     "opponent": "KIA",

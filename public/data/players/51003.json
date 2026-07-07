@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707WOKT02026",
+    "gameDate": "20260707",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "K",
+    "resultText": "권동진 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260626KTSS02026",
-    "gameDate": "20260626",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "K",
-    "resultText": "권동진 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

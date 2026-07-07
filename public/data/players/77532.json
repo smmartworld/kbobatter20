@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707SKOB02026",
+    "gameDate": "20260707",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "손아섭",
+    "batterPcode": "77532",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "H",
+    "resultText": "손아섭 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260705OBWO02026",
     "gameDate": "20260705",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260614OBHT02026",
-    "gameDate": "20260614",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "손아섭",
-    "batterPcode": "77532",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "H",
-    "resultText": "손아섭 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]
