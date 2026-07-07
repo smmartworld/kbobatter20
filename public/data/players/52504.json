@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "김시훈",
+    "pitcherPcode": "68928",
+    "resultCode": "O",
+    "resultText": "김동혁 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260701LTOB02026",
     "gameDate": "20260701",
     "opponent": "두산",
