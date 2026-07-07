@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "임지민",
+    "pitcherPcode": "52902",
+    "resultCode": "2B",
+    "resultText": "황영묵 : 좌중간 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704HHLG02026",
     "gameDate": "20260704",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260604HHOB02026",
-    "gameDate": "20260604",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "H",
-    "resultText": "황영묵 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

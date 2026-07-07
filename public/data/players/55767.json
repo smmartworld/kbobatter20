@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "한지윤",
+    "batterPcode": "55767",
+    "pitcherName": "김준원",
+    "pitcherPcode": "54910",
+    "resultCode": "BB",
+    "resultText": "한지윤 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  }
+]
