@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "이진하",
+    "pitcherPcode": "53562",
+    "resultCode": "O",
+    "resultText": "김민규 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260703NCHT02026",
     "gameDate": "20260703",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "124",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260609HTHH02026",
-    "gameDate": "20260609",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김민규",
-    "batterPcode": "56637",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "김민규 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

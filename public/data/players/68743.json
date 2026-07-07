@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260707NCHH02026",
+    "gameDate": "20260707",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "정은원",
+    "batterPcode": "68743",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "O",
+    "resultText": "정은원 : 우익수 라인드라이브 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  }
+]

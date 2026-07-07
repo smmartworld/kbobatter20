@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707LGSS02026",
+    "gameDate": "20260707",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "이성규",
+    "batterPcode": "66409",
+    "pitcherName": "이정용",
+    "pitcherPcode": "69134",
+    "resultCode": "GDP",
+    "resultText": "이성규 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "117",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260705SSSK02026",
     "gameDate": "20260705",
     "opponent": "SSG",

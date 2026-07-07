@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260707HTLT02026",
+    "gameDate": "20260707",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "정대선",
+    "batterPcode": "53568",
+    "pitcherName": "장재혁",
+    "pitcherPcode": "50641",
+    "resultCode": "O",
+    "resultText": "정대선 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  }
+]

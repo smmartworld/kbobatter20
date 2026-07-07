@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260707WOKT02026",
+    "gameDate": "20260707",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "O",
+    "resultText": "힐리어드 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705LTKT02026",
     "gameDate": "20260705",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260701KTHH02026",
-    "gameDate": "20260701",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "박준영",
-    "pitcherPcode": "56709",
-    "resultCode": "O",
-    "resultText": "힐리어드 : 3루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
   }
 ]
