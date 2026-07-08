@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708WOKT02026",
+    "gameDate": "20260708",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안치영",
+    "batterPcode": "67006",
+    "pitcherName": "김성민",
+    "pitcherPcode": "67828",
+    "resultCode": "K",
+    "resultText": "안치영 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260620HTKT02026",
     "gameDate": "20260620",
     "opponent": "KIA",

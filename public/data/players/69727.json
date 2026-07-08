@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708HTLT02026",
+    "gameDate": "20260708",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "변우혁",
+    "batterPcode": "69727",
+    "pitcherName": "김강현",
+    "pitcherPcode": "65522",
+    "resultCode": "2B",
+    "resultText": "변우혁 : 우익수 뒤 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625HTWO02026",
-    "gameDate": "20260625",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "변우혁",
-    "batterPcode": "69727",
-    "pitcherName": "정다훈",
-    "pitcherPcode": "56345",
-    "resultCode": "O",
-    "resultText": "변우혁 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

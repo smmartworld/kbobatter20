@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708HTLT02026",
+    "gameDate": "20260708",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "김강현",
+    "pitcherPcode": "65522",
+    "resultCode": "H",
+    "resultText": "김민규 : 투수 왼쪽 내야안타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260609HTHH02026",
-    "gameDate": "20260609",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김민규",
-    "batterPcode": "56637",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "김민규 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "스위퍼"
   }
 ]
