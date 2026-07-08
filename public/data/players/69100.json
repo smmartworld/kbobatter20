@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708LGSS02026",
+    "gameDate": "20260708",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "오러클린",
+    "pitcherPcode": "56464",
+    "resultCode": "O",
+    "resultText": "구본혁 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704HHLG02026",
     "gameDate": "20260704",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260623SSLG02026",
-    "gameDate": "20260623",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "구본혁 : 1루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

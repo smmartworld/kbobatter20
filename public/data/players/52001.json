@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708WOKT02026",
+    "gameDate": "20260708",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "2B",
+    "resultText": "안현민 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707WOKT02026",
     "gameDate": "20260707",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701KTHH02026",
-    "gameDate": "20260701",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "박상원",
-    "pitcherPcode": "67703",
-    "resultCode": "2B",
-    "resultText": "안현민 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

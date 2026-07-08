@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708HTLT02026",
+    "gameDate": "20260708",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "김선빈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630SKHT02026",
-    "gameDate": "20260630",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "BB",
-    "resultText": "김선빈 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

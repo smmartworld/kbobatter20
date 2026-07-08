@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708LGSS02026",
+    "gameDate": "20260708",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "HR",
+    "resultText": "최형우 : 우익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "117",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "128",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260701SSNC02026",
-    "gameDate": "20260701",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "손주환",
-    "pitcherPcode": "54904",
-    "resultCode": "O",
-    "resultText": "최형우 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

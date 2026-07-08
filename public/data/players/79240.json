@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708WOKT02026",
+    "gameDate": "20260708",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "허경민",
+    "batterPcode": "79240",
+    "pitcherName": "배동현",
+    "pitcherPcode": "51761",
+    "resultCode": "H",
+    "resultText": "허경민 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707WOKT02026",
     "gameDate": "20260707",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260625SKKT02026",
-    "gameDate": "20260625",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "허경민",
-    "batterPcode": "79240",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "2B",
-    "resultText": "허경민 : 우중간 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]

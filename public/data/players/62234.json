@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708LGSS02026",
+    "gameDate": "20260708",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "류지혁 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "110",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702SSNC02026",
-    "gameDate": "20260702",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "하준영",
-    "pitcherPcode": "68639",
-    "resultCode": "SAC",
-    "resultText": "류지혁 : 중견수 희생플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]
