@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708HTLT02026",
+    "gameDate": "20260708",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "한재승",
+    "pitcherPcode": "51994",
+    "resultCode": "BB",
+    "resultText": "노진혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260621LTWO02026",
-    "gameDate": "20260621",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "원종현",
-    "pitcherPcode": "76118",
-    "resultCode": "O",
-    "resultText": "노진혁 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
   }
 ]

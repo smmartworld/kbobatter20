@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708SKOB02026",
+    "gameDate": "20260708",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최준우",
+    "batterPcode": "68868",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "HR",
+    "resultText": "최준우 : 우익수 뒤 홈런 (홈런거리:120M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260704SSSK02026",
     "gameDate": "20260704",
     "opponent": "삼성",

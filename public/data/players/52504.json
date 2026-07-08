@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708HTLT02026",
+    "gameDate": "20260708",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "이태양",
+    "pitcherPcode": "60768",
+    "resultCode": "H",
+    "resultText": "김동혁 : 유격수 오른쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "KIA",

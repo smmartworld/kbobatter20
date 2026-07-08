@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260708LGSS02026",
+    "gameDate": "20260708",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "HR",
+    "resultText": "문정빈 : 중견수 뒤 홈런 (홈런거리:145M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260627LGLT02026",
-    "gameDate": "20260627",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "김진욱",
-    "pitcherPcode": "51516",
-    "resultCode": "O",
-    "resultText": "문정빈 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
