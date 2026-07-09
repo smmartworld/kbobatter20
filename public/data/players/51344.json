@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709NCHH02026",
+    "gameDate": "20260709",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "SAC",
+    "resultText": "김휘집 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260707NCHH02026",
     "gameDate": "20260707",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701SSNC02026",
-    "gameDate": "20260701",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "김휘집 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "체인지업"
   }
 ]

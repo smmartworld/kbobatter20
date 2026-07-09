@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709NCHH02026",
+    "gameDate": "20260709",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "H",
+    "resultText": "박건우 : 우익수 왼쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707NCHH02026",
     "gameDate": "20260707",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701SSNC02026",
-    "gameDate": "20260701",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "박건우 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
   }
 ]

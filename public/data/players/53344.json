@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709WOKT02026",
+    "gameDate": "20260709",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김동헌",
+    "batterPcode": "53344",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "O",
+    "resultText": "김동헌 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260705OBWO02026",
     "gameDate": "20260705",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626WONC02026",
-    "gameDate": "20260626",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김동헌",
-    "batterPcode": "53344",
-    "pitcherName": "이준혁",
-    "pitcherPcode": "52992",
-    "resultCode": "H",
-    "resultText": "김동헌 : 중견수 오른쪽 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

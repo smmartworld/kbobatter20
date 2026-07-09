@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709WOKT02026",
+    "gameDate": "20260709",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "BB",
+    "resultText": "박찬혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708WOKT02026",
     "gameDate": "20260708",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "박찬혁 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "커터"
   }
 ]

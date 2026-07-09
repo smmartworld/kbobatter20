@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709WOKT02026",
+    "gameDate": "20260709",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "한승택 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260708WOKT02026",
     "gameDate": "20260708",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260627KTSS02026",
-    "gameDate": "20260627",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "O",
-    "resultText": "한승택 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

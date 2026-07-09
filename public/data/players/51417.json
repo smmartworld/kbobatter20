@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709LGSS02026",
+    "gameDate": "20260709",
+    "opponent": "LG",
+    "inning": 4,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "O",
+    "resultText": "김현준 : 2루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "LG",

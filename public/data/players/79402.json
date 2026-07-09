@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709WOKT02026",
+    "gameDate": "20260709",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "O",
+    "resultText": "김상수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708WOKT02026",
     "gameDate": "20260708",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "0",
     "lastPitchType": ""
-  },
-  {
-    "gameId": "20260702KTHH02026",
-    "gameDate": "20260702",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "김상수 : 포수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
