@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709LGSS02026",
+    "gameDate": "20260709",
+    "opponent": "LG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "리오스",
+    "pitcherPcode": "56146",
+    "resultCode": "H",
+    "resultText": "김성윤 : 우익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260708LGSS02026",
     "gameDate": "20260708",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702SSNC02026",
-    "gameDate": "20260702",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "김태경",
-    "pitcherPcode": "50992",
-    "resultCode": "H",
-    "resultText": "김성윤 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

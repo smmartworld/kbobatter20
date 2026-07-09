@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709LGSS02026",
+    "gameDate": "20260709",
+    "opponent": "LG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "웰스",
+    "pitcherPcode": "55348",
+    "resultCode": "BB",
+    "resultText": "전병우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708LGSS02026",
     "gameDate": "20260708",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702SSNC02026",
-    "gameDate": "20260702",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "김태경",
-    "pitcherPcode": "50992",
-    "resultCode": "BB",
-    "resultText": "전병우 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

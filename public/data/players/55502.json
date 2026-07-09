@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709HTLT02026",
+    "gameDate": "20260709",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김동현",
+    "batterPcode": "55502",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "H",
+    "resultText": "김동현 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260708HTLT02026",
     "gameDate": "20260708",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260529LTNC02026",
-    "gameDate": "20260529",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김동현",
-    "batterPcode": "55502",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "O",
-    "resultText": "김동현 : 우익수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709HTLT02026",
+    "gameDate": "20260709",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "박찬형",
+    "batterPcode": "55530",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "O",
+    "resultText": "박찬형 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260708HTLT02026",
     "gameDate": "20260708",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260702LTOB02026",
-    "gameDate": "20260702",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박찬형",
-    "batterPcode": "55530",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "K",
-    "resultText": "박찬형 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "156",
-    "lastPitchType": "직구"
   }
 ]
