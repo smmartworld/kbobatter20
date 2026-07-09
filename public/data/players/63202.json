@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709LGSS02026",
+    "gameDate": "20260709",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "장승현",
+    "batterPcode": "63202",
+    "pitcherName": "우강훈",
+    "pitcherPcode": "51526",
+    "resultCode": "O",
+    "resultText": "장승현 : 1루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260514SSLG02026",
-    "gameDate": "20260514",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "장승현",
-    "batterPcode": "63202",
-    "pitcherName": "조건희",
-    "pitcherPcode": "51163",
-    "resultCode": "O",
-    "resultText": "장승현 : 3루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

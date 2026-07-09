@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260709SKOB02026",
+    "gameDate": "20260709",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "O",
+    "resultText": "홍대인 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260707SKOB02026",
     "gameDate": "20260707",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260513SKKT02026",
-    "gameDate": "20260513",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "홍대인",
-    "batterPcode": "55897",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "O",
-    "resultText": "홍대인 : 유격수 라인드라이브 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "포크"
   }
 ]
