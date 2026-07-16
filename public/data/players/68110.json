@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716KTLG02026",
+    "gameDate": "20260716",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "K",
+    "resultText": "송찬의 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709LGSS02026",
     "gameDate": "20260709",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "120",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "2B",
-    "resultText": "송찬의 : 좌익수 왼쪽 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "0",
-    "lastPitchType": ""
   }
 ]

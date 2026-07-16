@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "K",
+    "resultText": "심재훈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "0",
+    "lastPitchType": ""
+  },
+  {
     "gameId": "20260709LGSS02026",
     "gameDate": "20260709",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260627KTSS02026",
-    "gameDate": "20260627",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "심재훈",
-    "batterPcode": "55438",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "심재훈 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716WOHH02026",
+    "gameDate": "20260716",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "BB",
+    "resultText": "여동욱 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709WOKT02026",
     "gameDate": "20260709",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "116",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "HR",
-    "resultText": "여동욱 : 좌익수 뒤 홈런 (홈런거리:110M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "0",
-    "lastPitchType": ""
   }
 ]

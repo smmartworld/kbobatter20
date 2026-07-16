@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716WOHH02026",
+    "gameDate": "20260716",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "E",
+    "resultText": "노시환 : 유격수 라인드라이브 실책으로 출루 (유격수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709NCHH02026",
     "gameDate": "20260709",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260702KTHH02026",
-    "gameDate": "20260702",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "SAC",
-    "resultText": "노시환 : 우익수 희생플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
   }
 ]

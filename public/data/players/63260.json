@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716OBNC02026",
+    "gameDate": "20260716",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "이우성 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "157",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709NCHH02026",
     "gameDate": "20260709",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701SSNC02026",
-    "gameDate": "20260701",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "임기영",
-    "pitcherPcode": "62754",
-    "resultCode": "BB",
-    "resultText": "이우성 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716OBNC02026",
+    "gameDate": "20260716",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "류승민",
+    "batterPcode": "53404",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "류승민 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260709SKOB02026",
     "gameDate": "20260709",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260702LTOB02026",
-    "gameDate": "20260702",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "류승민",
-    "batterPcode": "53404",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "류승민 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "127",
     "lastPitchType": "포크"
   }
 ]

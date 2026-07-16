@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "손호영",
+    "batterPcode": "50150",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "O",
+    "resultText": "손호영 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "0",
+    "lastPitchType": ""
+  },
+  {
     "gameId": "20260709HTLT02026",
     "gameDate": "20260709",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "124",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260627LGLT02026",
-    "gameDate": "20260627",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "손호영",
-    "batterPcode": "50150",
-    "pitcherName": "리오스",
-    "pitcherPcode": "56146",
-    "resultCode": "O",
-    "resultText": "손호영 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "123",
     "lastPitchType": "커브"
   }
 ]

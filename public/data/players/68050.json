@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716WOHH02026",
+    "gameDate": "20260716",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "강백호",
+    "batterPcode": "68050",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "O",
+    "resultText": "강백호 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260709NCHH02026",
     "gameDate": "20260709",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260702KTHH02026",
-    "gameDate": "20260702",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "강백호",
-    "batterPcode": "68050",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "HR",
-    "resultText": "강백호 : 중견수 뒤 홈런 (홈런거리:135M)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "BB",
+    "resultText": "류지혁 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708LGSS02026",
     "gameDate": "20260708",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260703SSSK02026",
-    "gameDate": "20260703",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "O",
-    "resultText": "류지혁 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

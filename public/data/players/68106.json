@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716KTLG02026",
+    "gameDate": "20260716",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "O",
+    "resultText": "이재원 : 3루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260708LGSS02026",
     "gameDate": "20260708",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260522WOLG02026",
-    "gameDate": "20260522",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "로젠버그",
-    "pitcherPcode": "55322",
-    "resultCode": "O",
-    "resultText": "이재원 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "체인지업"
   }
 ]

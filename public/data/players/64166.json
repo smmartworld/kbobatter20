@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716KTLG02026",
+    "gameDate": "20260716",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "2B",
+    "resultText": "배정대 : 좌익수 왼쪽 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709WOKT02026",
     "gameDate": "20260709",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "127",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260606KTSK02026",
-    "gameDate": "20260606",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "최용준",
-    "pitcherPcode": "50650",
-    "resultCode": "O",
-    "resultText": "배정대 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

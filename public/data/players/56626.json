@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716HTSK02026",
+    "gameDate": "20260716",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "카스트로",
+    "batterPcode": "56626",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "카스트로 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260709HTLT02026",
     "gameDate": "20260709",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702SKHT02026",
-    "gameDate": "20260702",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "카스트로",
-    "batterPcode": "56626",
-    "pitcherName": "노경은",
-    "pitcherPcode": "73211",
-    "resultCode": "O",
-    "resultText": "카스트로 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

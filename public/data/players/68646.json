@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716HTSK02026",
+    "gameDate": "20260716",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "한준수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260709HTLT02026",
     "gameDate": "20260709",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260702SKHT02026",
-    "gameDate": "20260702",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "베니지아노",
-    "pitcherPcode": "56841",
-    "resultCode": "HR",
-    "resultText": "한준수 : 우익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

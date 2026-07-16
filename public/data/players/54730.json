@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716WOHH02026",
+    "gameDate": "20260716",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "O",
+    "resultText": "페라자 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709NCHH02026",
     "gameDate": "20260709",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260702KTHH02026",
-    "gameDate": "20260702",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "한차현",
-    "pitcherPcode": "51058",
-    "resultCode": "O",
-    "resultText": "페라자 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]
