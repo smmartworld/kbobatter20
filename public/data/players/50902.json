@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716OBNC02026",
+    "gameDate": "20260716",
+    "opponent": "두산",
+    "inning": 4,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "E",
+    "resultText": "김한별 : 3루수 땅볼 실책으로 출루 (3루수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260704NCHT02026",
     "gameDate": "20260704",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260619SKNC02026",
-    "gameDate": "20260619",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "베니지아노",
-    "pitcherPcode": "56841",
-    "resultCode": "2B",
-    "resultText": "김한별 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]
