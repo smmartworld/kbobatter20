@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김상준",
+    "batterPcode": "55425",
+    "pitcherName": "현도훈",
+    "pitcherPcode": "68260",
+    "resultCode": "BB",
+    "resultText": "김상준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709LGSS02026",
     "gameDate": "20260709",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619SSHH02026",
-    "gameDate": "20260619",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김상준",
-    "batterPcode": "55425",
-    "pitcherName": "박상원",
-    "pitcherPcode": "67703",
-    "resultCode": "O",
-    "resultText": "김상준 : 유격수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "포크"
   }
 ]

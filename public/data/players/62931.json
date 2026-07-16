@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "62360",
+    "resultCode": "O",
+    "resultText": "노진혁 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260709HTLT02026",
     "gameDate": "20260709",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260624NCLT02026",
-    "gameDate": "20260624",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "H",
-    "resultText": "노진혁 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

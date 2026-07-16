@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260716LTSS02026",
+    "gameDate": "20260716",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "장승현",
+    "batterPcode": "63202",
+    "pitcherName": "현도훈",
+    "pitcherPcode": "68260",
+    "resultCode": "BB",
+    "resultText": "장승현 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260709LGSS02026",
     "gameDate": "20260709",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260517HTSS02026",
-    "gameDate": "20260517",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장승현",
-    "batterPcode": "63202",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "장승현 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]
