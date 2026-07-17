@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717OBNC02026",
+    "gameDate": "20260717",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "강승호 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260716OBNC02026",
     "gameDate": "20260716",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260704OBWO02026",
-    "gameDate": "20260704",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "조영건",
-    "pitcherPcode": "69360",
-    "resultCode": "BB",
-    "resultText": "강승호 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

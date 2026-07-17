@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717WOHH02026",
+    "gameDate": "20260717",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "H",
+    "resultText": "황영묵 : 우익수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709NCHH02026",
     "gameDate": "20260709",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "151",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260607HHLT02026",
-    "gameDate": "20260607",
-    "opponent": "롯데",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "2B",
-    "resultText": "황영묵 : 우익수 오른쪽 2루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "포크"
   }
 ]
