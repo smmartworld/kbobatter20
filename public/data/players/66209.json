@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717OBNC02026",
+    "gameDate": "20260717",
+    "opponent": "NC",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "H",
+    "resultText": "조수행 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260709SKOB02026",
     "gameDate": "20260709",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260616KTOB02026",
-    "gameDate": "20260616",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "박영현",
-    "pitcherPcode": "52060",
-    "resultCode": "3B",
-    "resultText": "조수행 : 우익수 뒤 3루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
   }
 ]

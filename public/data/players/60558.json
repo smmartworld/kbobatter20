@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717HTSK02026",
+    "gameDate": "20260717",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "2B",
+    "resultText": "오태곤 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260709SKOB02026",
     "gameDate": "20260709",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260628HHSK02026",
-    "gameDate": "20260628",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "O",
-    "resultText": "오태곤 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]
