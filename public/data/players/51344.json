@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717OBNC02026",
+    "gameDate": "20260717",
+    "opponent": "두산",
+    "inning": 4,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "김휘집 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260716OBNC02026",
     "gameDate": "20260716",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "139",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702SSNC02026",
-    "gameDate": "20260702",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "최지광",
-    "pitcherPcode": "67421",
-    "resultCode": "O",
-    "resultText": "김휘집 : 1루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]
