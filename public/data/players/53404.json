@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717OBNC02026",
+    "gameDate": "20260717",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "류승민",
+    "batterPcode": "53404",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "류승민 : 투수 번트 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260716OBNC02026",
     "gameDate": "20260716",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702LTOB02026",
-    "gameDate": "20260702",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "류승민",
-    "batterPcode": "53404",
-    "pitcherName": "이진하",
-    "pitcherPcode": "53562",
-    "resultCode": "O",
-    "resultText": "류승민 : 2루수 라인드라이브 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

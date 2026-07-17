@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260717OBNC02026",
+    "gameDate": "20260717",
+    "opponent": "두산",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "김형준 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260716OBNC02026",
     "gameDate": "20260716",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "125",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260701SSNC02026",
-    "gameDate": "20260701",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "이재희",
-    "pitcherPcode": "51460",
-    "resultCode": "HR",
-    "resultText": "김형준 : 좌중간 뒤 홈런 (홈런거리:120M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "슬라이더"
   }
 ]
