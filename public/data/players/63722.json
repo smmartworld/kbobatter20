@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718KTLG02026",
+    "gameDate": "20260718",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "H",
+    "resultText": "한승택 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260716KTLG02026",
     "gameDate": "20260716",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630KTHH02026",
-    "gameDate": "20260630",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "에르난데스",
-    "pitcherPcode": "56712",
-    "resultCode": "H",
-    "resultText": "한승택 : 우익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

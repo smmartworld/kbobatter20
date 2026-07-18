@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718OBNC02026",
+    "gameDate": "20260718",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "안재석",
+    "batterPcode": "51203",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "HR",
+    "resultText": "안재석 : 우익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260717OBNC02026",
     "gameDate": "20260717",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260707SKOB02026",
-    "gameDate": "20260707",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "안재석",
-    "batterPcode": "51203",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "O",
-    "resultText": "안재석 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718KTLG02026",
+    "gameDate": "20260718",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "O",
+    "resultText": "문보경 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717KTLG02026",
     "gameDate": "20260717",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "103",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260707LGSS02026",
-    "gameDate": "20260707",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "문보경 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "체인지업"
   }
 ]

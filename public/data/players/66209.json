@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718OBNC02026",
+    "gameDate": "20260718",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "BB",
+    "resultText": "조수행 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260717OBNC02026",
     "gameDate": "20260717",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617KTOB02026",
-    "gameDate": "20260617",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "조수행 : 2루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "커터"
   }
 ]

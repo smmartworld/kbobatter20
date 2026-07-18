@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718LTSS02026",
+    "gameDate": "20260718",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "한태양",
+    "batterPcode": "52568",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "한태양 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260603LTHT02026",
-    "gameDate": "20260603",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한태양",
-    "batterPcode": "52568",
-    "pitcherName": "최지민",
-    "pitcherPcode": "52639",
-    "resultCode": "BB",
-    "resultText": "한태양 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

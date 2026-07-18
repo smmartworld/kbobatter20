@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718LTSS02026",
+    "gameDate": "20260718",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "손성빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "120",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260704LTKT02026",
-    "gameDate": "20260704",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "O",
-    "resultText": "손성빈 : 1루수 파울플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "118",
-    "lastPitchType": "스위퍼"
   }
 ]

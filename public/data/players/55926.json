@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718HTSK02026",
+    "gameDate": "20260718",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "H",
+    "resultText": "정현창 : 우익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260717HTSK02026",
     "gameDate": "20260717",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606SSHT02026",
-    "gameDate": "20260606",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "김재윤",
-    "pitcherPcode": "65062",
-    "resultCode": "GDP",
-    "resultText": "정현창 : 2루수 병살타 아웃 (2루수->1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

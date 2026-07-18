@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718WOHH02026",
+    "gameDate": "20260718",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "O",
+    "resultText": "안치홍 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260717WOHH02026",
     "gameDate": "20260717",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260704OBWO02026",
-    "gameDate": "20260704",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "이영하",
-    "pitcherPcode": "66291",
-    "resultCode": "O",
-    "resultText": "안치홍 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

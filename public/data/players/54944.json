@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718WOHH02026",
+    "gameDate": "20260718",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "데이비슨",
+    "batterPcode": "54944",
+    "pitcherName": "에르난데스",
+    "pitcherPcode": "56712",
+    "resultCode": "BB",
+    "resultText": "데이비슨 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717WOHH02026",
     "gameDate": "20260717",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260707WOKT02026",
-    "gameDate": "20260707",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "데이비슨",
-    "batterPcode": "54944",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "GDP",
-    "resultText": "데이비슨 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
     "lastPitchType": "투심"
   }
 ]

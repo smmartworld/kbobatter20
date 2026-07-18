@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718LTSS02026",
+    "gameDate": "20260718",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "K",
+    "resultText": "전민재 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "119",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260703LTKT02026",
-    "gameDate": "20260703",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "O",
-    "resultText": "전민재 : 유격수 땅볼 아웃 (유격수->1루수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

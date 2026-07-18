@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718WOHH02026",
+    "gameDate": "20260718",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "허인서 : 1루수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717WOHH02026",
     "gameDate": "20260717",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702KTHH02026",
-    "gameDate": "20260702",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "2B",
-    "resultText": "허인서 : 우익수 앞 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

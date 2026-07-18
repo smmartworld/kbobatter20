@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718KTLG02026",
+    "gameDate": "20260718",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "사우어",
+    "pitcherPcode": "56032",
+    "resultCode": "BB",
+    "resultText": "오지환 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717KTLG02026",
     "gameDate": "20260717",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260707LGSS02026",
-    "gameDate": "20260707",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "H",
-    "resultText": "오지환 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]
