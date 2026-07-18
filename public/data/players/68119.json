@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718KTLG02026",
+    "gameDate": "20260718",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "O",
+    "resultText": "문성주 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717KTLG02026",
     "gameDate": "20260717",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260701LGWO02026",
-    "gameDate": "20260701",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "H",
-    "resultText": "문성주 : 좌익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

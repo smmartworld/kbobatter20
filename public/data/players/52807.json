@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260718HTSK02026",
+    "gameDate": "20260718",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "H",
+    "resultText": "임근우 : 2루수 왼쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  }
+]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718HTSK02026",
+    "gameDate": "20260718",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김민준",
+    "batterPcode": "53893",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "BB",
+    "resultText": "김민준 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260705SSSK02026",
     "gameDate": "20260705",
     "opponent": "삼성",

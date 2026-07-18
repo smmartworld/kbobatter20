@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718HTSK02026",
+    "gameDate": "20260718",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "주효상",
+    "batterPcode": "66354",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "주효상 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708HTLT02026",
     "gameDate": "20260708",
     "opponent": "롯데",

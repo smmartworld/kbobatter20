@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718HTSK02026",
+    "gameDate": "20260718",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "채현우",
+    "batterPcode": "69804",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "O",
+    "resultText": "채현우 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260716HTSK02026",
     "gameDate": "20260716",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "132",
-    "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260520SKWO02026",
-    "gameDate": "20260520",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "채현우",
-    "batterPcode": "69804",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "O",
-    "resultText": "채현우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "125",
     "lastPitchType": "스위퍼"
   }
 ]

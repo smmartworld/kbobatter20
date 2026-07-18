@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718OBNC02026",
+    "gameDate": "20260718",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "하준영",
+    "pitcherPcode": "68639",
+    "resultCode": "O",
+    "resultText": "윤준호 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260716OBNC02026",
     "gameDate": "20260716",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260626HTOB02026",
-    "gameDate": "20260626",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "BB",
-    "resultText": "윤준호 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

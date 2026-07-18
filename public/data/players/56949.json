@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260718OBNC02026",
+    "gameDate": "20260718",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "E",
+    "resultText": "고준휘 : 우익수 플라이 실책으로 출루 (우익수 포구 실책)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260717OBNC02026",
     "gameDate": "20260717",
     "opponent": "두산",
