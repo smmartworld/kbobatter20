@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "홍성호",
+    "batterPcode": "66233",
+    "pitcherName": "손주환",
+    "pitcherPcode": "54904",
+    "resultCode": "K",
+    "resultText": "홍성호 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  }
+]

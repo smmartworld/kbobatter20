@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "BB",
+    "resultText": "김한별 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260717OBNC02026",
     "gameDate": "20260717",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "150",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260620SKNC02026",
-    "gameDate": "20260620",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "O",
-    "resultText": "김한별 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

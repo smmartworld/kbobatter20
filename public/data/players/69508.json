@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "신윤후",
+    "batterPcode": "69508",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "62360",
+    "resultCode": "O",
+    "resultText": "신윤후 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260618LTSK02026",
     "gameDate": "20260618",
     "opponent": "SSG",

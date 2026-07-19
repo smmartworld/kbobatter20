@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "O",
+    "resultText": "김헌곤 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260510SSNC02026",
-    "gameDate": "20260510",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "임정호",
-    "pitcherPcode": "63959",
-    "resultCode": "GDP",
-    "resultText": "김헌곤 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
   }
 ]

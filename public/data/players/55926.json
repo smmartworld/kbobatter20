@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719HTSK02026",
+    "gameDate": "20260719",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "박시후",
+    "pitcherPcode": "50812",
+    "resultCode": "GDP",
+    "resultText": "정현창 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260718HTSK02026",
     "gameDate": "20260718",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260609HTHH02026",
-    "gameDate": "20260609",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "정우주",
-    "pitcherPcode": "55743",
-    "resultCode": "O",
-    "resultText": "정현창 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

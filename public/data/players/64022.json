@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안중열",
+    "batterPcode": "64022",
+    "pitcherName": "이병헌",
+    "pitcherPcode": "52204",
+    "resultCode": "O",
+    "resultText": "안중열 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260618HHNC02026",
-    "gameDate": "20260618",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "안중열",
-    "batterPcode": "64022",
-    "pitcherName": "에르난데스",
-    "pitcherPcode": "56712",
-    "resultCode": "GDP",
-    "resultText": "안중열 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
   }
 ]

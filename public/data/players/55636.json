@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719HTSK02026",
+    "gameDate": "20260719",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "이건욱",
+    "pitcherPcode": "64861",
+    "resultCode": "GDP",
+    "resultText": "박재현 : 1루수 병살타 아웃 (1루수->포수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260717HTSK02026",
     "gameDate": "20260717",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260707HTLT02026",
-    "gameDate": "20260707",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "박재현 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "체인지업"
   }
 ]

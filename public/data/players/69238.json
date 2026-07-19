@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김대한",
+    "batterPcode": "69238",
+    "pitcherName": "최우석",
+    "pitcherPcode": "54903",
+    "resultCode": "H",
+    "resultText": "김대한 : 중견수 왼쪽 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "NC",

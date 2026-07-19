@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "양우현",
+    "batterPcode": "69403",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "K",
+    "resultText": "양우현 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "양우현",
-    "batterPcode": "69403",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "K",
-    "resultText": "양우현 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "117",
-    "lastPitchType": "커브"
   }
 ]

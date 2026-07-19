@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "이병헌",
+    "pitcherPcode": "52204",
+    "resultCode": "O",
+    "resultText": "고준휘 : 1루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "박찬형",
+    "batterPcode": "55530",
+    "pitcherName": "김재윤",
+    "pitcherPcode": "65062",
+    "resultCode": "BB",
+    "resultText": "박찬형 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260704LTKT02026",
-    "gameDate": "20260704",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "박찬형",
-    "batterPcode": "55530",
-    "pitcherName": "전용주",
-    "pitcherPcode": "69047",
-    "resultCode": "O",
-    "resultText": "박찬형 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]
