@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719HTSK02026",
+    "gameDate": "20260719",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "카스트로",
+    "batterPcode": "56626",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "2B",
+    "resultText": "카스트로 : 좌익수 오른쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718HTSK02026",
     "gameDate": "20260718",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260708HTLT02026",
-    "gameDate": "20260708",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "카스트로",
-    "batterPcode": "56626",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "H",
-    "resultText": "카스트로 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "134",
     "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719KTLG02026",
+    "gameDate": "20260719",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "BB",
+    "resultText": "조대현 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260717KTLG02026",
     "gameDate": "20260717",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260617KTOB02026",
-    "gameDate": "20260617",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조대현",
-    "batterPcode": "68089",
-    "pitcherName": "김한중",
-    "pitcherPcode": "55221",
-    "resultCode": "O",
-    "resultText": "조대현 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

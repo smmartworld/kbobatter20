@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "권희동 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "119",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260704NCHT02026",
-    "gameDate": "20260704",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "O",
-    "resultText": "권희동 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

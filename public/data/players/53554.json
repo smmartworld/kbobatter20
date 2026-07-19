@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "O",
+    "resultText": "김민석 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "126",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260708SKOB02026",
-    "gameDate": "20260708",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "K",
-    "resultText": "김민석 : 삼진 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "137",
     "lastPitchType": "포크"
   }
 ]

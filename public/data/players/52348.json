@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719WOHH02026",
+    "gameDate": "20260719",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "H",
+    "resultText": "박찬혁 : 좌익수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "0",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260718WOHH02026",
     "gameDate": "20260718",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260708WOKT02026",
-    "gameDate": "20260708",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "BB",
-    "resultText": "박찬혁 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 9,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "O",
+    "resultText": "김성윤 : 좌익수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260705SSSK02026",
-    "gameDate": "20260705",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "H",
-    "resultText": "김성윤 : 유격수 앞 내야안타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "120",
-    "lastPitchType": "커브"
   }
 ]

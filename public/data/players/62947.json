@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719HTSK02026",
+    "gameDate": "20260719",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "BB",
+    "resultText": "나성범 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718HTSK02026",
     "gameDate": "20260718",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260708HTLT02026",
-    "gameDate": "20260708",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "GDP",
-    "resultText": "나성범 : 1루수 병살타 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "포크"
   }
 ]

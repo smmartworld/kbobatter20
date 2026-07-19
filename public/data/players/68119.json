@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719KTLG02026",
+    "gameDate": "20260719",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "문성주 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260718KTLG02026",
     "gameDate": "20260718",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260701LGWO02026",
-    "gameDate": "20260701",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "박정훈",
-    "pitcherPcode": "55394",
-    "resultCode": "O",
-    "resultText": "문성주 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

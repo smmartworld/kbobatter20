@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719WOHH02026",
+    "gameDate": "20260719",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "오재원",
+    "batterPcode": "56754",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "H",
+    "resultText": "오재원 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "0",
+    "lastPitchType": ""
+  },
+  {
     "gameId": "20260718WOHH02026",
     "gameDate": "20260718",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260707NCHH02026",
-    "gameDate": "20260707",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "오재원",
-    "batterPcode": "56754",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "2B",
-    "resultText": "오재원 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

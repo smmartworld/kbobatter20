@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김주원",
+    "batterPcode": "51907",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "김주원 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260707NCHH02026",
-    "gameDate": "20260707",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김주원",
-    "batterPcode": "51907",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "O",
-    "resultText": "김주원 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "투심"
   }
 ]

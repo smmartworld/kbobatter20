@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "한동희",
+    "batterPcode": "68525",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "한동희 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260705LTKT02026",
-    "gameDate": "20260705",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "한동희",
-    "batterPcode": "68525",
-    "pitcherName": "전용주",
-    "pitcherPcode": "69047",
-    "resultCode": "H",
-    "resultText": "한동희 : 우익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "커터"
   }
 ]
