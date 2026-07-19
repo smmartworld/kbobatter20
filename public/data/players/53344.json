@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719WOHH02026",
+    "gameDate": "20260719",
+    "opponent": "한화",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김동헌",
+    "batterPcode": "53344",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "H",
+    "resultText": "김동헌 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260709WOKT02026",
     "gameDate": "20260709",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626WONC02026",
-    "gameDate": "20260626",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김동헌",
-    "batterPcode": "53344",
-    "pitcherName": "임지민",
-    "pitcherPcode": "52902",
-    "resultCode": "BB",
-    "resultText": "김동헌 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "153",
     "lastPitchType": "직구"
   }
 ]

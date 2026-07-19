@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "롯데",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "H",
+    "resultText": "김지찬 : 우중간 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260707LGSS02026",
-    "gameDate": "20260707",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "SAC",
-    "resultText": "김지찬 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

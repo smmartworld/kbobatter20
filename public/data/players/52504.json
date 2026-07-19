@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "O",
+    "resultText": "김동혁 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
