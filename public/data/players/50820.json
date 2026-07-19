@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719HTSK02026",
+    "gameDate": "20260719",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "BB",
+    "resultText": "전의산 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260718HTSK02026",
     "gameDate": "20260718",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "139",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260705SSSK02026",
-    "gameDate": "20260705",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "H",
-    "resultText": "전의산 : 중견수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]

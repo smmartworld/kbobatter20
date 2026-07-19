@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "SAC",
+    "resultText": "손성빈 : 포수 희생번트 아웃 (포수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260704LTKT02026",
-    "gameDate": "20260704",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "이상동",
-    "pitcherPcode": "69054",
-    "resultCode": "O",
-    "resultText": "손성빈 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

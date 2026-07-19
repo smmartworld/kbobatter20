@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719OBNC02026",
+    "gameDate": "20260719",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "H",
+    "resultText": "윤준호 : 3루수 앞 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260718OBNC02026",
     "gameDate": "20260718",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260628HTOB02026",
-    "gameDate": "20260628",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "윤준호 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260719LTSS02026",
+    "gameDate": "20260719",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "BB",
+    "resultText": "전민재 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "136",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260704LTKT02026",
-    "gameDate": "20260704",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "이상동",
-    "pitcherPcode": "69054",
-    "resultCode": "O",
-    "resultText": "전민재 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]
