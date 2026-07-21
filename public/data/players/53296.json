@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721OBKT02026",
+    "gameDate": "20260721",
+    "opponent": "KT",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "윤준호 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260719OBNC02026",
     "gameDate": "20260719",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260702LTOB02026",
-    "gameDate": "20260702",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "SAC",
-    "resultText": "윤준호 : 포수 희생번트 아웃 (포수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

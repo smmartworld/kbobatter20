@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721OBKT02026",
+    "gameDate": "20260721",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "O",
+    "resultText": "장준원 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260718KTLG02026",
     "gameDate": "20260718",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "131",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260516HHKT02026",
-    "gameDate": "20260516",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "김종수",
-    "pitcherPcode": "63765",
-    "resultCode": "O",
-    "resultText": "장준원 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
   }
 ]

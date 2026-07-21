@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721OBKT02026",
+    "gameDate": "20260721",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "홍성호",
+    "batterPcode": "66233",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "홍성호 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260719OBNC02026",
     "gameDate": "20260719",
     "opponent": "NC",
