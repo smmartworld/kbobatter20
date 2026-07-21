@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721OBKT02026",
+    "gameDate": "20260721",
+    "opponent": "두산",
+    "inning": 11,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "O",
+    "resultText": "이정훈 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260719KTLG02026",
     "gameDate": "20260719",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260613NCKT02026",
-    "gameDate": "20260613",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "O",
-    "resultText": "이정훈 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]
