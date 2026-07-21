@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SKLT02026",
+    "gameDate": "20260721",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박승욱",
+    "batterPcode": "62802",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "GDP",
+    "resultText": "박승욱 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260708HTLT02026",
     "gameDate": "20260708",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625NCLT02026",
-    "gameDate": "20260625",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박승욱",
-    "batterPcode": "62802",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "박승욱 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]

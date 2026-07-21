@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SKLT02026",
+    "gameDate": "20260721",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "HR",
+    "resultText": "임근우 : 좌익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719HTSK02026",
     "gameDate": "20260719",
     "opponent": "KIA",

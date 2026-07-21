@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721NCLG02026",
+    "gameDate": "20260721",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "BB",
+    "resultText": "김한별 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719OBNC02026",
     "gameDate": "20260719",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "129",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "GDP",
-    "resultText": "김한별 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "투심"
   }
 ]
