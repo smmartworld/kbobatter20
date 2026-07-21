@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SKLT02026",
+    "gameDate": "20260721",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "O",
+    "resultText": "손성빈 : 유격수 라인드라이브 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719LTSS02026",
     "gameDate": "20260719",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260707HTLT02026",
-    "gameDate": "20260707",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "손성빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

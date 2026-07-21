@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SSWO02026",
+    "gameDate": "20260721",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "권혁빈",
+    "batterPcode": "55371",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "권혁빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719WOHH02026",
     "gameDate": "20260719",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260705OBWO02026",
-    "gameDate": "20260705",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "권혁빈",
-    "batterPcode": "55371",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "2B",
-    "resultText": "권혁빈 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

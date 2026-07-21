@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721OBKT02026",
+    "gameDate": "20260721",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "O",
+    "resultText": "강승호 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719OBNC02026",
     "gameDate": "20260719",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260709SKOB02026",
-    "gameDate": "20260709",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "HR",
-    "resultText": "강승호 : 좌익수 뒤 홈런 (홈런거리:135M)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

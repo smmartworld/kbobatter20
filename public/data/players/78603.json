@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721HHHT02026",
+    "gameDate": "20260721",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "BB",
+    "resultText": "김선빈 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719HTSK02026",
     "gameDate": "20260719",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260708HTLT02026",
-    "gameDate": "20260708",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "김선빈 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

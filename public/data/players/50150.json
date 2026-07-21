@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SKLT02026",
+    "gameDate": "20260721",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "손호영",
+    "batterPcode": "50150",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "BB",
+    "resultText": "손호영 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260716LTSS02026",
     "gameDate": "20260716",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260701LTOB02026",
-    "gameDate": "20260701",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "손호영",
-    "batterPcode": "50150",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "O",
-    "resultText": "손호영 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
   }
 ]

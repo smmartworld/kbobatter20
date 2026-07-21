@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721SSWO02026",
+    "gameDate": "20260721",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260719WOHH02026",
     "gameDate": "20260719",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626WONC02026",
-    "gameDate": "20260626",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "김태훈",
-    "pitcherPcode": "55995",
-    "resultCode": "BB",
-    "resultText": "김웅빈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

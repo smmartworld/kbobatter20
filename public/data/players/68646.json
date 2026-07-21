@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260721HHHT02026",
+    "gameDate": "20260721",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "HR",
+    "resultText": "한준수 : 우익수 뒤 홈런 (홈런거리:120M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260719HTSK02026",
     "gameDate": "20260719",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 6,
     "lastPitchSpeed": "139",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260709HTLT02026",
-    "gameDate": "20260709",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "최준용",
-    "pitcherPcode": "50556",
-    "resultCode": "O",
-    "resultText": "한준수 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
   }
 ]
