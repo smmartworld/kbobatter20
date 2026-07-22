@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SKLT02026",
+    "gameDate": "20260722",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김세민",
+    "batterPcode": "52514",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "K",
+    "resultText": "김세민 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260718LTSS02026",
     "gameDate": "20260718",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260610OBLT02026",
-    "gameDate": "20260610",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김세민",
-    "batterPcode": "52514",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "김세민 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "스위퍼"
   }
 ]
