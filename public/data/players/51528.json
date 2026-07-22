@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SKLT02026",
+    "gameDate": "20260722",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "K",
+    "resultText": "손성빈 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260721SKLT02026",
     "gameDate": "20260721",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260707HTLT02026",
-    "gameDate": "20260707",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "김시훈",
-    "pitcherPcode": "68928",
-    "resultCode": "H",
-    "resultText": "손성빈 : 유격수 왼쪽 내야안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

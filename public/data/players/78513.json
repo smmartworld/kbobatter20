@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SKLT02026",
+    "gameDate": "20260722",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "전준우",
+    "batterPcode": "78513",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "전준우 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260618LTSK02026",
     "gameDate": "20260618",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260524SSLT02026",
-    "gameDate": "20260524",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "전준우",
-    "batterPcode": "78513",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "O",
-    "resultText": "전준우 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "커브"
   }
 ]

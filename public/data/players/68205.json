@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SKLT02026",
+    "gameDate": "20260722",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "BB",
+    "resultText": "전민재 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260721SKLT02026",
     "gameDate": "20260721",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260708HTLT02026",
-    "gameDate": "20260708",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "O",
-    "resultText": "전민재 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
   }
 ]

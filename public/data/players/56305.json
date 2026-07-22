@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SSWO02026",
+    "gameDate": "20260722",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "히우라",
+    "batterPcode": "56305",
+    "pitcherName": "김백산",
+    "pitcherPcode": "55420",
+    "resultCode": "BB",
+    "resultText": "히우라 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721SSWO02026",
     "gameDate": "20260721",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260717WOHH02026",
-    "gameDate": "20260717",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "히우라",
-    "batterPcode": "56305",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "BB",
-    "resultText": "히우라 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

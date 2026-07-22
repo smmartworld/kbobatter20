@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722NCLG02026",
+    "gameDate": "20260722",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "문성주 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260703HHLG02026",
-    "gameDate": "20260703",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "O",
-    "resultText": "문성주 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "커터"
   }
 ]

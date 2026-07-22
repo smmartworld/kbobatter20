@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722HHHT02026",
+    "gameDate": "20260722",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "O",
+    "resultText": "한준수 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721HHHT02026",
     "gameDate": "20260721",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260716HTSK02026",
-    "gameDate": "20260716",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "BB",
-    "resultText": "한준수 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

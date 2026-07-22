@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722NCLG02026",
+    "gameDate": "20260722",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "박건우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260716OBNC02026",
-    "gameDate": "20260716",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "O",
-    "resultText": "박건우 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
   }
 ]

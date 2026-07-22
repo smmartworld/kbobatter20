@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722NCLG02026",
+    "gameDate": "20260722",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "K",
+    "resultText": "박해민 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260709LGSS02026",
-    "gameDate": "20260709",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "이승민",
-    "pitcherPcode": "50464",
-    "resultCode": "O",
-    "resultText": "박해민 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

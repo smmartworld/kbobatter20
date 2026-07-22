@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722NCLG02026",
+    "gameDate": "20260722",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "고준휘 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "LG",

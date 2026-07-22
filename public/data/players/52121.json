@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722NCLG02026",
+    "gameDate": "20260722",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "문정빈 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260707LGSS02026",
-    "gameDate": "20260707",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "E",
-    "resultText": "문정빈 : 3루수 땅볼 실책으로 출루 (3루수 송구 실책->1루수)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]

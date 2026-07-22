@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260722SSWO02026",
+    "gameDate": "20260722",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "권혁빈",
+    "batterPcode": "55371",
+    "pitcherName": "김백산",
+    "pitcherPcode": "55420",
+    "resultCode": "O",
+    "resultText": "권혁빈 : 유격수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721SSWO02026",
     "gameDate": "20260721",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260707WOKT02026",
-    "gameDate": "20260707",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권혁빈",
-    "batterPcode": "55371",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "O",
-    "resultText": "권혁빈 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "투심"
   }
 ]
