@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SSWO02026",
+    "gameDate": "20260723",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "임병욱",
+    "batterPcode": "64346",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "O",
+    "resultText": "임병욱 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721SSWO02026",
     "gameDate": "20260721",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "임병욱",
-    "batterPcode": "64346",
-    "pitcherName": "우강훈",
-    "pitcherPcode": "51526",
-    "resultCode": "O",
-    "resultText": "임병욱 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "포크"
   }
 ]

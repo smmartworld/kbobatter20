@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723HHHT02026",
+    "gameDate": "20260723",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "김선빈 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721HHHT02026",
     "gameDate": "20260721",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "150",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260716HTSK02026",
-    "gameDate": "20260716",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "O",
-    "resultText": "김선빈 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
   }
 ]

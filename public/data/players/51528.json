@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SKLT02026",
+    "gameDate": "20260723",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "K",
+    "resultText": "손성빈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260722SKLT02026",
     "gameDate": "20260722",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "127",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260708HTLT02026",
-    "gameDate": "20260708",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "성영탁",
-    "pitcherPcode": "54610",
-    "resultCode": "O",
-    "resultText": "손성빈 : 유격수 파울플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

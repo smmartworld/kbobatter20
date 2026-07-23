@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SKLT02026",
+    "gameDate": "20260723",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "GDP",
+    "resultText": "임근우 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260722SKLT02026",
     "gameDate": "20260722",
     "opponent": "롯데",

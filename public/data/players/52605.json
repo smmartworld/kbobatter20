@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723HHHT02026",
+    "gameDate": "20260723",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "GDP",
+    "resultText": "김도영 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260722HHHT02026",
     "gameDate": "20260722",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260717HTSK02026",
-    "gameDate": "20260717",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "조병현",
-    "pitcherPcode": "51897",
-    "resultCode": "O",
-    "resultText": "김도영 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

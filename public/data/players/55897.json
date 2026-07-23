@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SKLT02026",
+    "gameDate": "20260723",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "BB",
+    "resultText": "홍대인 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260722SKLT02026",
     "gameDate": "20260722",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "132",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260611SKLG02026",
-    "gameDate": "20260611",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "홍대인",
-    "batterPcode": "55897",
-    "pitcherName": "장현식",
-    "pitcherPcode": "63950",
-    "resultCode": "2B",
-    "resultText": "홍대인 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
