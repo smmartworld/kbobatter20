@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723NCLG02026",
+    "gameDate": "20260723",
+    "opponent": "NC",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "송찬의 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260722NCLG02026",
     "gameDate": "20260722",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260709LGSS02026",
-    "gameDate": "20260709",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "O",
-    "resultText": "송찬의 : 1루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

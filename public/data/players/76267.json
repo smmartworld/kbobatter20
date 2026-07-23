@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SSWO02026",
+    "gameDate": "20260723",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "김재윤",
+    "pitcherPcode": "65062",
+    "resultCode": "O",
+    "resultText": "최주환 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260721SSWO02026",
     "gameDate": "20260721",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260626WONC02026",
-    "gameDate": "20260626",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "김태경",
-    "pitcherPcode": "50992",
-    "resultCode": "O",
-    "resultText": "최주환 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]

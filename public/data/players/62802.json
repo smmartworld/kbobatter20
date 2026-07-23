@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723SKLT02026",
+    "gameDate": "20260723",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박승욱",
+    "batterPcode": "62802",
+    "pitcherName": "이로운",
+    "pitcherPcode": "53892",
+    "resultCode": "H",
+    "resultText": "박승욱 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721SKLT02026",
     "gameDate": "20260721",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260625NCLT02026",
-    "gameDate": "20260625",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박승욱",
-    "batterPcode": "62802",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "박승욱 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

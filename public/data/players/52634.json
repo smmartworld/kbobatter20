@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723HHHT02026",
+    "gameDate": "20260723",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박상준",
+    "batterPcode": "52634",
+    "pitcherName": "이민우",
+    "pitcherPcode": "65616",
+    "resultCode": "BB",
+    "resultText": "박상준 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260722HHHT02026",
     "gameDate": "20260722",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260716HTSK02026",
-    "gameDate": "20260716",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박상준",
-    "batterPcode": "52634",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "O",
-    "resultText": "박상준 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "체인지업"
   }
 ]

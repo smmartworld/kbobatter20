@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723HHHT02026",
+    "gameDate": "20260723",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김민규",
+    "batterPcode": "56637",
+    "pitcherName": "장유호",
+    "pitcherPcode": "69645",
+    "resultCode": "3B",
+    "resultText": "김민규 : 우중간 3루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260719HTSK02026",
     "gameDate": "20260719",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "130",
-    "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260610HTHH02026",
-    "gameDate": "20260610",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김민규",
-    "batterPcode": "56637",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "O",
-    "resultText": "김민규 : 3루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
     "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723NCLG02026",
+    "gameDate": "20260723",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "임지민",
+    "pitcherPcode": "52902",
+    "resultCode": "BB",
+    "resultText": "문보경 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260716KTLG02026",
-    "gameDate": "20260716",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "문보경 : 유격수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

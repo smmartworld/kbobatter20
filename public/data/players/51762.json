@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260723HHHT02026",
+    "gameDate": "20260723",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "이태양",
+    "pitcherPcode": "60768",
+    "resultCode": "O",
+    "resultText": "장규현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721HHHT02026",
     "gameDate": "20260721",
     "opponent": "KIA",
