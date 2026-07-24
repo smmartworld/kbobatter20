@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724SSOB02026",
+    "gameDate": "20260724",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "세베리노",
+    "batterPcode": "56236",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "세베리노 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260721OBKT02026",
     "gameDate": "20260721",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260716OBNC02026",
-    "gameDate": "20260716",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "세베리노",
-    "batterPcode": "56236",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "H",
-    "resultText": "세베리노 : 우익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]

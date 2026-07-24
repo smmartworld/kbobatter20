@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724KTLT02026",
+    "gameDate": "20260724",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "H",
+    "resultText": "한승택 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721OBKT02026",
     "gameDate": "20260721",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260705LTKT02026",
-    "gameDate": "20260705",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "SAC",
-    "resultText": "한승택 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

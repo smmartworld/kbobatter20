@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724KTLT02026",
+    "gameDate": "20260724",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "BB",
+    "resultText": "손성빈 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260723SKLT02026",
     "gameDate": "20260723",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "124",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260716LTSS02026",
-    "gameDate": "20260716",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "H",
-    "resultText": "손성빈 : 중견수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
