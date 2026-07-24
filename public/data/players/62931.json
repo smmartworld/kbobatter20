@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724KTLT02026",
+    "gameDate": "20260724",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "노진혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260723SKLT02026",
     "gameDate": "20260723",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260628LGLT02026",
-    "gameDate": "20260628",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "김영우",
-    "pitcherPcode": "55167",
-    "resultCode": "H",
-    "resultText": "노진혁 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "154",
     "lastPitchType": "직구"
   }
 ]

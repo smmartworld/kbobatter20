@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724SSOB02026",
+    "gameDate": "20260724",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "김한중",
+    "pitcherPcode": "55221",
+    "resultCode": "O",
+    "resultText": "전병우 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260723SSWO02026",
     "gameDate": "20260723",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260703SSSK02026",
-    "gameDate": "20260703",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "전병우 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

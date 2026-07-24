@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724NCSK02026",
+    "gameDate": "20260724",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박시원",
+    "batterPcode": "50996",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "O",
+    "resultText": "박시원 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721NCLG02026",
     "gameDate": "20260721",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604NCSS02026",
-    "gameDate": "20260604",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박시원",
-    "batterPcode": "50996",
-    "pitcherName": "미야지",
-    "pitcherPcode": "56415",
-    "resultCode": "O",
-    "resultText": "박시원 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]
