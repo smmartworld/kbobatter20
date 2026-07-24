@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260724SSOB02026",
+    "gameDate": "20260724",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "임기영",
+    "pitcherPcode": "62754",
+    "resultCode": "O",
+    "resultText": "이유찬 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260721OBKT02026",
     "gameDate": "20260721",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617KTOB02026",
-    "gameDate": "20260617",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "H",
-    "resultText": "이유찬 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "스위퍼"
   }
 ]

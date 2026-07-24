@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260724SSOB02026",
+    "gameDate": "20260724",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김태훈",
+    "batterPcode": "65040",
+    "pitcherName": "박신지",
+    "pitcherPcode": "68249",
+    "resultCode": "O",
+    "resultText": "김태훈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  }
+]
