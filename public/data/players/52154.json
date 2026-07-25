@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725LGHH02026",
+    "gameDate": "20260725",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "H",
+    "resultText": "이주헌 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260723NCLG02026",
     "gameDate": "20260723",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260611SKLG02026",
-    "gameDate": "20260611",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "2B",
-    "resultText": "이주헌 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "체인지업"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725KTLT02026",
+    "gameDate": "20260725",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "소형준",
+    "pitcherPcode": "50030",
+    "resultCode": "O",
+    "resultText": "손성빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260724KTLT02026",
     "gameDate": "20260724",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "138",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260718LTSS02026",
-    "gameDate": "20260718",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "O",
-    "resultText": "손성빈 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
   }
 ]

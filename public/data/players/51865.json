@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725NCSK02026",
+    "gameDate": "20260725",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "H",
+    "resultText": "조형우 : 유격수 오른쪽 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260724NCSK02026",
     "gameDate": "20260724",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260717HTSK02026",
-    "gameDate": "20260717",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "조상우",
-    "pitcherPcode": "63342",
-    "resultCode": "BB",
-    "resultText": "조형우 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
