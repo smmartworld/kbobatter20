@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725LGHH02026",
+    "gameDate": "20260725",
+    "opponent": "LG",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "우강훈",
+    "pitcherPcode": "51526",
+    "resultCode": "O",
+    "resultText": "장규현 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260723HHHT02026",
     "gameDate": "20260723",
     "opponent": "KIA",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725KTLT02026",
+    "gameDate": "20260725",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "이민석",
+    "pitcherPcode": "52530",
+    "resultCode": "H",
+    "resultText": "권동진 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724KTLT02026",
     "gameDate": "20260724",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "145",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260708WOKT02026",
-    "gameDate": "20260708",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "O",
-    "resultText": "권동진 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
