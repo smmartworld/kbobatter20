@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725SSOB02026",
+    "gameDate": "20260725",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장승현",
+    "batterPcode": "63202",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "O",
+    "resultText": "장승현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260522SSLT02026",
-    "gameDate": "20260522",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장승현",
-    "batterPcode": "63202",
-    "pitcherName": "구승민",
-    "pitcherPcode": "63543",
-    "resultCode": "O",
-    "resultText": "장승현 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
   }
 ]
