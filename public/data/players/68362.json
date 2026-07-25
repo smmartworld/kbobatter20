@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725WOHT02026",
+    "gameDate": "20260725",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "O",
+    "resultText": "추재현 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724WOHT02026",
     "gameDate": "20260724",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260719WOHH02026",
-    "gameDate": "20260719",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "O",
-    "resultText": "추재현 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "0",
-    "lastPitchType": ""
   }
 ]

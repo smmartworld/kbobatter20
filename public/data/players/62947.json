@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725WOHT02026",
+    "gameDate": "20260725",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "HR",
+    "resultText": "나성범 : 중견수 뒤 홈런 (홈런거리:125M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724WOHT02026",
     "gameDate": "20260724",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260719HTSK02026",
-    "gameDate": "20260719",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "HR",
-    "resultText": "나성범 : 좌중간 뒤 홈런 (홈런거리:125M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "커브"
   }
 ]

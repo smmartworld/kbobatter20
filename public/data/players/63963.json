@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725NCSK02026",
+    "gameDate": "20260725",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "O",
+    "resultText": "권희동 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260724NCSK02026",
     "gameDate": "20260724",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260716OBNC02026",
-    "gameDate": "20260716",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "O",
-    "resultText": "권희동 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

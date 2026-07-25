@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725SSOB02026",
+    "gameDate": "20260725",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "김성윤 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "122",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260721SSWO02026",
-    "gameDate": "20260721",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "H",
-    "resultText": "김성윤 : 투수 앞 번트안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

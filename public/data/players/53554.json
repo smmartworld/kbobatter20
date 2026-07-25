@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725SSOB02026",
+    "gameDate": "20260725",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "김민석 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260717OBNC02026",
-    "gameDate": "20260717",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "H",
-    "resultText": "김민석 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

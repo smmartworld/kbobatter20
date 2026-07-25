@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260725WOHT02026",
+    "gameDate": "20260725",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "O",
+    "resultText": "안치홍 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724WOHT02026",
     "gameDate": "20260724",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260717WOHH02026",
-    "gameDate": "20260717",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "안치홍 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
