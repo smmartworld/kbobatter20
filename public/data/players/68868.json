@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726NCSK02026",
+    "gameDate": "20260726",
+    "opponent": "NC",
+    "inning": 11,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "최준우",
+    "batterPcode": "68868",
+    "pitcherName": "신영우",
+    "pitcherPcode": "53919",
+    "resultCode": "K",
+    "resultText": "최준우 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260718HTSK02026",
     "gameDate": "20260718",
     "opponent": "KIA",

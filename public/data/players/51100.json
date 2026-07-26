@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "이영빈",
+    "batterPcode": "51100",
+    "pitcherName": "김종수",
+    "pitcherPcode": "63765",
+    "resultCode": "O",
+    "resultText": "이영빈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260704HHLG02026",
     "gameDate": "20260704",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625SSLG02026",
-    "gameDate": "20260625",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이영빈",
-    "batterPcode": "51100",
-    "pitcherName": "미야지",
-    "pitcherPcode": "56415",
-    "resultCode": "H",
-    "resultText": "이영빈 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

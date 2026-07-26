@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726WOHT02026",
+    "gameDate": "20260726",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "임병욱",
+    "batterPcode": "64346",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "HR",
+    "resultText": "임병욱 : 우익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725WOHT02026",
     "gameDate": "20260725",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260718WOHH02026",
-    "gameDate": "20260718",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "임병욱",
-    "batterPcode": "64346",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "H",
-    "resultText": "임병욱 : 우중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "스위퍼"
   }
 ]

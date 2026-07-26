@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "황영묵",
+    "batterPcode": "54795",
+    "pitcherName": "양우진",
+    "pitcherPcode": "56165",
+    "resultCode": "O",
+    "resultText": "황영묵 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725LGHH02026",
     "gameDate": "20260725",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623OBHH02026",
-    "gameDate": "20260623",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "황영묵",
-    "batterPcode": "54795",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "K",
-    "resultText": "황영묵 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

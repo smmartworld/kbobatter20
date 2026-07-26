@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "정은원",
+    "batterPcode": "68743",
+    "pitcherName": "양우진",
+    "pitcherPcode": "56165",
+    "resultCode": "BB",
+    "resultText": "정은원 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725LGHH02026",
     "gameDate": "20260725",
     "opponent": "LG",
