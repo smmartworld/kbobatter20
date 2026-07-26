@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726WOHT02026",
+    "gameDate": "20260726",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "주효상",
+    "batterPcode": "66354",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "K",
+    "resultText": "주효상 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260723HHHT02026",
     "gameDate": "20260723",
     "opponent": "한화",

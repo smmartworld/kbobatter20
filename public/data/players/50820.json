@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726NCSK02026",
+    "gameDate": "20260726",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전의산",
+    "batterPcode": "50820",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "전의산 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260724NCSK02026",
     "gameDate": "20260724",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260719HTSK02026",
-    "gameDate": "20260719",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "전의산",
-    "batterPcode": "50820",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "O",
-    "resultText": "전의산 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726SSOB02026",
+    "gameDate": "20260726",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "이재현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "157",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725SSOB02026",
     "gameDate": "20260725",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260721SSWO02026",
-    "gameDate": "20260721",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "정다훈",
-    "pitcherPcode": "56345",
-    "resultCode": "HR",
-    "resultText": "이재현 : 좌중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 8,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]

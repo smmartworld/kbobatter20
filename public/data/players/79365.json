@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "O",
+    "resultText": "박동원 : 투수 맞고 1루수 땅볼 아웃 (투수->1루수 태그아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260725LGHH02026",
     "gameDate": "20260725",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260718KTLG02026",
-    "gameDate": "20260718",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "사우어",
-    "pitcherPcode": "56032",
-    "resultCode": "O",
-    "resultText": "박동원 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726SSOB02026",
+    "gameDate": "20260726",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "강민호",
+    "batterPcode": "74540",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "강민호 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "0",
     "lastPitchType": ""
-  },
-  {
-    "gameId": "20260709LGSS02026",
-    "gameDate": "20260709",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "강민호",
-    "batterPcode": "74540",
-    "pitcherName": "리오스",
-    "pitcherPcode": "56146",
-    "resultCode": "2B",
-    "resultText": "강민호 : 좌익수 왼쪽 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "156",
-    "lastPitchType": "직구"
   }
 ]

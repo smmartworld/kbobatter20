@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "K",
+    "resultText": "문정빈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 9,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260725LGHH02026",
     "gameDate": "20260725",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "124",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260721NCLG02026",
-    "gameDate": "20260721",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "원종해",
-    "pitcherPcode": "54906",
-    "resultCode": "O",
-    "resultText": "문정빈 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

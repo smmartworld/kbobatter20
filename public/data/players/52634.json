@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726WOHT02026",
+    "gameDate": "20260726",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박상준",
+    "batterPcode": "52634",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "O",
+    "resultText": "박상준 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725WOHT02026",
     "gameDate": "20260725",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "128",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260718HTSK02026",
-    "gameDate": "20260718",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "박상준",
-    "batterPcode": "52634",
-    "pitcherName": "서진용",
-    "pitcherPcode": "61895",
-    "resultCode": "H",
-    "resultText": "박상준 : 3루수 앞 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "포크"
   }
 ]

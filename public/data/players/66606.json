@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726KTLT02026",
+    "gameDate": "20260726",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "최원준 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725KTLT02026",
     "gameDate": "20260725",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260718KTLG02026",
-    "gameDate": "20260718",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "BB",
-    "resultText": "최원준 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

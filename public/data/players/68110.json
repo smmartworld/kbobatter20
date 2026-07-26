@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726LGHH02026",
+    "gameDate": "20260726",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "H",
+    "resultText": "송찬의 : 유격수 왼쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260724LGHH02026",
     "gameDate": "20260724",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260709LGSS02026",
-    "gameDate": "20260709",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "김재윤",
-    "pitcherPcode": "65062",
-    "resultCode": "BB",
-    "resultText": "송찬의 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 9,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

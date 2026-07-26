@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726SSOB02026",
+    "gameDate": "20260726",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "보스",
+    "pitcherPcode": "56402",
+    "resultCode": "H",
+    "resultText": "박찬호 : 좌중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260718OBNC02026",
-    "gameDate": "20260718",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "HR",
-    "resultText": "박찬호 : 좌익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

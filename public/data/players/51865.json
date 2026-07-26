@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726NCSK02026",
+    "gameDate": "20260726",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "HR",
+    "resultText": "조형우 : 좌익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260725NCSK02026",
     "gameDate": "20260725",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "135",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260721SKLT02026",
-    "gameDate": "20260721",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "H",
-    "resultText": "조형우 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]
