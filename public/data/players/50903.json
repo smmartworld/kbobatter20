@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726NCSK02026",
+    "gameDate": "20260726",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "한재환",
+    "batterPcode": "50903",
+    "pitcherName": "서진용",
+    "pitcherPcode": "61895",
+    "resultCode": "O",
+    "resultText": "한재환 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260725NCSK02026",
     "gameDate": "20260725",
     "opponent": "SSG",

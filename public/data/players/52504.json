@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260726KTLT02026",
+    "gameDate": "20260726",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김동혁",
+    "batterPcode": "52504",
+    "pitcherName": "이상동",
+    "pitcherPcode": "69054",
+    "resultCode": "O",
+    "resultText": "김동혁 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260719LTSS02026",
     "gameDate": "20260719",
     "opponent": "삼성",
