@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260728HTSS02026",
+    "gameDate": "20260728",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "한준수 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260726WOHT02026",
     "gameDate": "20260726",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260721HHHT02026",
-    "gameDate": "20260721",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "강재민",
-    "pitcherPcode": "50705",
-    "resultCode": "O",
-    "resultText": "한준수 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260728HTSS02026",
+    "gameDate": "20260728",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "하주석",
+    "batterPcode": "62700",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "O",
+    "resultText": "하주석 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260726WOHT02026",
     "gameDate": "20260726",
     "opponent": "키움",

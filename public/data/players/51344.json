@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260728KTNC02026",
+    "gameDate": "20260728",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "김휘집 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260726NCSK02026",
     "gameDate": "20260726",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260721NCLG02026",
-    "gameDate": "20260721",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "HR",
-    "resultText": "김휘집 : 좌익수 뒤 홈런 (홈런거리:115M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "체인지업"
   }
 ]

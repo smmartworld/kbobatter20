@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260728LTHH02026",
+    "gameDate": "20260728",
+    "opponent": "롯데",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심우준",
+    "batterPcode": "64006",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "O",
+    "resultText": "심우준 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260726LGHH02026",
     "gameDate": "20260726",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260722HHHT02026",
-    "gameDate": "20260722",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "심우준",
-    "batterPcode": "64006",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "심우준 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]
