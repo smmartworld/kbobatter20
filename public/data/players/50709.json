@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260728LTHH02026",
+    "gameDate": "20260728",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "H",
+    "resultText": "박정현 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260726LGHH02026",
     "gameDate": "20260726",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260722HHHT02026",
-    "gameDate": "20260722",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "이태양",
-    "pitcherPcode": "60768",
-    "resultCode": "SAC",
-    "resultText": "박정현 : 포수 희생번트 아웃 (포수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]
