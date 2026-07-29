@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260729HTSS02026",
+    "gameDate": "20260729",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "BB",
+    "resultText": "류지혁 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260728HTSS02026",
     "gameDate": "20260728",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "123",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260723SSWO02026",
-    "gameDate": "20260723",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "2B",
-    "resultText": "류지혁 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "커터"
   }
 ]

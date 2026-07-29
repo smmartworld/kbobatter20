@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260729WOLG02026",
+    "gameDate": "20260729",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "K",
+    "resultText": "문보경 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260728WOLG02026",
     "gameDate": "20260728",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260721NCLG02026",
-    "gameDate": "20260721",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "K",
-    "resultText": "문보경 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "스위퍼"
   }
 ]
