@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260729WOLG02026",
+    "gameDate": "20260729",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박채울",
+    "batterPcode": "54303",
+    "pitcherName": "배재준",
+    "pitcherPcode": "63145",
+    "resultCode": "K",
+    "resultText": "박채울 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260701LGWO02026",
     "gameDate": "20260701",
     "opponent": "LG",

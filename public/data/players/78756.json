@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260729WOLG02026",
+    "gameDate": "20260729",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "오선진",
+    "batterPcode": "78756",
+    "pitcherName": "이상영",
+    "pitcherPcode": "69168",
+    "resultCode": "O",
+    "resultText": "오선진 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260708WOKT02026",
     "gameDate": "20260708",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260521SKWO02026",
-    "gameDate": "20260521",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "오선진",
-    "batterPcode": "78756",
-    "pitcherName": "긴지로",
-    "pitcherPcode": "56800",
-    "resultCode": "H",
-    "resultText": "오선진 : 우중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]
