@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "H",
+    "resultText": "전병우 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260705SSSK02026",
-    "gameDate": "20260705",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "BB",
-    "resultText": "전병우 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

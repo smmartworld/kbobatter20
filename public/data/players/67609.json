@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "O",
+    "resultText": "박정우 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260723HHHT02026",
     "gameDate": "20260723",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "155",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260625HTWO02026",
-    "gameDate": "20260625",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "정다훈",
-    "pitcherPcode": "56345",
-    "resultCode": "BB",
-    "resultText": "박정우 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

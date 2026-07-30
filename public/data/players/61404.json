@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "이태양",
+    "pitcherPcode": "60768",
+    "resultCode": "O",
+    "resultText": "김헌곤 : 3루수 땅볼 아웃 (3루수 실책->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260517HTSS02026",
-    "gameDate": "20260517",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "홍민규",
-    "pitcherPcode": "55267",
-    "resultCode": "BB",
-    "resultText": "김헌곤 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 10,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

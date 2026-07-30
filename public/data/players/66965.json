@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730KTNC02026",
+    "gameDate": "20260730",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "도태훈",
+    "batterPcode": "66965",
+    "pitcherName": "한차현",
+    "pitcherPcode": "51058",
+    "resultCode": "O",
+    "resultText": "도태훈 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729KTNC02026",
     "gameDate": "20260729",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 7,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260603NCSS02026",
-    "gameDate": "20260603",
-    "opponent": "삼성",
-    "inning": 10,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "도태훈",
-    "batterPcode": "66965",
-    "pitcherName": "김재윤",
-    "pitcherPcode": "65062",
-    "resultCode": "2B",
-    "resultText": "도태훈 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

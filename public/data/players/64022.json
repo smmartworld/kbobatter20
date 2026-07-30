@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730KTNC02026",
+    "gameDate": "20260730",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "안중열",
+    "batterPcode": "64022",
+    "pitcherName": "한차현",
+    "pitcherPcode": "51058",
+    "resultCode": "O",
+    "resultText": "안중열 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729KTNC02026",
     "gameDate": "20260729",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260624NCLT02026",
-    "gameDate": "20260624",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "안중열",
-    "batterPcode": "64022",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "O",
-    "resultText": "안중열 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]

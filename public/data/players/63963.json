@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730KTNC02026",
+    "gameDate": "20260730",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "한차현",
+    "pitcherPcode": "51058",
+    "resultCode": "BB",
+    "resultText": "권희동 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729KTNC02026",
     "gameDate": "20260729",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260719OBNC02026",
-    "gameDate": "20260719",
-    "opponent": "두산",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "O",
-    "resultText": "권희동 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장승현",
+    "batterPcode": "63202",
+    "pitcherName": "이태양",
+    "pitcherPcode": "60768",
+    "resultCode": "O",
+    "resultText": "장승현 : 포수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260728HTSS02026",
     "gameDate": "20260728",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260524SSLT02026",
-    "gameDate": "20260524",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장승현",
-    "batterPcode": "63202",
-    "pitcherName": "정철원",
-    "pitcherPcode": "68242",
-    "resultCode": "SAC",
-    "resultText": "장승현 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]

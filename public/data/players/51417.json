@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "김현준 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "139",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260707LGSS02026",
-    "gameDate": "20260707",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "김현준 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

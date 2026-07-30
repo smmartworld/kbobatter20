@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730OBSK02026",
+    "gameDate": "20260730",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김인태",
+    "batterPcode": "63257",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "BB",
+    "resultText": "김인태 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260717OBNC02026",
     "gameDate": "20260717",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260614OBHT02026",
-    "gameDate": "20260614",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "김인태",
-    "batterPcode": "63257",
-    "pitcherName": "지현",
-    "pitcherPcode": "56633",
-    "resultCode": "H",
-    "resultText": "김인태 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

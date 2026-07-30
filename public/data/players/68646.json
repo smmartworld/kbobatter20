@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "H",
+    "resultText": "한준수 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260728HTSS02026",
     "gameDate": "20260728",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260722HHHT02026",
-    "gameDate": "20260722",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "O",
-    "resultText": "한준수 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "커터"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730LTHH02026",
+    "gameDate": "20260730",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "SAC",
+    "resultText": "박정현 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260728LTHH02026",
     "gameDate": "20260728",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260722HHHT02026",
-    "gameDate": "20260722",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "O",
-    "resultText": "박정현 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730KTNC02026",
+    "gameDate": "20260730",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "오태양",
+    "batterPcode": "51996",
+    "pitcherName": "한차현",
+    "pitcherPcode": "51058",
+    "resultCode": "H",
+    "resultText": "오태양 : 투수 오른쪽 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729KTNC02026",
     "gameDate": "20260729",
     "opponent": "KT",

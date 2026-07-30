@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730KTNC02026",
+    "gameDate": "20260730",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "한차현",
+    "pitcherPcode": "51058",
+    "resultCode": "E",
+    "resultText": "최정원 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260729KTNC02026",
     "gameDate": "20260729",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260612NCKT02026",
-    "gameDate": "20260612",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "O",
-    "resultText": "최정원 : 3루수 앞 땅볼로 출루",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]
