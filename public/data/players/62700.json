@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "하주석",
+    "batterPcode": "62700",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "2B",
+    "resultText": "하주석 : 우익수 오른쪽 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "삼성",

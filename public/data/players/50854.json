@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730OBSK02026",
+    "gameDate": "20260730",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "H",
+    "resultText": "최지훈 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260729OBSK02026",
     "gameDate": "20260729",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724NCSK02026",
-    "gameDate": "20260724",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "O",
-    "resultText": "최지훈 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

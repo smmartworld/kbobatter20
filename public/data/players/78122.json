@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김태군",
+    "batterPcode": "78122",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "HR",
+    "resultText": "김태군 : 좌익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "119",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260619HTKT02026",
-    "gameDate": "20260619",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김태군",
-    "batterPcode": "78122",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "BB",
-    "resultText": "김태군 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

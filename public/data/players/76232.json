@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730OBSK02026",
+    "gameDate": "20260730",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "양의지",
+    "batterPcode": "76232",
+    "pitcherName": "해치",
+    "pitcherPcode": "56855",
+    "resultCode": "H",
+    "resultText": "양의지 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260729OBSK02026",
     "gameDate": "20260729",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260721OBKT02026",
-    "gameDate": "20260721",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "양의지",
-    "batterPcode": "76232",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "BB",
-    "resultText": "양의지 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "포크"
   }
 ]

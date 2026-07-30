@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "강민호",
+    "batterPcode": "74540",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "H",
+    "resultText": "강민호 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260726SSOB02026",
     "gameDate": "20260726",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260716LTSS02026",
-    "gameDate": "20260716",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "강민호",
-    "batterPcode": "74540",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "H",
-    "resultText": "강민호 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]

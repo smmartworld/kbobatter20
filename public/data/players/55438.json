@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260730HTSS02026",
+    "gameDate": "20260730",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "심재훈",
+    "batterPcode": "55438",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "H",
+    "resultText": "심재훈 : 3루수 앞 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260729HTSS02026",
     "gameDate": "20260729",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260705SSSK02026",
-    "gameDate": "20260705",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "심재훈",
-    "batterPcode": "55438",
-    "pitcherName": "백승건",
-    "pitcherPcode": "69839",
-    "resultCode": "BB",
-    "resultText": "심재훈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
