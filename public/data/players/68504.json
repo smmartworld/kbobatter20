@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260731HTNC02026",
+    "gameDate": "20260731",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "이호연",
+    "batterPcode": "68504",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "55995",
+    "resultCode": "2B",
+    "resultText": "이호연 : 좌중간 2루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  }
+]
