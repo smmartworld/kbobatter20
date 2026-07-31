@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260731SKWO02026",
+    "gameDate": "20260731",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "정다훈",
+    "pitcherPcode": "56345",
+    "resultCode": "GDP",
+    "resultText": "한유섬 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260730OBSK02026",
     "gameDate": "20260730",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260530SKHH02026",
-    "gameDate": "20260530",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "한유섬",
-    "batterPcode": "62895",
-    "pitcherName": "김종수",
-    "pitcherPcode": "63765",
-    "resultCode": "H",
-    "resultText": "한유섬 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

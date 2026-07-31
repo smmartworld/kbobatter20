@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260731LGOB02026",
+    "gameDate": "20260731",
+    "opponent": "LG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "김영우",
+    "pitcherPcode": "55167",
+    "resultCode": "O",
+    "resultText": "오명진 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260626HTOB02026",
     "gameDate": "20260626",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "156",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619OBLG02026",
-    "gameDate": "20260619",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "이정용",
-    "pitcherPcode": "69134",
-    "resultCode": "O",
-    "resultText": "오명진 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "118",
-    "lastPitchType": "커브"
   }
 ]
