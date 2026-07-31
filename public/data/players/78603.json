@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260731HTNC02026",
+    "gameDate": "20260731",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "H",
+    "resultText": "김선빈 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260730HTSS02026",
     "gameDate": "20260730",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260721HHHT02026",
-    "gameDate": "20260721",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "이교훈",
-    "pitcherPcode": "69205",
-    "resultCode": "H",
-    "resultText": "김선빈 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
   }
 ]
