@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801SKWO02026",
+    "gameDate": "20260801",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "O",
+    "resultText": "오태곤 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260731SKWO02026",
     "gameDate": "20260731",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260701SKHT02026",
-    "gameDate": "20260701",
-    "opponent": "KIA",
-    "inning": 11,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "최지민",
-    "pitcherPcode": "52639",
-    "resultCode": "O",
-    "resultText": "오태곤 : 자동 고의4구",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 0,
-    "lastPitchSpeed": "",
-    "lastPitchType": ""
   }
 ]

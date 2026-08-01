@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "최인호 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260730LTHH02026",
     "gameDate": "20260730",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260704HHLG02026",
-    "gameDate": "20260704",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "리오스",
-    "pitcherPcode": "56146",
-    "resultCode": "GDP",
-    "resultText": "최인호 : 1루수 병살 실책으로 출루 (유격수->2루수->1루수 실책)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "157",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801SKWO02026",
+    "gameDate": "20260801",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "여동욱 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260731SKWO02026",
     "gameDate": "20260731",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260719WOHH02026",
-    "gameDate": "20260719",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "O",
-    "resultText": "여동욱 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
     "lastPitchType": "직구"
   }
 ]

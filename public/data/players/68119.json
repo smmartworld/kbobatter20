@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801LGOB02026",
+    "gameDate": "20260801",
+    "opponent": "두산",
+    "inning": 11,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "BB",
+    "resultText": "문성주 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260731LGOB02026",
     "gameDate": "20260731",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "131",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260724LGHH02026",
-    "gameDate": "20260724",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "박준영",
-    "pitcherPcode": "52731",
-    "resultCode": "O",
-    "resultText": "문성주 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
