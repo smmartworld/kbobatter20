@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "O",
+    "resultText": "페라자 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "LG",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "박시원",
-    "pitcherPcode": "55121",
-    "resultCode": "H",
-    "resultText": "페라자 : 우익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

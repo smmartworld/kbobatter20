@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "O",
+    "resultText": "김상수 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260725KTLT02026",
-    "gameDate": "20260725",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "김진욱",
-    "pitcherPcode": "51516",
-    "resultCode": "H",
-    "resultText": "김상수 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

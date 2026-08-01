@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "이원석",
+    "batterPcode": "68700",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "BB",
+    "resultText": "이원석 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260623OBHH02026",
-    "gameDate": "20260623",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이원석",
-    "batterPcode": "68700",
-    "pitcherName": "타카다",
-    "pitcherPcode": "56212",
-    "resultCode": "O",
-    "resultText": "이원석 : 포수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
   }
 ]

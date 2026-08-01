@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "문현빈",
+    "batterPcode": "53764",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "GDP",
+    "resultText": "문현빈 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 9,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "문현빈",
-    "batterPcode": "53764",
-    "pitcherName": "박시원",
-    "pitcherPcode": "55121",
-    "resultCode": "BB",
-    "resultText": "문현빈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

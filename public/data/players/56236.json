@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801LGOB02026",
+    "gameDate": "20260801",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "세베리노",
+    "batterPcode": "56236",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "세베리노 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260731LGOB02026",
     "gameDate": "20260731",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "127",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260726SSOB02026",
-    "gameDate": "20260726",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "세베리노",
-    "batterPcode": "56236",
-    "pitcherName": "보스",
-    "pitcherPcode": "56402",
-    "resultCode": "O",
-    "resultText": "세베리노 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "커터"
   }
 ]

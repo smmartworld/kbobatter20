@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801SKWO02026",
+    "gameDate": "20260801",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "정준재",
+    "batterPcode": "54812",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "O",
+    "resultText": "정준재 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260731SKWO02026",
     "gameDate": "20260731",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260726NCSK02026",
-    "gameDate": "20260726",
-    "opponent": "NC",
-    "inning": 10,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "정준재",
-    "batterPcode": "54812",
-    "pitcherName": "손주환",
-    "pitcherPcode": "54904",
-    "resultCode": "O",
-    "resultText": "정준재 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

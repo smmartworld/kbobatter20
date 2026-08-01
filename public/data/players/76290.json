@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "O",
+    "resultText": "김현수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "138",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260725KTLT02026",
-    "gameDate": "20260725",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "BB",
-    "resultText": "김현수 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

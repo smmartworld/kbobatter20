@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "E",
+    "resultText": "안현민 : 유격수 플라이 실책으로 출루 (유격수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726KTLT02026",
-    "gameDate": "20260726",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "H",
-    "resultText": "안현민 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "스위퍼"
   }
 ]

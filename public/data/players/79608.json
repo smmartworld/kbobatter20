@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801SKWO02026",
+    "gameDate": "20260801",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "O",
+    "resultText": "안치홍 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "113",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260731SKWO02026",
     "gameDate": "20260731",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260728WOLG02026",
-    "gameDate": "20260728",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "안치홍 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]
