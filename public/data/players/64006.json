@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801HHKT02026",
+    "gameDate": "20260801",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "심우준",
+    "batterPcode": "64006",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "SAC",
+    "resultText": "심우준 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260725LGHH02026",
-    "gameDate": "20260725",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "심우준",
-    "batterPcode": "64006",
-    "pitcherName": "송승기",
-    "pitcherPcode": "51111",
-    "resultCode": "H",
-    "resultText": "심우준 : 우중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

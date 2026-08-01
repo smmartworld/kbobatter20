@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801LGOB02026",
+    "gameDate": "20260801",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "조수행 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260731LGOB02026",
     "gameDate": "20260731",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260718OBNC02026",
-    "gameDate": "20260718",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "H",
-    "resultText": "조수행 : 좌익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

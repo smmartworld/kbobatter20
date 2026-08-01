@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260801SKWO02026",
+    "gameDate": "20260801",
+    "opponent": "키움",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "안상현",
+    "batterPcode": "66864",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "O",
+    "resultText": "안상현 : 포수 앞 땅볼로 출루",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260730OBSK02026",
     "gameDate": "20260730",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724NCSK02026",
-    "gameDate": "20260724",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "안상현",
-    "batterPcode": "66864",
-    "pitcherName": "손주환",
-    "pitcherPcode": "54904",
-    "resultCode": "O",
-    "resultText": "안상현 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]
