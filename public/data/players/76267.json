@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802SKWO02026",
+    "gameDate": "20260802",
+    "opponent": "SSG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "O",
+    "resultText": "최주환 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260730WOLG02026",
     "gameDate": "20260730",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "최주환 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "0",
-    "lastPitchType": ""
   }
 ]

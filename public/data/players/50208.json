@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802LGOB02026",
+    "gameDate": "20260802",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "H",
+    "resultText": "오명진 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260731LGOB02026",
     "gameDate": "20260731",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 9,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619OBLG02026",
-    "gameDate": "20260619",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "리오스",
-    "pitcherPcode": "56146",
-    "resultCode": "O",
-    "resultText": "오명진 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "156",
     "lastPitchType": "직구"
   }
 ]

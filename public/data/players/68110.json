@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802LGOB02026",
+    "gameDate": "20260802",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "송찬의 : 2루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260801LGOB02026",
     "gameDate": "20260801",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "짐머맨",
-    "pitcherPcode": "56799",
-    "resultCode": "H",
-    "resultText": "송찬의 : 유격수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

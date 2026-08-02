@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802LGOB02026",
+    "gameDate": "20260802",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "박해민 : 1루수 번트 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260801LGOB02026",
     "gameDate": "20260801",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "155",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728WOLG02026",
-    "gameDate": "20260728",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "H",
-    "resultText": "박해민 : 우익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802LGOB02026",
+    "gameDate": "20260802",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "2B",
+    "resultText": "김민석 : 우익수 오른쪽 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260801LGOB02026",
     "gameDate": "20260801",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728OBSK02026",
-    "gameDate": "20260728",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "BB",
-    "resultText": "김민석 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "커터"
   }
 ]
