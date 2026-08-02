@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802HHKT02026",
+    "gameDate": "20260802",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "최재훈",
+    "batterPcode": "78288",
+    "pitcherName": "이정현",
+    "pitcherPcode": "67048",
+    "resultCode": "K",
+    "resultText": "최재훈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260725LGHH02026",
     "gameDate": "20260725",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260611HTHH02026",
-    "gameDate": "20260611",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최재훈",
-    "batterPcode": "78288",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "최재훈 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "체인지업"
   }
 ]

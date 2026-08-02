@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802HHKT02026",
+    "gameDate": "20260802",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "권민규",
+    "pitcherPcode": "55764",
+    "resultCode": "BB",
+    "resultText": "배정대 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260731HHKT02026",
     "gameDate": "20260731",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260623SKKT02026",
-    "gameDate": "20260623",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "신상연",
-    "pitcherPcode": "56808",
-    "resultCode": "O",
-    "resultText": "배정대 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

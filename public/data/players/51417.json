@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802SSLT02026",
+    "gameDate": "20260802",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "2B",
+    "resultText": "김현준 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260731SSLT02026",
     "gameDate": "20260731",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260718LTSS02026",
-    "gameDate": "20260718",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "이진하",
-    "pitcherPcode": "53562",
-    "resultCode": "BB",
-    "resultText": "김현준 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]
