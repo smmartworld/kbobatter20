@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802SSLT02026",
+    "gameDate": "20260802",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "전병우 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260731SSLT02026",
     "gameDate": "20260731",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "155",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260708LGSS02026",
-    "gameDate": "20260708",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "O",
-    "resultText": "전병우 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "체인지업"
   }
 ]

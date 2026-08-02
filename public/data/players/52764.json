@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802HHKT02026",
+    "gameDate": "20260802",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "허인서 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260801HHKT02026",
     "gameDate": "20260801",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728LTHH02026",
-    "gameDate": "20260728",
-    "opponent": "롯데",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "H",
-    "resultText": "허인서 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]

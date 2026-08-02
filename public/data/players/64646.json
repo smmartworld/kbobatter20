@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260802LGOB02026",
+    "gameDate": "20260802",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "박찬호 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260801LGOB02026",
     "gameDate": "20260801",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728OBSK02026",
-    "gameDate": "20260728",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "노경은",
-    "pitcherPcode": "73211",
-    "resultCode": "O",
-    "resultText": "박찬호 : 1루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]
