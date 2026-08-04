@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260804LGSK02026",
+    "gameDate": "20260804",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "김민",
+    "pitcherPcode": "68043",
+    "resultCode": "H",
+    "resultText": "문보경 : 좌익수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260802LGOB02026",
     "gameDate": "20260802",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "이상규",
-    "pitcherPcode": "65117",
-    "resultCode": "SAC",
-    "resultText": "문보경 : 중견수 희생플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]

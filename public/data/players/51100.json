@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260804LGSK02026",
+    "gameDate": "20260804",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "이영빈",
+    "batterPcode": "51100",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "H",
+    "resultText": "이영빈 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260729WOLG02026",
     "gameDate": "20260729",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260628LGLT02026",
-    "gameDate": "20260628",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "이영빈",
-    "batterPcode": "51100",
-    "pitcherName": "이이무라",
-    "pitcherPcode": "56503",
-    "resultCode": "O",
-    "resultText": "이영빈 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "포크"
   }
 ]

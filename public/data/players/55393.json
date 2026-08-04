@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260804WOLT02026",
+    "gameDate": "20260804",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "H",
+    "resultText": "여동욱 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260801SKWO02026",
     "gameDate": "20260801",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260719WOHH02026",
-    "gameDate": "20260719",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "장유호",
-    "pitcherPcode": "69645",
-    "resultCode": "O",
-    "resultText": "여동욱 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]

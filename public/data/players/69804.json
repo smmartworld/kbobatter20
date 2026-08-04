@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260804LGSK02026",
+    "gameDate": "20260804",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "채현우",
+    "batterPcode": "69804",
+    "pitcherName": "김영우",
+    "pitcherPcode": "55167",
+    "resultCode": "SAC",
+    "resultText": "채현우 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260801SKWO02026",
     "gameDate": "20260801",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260522SKHT02026",
-    "gameDate": "20260522",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "채현우",
-    "batterPcode": "69804",
-    "pitcherName": "황동하",
-    "pitcherPcode": "52641",
-    "resultCode": "H",
-    "resultText": "채현우 : 중견수 오른쪽 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "슬라이더"
   }
 ]
