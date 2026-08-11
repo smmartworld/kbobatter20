@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811HHOB02026",
+    "gameDate": "20260811",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "윤준호 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260801LGOB02026",
     "gameDate": "20260801",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "127",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260718OBNC02026",
-    "gameDate": "20260718",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "하준영",
-    "pitcherPcode": "68639",
-    "resultCode": "O",
-    "resultText": "윤준호 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

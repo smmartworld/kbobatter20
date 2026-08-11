@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811SSHT02026",
+    "gameDate": "20260811",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "하주석",
+    "batterPcode": "62700",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "SAC",
+    "resultText": "하주석 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260726WOHT02026",
-    "gameDate": "20260726",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "하주석",
-    "batterPcode": "62700",
-    "pitcherName": "김윤하",
-    "pitcherPcode": "54319",
-    "resultCode": "O",
-    "resultText": "하주석 : 1루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

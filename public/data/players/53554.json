@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811HHOB02026",
+    "gameDate": "20260811",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "H",
+    "resultText": "김민석 : 유격수 왼쪽 내야안타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260802LGOB02026",
     "gameDate": "20260802",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260729OBSK02026",
-    "gameDate": "20260729",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "H",
-    "resultText": "김민석 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

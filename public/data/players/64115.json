@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "BB",
+    "resultText": "장준원 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260802HHKT02026",
     "gameDate": "20260802",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260716KTLG02026",
-    "gameDate": "20260716",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "리오스",
-    "pitcherPcode": "56146",
-    "resultCode": "O",
-    "resultText": "장준원 : 투수 플라이 아웃 (번트)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "158",
-    "lastPitchType": "직구"
   }
 ]

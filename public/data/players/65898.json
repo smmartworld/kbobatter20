@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LGWO02026",
+    "gameDate": "20260811",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "120",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260726WOHT02026",
-    "gameDate": "20260726",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "황동하",
-    "pitcherPcode": "52641",
-    "resultCode": "HR",
-    "resultText": "김웅빈 : 우익수 뒤 홈런 (홈런거리:105M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

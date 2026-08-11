@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LGWO02026",
+    "gameDate": "20260811",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "H",
+    "resultText": "구본혁 : 좌익수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728WOLG02026",
-    "gameDate": "20260728",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "O",
-    "resultText": "구본혁 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

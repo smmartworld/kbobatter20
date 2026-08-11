@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LGWO02026",
+    "gameDate": "20260811",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "서건창",
+    "batterPcode": "78168",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "서건창 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260730WOLG02026",
-    "gameDate": "20260730",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "서건창",
-    "batterPcode": "78168",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "SAC",
-    "resultText": "서건창 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

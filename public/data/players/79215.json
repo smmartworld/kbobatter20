@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "H",
+    "resultText": "박건우 : 우중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260725NCSK02026",
-    "gameDate": "20260725",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "박건우 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

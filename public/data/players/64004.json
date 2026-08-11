@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "김민혁 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260802HHKT02026",
     "gameDate": "20260802",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "142",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260726KTLT02026",
-    "gameDate": "20260726",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "O",
-    "resultText": "김민혁 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "커터"
   }
 ]

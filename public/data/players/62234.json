@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811SSHT02026",
+    "gameDate": "20260811",
+    "opponent": "KIA",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "H",
+    "resultText": "류지혁 : 2루수 왼쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260804HHSS02026",
     "gameDate": "20260804",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "148",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260725SSOB02026",
-    "gameDate": "20260725",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "GDP",
-    "resultText": "류지혁 : 투수 병살타 아웃 (투수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

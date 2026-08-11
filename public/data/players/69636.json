@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811SSHT02026",
+    "gameDate": "20260811",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "오선우",
+    "batterPcode": "69636",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "K",
+    "resultText": "오선우 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260606SSHT02026",
     "gameDate": "20260606",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "119",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260527HTWO02026",
-    "gameDate": "20260527",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "오선우",
-    "batterPcode": "69636",
-    "pitcherName": "박진형",
-    "pitcherPcode": "63512",
-    "resultCode": "BB",
-    "resultText": "오선우 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "포크"
   }
 ]

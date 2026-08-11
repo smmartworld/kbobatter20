@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LGWO02026",
+    "gameDate": "20260811",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "추재현 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "108",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260730WOLG02026",
-    "gameDate": "20260730",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "K",
-    "resultText": "추재현 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

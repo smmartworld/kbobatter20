@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LGWO02026",
+    "gameDate": "20260811",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "BB",
+    "resultText": "오지환 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "131",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260730WOLG02026",
-    "gameDate": "20260730",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "오지환 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "154",
-    "lastPitchType": "직구"
   }
 ]

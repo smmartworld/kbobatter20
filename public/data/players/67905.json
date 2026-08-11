@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "K",
+    "resultText": "천재환 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260725NCSK02026",
-    "gameDate": "20260725",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "K",
-    "resultText": "천재환 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]

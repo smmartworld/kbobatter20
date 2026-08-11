@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811SSHT02026",
+    "gameDate": "20260811",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "H",
+    "resultText": "나성범 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260726WOHT02026",
-    "gameDate": "20260726",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "김윤하",
-    "pitcherPcode": "54319",
-    "resultCode": "H",
-    "resultText": "나성범 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

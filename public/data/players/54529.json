@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LTSK02026",
+    "gameDate": "20260811",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "BB",
+    "resultText": "레이예스 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "119",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260729LTHH02026",
-    "gameDate": "20260729",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "O",
-    "resultText": "레이예스 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
