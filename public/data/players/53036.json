@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "이용준",
+    "pitcherPcode": "51948",
+    "resultCode": "H",
+    "resultText": "류현인 : 2루수 왼쪽 내야안타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260730KTNC02026",
     "gameDate": "20260730",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "145",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260628KTSS02026",
-    "gameDate": "20260628",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "최지광",
-    "pitcherPcode": "67421",
-    "resultCode": "O",
-    "resultText": "류현인 : 1루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]
