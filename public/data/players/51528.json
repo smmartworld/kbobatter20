@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LTSK02026",
+    "gameDate": "20260811",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "손성빈 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728LTHH02026",
-    "gameDate": "20260728",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "H",
-    "resultText": "손성빈 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]
