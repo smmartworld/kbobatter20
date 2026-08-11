@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811SSHT02026",
+    "gameDate": "20260811",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "BB",
+    "resultText": "김현준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804HHSS02026",
     "gameDate": "20260804",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260719LTSS02026",
-    "gameDate": "20260719",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "김진욱",
-    "pitcherPcode": "51516",
-    "resultCode": "BB",
-    "resultText": "김현준 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "125",
     "lastPitchType": "커브"
   }
 ]

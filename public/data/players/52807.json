@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811LTSK02026",
+    "gameDate": "20260811",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "현도훈",
+    "pitcherPcode": "68260",
+    "resultCode": "O",
+    "resultText": "임근우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260723SKLT02026",
-    "gameDate": "20260723",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "임근우",
-    "batterPcode": "52807",
-    "pitcherName": "김강현",
-    "pitcherPcode": "65522",
-    "resultCode": "O",
-    "resultText": "임근우 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "슬라이더"
   }
 ]

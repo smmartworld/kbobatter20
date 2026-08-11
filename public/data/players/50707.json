@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811HHOB02026",
+    "gameDate": "20260811",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "O",
+    "resultText": "최인호 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260802HHKT02026",
     "gameDate": "20260802",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "157",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260707NCHH02026",
-    "gameDate": "20260707",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "BB",
-    "resultText": "최인호 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
   }
 ]

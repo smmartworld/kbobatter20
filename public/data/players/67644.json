@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260811KTNC02026",
+    "gameDate": "20260811",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "O",
+    "resultText": "이정훈 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260728KTNC02026",
     "gameDate": "20260728",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260619HTKT02026",
-    "gameDate": "20260619",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "HR",
-    "resultText": "이정훈 : 우익수 뒤 홈런 (홈런거리:115M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]
