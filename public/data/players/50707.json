@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812HHOB02026",
+    "gameDate": "20260812",
+    "opponent": "두산",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "이용찬",
+    "pitcherPcode": "77211",
+    "resultCode": "H",
+    "resultText": "최인호 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260811HHOB02026",
     "gameDate": "20260811",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260718WOHH02026",
-    "gameDate": "20260718",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "H",
-    "resultText": "최인호 : 좌익수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "157",
     "lastPitchType": "직구"
   }
 ]

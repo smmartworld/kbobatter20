@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812LGWO02026",
+    "gameDate": "20260812",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신민재",
+    "batterPcode": "65207",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "O",
+    "resultText": "신민재 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260721NCLG02026",
-    "gameDate": "20260721",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신민재",
-    "batterPcode": "65207",
-    "pitcherName": "원종해",
-    "pitcherPcode": "54906",
-    "resultCode": "O",
-    "resultText": "신민재 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "투심"
   }
 ]

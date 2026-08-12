@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812KTNC02026",
+    "gameDate": "20260812",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "김진호",
+    "pitcherPcode": "67954",
+    "resultCode": "2B",
+    "resultText": "류현인 : 좌중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260811KTNC02026",
     "gameDate": "20260811",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 10,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260701KTHH02026",
-    "gameDate": "20260701",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "2B",
-    "resultText": "류현인 : 우중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]
