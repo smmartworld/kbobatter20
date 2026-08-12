@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812LGWO02026",
+    "gameDate": "20260812",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "여동욱 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 9,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260722SSWO02026",
-    "gameDate": "20260722",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "김백산",
-    "pitcherPcode": "55420",
-    "resultCode": "O",
-    "resultText": "여동욱 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812LGWO02026",
+    "gameDate": "20260812",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "H",
+    "resultText": "추재현 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260811LGWO02026",
     "gameDate": "20260811",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260731SKWO02026",
-    "gameDate": "20260731",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "추재현 : 포수 스트라이크 낫아웃 다른주자 수비로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 9,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]

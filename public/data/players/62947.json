@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812SSHT02026",
+    "gameDate": "20260812",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "보스",
+    "pitcherPcode": "56402",
+    "resultCode": "GDP",
+    "resultText": "나성범 : 1루수 병살타 아웃 (1루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260811SSHT02026",
     "gameDate": "20260811",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728HTSS02026",
-    "gameDate": "20260728",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "나성범 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "체인지업"
   }
 ]

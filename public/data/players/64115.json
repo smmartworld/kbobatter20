@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812KTNC02026",
+    "gameDate": "20260812",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "GDP",
+    "resultText": "장준원 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260811KTNC02026",
     "gameDate": "20260811",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260721OBKT02026",
-    "gameDate": "20260721",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "장준원 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
   }
 ]

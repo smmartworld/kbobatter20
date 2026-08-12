@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812LTSK02026",
+    "gameDate": "20260812",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "최지훈",
+    "batterPcode": "50854",
+    "pitcherName": "김한결",
+    "pitcherPcode": "56540",
+    "resultCode": "2B",
+    "resultText": "최지훈 : 우익수 오른쪽 앞 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260811LTSK02026",
     "gameDate": "20260811",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260731SKWO02026",
-    "gameDate": "20260731",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "최지훈",
-    "batterPcode": "50854",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "O",
-    "resultText": "최지훈 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "슬라이더"
   }
 ]

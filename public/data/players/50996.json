@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812KTNC02026",
+    "gameDate": "20260812",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박시원",
+    "batterPcode": "50996",
+    "pitcherName": "소형준",
+    "pitcherPcode": "50030",
+    "resultCode": "HR",
+    "resultText": "박시원 : 우익수 뒤 홈런 (홈런거리:130M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260724NCSK02026",
     "gameDate": "20260724",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260605LGNC02026",
-    "gameDate": "20260605",
-    "opponent": "LG",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박시원",
-    "batterPcode": "50996",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "BB",
-    "resultText": "박시원 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

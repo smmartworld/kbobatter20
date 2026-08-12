@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260812LGWO02026",
+    "gameDate": "20260812",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "GDP",
+    "resultText": "안치홍 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260730WOLG02026",
-    "gameDate": "20260730",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "H",
-    "resultText": "안치홍 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
   }
 ]
