@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813SSHT02026",
+    "gameDate": "20260813",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최형우",
+    "batterPcode": "72443",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "O",
+    "resultText": "최형우 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260812SSHT02026",
     "gameDate": "20260812",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260731SSLT02026",
-    "gameDate": "20260731",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "최형우",
-    "batterPcode": "72443",
-    "pitcherName": "이이무라",
-    "pitcherPcode": "56503",
-    "resultCode": "H",
-    "resultText": "최형우 : 2루수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "포크"
   }
 ]

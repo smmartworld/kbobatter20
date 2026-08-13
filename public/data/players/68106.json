@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813LGWO02026",
+    "gameDate": "20260813",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "박진형",
+    "pitcherPcode": "63512",
+    "resultCode": "O",
+    "resultText": "이재원 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260708LGSS02026",
-    "gameDate": "20260708",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "백정현",
-    "pitcherPcode": "77446",
-    "resultCode": "2B",
-    "resultText": "이재원 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "포크"
   }
 ]

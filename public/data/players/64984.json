@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813LGWO02026",
+    "gameDate": "20260813",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김태진",
+    "batterPcode": "64984",
+    "pitcherName": "김영우",
+    "pitcherPcode": "55167",
+    "resultCode": "K",
+    "resultText": "김태진 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260804WOLT02026",
     "gameDate": "20260804",
     "opponent": "롯데",

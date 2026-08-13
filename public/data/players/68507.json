@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813LTSK02026",
+    "gameDate": "20260813",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "서진용",
+    "pitcherPcode": "61895",
+    "resultCode": "O",
+    "resultText": "장두성 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260707HTLT02026",
     "gameDate": "20260707",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260612LTLG02026",
-    "gameDate": "20260612",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "H",
-    "resultText": "장두성 : 유격수 왼쪽 내야안타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]
