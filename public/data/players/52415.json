@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813SSHT02026",
+    "gameDate": "20260813",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "정해영",
+    "pitcherPcode": "50662",
+    "resultCode": "O",
+    "resultText": "이재현 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260812SSHT02026",
     "gameDate": "20260812",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260730HTSS02026",
-    "gameDate": "20260730",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "H",
-    "resultText": "이재현 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "투심"
   }
 ]
