@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813SSHT02026",
+    "gameDate": "20260813",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "한준수 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724WOHT02026",
-    "gameDate": "20260724",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "한준수 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "155",
     "lastPitchType": "직구"
   }
 ]

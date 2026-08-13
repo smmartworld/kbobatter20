@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813LGWO02026",
+    "gameDate": "20260813",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "임병욱",
+    "batterPcode": "64346",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "2B",
+    "resultText": "임병욱 : 우중간 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260812LGWO02026",
     "gameDate": "20260812",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260731SKWO02026",
-    "gameDate": "20260731",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "임병욱",
-    "batterPcode": "64346",
-    "pitcherName": "이로운",
-    "pitcherPcode": "53892",
-    "resultCode": "H",
-    "resultText": "임병욱 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

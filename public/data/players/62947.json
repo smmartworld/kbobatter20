@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813SSHT02026",
+    "gameDate": "20260813",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "O",
+    "resultText": "나성범 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260812SSHT02026",
     "gameDate": "20260812",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "118",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260729HTSS02026",
-    "gameDate": "20260729",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "양창섭",
-    "pitcherPcode": "68415",
-    "resultCode": "H",
-    "resultText": "나성범 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

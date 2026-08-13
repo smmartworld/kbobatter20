@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813LGWO02026",
+    "gameDate": "20260813",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "권혁빈",
+    "batterPcode": "55371",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "H",
+    "resultText": "권혁빈 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260812LGWO02026",
     "gameDate": "20260812",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260729WOLG02026",
-    "gameDate": "20260729",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "권혁빈",
-    "batterPcode": "55371",
-    "pitcherName": "웰스",
-    "pitcherPcode": "55348",
-    "resultCode": "2B",
-    "resultText": "권혁빈 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

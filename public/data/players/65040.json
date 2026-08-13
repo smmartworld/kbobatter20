@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813SSHT02026",
+    "gameDate": "20260813",
+    "opponent": "KIA",
+    "inning": 4,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "김태훈",
+    "batterPcode": "65040",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "김태훈 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260724SSOB02026",
     "gameDate": "20260724",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813KTNC02026",
+    "gameDate": "20260813",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "HR",
+    "resultText": "권동진 : 우익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260811KTNC02026",
     "gameDate": "20260811",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724KTLT02026",
-    "gameDate": "20260724",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "권동진 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "포크"
   }
 ]

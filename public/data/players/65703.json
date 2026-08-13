@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260813HHOB02026",
+    "gameDate": "20260813",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이도윤",
+    "batterPcode": "65703",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "이도윤 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260812HHOB02026",
     "gameDate": "20260812",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260731HHKT02026",
-    "gameDate": "20260731",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이도윤",
-    "batterPcode": "65703",
-    "pitcherName": "주권",
-    "pitcherPcode": "65060",
-    "resultCode": "O",
-    "resultText": "이도윤 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
   }
 ]
