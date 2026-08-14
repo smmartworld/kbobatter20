@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814OBHT02026",
+    "gameDate": "20260814",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "윤준호",
+    "batterPcode": "53296",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "O",
+    "resultText": "윤준호 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260811HHOB02026",
     "gameDate": "20260811",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "139",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260719OBNC02026",
-    "gameDate": "20260719",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "윤준호",
-    "batterPcode": "53296",
-    "pitcherName": "송명기",
-    "pitcherPcode": "69962",
-    "resultCode": "O",
-    "resultText": "윤준호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]
