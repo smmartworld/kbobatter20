@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "BB",
+    "resultText": "천재환 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260811KTNC02026",
     "gameDate": "20260811",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260725NCSK02026",
-    "gameDate": "20260725",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "BB",
-    "resultText": "천재환 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

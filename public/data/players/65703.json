@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814HHSS02026",
+    "gameDate": "20260814",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이도윤",
+    "batterPcode": "65703",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "H",
+    "resultText": "이도윤 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260813HHOB02026",
     "gameDate": "20260813",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260801HHKT02026",
-    "gameDate": "20260801",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이도윤",
-    "batterPcode": "65703",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "H",
-    "resultText": "이도윤 : 2루수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

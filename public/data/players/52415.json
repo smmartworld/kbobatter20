@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814HHSS02026",
+    "gameDate": "20260814",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "O",
+    "resultText": "이재현 : 유격수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260813SSHT02026",
     "gameDate": "20260813",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260730HTSS02026",
-    "gameDate": "20260730",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "O",
-    "resultText": "이재현 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "스위퍼"
   }
 ]

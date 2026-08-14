@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814OBHT02026",
+    "gameDate": "20260814",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "O",
+    "resultText": "김민석 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260813HHOB02026",
     "gameDate": "20260813",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260801LGOB02026",
-    "gameDate": "20260801",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "O",
-    "resultText": "김민석 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

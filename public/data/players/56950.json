@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "블레인",
+    "batterPcode": "56950",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "O",
+    "resultText": "블레인 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260813KTNC02026",
     "gameDate": "20260813",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260729KTNC02026",
-    "gameDate": "20260729",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "블레인",
-    "batterPcode": "56950",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "O",
-    "resultText": "블레인 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "포크"
   }
 ]

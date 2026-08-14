@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814SKLG02026",
+    "gameDate": "20260814",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "문정빈",
+    "batterPcode": "52121",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "문정빈 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260813LGWO02026",
     "gameDate": "20260813",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260804LGSK02026",
-    "gameDate": "20260804",
-    "opponent": "SSG",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문정빈",
-    "batterPcode": "52121",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "O",
-    "resultText": "문정빈 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814WOKT02026",
+    "gameDate": "20260814",
+    "opponent": "KT",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박주홍",
+    "batterPcode": "50357",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "박주홍 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "117",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260528HTWO02026",
     "gameDate": "20260528",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260521SKWO02026",
-    "gameDate": "20260521",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박주홍",
-    "batterPcode": "50357",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "H",
-    "resultText": "박주홍 : 1루수 앞 번트안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

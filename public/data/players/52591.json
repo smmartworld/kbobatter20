@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "윤동희",
+    "batterPcode": "52591",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "O",
+    "resultText": "윤동희 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260813LTSK02026",
     "gameDate": "20260813",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "131",
-    "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260802SSLT02026",
-    "gameDate": "20260802",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "윤동희",
-    "batterPcode": "52591",
-    "pitcherName": "보스",
-    "pitcherPcode": "56402",
-    "resultCode": "O",
-    "resultText": "윤동희 : 1루수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "125",
     "lastPitchType": "스위퍼"
   }
 ]
