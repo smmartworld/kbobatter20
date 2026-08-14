@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "유강남",
+    "batterPcode": "61102",
+    "pitcherName": "임지민",
+    "pitcherPcode": "52902",
+    "resultCode": "O",
+    "resultText": "유강남 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260813LTSK02026",
     "gameDate": "20260813",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "143",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260530LTNC02026",
-    "gameDate": "20260530",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "유강남",
-    "batterPcode": "61102",
-    "pitcherName": "배재환",
-    "pitcherPcode": "64995",
-    "resultCode": "O",
-    "resultText": "유강남 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "142",
     "lastPitchType": "포크"
   }
 ]
