@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "이용준",
+    "pitcherPcode": "51948",
+    "resultCode": "SAC",
+    "resultText": "노진혁 : 중견수 희생플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260811LTSK02026",
     "gameDate": "20260811",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260728LTHH02026",
-    "gameDate": "20260728",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "O",
-    "resultText": "노진혁 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "스위퍼"
   }
 ]

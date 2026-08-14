@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814WOKT02026",
+    "gameDate": "20260814",
+    "opponent": "KT",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "우규민",
+    "pitcherPcode": "73117",
+    "resultCode": "O",
+    "resultText": "김건희 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260813LGWO02026",
     "gameDate": "20260813",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260801SKWO02026",
-    "gameDate": "20260801",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "H",
-    "resultText": "김건희 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
