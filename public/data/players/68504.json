@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814OBHT02026",
+    "gameDate": "20260814",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이호연",
+    "batterPcode": "68504",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "H",
+    "resultText": "이호연 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260731HTNC02026",
     "gameDate": "20260731",
     "opponent": "NC",

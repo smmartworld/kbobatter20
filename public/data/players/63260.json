@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814NCLT02026",
+    "gameDate": "20260814",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "H",
+    "resultText": "이우성 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260812KTNC02026",
     "gameDate": "20260812",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "133",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260728KTNC02026",
-    "gameDate": "20260728",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "O",
-    "resultText": "이우성 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260814WOKT02026",
+    "gameDate": "20260814",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "최현우",
+    "pitcherPcode": "56312",
+    "resultCode": "BB",
+    "resultText": "배정대 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260802HHKT02026",
     "gameDate": "20260802",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260707WOKT02026",
-    "gameDate": "20260707",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "3B",
-    "resultText": "배정대 : 우중간 3루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]
