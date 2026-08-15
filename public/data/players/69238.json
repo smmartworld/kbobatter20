@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815OBHT02026",
+    "gameDate": "20260815",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김대한",
+    "batterPcode": "69238",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "H",
+    "resultText": "김대한 : 좌익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814OBHT02026",
     "gameDate": "20260814",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김대한",
-    "batterPcode": "69238",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "김대한 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

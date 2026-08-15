@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815HHSS02026",
+    "gameDate": "20260815",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "이원석",
+    "batterPcode": "68700",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "H",
+    "resultText": "이원석 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260814HHSS02026",
     "gameDate": "20260814",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260731HHKT02026",
-    "gameDate": "20260731",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "이원석",
-    "batterPcode": "68700",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "O",
-    "resultText": "이원석 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "147",
     "lastPitchType": "투심"
   }
 ]

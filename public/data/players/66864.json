@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815SKLG02026",
+    "gameDate": "20260815",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "안상현",
+    "batterPcode": "66864",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "O",
+    "resultText": "안상현 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260814SKLG02026",
     "gameDate": "20260814",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 10,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260801SKWO02026",
-    "gameDate": "20260801",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "안상현",
-    "batterPcode": "66864",
-    "pitcherName": "정현우",
-    "pitcherPcode": "55313",
-    "resultCode": "O",
-    "resultText": "안상현 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]
