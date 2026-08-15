@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815WOKT02026",
+    "gameDate": "20260815",
+    "opponent": "키움",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "박지성",
+    "pitcherPcode": "56337",
+    "resultCode": "H",
+    "resultText": "이정훈 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260813KTNC02026",
     "gameDate": "20260813",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "133",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260619HTKT02026",
-    "gameDate": "20260619",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "한재승",
-    "pitcherPcode": "51994",
-    "resultCode": "O",
-    "resultText": "이정훈 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "커터"
   }
 ]
