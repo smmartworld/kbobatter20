@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815OBHT02026",
+    "gameDate": "20260815",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "카스트로",
+    "batterPcode": "56626",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "H",
+    "resultText": "카스트로 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814OBHT02026",
     "gameDate": "20260814",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260731HTNC02026",
-    "gameDate": "20260731",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "카스트로",
-    "batterPcode": "56626",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "H",
-    "resultText": "카스트로 : 중견수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
   }
 ]

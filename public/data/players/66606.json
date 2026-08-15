@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815WOKT02026",
+    "gameDate": "20260815",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "H",
+    "resultText": "최원준 : 우익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814WOKT02026",
     "gameDate": "20260814",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260802HHKT02026",
-    "gameDate": "20260802",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "김종수",
-    "pitcherPcode": "63765",
-    "resultCode": "2B",
-    "resultText": "최원준 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

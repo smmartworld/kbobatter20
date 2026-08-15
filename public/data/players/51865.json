@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815SKLG02026",
+    "gameDate": "20260815",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "O",
+    "resultText": "조형우 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260814SKLG02026",
     "gameDate": "20260814",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260802SKWO02026",
-    "gameDate": "20260802",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "O",
-    "resultText": "조형우 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

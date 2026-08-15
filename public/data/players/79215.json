@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815NCLT02026",
+    "gameDate": "20260815",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "H",
+    "resultText": "박건우 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260814NCLT02026",
     "gameDate": "20260814",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260731HTNC02026",
-    "gameDate": "20260731",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "O",
-    "resultText": "박건우 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "체인지업"
   }
 ]

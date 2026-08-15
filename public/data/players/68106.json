@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815SKLG02026",
+    "gameDate": "20260815",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "2B",
+    "resultText": "이재원 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260813LGWO02026",
     "gameDate": "20260813",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260716KTLG02026",
-    "gameDate": "20260716",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "이재원 : 3루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "체인지업"
   }
 ]

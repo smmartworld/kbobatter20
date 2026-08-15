@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815HHSS02026",
+    "gameDate": "20260815",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "양창섭",
+    "pitcherPcode": "68415",
+    "resultCode": "BB",
+    "resultText": "노시환 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260814HHSS02026",
     "gameDate": "20260814",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "147",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260804HHSS02026",
-    "gameDate": "20260804",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "배찬승",
-    "pitcherPcode": "55455",
-    "resultCode": "H",
-    "resultText": "노시환 : 좌익수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815SKLG02026",
+    "gameDate": "20260815",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "O",
+    "resultText": "오지환 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814SKLG02026",
     "gameDate": "20260814",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "136",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260804LGSK02026",
-    "gameDate": "20260804",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "K",
-    "resultText": "오지환 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "133",
     "lastPitchType": "포크"
   }
 ]

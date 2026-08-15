@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815HHSS02026",
+    "gameDate": "20260815",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "BB",
+    "resultText": "박승규 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260813SSHT02026",
     "gameDate": "20260813",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260705SSSK02026",
-    "gameDate": "20260705",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "박승규 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

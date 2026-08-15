@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815NCLT02026",
+    "gameDate": "20260815",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "원종해",
+    "pitcherPcode": "54906",
+    "resultCode": "O",
+    "resultText": "고승민 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260814NCLT02026",
     "gameDate": "20260814",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260804WOLT02026",
-    "gameDate": "20260804",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "정현우",
-    "pitcherPcode": "55313",
-    "resultCode": "O",
-    "resultText": "고승민 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "투심"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815SKLG02026",
+    "gameDate": "20260815",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "오스틴",
+    "batterPcode": "53123",
+    "pitcherName": "김건우",
+    "pitcherPcode": "51867",
+    "resultCode": "H",
+    "resultText": "오스틴 : 우익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814SKLG02026",
     "gameDate": "20260814",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260804LGSK02026",
-    "gameDate": "20260804",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "오스틴",
-    "batterPcode": "53123",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "GDP",
-    "resultText": "오스틴 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

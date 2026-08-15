@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815NCLT02026",
+    "gameDate": "20260815",
+    "opponent": "롯데",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "H",
+    "resultText": "천재환 : 3루수 앞 번트안타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814NCLT02026",
     "gameDate": "20260814",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726NCSK02026",
-    "gameDate": "20260726",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "O",
-    "resultText": "천재환 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
