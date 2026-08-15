@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815WOKT02026",
+    "gameDate": "20260815",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "이정현",
+    "pitcherPcode": "67048",
+    "resultCode": "O",
+    "resultText": "김웅빈 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260814WOKT02026",
     "gameDate": "20260814",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260801SKWO02026",
-    "gameDate": "20260801",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "BB",
-    "resultText": "김웅빈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "142",
     "lastPitchType": "투심"
   }
 ]

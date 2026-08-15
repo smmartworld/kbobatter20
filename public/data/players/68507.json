@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260815NCLT02026",
+    "gameDate": "20260815",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "박지한",
+    "pitcherPcode": "69994",
+    "resultCode": "BB",
+    "resultText": "장두성 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260813LTSK02026",
     "gameDate": "20260813",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260612LTLG02026",
-    "gameDate": "20260612",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "배재준",
-    "pitcherPcode": "63145",
-    "resultCode": "O",
-    "resultText": "장두성 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]
