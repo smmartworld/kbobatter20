@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816SKLG02026",
+    "gameDate": "20260816",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "조원태",
+    "pitcherPcode": "52149",
+    "resultCode": "O",
+    "resultText": "오태곤 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815SKLG02026",
     "gameDate": "20260815",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260718HTSK02026",
-    "gameDate": "20260718",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "O",
-    "resultText": "오태곤 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
     "lastPitchType": "투심"
   }
 ]

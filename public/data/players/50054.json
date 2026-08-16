@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816SKLG02026",
+    "gameDate": "20260816",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "천성호 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260814SKLG02026",
     "gameDate": "20260814",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "136",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260702LGWO02026",
-    "gameDate": "20260702",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "조영건",
-    "pitcherPcode": "69360",
-    "resultCode": "O",
-    "resultText": "천성호 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "131",
     "lastPitchType": "포크"
   }
 ]
