@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816OBHT02026",
+    "gameDate": "20260816",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박재현",
+    "batterPcode": "55636",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "박재현 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815OBHT02026",
     "gameDate": "20260815",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260812SSHT02026",
-    "gameDate": "20260812",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "박재현",
-    "batterPcode": "55636",
-    "pitcherName": "보스",
-    "pitcherPcode": "56402",
-    "resultCode": "H",
-    "resultText": "박재현 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
   }
 ]

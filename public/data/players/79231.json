@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816OBHT02026",
+    "gameDate": "20260816",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "정수빈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815OBHT02026",
     "gameDate": "20260815",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "138",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260730OBSK02026",
-    "gameDate": "20260730",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "O",
-    "resultText": "정수빈 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

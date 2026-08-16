@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816WOKT02026",
+    "gameDate": "20260816",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "BB",
+    "resultText": "박찬혁 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260815WOKT02026",
     "gameDate": "20260815",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260804WOLT02026",
-    "gameDate": "20260804",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "김원중",
-    "pitcherPcode": "62528",
-    "resultCode": "O",
-    "resultText": "박찬혁 : 2루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]
