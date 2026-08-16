@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816SKLG02026",
+    "gameDate": "20260816",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "O",
+    "resultText": "이재원 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260815SKLG02026",
     "gameDate": "20260815",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260718KTLG02026",
-    "gameDate": "20260718",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "BB",
-    "resultText": "이재원 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "직구"
   }
 ]

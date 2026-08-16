@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816OBHT02026",
+    "gameDate": "20260816",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "안재석",
+    "batterPcode": "51203",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "2B",
+    "resultText": "안재석 : 좌익수 앞 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260815OBHT02026",
     "gameDate": "20260815",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "안재석",
-    "batterPcode": "51203",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "안재석 : 2루수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "커터"
   }
 ]

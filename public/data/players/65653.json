@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816OBHT02026",
+    "gameDate": "20260816",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김호령",
+    "batterPcode": "65653",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "김호령 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815OBHT02026",
     "gameDate": "20260815",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260731HTNC02026",
-    "gameDate": "20260731",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김호령",
-    "batterPcode": "65653",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "김호령 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

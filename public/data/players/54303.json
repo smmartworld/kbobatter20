@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816WOKT02026",
+    "gameDate": "20260816",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박채울",
+    "batterPcode": "54303",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "O",
+    "resultText": "박채울 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260815WOKT02026",
     "gameDate": "20260815",
     "opponent": "KT",

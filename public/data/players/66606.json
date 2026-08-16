@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260816WOKT02026",
+    "gameDate": "20260816",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "2B",
+    "resultText": "최원준 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260815WOKT02026",
     "gameDate": "20260815",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260811KTNC02026",
-    "gameDate": "20260811",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "이용준",
-    "pitcherPcode": "51948",
-    "resultCode": "H",
-    "resultText": "최원준 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
