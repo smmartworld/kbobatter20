@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818WOLT02026",
+    "gameDate": "20260818",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최재영",
+    "batterPcode": "56338",
+    "pitcherName": "김한결",
+    "pitcherPcode": "56540",
+    "resultCode": "HR",
+    "resultText": "최재영 : 좌익수 뒤 홈런 (홈런거리:105M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260719WOHH02026",
     "gameDate": "20260719",
     "opponent": "한화",

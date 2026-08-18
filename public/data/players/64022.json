@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안중열",
+    "batterPcode": "64022",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "SAC",
+    "resultText": "안중열 : 우익수 희생플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815NCLT02026",
     "gameDate": "20260815",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260707NCHH02026",
-    "gameDate": "20260707",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "안중열",
-    "batterPcode": "64022",
-    "pitcherName": "장유호",
-    "pitcherPcode": "69645",
-    "resultCode": "O",
-    "resultText": "안중열 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "슬라이더"
   }
 ]
