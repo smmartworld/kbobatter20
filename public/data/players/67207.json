@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "김진호",
+    "pitcherPcode": "67954",
+    "resultCode": "O",
+    "resultText": "이유찬 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260815OBHT02026",
     "gameDate": "20260815",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621OBLG02026",
-    "gameDate": "20260621",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "함덕주",
-    "pitcherPcode": "63248",
-    "resultCode": "O",
-    "resultText": "이유찬 : 스트라이크 낫아웃 폭투",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

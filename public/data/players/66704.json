@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818HTHH02026",
+    "gameDate": "20260818",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "BB",
+    "resultText": "김태연 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260815HHSS02026",
     "gameDate": "20260815",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260725LGHH02026",
-    "gameDate": "20260725",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "이우찬",
-    "pitcherPcode": "61145",
-    "resultCode": "E",
-    "resultText": "김태연 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]
