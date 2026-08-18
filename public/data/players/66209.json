@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "H",
+    "resultText": "조수행 : 좌중간 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816OBHT02026",
     "gameDate": "20260816",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260730OBSK02026",
-    "gameDate": "20260730",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "H",
-    "resultText": "조수행 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

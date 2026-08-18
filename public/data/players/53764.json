@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818HTHH02026",
+    "gameDate": "20260818",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "문현빈",
+    "batterPcode": "53764",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "문현빈 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260815HHSS02026",
     "gameDate": "20260815",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "문현빈",
-    "batterPcode": "53764",
-    "pitcherName": "타카다",
-    "pitcherPcode": "56212",
-    "resultCode": "H",
-    "resultText": "문현빈 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

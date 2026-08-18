@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818KTLG02026",
+    "gameDate": "20260818",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "최원준 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816WOKT02026",
     "gameDate": "20260816",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "134",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260813KTNC02026",
-    "gameDate": "20260813",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "O",
-    "resultText": "최원준 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

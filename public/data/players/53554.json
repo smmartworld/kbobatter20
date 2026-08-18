@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김민석",
+    "batterPcode": "53554",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "김민석 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816OBHT02026",
     "gameDate": "20260816",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "143",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민석",
-    "batterPcode": "53554",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "O",
-    "resultText": "김민석 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

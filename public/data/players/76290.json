@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818KTLG02026",
+    "gameDate": "20260818",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "O",
+    "resultText": "김현수 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816WOKT02026",
     "gameDate": "20260816",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260812KTNC02026",
-    "gameDate": "20260812",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "김진호",
-    "pitcherPcode": "67954",
-    "resultCode": "O",
-    "resultText": "김현수 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

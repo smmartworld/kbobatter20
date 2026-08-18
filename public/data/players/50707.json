@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818HTHH02026",
+    "gameDate": "20260818",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "HR",
+    "resultText": "최인호 : 우익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260814HHSS02026",
     "gameDate": "20260814",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "손주영",
-    "pitcherPcode": "67143",
-    "resultCode": "2B",
-    "resultText": "최인호 : 우익수 뒤 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
     "lastPitchType": "직구"
   }
 ]

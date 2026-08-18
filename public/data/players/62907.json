@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "박민우 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260815NCLT02026",
     "gameDate": "20260815",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260811KTNC02026",
-    "gameDate": "20260811",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "박민우 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

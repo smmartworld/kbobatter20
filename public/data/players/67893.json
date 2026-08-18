@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818SKSS02026",
+    "gameDate": "20260818",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "박성한 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816SKLG02026",
     "gameDate": "20260816",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "139",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260812LTSK02026",
-    "gameDate": "20260812",
-    "opponent": "롯데",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "이영재",
-    "pitcherPcode": "55503",
-    "resultCode": "H",
-    "resultText": "박성한 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

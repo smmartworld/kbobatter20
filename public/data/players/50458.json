@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818SKSS02026",
+    "gameDate": "20260818",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "O",
+    "resultText": "김지찬 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815HHSS02026",
     "gameDate": "20260815",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260811SSHT02026",
-    "gameDate": "20260811",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "김지찬 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 9,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

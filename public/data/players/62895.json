@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818SKSS02026",
+    "gameDate": "20260818",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "BB",
+    "resultText": "한유섬 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260816SKLG02026",
     "gameDate": "20260816",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260802SKWO02026",
-    "gameDate": "20260802",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "한유섬",
-    "batterPcode": "62895",
-    "pitcherName": "김성민",
-    "pitcherPcode": "67828",
-    "resultCode": "H",
-    "resultText": "한유섬 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "투심"
   }
 ]

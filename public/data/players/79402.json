@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818KTLG02026",
+    "gameDate": "20260818",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "임찬규",
+    "pitcherPcode": "61101",
+    "resultCode": "BB",
+    "resultText": "김상수 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816WOKT02026",
     "gameDate": "20260816",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "129",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260811KTNC02026",
-    "gameDate": "20260811",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "O",
-    "resultText": "김상수 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

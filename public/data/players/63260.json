@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "O",
+    "resultText": "이우성 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815NCLT02026",
     "gameDate": "20260815",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260729KTNC02026",
-    "gameDate": "20260729",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "오원석",
-    "pitcherPcode": "50859",
-    "resultCode": "K",
-    "resultText": "이우성 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "커브"
   }
 ]
