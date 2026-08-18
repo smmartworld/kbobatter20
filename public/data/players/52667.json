@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818HTHH02026",
+    "gameDate": "20260818",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "윤도현",
+    "batterPcode": "52667",
+    "pitcherName": "왕옌청",
+    "pitcherPcode": "56719",
+    "resultCode": "O",
+    "resultText": "윤도현 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260814OBHT02026",
     "gameDate": "20260814",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "126",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260722HHHT02026",
-    "gameDate": "20260722",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "윤도현",
-    "batterPcode": "52667",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "HR",
-    "resultText": "윤도현 : 좌익수 뒤 홈런 (홈런거리:125M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

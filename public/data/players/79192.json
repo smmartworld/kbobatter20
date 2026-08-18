@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818HTHH02026",
+    "gameDate": "20260818",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "채은성",
+    "batterPcode": "79192",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "채은성 : 유격수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260815HHSS02026",
     "gameDate": "20260815",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "채은성",
-    "batterPcode": "79192",
-    "pitcherName": "곽빈",
-    "pitcherPcode": "68220",
-    "resultCode": "O",
-    "resultText": "채은성 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
   }
 ]

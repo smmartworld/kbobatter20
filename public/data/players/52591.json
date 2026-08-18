@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818WOLT02026",
+    "gameDate": "20260818",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "윤동희",
+    "batterPcode": "52591",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "H",
+    "resultText": "윤동희 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260815NCLT02026",
     "gameDate": "20260815",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260811LTSK02026",
-    "gameDate": "20260811",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "윤동희",
-    "batterPcode": "52591",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "H",
-    "resultText": "윤동희 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "154",
-    "lastPitchType": "투심"
   }
 ]

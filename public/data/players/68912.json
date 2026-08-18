@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260818OBNC02026",
+    "gameDate": "20260818",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "벤자민",
+    "pitcherPcode": "52043",
+    "resultCode": "K",
+    "resultText": "김형준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260814NCLT02026",
     "gameDate": "20260814",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260730KTNC02026",
-    "gameDate": "20260730",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "2B",
-    "resultText": "김형준 : 좌익수 왼쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]
