@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819HTHH02026",
+    "gameDate": "20260819",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "채은성",
+    "batterPcode": "79192",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "채은성 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818HTHH02026",
     "gameDate": "20260818",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "137",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260811HHOB02026",
-    "gameDate": "20260811",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "채은성",
-    "batterPcode": "79192",
-    "pitcherName": "타카다",
-    "pitcherPcode": "56212",
-    "resultCode": "K",
-    "resultText": "채은성 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
   }
 ]

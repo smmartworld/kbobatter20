@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819SKSS02026",
+    "gameDate": "20260819",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "O",
+    "resultText": "이재현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818SKSS02026",
     "gameDate": "20260818",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260804HHSS02026",
-    "gameDate": "20260804",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "O",
-    "resultText": "이재현 : 3루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

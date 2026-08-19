@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819OBNC02026",
+    "gameDate": "20260819",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "K",
+    "resultText": "이우성 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "127",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260730KTNC02026",
-    "gameDate": "20260730",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "이우성 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

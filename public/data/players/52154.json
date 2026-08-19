@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819KTLG02026",
+    "gameDate": "20260819",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "대니엘",
+    "pitcherPcode": "56002",
+    "resultCode": "O",
+    "resultText": "이주헌 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260816SKLG02026",
     "gameDate": "20260816",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "127",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260723NCLG02026",
-    "gameDate": "20260723",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "K",
-    "resultText": "이주헌 : 삼진 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "스위퍼"
   }
 ]
