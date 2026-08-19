@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819KTLG02026",
+    "gameDate": "20260819",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오윤석",
+    "batterPcode": "64504",
+    "pitcherName": "케네디",
+    "pitcherPcode": "56168",
+    "resultCode": "GDP",
+    "resultText": "오윤석 : 1루수 병살타 아웃 (1루수->유격수->투수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818KTLG02026",
     "gameDate": "20260818",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724KTLT02026",
-    "gameDate": "20260724",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "오윤석",
-    "batterPcode": "64504",
-    "pitcherName": "김원중",
-    "pitcherPcode": "62528",
-    "resultCode": "O",
-    "resultText": "오윤석 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

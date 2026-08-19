@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819SKSS02026",
+    "gameDate": "20260819",
+    "opponent": "SSG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "김현준 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260812SSHT02026",
     "gameDate": "20260812",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260719LTSS02026",
-    "gameDate": "20260719",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "이이무라",
-    "pitcherPcode": "56503",
-    "resultCode": "BB",
-    "resultText": "김현준 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

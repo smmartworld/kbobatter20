@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819SKSS02026",
+    "gameDate": "20260819",
+    "opponent": "SSG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "김도환 : 2루수 라인드라이브 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260813SSHT02026",
     "gameDate": "20260813",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260723SSWO02026",
-    "gameDate": "20260723",
-    "opponent": "키움",
-    "inning": 11,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "김재웅",
-    "pitcherPcode": "67391",
-    "resultCode": "O",
-    "resultText": "김도환 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819HTHH02026",
+    "gameDate": "20260819",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김호령",
+    "batterPcode": "65653",
+    "pitcherName": "조동욱",
+    "pitcherPcode": "54768",
+    "resultCode": "O",
+    "resultText": "김호령 : 1루수 앞 땅볼로 출루",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818HTHH02026",
     "gameDate": "20260818",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260813SSHT02026",
-    "gameDate": "20260813",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김호령",
-    "batterPcode": "65653",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "O",
-    "resultText": "김호령 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
   }
 ]

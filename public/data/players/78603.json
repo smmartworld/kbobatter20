@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819HTHH02026",
+    "gameDate": "20260819",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김선빈",
+    "batterPcode": "78603",
+    "pitcherName": "조동욱",
+    "pitcherPcode": "54768",
+    "resultCode": "SAC",
+    "resultText": "김선빈 : 1루수 희생번트 아웃 (1루수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818HTHH02026",
     "gameDate": "20260818",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813SSHT02026",
-    "gameDate": "20260813",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김선빈",
-    "batterPcode": "78603",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "O",
-    "resultText": "김선빈 : 2루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 9,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]
