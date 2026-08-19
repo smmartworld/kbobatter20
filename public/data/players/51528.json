@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819WOLT02026",
+    "gameDate": "20260819",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "H",
+    "resultText": "손성빈 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818WOLT02026",
     "gameDate": "20260818",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "153",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260804WOLT02026",
-    "gameDate": "20260804",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "김성민",
-    "pitcherPcode": "67828",
-    "resultCode": "O",
-    "resultText": "손성빈 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
     "lastPitchType": "투심"
   }
 ]

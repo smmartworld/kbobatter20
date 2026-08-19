@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819KTLG02026",
+    "gameDate": "20260819",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "김현수 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260818KTLG02026",
     "gameDate": "20260818",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813KTNC02026",
-    "gameDate": "20260813",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "O",
-    "resultText": "김현수 : 유격수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
   }
 ]

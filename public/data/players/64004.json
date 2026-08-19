@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819KTLG02026",
+    "gameDate": "20260819",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "김민혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818KTLG02026",
     "gameDate": "20260818",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260731HHKT02026",
-    "gameDate": "20260731",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "황준서",
-    "pitcherPcode": "54729",
-    "resultCode": "O",
-    "resultText": "김민혁 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

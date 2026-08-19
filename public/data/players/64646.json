@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819OBNC02026",
+    "gameDate": "20260819",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "박찬호 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "한화",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "H",
-    "resultText": "박찬호 : 중견수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "116",
-    "lastPitchType": "커브"
   }
 ]

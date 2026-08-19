@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819KTLG02026",
+    "gameDate": "20260819",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박해민",
+    "batterPcode": "62415",
+    "pitcherName": "대니엘",
+    "pitcherPcode": "56002",
+    "resultCode": "O",
+    "resultText": "박해민 : 포수 파울플라이 아웃 (번트)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260818KTLG02026",
     "gameDate": "20260818",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "136",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260813LGWO02026",
-    "gameDate": "20260813",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "박해민",
-    "batterPcode": "62415",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "박해민 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "138",
     "lastPitchType": "포크"
   }
 ]

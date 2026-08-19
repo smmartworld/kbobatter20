@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819OBNC02026",
+    "gameDate": "20260819",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박준순",
+    "batterPcode": "55252",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "BB",
+    "resultText": "박준순 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "139",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박준순",
-    "batterPcode": "55252",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "BB",
-    "resultText": "박준순 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

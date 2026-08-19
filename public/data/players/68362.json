@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819WOLT02026",
+    "gameDate": "20260819",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "추재현 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260818WOLT02026",
     "gameDate": "20260818",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813LGWO02026",
-    "gameDate": "20260813",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "추재현 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "포크"
   }
 ]

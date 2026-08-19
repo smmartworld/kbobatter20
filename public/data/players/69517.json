@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819WOLT02026",
+    "gameDate": "20260819",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "2B",
+    "resultText": "고승민 : 중견수 앞 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818WOLT02026",
     "gameDate": "20260818",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "138",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813LTSK02026",
-    "gameDate": "20260813",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "HR",
-    "resultText": "고승민 : 우중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]
