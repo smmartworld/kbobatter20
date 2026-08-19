@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819OBNC02026",
+    "gameDate": "20260819",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김형준",
+    "batterPcode": "68912",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "K",
+    "resultText": "김형준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260731HTNC02026",
-    "gameDate": "20260731",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김형준",
-    "batterPcode": "68912",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "O",
-    "resultText": "김형준 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "체인지업"
   }
 ]
