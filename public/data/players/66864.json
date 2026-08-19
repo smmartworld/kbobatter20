@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260819SKSS02026",
+    "gameDate": "20260819",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "안상현",
+    "batterPcode": "66864",
+    "pitcherName": "보스",
+    "pitcherPcode": "56402",
+    "resultCode": "E",
+    "resultText": "안상현 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260818SKSS02026",
     "gameDate": "20260818",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260811LTSK02026",
-    "gameDate": "20260811",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "안상현",
-    "batterPcode": "66864",
-    "pitcherName": "이진하",
-    "pitcherPcode": "53562",
-    "resultCode": "H",
-    "resultText": "안상현 : 좌익수 오른쪽 뒤 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]
