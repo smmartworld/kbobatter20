@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820SKSS02026",
+    "gameDate": "20260820",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "구자욱",
+    "batterPcode": "62404",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "BB",
+    "resultText": "구자욱 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260819SKSS02026",
     "gameDate": "20260819",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260813SSHT02026",
-    "gameDate": "20260813",
-    "opponent": "KIA",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "구자욱",
-    "batterPcode": "62404",
-    "pitcherName": "전상현",
-    "pitcherPcode": "66609",
-    "resultCode": "H",
-    "resultText": "구자욱 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

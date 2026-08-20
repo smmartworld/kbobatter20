@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "BB",
+    "resultText": "정수빈 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "130",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "장유호",
-    "pitcherPcode": "69645",
-    "resultCode": "O",
-    "resultText": "정수빈 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

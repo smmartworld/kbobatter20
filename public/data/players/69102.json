@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820KTLG02026",
+    "gameDate": "20260820",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "문보경 : 1루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260819KTLG02026",
     "gameDate": "20260819",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "133",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260812LGWO02026",
-    "gameDate": "20260812",
-    "opponent": "키움",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "O",
-    "resultText": "문보경 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

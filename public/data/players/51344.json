@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "김휘집 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260813KTNC02026",
-    "gameDate": "20260813",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "대니엘",
-    "pitcherPcode": "56002",
-    "resultCode": "SAC",
-    "resultText": "김휘집 : 좌익수 희생플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "커터"
   }
 ]

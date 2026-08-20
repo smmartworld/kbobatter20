@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "SAC",
+    "resultText": "김한별 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260730KTNC02026",
     "gameDate": "20260730",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "121",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260628WONC02026",
-    "gameDate": "20260628",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "박지성",
-    "pitcherPcode": "56337",
-    "resultCode": "O",
-    "resultText": "김한별 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820KTLG02026",
+    "gameDate": "20260820",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이정범",
+    "batterPcode": "67807",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "O",
+    "resultText": "이정범 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260530SKHH02026",
     "gameDate": "20260530",
     "opponent": "한화",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820HTHH02026",
+    "gameDate": "20260820",
+    "opponent": "한화",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "정현창 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819HTHH02026",
     "gameDate": "20260819",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260718HTSK02026",
-    "gameDate": "20260718",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "해치",
-    "pitcherPcode": "56855",
-    "resultCode": "H",
-    "resultText": "정현창 : 우익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "스위퍼"
   }
 ]

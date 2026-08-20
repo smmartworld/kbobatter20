@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "천재환",
+    "batterPcode": "67905",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "K",
+    "resultText": "천재환 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "126",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260730KTNC02026",
-    "gameDate": "20260730",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "천재환",
-    "batterPcode": "67905",
-    "pitcherName": "손동현",
-    "pitcherPcode": "69041",
-    "resultCode": "O",
-    "resultText": "천재환 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

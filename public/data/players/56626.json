@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820HTHH02026",
+    "gameDate": "20260820",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "카스트로",
+    "batterPcode": "56626",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "카스트로 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260819HTHH02026",
     "gameDate": "20260819",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814OBHT02026",
-    "gameDate": "20260814",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "카스트로",
-    "batterPcode": "56626",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "카스트로 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

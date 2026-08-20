@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820HTHH02026",
+    "gameDate": "20260820",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "최재훈",
+    "batterPcode": "78288",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "H",
+    "resultText": "최재훈 : 좌익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260802HHKT02026",
     "gameDate": "20260802",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260611HTHH02026",
-    "gameDate": "20260611",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최재훈",
-    "batterPcode": "78288",
-    "pitcherName": "이형범",
-    "pitcherPcode": "62951",
-    "resultCode": "GDP",
-    "resultText": "최재훈 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "투심"
   }
 ]

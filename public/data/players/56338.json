@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820WOLT02026",
+    "gameDate": "20260820",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최재영",
+    "batterPcode": "56338",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "SAC",
+    "resultText": "최재영 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260818WOLT02026",
     "gameDate": "20260818",
     "opponent": "롯데",
