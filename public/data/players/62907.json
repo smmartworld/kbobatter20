@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "O",
+    "resultText": "박민우 : 우익수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813KTNC02026",
-    "gameDate": "20260813",
-    "opponent": "KT",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "대니엘",
-    "pitcherPcode": "56002",
-    "resultCode": "O",
-    "resultText": "박민우 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 8,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]

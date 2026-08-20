@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820SKSS02026",
+    "gameDate": "20260820",
+    "opponent": "삼성",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "장찬희",
+    "pitcherPcode": "56460",
+    "resultCode": "O",
+    "resultText": "오태곤 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "122",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260819SKSS02026",
     "gameDate": "20260819",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "120",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260730OBSK02026",
-    "gameDate": "20260730",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "오태곤 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "포크"
   }
 ]
