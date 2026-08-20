@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820KTLG02026",
+    "gameDate": "20260820",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "배정대",
+    "batterPcode": "64166",
+    "pitcherName": "백승현",
+    "pitcherPcode": "65109",
+    "resultCode": "O",
+    "resultText": "배정대 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260816WOKT02026",
     "gameDate": "20260816",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "122",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260707WOKT02026",
-    "gameDate": "20260707",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "배정대",
-    "batterPcode": "64166",
-    "pitcherName": "조영건",
-    "pitcherPcode": "69360",
-    "resultCode": "H",
-    "resultText": "배정대 : 유격수 왼쪽 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
   }
 ]

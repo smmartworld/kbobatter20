@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260820WOLT02026",
+    "gameDate": "20260820",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김재현",
+    "batterPcode": "62332",
+    "pitcherName": "김한결",
+    "pitcherPcode": "56540",
+    "resultCode": "H",
+    "resultText": "김재현 : 좌익수 뒤 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  }
+]

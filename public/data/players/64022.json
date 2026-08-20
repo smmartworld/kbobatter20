@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안중열",
+    "batterPcode": "64022",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "BB",
+    "resultText": "안중열 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "125",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260723NCLG02026",
-    "gameDate": "20260723",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "안중열",
-    "batterPcode": "64022",
-    "pitcherName": "웰스",
-    "pitcherPcode": "55348",
-    "resultCode": "H",
-    "resultText": "안중열 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "124",
     "lastPitchType": "커브"
   }
 ]
