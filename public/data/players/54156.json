@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820KTLG02026",
+    "gameDate": "20260820",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "손용준",
+    "batterPcode": "54156",
+    "pitcherName": "김정운",
+    "pitcherPcode": "53029",
+    "resultCode": "BB",
+    "resultText": "손용준 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260818KTLG02026",
     "gameDate": "20260818",
     "opponent": "KT",

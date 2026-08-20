@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820KTLG02026",
+    "gameDate": "20260820",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "김정운",
+    "pitcherPcode": "53029",
+    "resultCode": "O",
+    "resultText": "이주헌 : 3루수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260819KTLG02026",
     "gameDate": "20260819",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260729WOLG02026",
-    "gameDate": "20260729",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "김성민",
-    "pitcherPcode": "67828",
-    "resultCode": "BB",
-    "resultText": "이주헌 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 8,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]
