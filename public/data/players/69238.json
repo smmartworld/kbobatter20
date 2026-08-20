@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260820OBNC02026",
+    "gameDate": "20260820",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김대한",
+    "batterPcode": "69238",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "김대한 : 포수 파울플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "140",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814OBHT02026",
-    "gameDate": "20260814",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김대한",
-    "batterPcode": "69238",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "K",
-    "resultText": "김대한 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]
