@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LTOB02026",
+    "gameDate": "20260821",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "현도훈",
+    "pitcherPcode": "68260",
+    "resultCode": "O",
+    "resultText": "강승호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724SSOB02026",
-    "gameDate": "20260724",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "O",
-    "resultText": "강승호 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

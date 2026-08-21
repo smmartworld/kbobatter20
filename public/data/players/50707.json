@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "배재준",
+    "pitcherPcode": "63145",
+    "resultCode": "O",
+    "resultText": "최인호 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "129",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260812HHOB02026",
-    "gameDate": "20260812",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "H",
-    "resultText": "최인호 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
   }
 ]
