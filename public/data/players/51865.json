@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821KTSK02026",
+    "gameDate": "20260821",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "BB",
+    "resultText": "조형우 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820SKSS02026",
     "gameDate": "20260820",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260814SKLG02026",
-    "gameDate": "20260814",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "김진수",
-    "pitcherPcode": "51154",
-    "resultCode": "O",
-    "resultText": "조형우 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "123",
     "lastPitchType": "커브"
   }
 ]

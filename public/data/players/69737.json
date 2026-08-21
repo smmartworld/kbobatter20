@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "H",
+    "resultText": "노시환 : 3루수 앞 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "127",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "BB",
-    "resultText": "노시환 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]

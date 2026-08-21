@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LTOB02026",
+    "gameDate": "20260821",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "2B",
+    "resultText": "전민재 : 우익수 오른쪽 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820WOLT02026",
     "gameDate": "20260820",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814NCLT02026",
-    "gameDate": "20260814",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "H",
-    "resultText": "전민재 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

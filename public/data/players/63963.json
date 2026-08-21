@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821SSNC02026",
+    "gameDate": "20260821",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권희동",
+    "batterPcode": "63963",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "GDP",
+    "resultText": "권희동 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260820OBNC02026",
     "gameDate": "20260820",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260811KTNC02026",
-    "gameDate": "20260811",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "권희동",
-    "batterPcode": "63963",
-    "pitcherName": "박영현",
-    "pitcherPcode": "52060",
-    "resultCode": "O",
-    "resultText": "권희동 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

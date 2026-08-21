@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "한지윤",
+    "batterPcode": "55767",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "O",
+    "resultText": "한지윤 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260725LGHH02026",
-    "gameDate": "20260725",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "한지윤",
-    "batterPcode": "55767",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "O",
-    "resultText": "한지윤 : 유격수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "포크"
   }
 ]

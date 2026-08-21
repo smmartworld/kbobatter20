@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김태연",
+    "batterPcode": "66704",
+    "pitcherName": "송승기",
+    "pitcherPcode": "51111",
+    "resultCode": "O",
+    "resultText": "김태연 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260728LTHH02026",
-    "gameDate": "20260728",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김태연",
-    "batterPcode": "66704",
-    "pitcherName": "이민석",
-    "pitcherPcode": "52530",
-    "resultCode": "H",
-    "resultText": "김태연 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "0",
     "lastPitchType": "직구"
   }
 ]
