@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821SSNC02026",
+    "gameDate": "20260821",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김주원",
+    "batterPcode": "51907",
+    "pitcherName": "원태인",
+    "pitcherPcode": "69446",
+    "resultCode": "2B",
+    "resultText": "김주원 : 우익수 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260820OBNC02026",
     "gameDate": "20260820",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260814NCLT02026",
-    "gameDate": "20260814",
-    "opponent": "롯데",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김주원",
-    "batterPcode": "51907",
-    "pitcherName": "현도훈",
-    "pitcherPcode": "68260",
-    "resultCode": "O",
-    "resultText": "김주원 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
     "lastPitchType": "포크"
   }
 ]

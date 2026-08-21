@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LTOB02026",
+    "gameDate": "20260821",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "나승엽 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "118",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260820WOLT02026",
     "gameDate": "20260820",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "154",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814NCLT02026",
-    "gameDate": "20260814",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "O",
-    "resultText": "나승엽 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]
