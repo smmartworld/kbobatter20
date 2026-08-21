@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이진영",
+    "batterPcode": "66657",
+    "pitcherName": "이우찬",
+    "pitcherPcode": "61145",
+    "resultCode": "BB",
+    "resultText": "이진영 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819HTHH02026",
     "gameDate": "20260819",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260613HHWO02026",
-    "gameDate": "20260613",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "이진영",
-    "batterPcode": "66657",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "K",
-    "resultText": "이진영 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
     "lastPitchType": "포크"
   }
 ]

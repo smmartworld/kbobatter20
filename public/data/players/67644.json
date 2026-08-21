@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821KTSK02026",
+    "gameDate": "20260821",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "O",
+    "resultText": "이정훈 : 유격수 인필드플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819KTLG02026",
     "gameDate": "20260819",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260621HTKT02026",
-    "gameDate": "20260621",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "이정훈 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]

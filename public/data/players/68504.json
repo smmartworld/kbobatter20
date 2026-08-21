@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821HTWO02026",
+    "gameDate": "20260821",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "이호연",
+    "batterPcode": "68504",
+    "pitcherName": "최현우",
+    "pitcherPcode": "56312",
+    "resultCode": "BB",
+    "resultText": "이호연 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819HTHH02026",
     "gameDate": "20260819",
     "opponent": "한화",
