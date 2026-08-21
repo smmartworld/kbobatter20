@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260821LGHH02026",
+    "gameDate": "20260821",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "장유호",
+    "pitcherPcode": "69645",
+    "resultCode": "O",
+    "resultText": "박동원 : 자동 고의4구",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 0,
+    "lastPitchSpeed": "",
+    "lastPitchType": ""
+  },
+  {
     "gameId": "20260820KTLG02026",
     "gameDate": "20260820",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260813LGWO02026",
-    "gameDate": "20260813",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "2B",
-    "resultText": "박동원 : 좌익수 왼쪽 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]
