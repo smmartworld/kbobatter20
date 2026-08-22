@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822SSNC02026",
+    "gameDate": "20260822",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "원종해",
+    "pitcherPcode": "54906",
+    "resultCode": "O",
+    "resultText": "전병우 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260821SSNC02026",
     "gameDate": "20260821",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "125",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260815HHSS02026",
-    "gameDate": "20260815",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "박준영",
-    "pitcherPcode": "52731",
-    "resultCode": "O",
-    "resultText": "전병우 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

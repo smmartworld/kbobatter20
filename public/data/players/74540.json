@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822SSNC02026",
+    "gameDate": "20260822",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "강민호",
+    "batterPcode": "74540",
+    "pitcherName": "원종해",
+    "pitcherPcode": "54906",
+    "resultCode": "BB",
+    "resultText": "강민호 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260821SSNC02026",
     "gameDate": "20260821",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "한화",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "강민호",
-    "batterPcode": "74540",
-    "pitcherName": "짐머맨",
-    "pitcherPcode": "56799",
-    "resultCode": "BB",
-    "resultText": "강민호 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "체인지업"
   }
 ]
