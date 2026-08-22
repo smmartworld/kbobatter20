@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822SSNC02026",
+    "gameDate": "20260822",
+    "opponent": "NC",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "송명기",
+    "pitcherPcode": "69962",
+    "resultCode": "K",
+    "resultText": "김현준 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821SSNC02026",
     "gameDate": "20260821",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260723SSWO02026",
-    "gameDate": "20260723",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "K",
-    "resultText": "김현준 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "스위퍼"
   }
 ]
