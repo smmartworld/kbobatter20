@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822SSNC02026",
+    "gameDate": "20260822",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "박계범",
+    "batterPcode": "64468",
+    "pitcherName": "류진욱",
+    "pitcherPcode": "65949",
+    "resultCode": "H",
+    "resultText": "박계범 : 1루수 맞고 우전 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260813SSHT02026",
     "gameDate": "20260813",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260517HTSS02026",
-    "gameDate": "20260517",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박계범",
-    "batterPcode": "64468",
-    "pitcherName": "홍민규",
-    "pitcherPcode": "55267",
-    "resultCode": "K",
-    "resultText": "박계범 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]
