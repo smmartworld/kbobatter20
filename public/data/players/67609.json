@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822HTWO02026",
+    "gameDate": "20260822",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박정우",
+    "batterPcode": "67609",
+    "pitcherName": "안우진",
+    "pitcherPcode": "68341",
+    "resultCode": "O",
+    "resultText": "박정우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819HTHH02026",
     "gameDate": "20260819",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260707HTLT02026",
-    "gameDate": "20260707",
-    "opponent": "롯데",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "박정우",
-    "batterPcode": "67609",
-    "pitcherName": "이준서",
-    "pitcherPcode": "56554",
-    "resultCode": "O",
-    "resultText": "박정우 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]
