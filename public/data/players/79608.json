@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260822HTWO02026",
+    "gameDate": "20260822",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "안치홍 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260820WOLT02026",
     "gameDate": "20260820",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "123",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260815WOKT02026",
-    "gameDate": "20260815",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "이상동",
-    "pitcherPcode": "69054",
-    "resultCode": "O",
-    "resultText": "안치홍 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]
