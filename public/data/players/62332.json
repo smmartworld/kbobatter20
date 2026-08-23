@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823HTWO02026",
+    "gameDate": "20260823",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김재현",
+    "batterPcode": "62332",
+    "pitcherName": "이의리",
+    "pitcherPcode": "51648",
+    "resultCode": "HR",
+    "resultText": "김재현 : 좌익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820WOLT02026",
     "gameDate": "20260820",
     "opponent": "롯데",
