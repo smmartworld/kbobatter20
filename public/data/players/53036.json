@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823KTSK02026",
+    "gameDate": "20260823",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "류현인",
+    "batterPcode": "53036",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "K",
+    "resultText": "류현인 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260821KTSK02026",
     "gameDate": "20260821",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260812KTNC02026",
-    "gameDate": "20260812",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "류현인",
-    "batterPcode": "53036",
-    "pitcherName": "김진호",
-    "pitcherPcode": "67954",
-    "resultCode": "2B",
-    "resultText": "류현인 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

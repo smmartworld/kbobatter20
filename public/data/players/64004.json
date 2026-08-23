@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823KTSK02026",
+    "gameDate": "20260823",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "GDP",
+    "resultText": "김민혁 : 유격수 병살타 아웃 (유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260821KTSK02026",
     "gameDate": "20260821",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260802HHKT02026",
-    "gameDate": "20260802",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "김종수",
-    "pitcherPcode": "63765",
-    "resultCode": "K",
-    "resultText": "김민혁 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

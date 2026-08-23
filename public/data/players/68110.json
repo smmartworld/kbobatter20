@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LGHH02026",
+    "gameDate": "20260823",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "BB",
+    "resultText": "송찬의 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260821LGHH02026",
     "gameDate": "20260821",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260815SKLG02026",
-    "gameDate": "20260815",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "송찬의 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

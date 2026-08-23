@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823KTSK02026",
+    "gameDate": "20260823",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "아빌라",
+    "pitcherPcode": "56801",
+    "resultCode": "BB",
+    "resultText": "안현민 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "155",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260821KTSK02026",
     "gameDate": "20260821",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260816WOKT02026",
-    "gameDate": "20260816",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "박지성",
-    "pitcherPcode": "56337",
-    "resultCode": "HR",
-    "resultText": "안현민 : 좌익수 뒤 홈런 (홈런거리:125M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

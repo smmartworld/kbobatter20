@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LGHH02026",
+    "gameDate": "20260823",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "2B",
+    "resultText": "문보경 : 좌익수 왼쪽 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260821LGHH02026",
     "gameDate": "20260821",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260813LGWO02026",
-    "gameDate": "20260813",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "정현우",
-    "pitcherPcode": "55313",
-    "resultCode": "O",
-    "resultText": "문보경 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

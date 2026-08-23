@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LGHH02026",
+    "gameDate": "20260823",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "신민재",
+    "batterPcode": "65207",
+    "pitcherName": "박준영",
+    "pitcherPcode": "52731",
+    "resultCode": "O",
+    "resultText": "신민재 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821LGHH02026",
     "gameDate": "20260821",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260816SKLG02026",
-    "gameDate": "20260816",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "신민재",
-    "batterPcode": "65207",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "H",
-    "resultText": "신민재 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "커터"
   }
 ]
