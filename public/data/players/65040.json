@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823SSNC02026",
+    "gameDate": "20260823",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "김태훈",
+    "batterPcode": "65040",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "김태훈 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260822SSNC02026",
     "gameDate": "20260822",
     "opponent": "NC",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823SSNC02026",
+    "gameDate": "20260823",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "이우성 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821SSNC02026",
     "gameDate": "20260821",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 8,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260811KTNC02026",
-    "gameDate": "20260811",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "로건",
-    "pitcherPcode": "55912",
-    "resultCode": "O",
-    "resultText": "이우성 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "150",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LTOB02026",
+    "gameDate": "20260823",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박건우",
+    "batterPcode": "55509",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "박건우 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260726KTLT02026",
     "gameDate": "20260726",
     "opponent": "KT",

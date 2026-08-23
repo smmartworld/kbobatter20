@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LTOB02026",
+    "gameDate": "20260823",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "전민재 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260821LTOB02026",
     "gameDate": "20260821",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "123",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260815NCLT02026",
-    "gameDate": "20260815",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "류진욱",
-    "pitcherPcode": "65949",
-    "resultCode": "2B",
-    "resultText": "전민재 : 우중간 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

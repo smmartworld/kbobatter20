@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823KTSK02026",
+    "gameDate": "20260823",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "에레디아",
+    "batterPcode": "53827",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "GDP",
+    "resultText": "에레디아 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260821KTSK02026",
     "gameDate": "20260821",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260703SSSK02026",
-    "gameDate": "20260703",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "에레디아",
-    "batterPcode": "53827",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "O",
-    "resultText": "에레디아 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

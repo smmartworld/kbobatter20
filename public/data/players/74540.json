@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823SSNC02026",
+    "gameDate": "20260823",
+    "opponent": "NC",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "강민호",
+    "batterPcode": "74540",
+    "pitcherName": "라일리",
+    "pitcherPcode": "55903",
+    "resultCode": "O",
+    "resultText": "강민호 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260822SSNC02026",
     "gameDate": "20260822",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "강민호",
-    "batterPcode": "74540",
-    "pitcherName": "짐머맨",
-    "pitcherPcode": "56799",
-    "resultCode": "H",
-    "resultText": "강민호 : 중견수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 9,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
   }
 ]

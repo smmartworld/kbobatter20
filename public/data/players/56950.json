@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823SSNC02026",
+    "gameDate": "20260823",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "블레인",
+    "batterPcode": "56950",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "블레인 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "125",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260822SSNC02026",
     "gameDate": "20260822",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260815NCLT02026",
-    "gameDate": "20260815",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "블레인",
-    "batterPcode": "56950",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "O",
-    "resultText": "블레인 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LTOB02026",
+    "gameDate": "20260823",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "곽빈",
+    "pitcherPcode": "68220",
+    "resultCode": "O",
+    "resultText": "고승민 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "158",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821LTOB02026",
     "gameDate": "20260821",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "112",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260815NCLT02026",
-    "gameDate": "20260815",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "김진호",
-    "pitcherPcode": "67954",
-    "resultCode": "HR",
-    "resultText": "고승민 : 우익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

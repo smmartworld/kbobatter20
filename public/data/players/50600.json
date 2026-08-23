@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823SSNC02026",
+    "gameDate": "20260823",
+    "opponent": "삼성",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "홍종표",
+    "batterPcode": "50600",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "K",
+    "resultText": "홍종표 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "두산",
