@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823HTWO02026",
+    "gameDate": "20260823",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김태군",
+    "batterPcode": "78122",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "BB",
+    "resultText": "김태군 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260822HTWO02026",
     "gameDate": "20260822",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260813SSHT02026",
-    "gameDate": "20260813",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김태군",
-    "batterPcode": "78122",
-    "pitcherName": "원태인",
-    "pitcherPcode": "69446",
-    "resultCode": "O",
-    "resultText": "김태군 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "체인지업"
   }
 ]
