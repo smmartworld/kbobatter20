@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LGHH02026",
+    "gameDate": "20260823",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "손주영",
+    "pitcherPcode": "67143",
+    "resultCode": "O",
+    "resultText": "페라자 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "121",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "김택연",
-    "pitcherPcode": "54263",
-    "resultCode": "O",
-    "resultText": "페라자 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "포크"
   }
 ]

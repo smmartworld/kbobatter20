@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823LGHH02026",
+    "gameDate": "20260823",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "손용준",
+    "batterPcode": "54156",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "BB",
+    "resultText": "손용준 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260820KTLG02026",
     "gameDate": "20260820",
     "opponent": "KT",
