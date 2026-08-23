@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823HTWO02026",
+    "gameDate": "20260823",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "추재현",
+    "batterPcode": "68362",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "2B",
+    "resultText": "추재현 : 좌익수 왼쪽 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260822HTWO02026",
     "gameDate": "20260822",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260818WOLT02026",
-    "gameDate": "20260818",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "추재현",
-    "batterPcode": "68362",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "O",
-    "resultText": "추재현 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "커터"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260823HTWO02026",
+    "gameDate": "20260823",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "BB",
+    "resultText": "김도영 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260822HTWO02026",
     "gameDate": "20260822",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "150",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260818HTHH02026",
-    "gameDate": "20260818",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "O",
-    "resultText": "김도영 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
     "lastPitchType": "투심"
   }
 ]
