@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825HHSK02026",
+    "gameDate": "20260825",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "H",
+    "resultText": "임근우 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260820SKSS02026",
     "gameDate": "20260820",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260729OBSK02026",
-    "gameDate": "20260729",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "임근우",
-    "batterPcode": "52807",
-    "pitcherName": "이병헌",
-    "pitcherPcode": "52204",
-    "resultCode": "H",
-    "resultText": "임근우 : 중견수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

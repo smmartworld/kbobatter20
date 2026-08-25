@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825NCLG02026",
+    "gameDate": "20260825",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "O",
+    "resultText": "문보경 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260823LGHH02026",
     "gameDate": "20260823",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260816SKLG02026",
-    "gameDate": "20260816",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "K",
-    "resultText": "문보경 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825NCLG02026",
+    "gameDate": "20260825",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "K",
+    "resultText": "송찬의 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260823LGHH02026",
     "gameDate": "20260823",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260818KTLG02026",
-    "gameDate": "20260818",
-    "opponent": "KT",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "2B",
-    "resultText": "송찬의 : 좌중간 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]
