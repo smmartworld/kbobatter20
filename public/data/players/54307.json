@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "삼성",
+    "inning": 11,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "원성준",
+    "batterPcode": "54307",
+    "pitcherName": "이승현",
+    "pitcherPcode": "60146",
+    "resultCode": "BB",
+    "resultText": "원성준 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821HTWO02026",
     "gameDate": "20260821",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260617WOSS02026",
-    "gameDate": "20260617",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "원성준",
-    "batterPcode": "54307",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "원성준 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]
