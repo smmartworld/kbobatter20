@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "최주환",
+    "batterPcode": "76267",
+    "pitcherName": "임기영",
+    "pitcherPcode": "62754",
+    "resultCode": "BB",
+    "resultText": "최주환 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260812LGWO02026",
     "gameDate": "20260812",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260703OBWO02026",
-    "gameDate": "20260703",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "최주환",
-    "batterPcode": "76267",
-    "pitcherName": "김택연",
-    "pitcherPcode": "54263",
-    "resultCode": "2B",
-    "resultText": "최주환 : 우중간 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]
