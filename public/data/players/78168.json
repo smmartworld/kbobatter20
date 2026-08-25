@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "서건창",
+    "batterPcode": "78168",
+    "pitcherName": "보스",
+    "pitcherPcode": "56402",
+    "resultCode": "O",
+    "resultText": "서건창 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260819WOLT02026",
-    "gameDate": "20260819",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "서건창",
-    "batterPcode": "78168",
-    "pitcherName": "이이무라",
-    "pitcherPcode": "56503",
-    "resultCode": "H",
-    "resultText": "서건창 : 좌익수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "슬라이더"
   }
 ]

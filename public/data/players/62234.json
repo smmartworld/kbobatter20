@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "키움",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "류지혁",
+    "batterPcode": "62234",
+    "pitcherName": "알칸타라",
+    "pitcherPcode": "69045",
+    "resultCode": "K",
+    "resultText": "류지혁 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823SSNC02026",
     "gameDate": "20260823",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260819SKSS02026",
-    "gameDate": "20260819",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "류지혁",
-    "batterPcode": "62234",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "BB",
-    "resultText": "류지혁 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

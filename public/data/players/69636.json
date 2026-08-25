@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오선우",
+    "batterPcode": "69636",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "BB",
+    "resultText": "오선우 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260606SSHT02026",
-    "gameDate": "20260606",
-    "opponent": "삼성",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "오선우",
-    "batterPcode": "69636",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "O",
-    "resultText": "오선우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "비슬리",
+    "pitcherPcode": "56523",
+    "resultCode": "O",
+    "resultText": "김도영 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260819HTHH02026",
-    "gameDate": "20260819",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "HR",
-    "resultText": "김도영 : 좌익수 뒤 홈런 (홈런거리:110M)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "투심"
   }
 ]

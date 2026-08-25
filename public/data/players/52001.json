@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825OBKT02026",
+    "gameDate": "20260825",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "안현민",
+    "batterPcode": "52001",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "안현민 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260823KTSK02026",
     "gameDate": "20260823",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260818KTLG02026",
-    "gameDate": "20260818",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "안현민",
-    "batterPcode": "52001",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "BB",
-    "resultText": "안현민 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "138",
     "lastPitchType": "직구"
   }
 ]

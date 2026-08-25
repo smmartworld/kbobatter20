@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825OBKT02026",
+    "gameDate": "20260825",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "힐리어드",
+    "batterPcode": "56034",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "K",
+    "resultText": "힐리어드 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260823KTSK02026",
     "gameDate": "20260823",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "122",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260818KTLG02026",
-    "gameDate": "20260818",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "힐리어드",
-    "batterPcode": "56034",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "K",
-    "resultText": "힐리어드 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "체인지업"
   }
 ]

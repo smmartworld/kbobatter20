@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김건희",
+    "batterPcode": "53312",
+    "pitcherName": "보스",
+    "pitcherPcode": "56402",
+    "resultCode": "H",
+    "resultText": "김건희 : 좌중간 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260818WOLT02026",
-    "gameDate": "20260818",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "김건희",
-    "batterPcode": "53312",
-    "pitcherName": "이이무라",
-    "pitcherPcode": "56503",
-    "resultCode": "HR",
-    "resultText": "김건희 : 좌중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "120",
-    "lastPitchType": "커브"
   }
 ]

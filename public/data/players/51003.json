@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825OBKT02026",
+    "gameDate": "20260825",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "K",
+    "resultText": "권동진 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260823KTSK02026",
     "gameDate": "20260823",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260730KTNC02026",
-    "gameDate": "20260730",
-    "opponent": "NC",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "송명기",
-    "pitcherPcode": "69962",
-    "resultCode": "K",
-    "resultText": "권동진 : 삼진 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

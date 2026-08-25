@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "KIA",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "전민재",
+    "batterPcode": "68205",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "H",
+    "resultText": "전민재 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823LTOB02026",
     "gameDate": "20260823",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260818WOLT02026",
-    "gameDate": "20260818",
-    "opponent": "키움",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "전민재",
-    "batterPcode": "68205",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "GDP",
-    "resultText": "전민재 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "151",
-    "lastPitchType": "직구"
   }
 ]

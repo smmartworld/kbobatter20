@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825HHSK02026",
+    "gameDate": "20260825",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "문현빈",
+    "batterPcode": "53764",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "O",
+    "resultText": "문현빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823LGHH02026",
     "gameDate": "20260823",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260818HTHH02026",
-    "gameDate": "20260818",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "문현빈",
-    "batterPcode": "53764",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "BB",
-    "resultText": "문현빈 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "투심"
   }
 ]

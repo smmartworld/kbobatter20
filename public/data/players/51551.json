@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "시라카와",
+    "pitcherPcode": "54843",
+    "resultCode": "O",
+    "resultText": "나승엽 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823LTOB02026",
     "gameDate": "20260823",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260818WOLT02026",
-    "gameDate": "20260818",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "BB",
-    "resultText": "나승엽 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
   }
 ]
