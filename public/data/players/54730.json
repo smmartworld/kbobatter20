@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825HHSK02026",
+    "gameDate": "20260825",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "서진용",
+    "pitcherPcode": "61895",
+    "resultCode": "BB",
+    "resultText": "페라자 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823LGHH02026",
     "gameDate": "20260823",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "페라자 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "커브"
   }
 ]

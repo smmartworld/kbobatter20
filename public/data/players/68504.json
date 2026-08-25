@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이호연",
+    "batterPcode": "68504",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "HR",
+    "resultText": "이호연 : 우익수 뒤 홈런 (홈런거리:115M)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "키움",

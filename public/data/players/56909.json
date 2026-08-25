@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825NCLG02026",
+    "gameDate": "20260825",
+    "opponent": "LG",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "케네디",
+    "pitcherPcode": "56168",
+    "resultCode": "H",
+    "resultText": "신재인 : 투수 맞고 유격수 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819OBNC02026",
     "gameDate": "20260819",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260630SSNC02026",
-    "gameDate": "20260630",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "김태훈",
-    "pitcherPcode": "62360",
-    "resultCode": "BB",
-    "resultText": "신재인 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
   }
 ]

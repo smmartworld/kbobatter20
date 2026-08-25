@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825HHSK02026",
+    "gameDate": "20260825",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "서진용",
+    "pitcherPcode": "61895",
+    "resultCode": "GDP",
+    "resultText": "최인호 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821LGHH02026",
     "gameDate": "20260821",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "두산",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "O",
-    "resultText": "최인호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]
