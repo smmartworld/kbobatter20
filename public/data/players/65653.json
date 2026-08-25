@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825LTHT02026",
+    "gameDate": "20260825",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김호령",
+    "batterPcode": "65653",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "O",
+    "resultText": "김호령 : 우익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "127",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260818HTHH02026",
-    "gameDate": "20260818",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김호령",
-    "batterPcode": "65653",
-    "pitcherName": "왕옌청",
-    "pitcherPcode": "56719",
-    "resultCode": "H",
-    "resultText": "김호령 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "포크"
   }
 ]

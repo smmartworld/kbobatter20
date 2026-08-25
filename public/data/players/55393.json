@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260825SSWO02026",
+    "gameDate": "20260825",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "여동욱",
+    "batterPcode": "55393",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "3B",
+    "resultText": "여동욱 : 좌익수 뒤 3루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823HTWO02026",
     "gameDate": "20260823",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "126",
-    "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260812LGWO02026",
-    "gameDate": "20260812",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "여동욱",
-    "batterPcode": "55393",
-    "pitcherName": "김진성",
-    "pitcherPcode": "75867",
-    "resultCode": "E",
-    "resultText": "여동욱 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "125",
     "lastPitchType": "커브"
   }
 ]
