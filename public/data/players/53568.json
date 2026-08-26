@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "정대선",
+    "batterPcode": "53568",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "H",
+    "resultText": "정대선 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260708HTLT02026",
     "gameDate": "20260708",
     "opponent": "KIA",

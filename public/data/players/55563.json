@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "최지민",
+    "pitcherPcode": "52639",
+    "resultCode": "2B",
+    "resultText": "박재엽 : 좌익수 뒤 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260701LTOB02026",
     "gameDate": "20260701",
     "opponent": "두산",

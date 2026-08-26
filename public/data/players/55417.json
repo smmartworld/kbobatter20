@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260826SSWO02026",
+    "gameDate": "20260826",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이진용",
+    "batterPcode": "55417",
+    "pitcherName": "정다훈",
+    "pitcherPcode": "56345",
+    "resultCode": "O",
+    "resultText": "이진용 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  }
+]

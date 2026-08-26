@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이창진",
+    "batterPcode": "64560",
+    "pitcherName": "이진하",
+    "pitcherPcode": "53562",
+    "resultCode": "O",
+    "resultText": "이창진 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260825LTHT02026",
     "gameDate": "20260825",
     "opponent": "롯데",

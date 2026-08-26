@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826SSWO02026",
+    "gameDate": "20260826",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "정다훈",
+    "pitcherPcode": "56345",
+    "resultCode": "H",
+    "resultText": "김지찬 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260825SSWO02026",
     "gameDate": "20260825",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260821SSNC02026",
-    "gameDate": "20260821",
-    "opponent": "NC",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "김지찬 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]
