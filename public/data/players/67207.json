@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826OBKT02026",
+    "gameDate": "20260826",
+    "opponent": "KT",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이유찬",
+    "batterPcode": "67207",
+    "pitcherName": "대니엘",
+    "pitcherPcode": "56002",
+    "resultCode": "BB",
+    "resultText": "이유찬 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260818OBNC02026",
     "gameDate": "20260818",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260621OBLG02026",
-    "gameDate": "20260621",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "이유찬",
-    "batterPcode": "67207",
-    "pitcherName": "김윤식",
-    "pitcherPcode": "50157",
-    "resultCode": "K",
-    "resultText": "이유찬 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
