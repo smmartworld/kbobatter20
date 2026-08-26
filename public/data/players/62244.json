@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826SSWO02026",
+    "gameDate": "20260826",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박세혁",
+    "batterPcode": "62244",
+    "pitcherName": "박준현",
+    "pitcherPcode": "56318",
+    "resultCode": "H",
+    "resultText": "박세혁 : 우익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260812SSHT02026",
     "gameDate": "20260812",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260428SSOB02026",
-    "gameDate": "20260428",
-    "opponent": "두산",
-    "inning": 10,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박세혁",
-    "batterPcode": "62244",
-    "pitcherName": "최지강",
-    "pitcherPcode": "52206",
-    "resultCode": "BB",
-    "resultText": "박세혁 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 7,
-    "lastPitchSpeed": "148",
     "lastPitchType": "직구"
   }
 ]

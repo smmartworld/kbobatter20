@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "KIA",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "황동하",
+    "pitcherPcode": "52641",
+    "resultCode": "O",
+    "resultText": "장두성 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260825LTHT02026",
     "gameDate": "20260825",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260616LTSK02026",
-    "gameDate": "20260616",
-    "opponent": "SSG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "박시후",
-    "pitcherPcode": "50812",
-    "resultCode": "H",
-    "resultText": "장두성 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

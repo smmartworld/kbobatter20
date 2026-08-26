@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826OBKT02026",
+    "gameDate": "20260826",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "E",
+    "resultText": "한승택 : 3루수 땅볼 실책으로 출루 (3루수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260823KTSK02026",
     "gameDate": "20260823",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260815WOKT02026",
-    "gameDate": "20260815",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "O",
-    "resultText": "한승택 : 3루수 앞 땅볼로 출루",
-    "base1": 0,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "스위퍼"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "나성범",
+    "batterPcode": "62947",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "나성범 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260825LTHT02026",
     "gameDate": "20260825",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260820HTHH02026",
-    "gameDate": "20260820",
-    "opponent": "한화",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "나성범",
-    "batterPcode": "62947",
-    "pitcherName": "김서현",
-    "pitcherPcode": "53754",
-    "resultCode": "H",
-    "resultText": "나성범 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

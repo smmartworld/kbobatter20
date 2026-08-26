@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826OBKT02026",
+    "gameDate": "20260826",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "H",
+    "resultText": "김상수 : 우익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260825OBKT02026",
     "gameDate": "20260825",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260816WOKT02026",
-    "gameDate": "20260816",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "배동현",
-    "pitcherPcode": "51761",
-    "resultCode": "O",
-    "resultText": "김상수 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

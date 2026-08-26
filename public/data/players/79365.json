@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826NCLG02026",
+    "gameDate": "20260826",
+    "opponent": "NC",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "BB",
+    "resultText": "박동원 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 8,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260825NCLG02026",
     "gameDate": "20260825",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260814SKLG02026",
-    "gameDate": "20260814",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "O",
-    "resultText": "박동원 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "117",
-    "lastPitchType": "커브"
   }
 ]

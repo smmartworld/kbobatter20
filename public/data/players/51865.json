@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "조형우",
+    "batterPcode": "51865",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "O",
+    "resultText": "조형우 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260825HHSK02026",
     "gameDate": "20260825",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260818SKSS02026",
-    "gameDate": "20260818",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "조형우",
-    "batterPcode": "51865",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "O",
-    "resultText": "조형우 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "스위퍼"
   }
 ]

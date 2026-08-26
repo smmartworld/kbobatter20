@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "심우준",
+    "batterPcode": "64006",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "심우준 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260825HHSK02026",
     "gameDate": "20260825",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260813HHOB02026",
-    "gameDate": "20260813",
-    "opponent": "두산",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "심우준",
-    "batterPcode": "64006",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "O",
-    "resultText": "심우준 : 3루수 땅볼 아웃 (3루수->1루수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "143",
     "lastPitchType": "투심"
   }
 ]

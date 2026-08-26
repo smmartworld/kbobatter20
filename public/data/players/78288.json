@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "SSG",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최재훈",
+    "batterPcode": "78288",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "BB",
+    "resultText": "최재훈 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260820HTHH02026",
     "gameDate": "20260820",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260619SSHH02026",
-    "gameDate": "20260619",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "최재훈",
-    "batterPcode": "78288",
-    "pitcherName": "이승현",
-    "pitcherPcode": "60146",
-    "resultCode": "BB",
-    "resultText": "최재훈 : 볼넷",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 10,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

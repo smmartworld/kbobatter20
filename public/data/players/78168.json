@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826SSWO02026",
+    "gameDate": "20260826",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "서건창",
+    "batterPcode": "78168",
+    "pitcherName": "최원태",
+    "pitcherPcode": "65320",
+    "resultCode": "H",
+    "resultText": "서건창 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260825SSWO02026",
     "gameDate": "20260825",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "131",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260820WOLT02026",
-    "gameDate": "20260820",
-    "opponent": "롯데",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "서건창",
-    "batterPcode": "78168",
-    "pitcherName": "박정민",
-    "pitcherPcode": "56536",
-    "resultCode": "O",
-    "resultText": "서건창 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "체인지업"
   }
 ]

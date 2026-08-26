@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826LTHT02026",
+    "gameDate": "20260826",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "박상준",
+    "batterPcode": "52634",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "BB",
+    "resultText": "박상준 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "154",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260825LTHT02026",
     "gameDate": "20260825",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "142",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260726WOHT02026",
-    "gameDate": "20260726",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "박상준",
-    "batterPcode": "52634",
-    "pitcherName": "김성민",
-    "pitcherPcode": "67828",
-    "resultCode": "BB",
-    "resultText": "박상준 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "투심"
   }
 ]
