@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "O",
+    "resultText": "장규현 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260730LTHH02026",
     "gameDate": "20260730",
     "opponent": "롯데",
