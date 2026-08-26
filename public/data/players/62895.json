@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "주현상",
+    "pitcherPcode": "65707",
+    "resultCode": "O",
+    "resultText": "한유섬 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260825HHSK02026",
     "gameDate": "20260825",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "145",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260816SKLG02026",
-    "gameDate": "20260816",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한유섬",
-    "batterPcode": "62895",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "HR",
-    "resultText": "한유섬 : 중견수 뒤 홈런 (홈런거리:135M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

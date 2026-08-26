@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826NCLG02026",
+    "gameDate": "20260826",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "오태양",
+    "batterPcode": "51996",
+    "pitcherName": "이정용",
+    "pitcherPcode": "69134",
+    "resultCode": "H",
+    "resultText": "오태양 : 중견수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260730KTNC02026",
     "gameDate": "20260730",
     "opponent": "KT",

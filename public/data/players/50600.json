@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826NCLG02026",
+    "gameDate": "20260826",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "홍종표",
+    "batterPcode": "50600",
+    "pitcherName": "김영우",
+    "pitcherPcode": "55167",
+    "resultCode": "H",
+    "resultText": "홍종표 : 유격수 오른쪽 내야안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260823SSNC02026",
     "gameDate": "20260823",
     "opponent": "삼성",

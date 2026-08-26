@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "gameId": "20260826HHSK02026",
+    "gameDate": "20260826",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "최유빈",
+    "batterPcode": "56793",
+    "pitcherName": "노경은",
+    "pitcherPcode": "73211",
+    "resultCode": "K",
+    "resultText": "최유빈 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  }
+]

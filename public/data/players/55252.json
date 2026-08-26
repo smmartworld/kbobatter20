@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260826OBKT02026",
+    "gameDate": "20260826",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "박준순",
+    "batterPcode": "55252",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "O",
+    "resultText": "박준순 : 자동 고의4구",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260825OBKT02026",
     "gameDate": "20260825",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260819OBNC02026",
-    "gameDate": "20260819",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "박준순",
-    "batterPcode": "55252",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "K",
-    "resultText": "박준순 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "스위퍼"
   }
 ]
