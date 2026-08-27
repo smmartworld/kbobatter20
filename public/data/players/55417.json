@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827SSWO02026",
+    "gameDate": "20260827",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "이진용",
+    "batterPcode": "55417",
+    "pitcherName": "김연주",
+    "pitcherPcode": "54368",
+    "resultCode": "H",
+    "resultText": "이진용 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826SSWO02026",
     "gameDate": "20260826",
     "opponent": "키움",

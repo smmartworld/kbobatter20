@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827SSWO02026",
+    "gameDate": "20260827",
+    "opponent": "삼성",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "박성빈",
+    "batterPcode": "53305",
+    "pitcherName": "사토시",
+    "pitcherPcode": "56474",
+    "resultCode": "K",
+    "resultText": "박성빈 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260606WOOB02026",
     "gameDate": "20260606",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "129",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260512HHWO02026",
-    "gameDate": "20260512",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박성빈",
-    "batterPcode": "53305",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "K",
-    "resultText": "박성빈 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "체인지업"
   }
 ]

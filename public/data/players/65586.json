@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827SSWO02026",
+    "gameDate": "20260827",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "전병우",
+    "batterPcode": "65586",
+    "pitcherName": "김연주",
+    "pitcherPcode": "54368",
+    "resultCode": "H",
+    "resultText": "전병우 : 중견수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260825SSWO02026",
     "gameDate": "20260825",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260818SKSS02026",
-    "gameDate": "20260818",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "전병우",
-    "batterPcode": "65586",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "H",
-    "resultText": "전병우 : 좌익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827OBKT02026",
+    "gameDate": "20260827",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "임종성",
+    "batterPcode": "54236",
+    "pitcherName": "스기모토",
+    "pitcherPcode": "56011",
+    "resultCode": "O",
+    "resultText": "임종성 : 2루수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260531OBSS02026",
     "gameDate": "20260531",
     "opponent": "삼성",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827NCLG02026",
+    "gameDate": "20260827",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "송찬의",
+    "batterPcode": "68110",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "GDP",
+    "resultText": "송찬의 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260826NCLG02026",
     "gameDate": "20260826",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "134",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260820KTLG02026",
-    "gameDate": "20260820",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "송찬의",
-    "batterPcode": "68110",
-    "pitcherName": "이상동",
-    "pitcherPcode": "69054",
-    "resultCode": "O",
-    "resultText": "송찬의 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

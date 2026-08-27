@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827SSWO02026",
+    "gameDate": "20260827",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박세혁",
+    "batterPcode": "62244",
+    "pitcherName": "김연주",
+    "pitcherPcode": "54368",
+    "resultCode": "O",
+    "resultText": "박세혁 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260826SSWO02026",
     "gameDate": "20260826",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 10,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260505WOSS02026",
-    "gameDate": "20260505",
-    "opponent": "키움",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박세혁",
-    "batterPcode": "62244",
-    "pitcherName": "오석주",
-    "pitcherPcode": "67116",
-    "resultCode": "O",
-    "resultText": "박세혁 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "포크"
   }
 ]

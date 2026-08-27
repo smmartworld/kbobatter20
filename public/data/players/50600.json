@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827NCLG02026",
+    "gameDate": "20260827",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "홍종표",
+    "batterPcode": "50600",
+    "pitcherName": "양우진",
+    "pitcherPcode": "56165",
+    "resultCode": "BB",
+    "resultText": "홍종표 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826NCLG02026",
     "gameDate": "20260826",
     "opponent": "LG",
