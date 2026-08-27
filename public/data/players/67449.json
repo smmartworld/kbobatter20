@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827SSWO02026",
+    "gameDate": "20260827",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김성윤",
+    "batterPcode": "67449",
+    "pitcherName": "하영민",
+    "pitcherPcode": "64350",
+    "resultCode": "H",
+    "resultText": "김성윤 : 투수 오른쪽 앞 번트안타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826SSWO02026",
     "gameDate": "20260826",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "118",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260820SKSS02026",
-    "gameDate": "20260820",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김성윤",
-    "batterPcode": "67449",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "김성윤 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

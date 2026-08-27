@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827NCLG02026",
+    "gameDate": "20260827",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박민우",
+    "batterPcode": "62907",
+    "pitcherName": "박시원",
+    "pitcherPcode": "55121",
+    "resultCode": "H",
+    "resultText": "박민우 : 중견수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826NCLG02026",
     "gameDate": "20260826",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "122",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260820OBNC02026",
-    "gameDate": "20260820",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박민우",
-    "batterPcode": "62907",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "O",
-    "resultText": "박민우 : 우익수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
   }
 ]

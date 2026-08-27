@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827OBKT02026",
+    "gameDate": "20260827",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "최원준",
+    "batterPcode": "66606",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "최원준 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826OBKT02026",
     "gameDate": "20260826",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260821KTSK02026",
-    "gameDate": "20260821",
-    "opponent": "SSG",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최원준",
-    "batterPcode": "66606",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "최원준 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260827OBKT02026",
+    "gameDate": "20260827",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박준순",
+    "batterPcode": "55252",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "BB",
+    "resultText": "박준순 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260826OBKT02026",
     "gameDate": "20260826",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260819OBNC02026",
-    "gameDate": "20260819",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "박준순",
-    "batterPcode": "55252",
-    "pitcherName": "테일러",
-    "pitcherPcode": "56966",
-    "resultCode": "H",
-    "resultText": "박준순 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]
