@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260829NCHH02026",
+    "gameDate": "20260829",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "서호철",
+    "batterPcode": "69995",
+    "pitcherName": "정우주",
+    "pitcherPcode": "55743",
+    "resultCode": "H",
+    "resultText": "서호철 : 좌중간 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260827NCLG02026",
     "gameDate": "20260827",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260621SKNC02026",
-    "gameDate": "20260621",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "서호철",
-    "batterPcode": "69995",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "서호철 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
   }
 ]

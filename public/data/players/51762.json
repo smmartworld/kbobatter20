@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260829NCHH02026",
+    "gameDate": "20260829",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "김태경",
+    "pitcherPcode": "50992",
+    "resultCode": "2B",
+    "resultText": "장규현 : 중견수 오른쪽 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260826HHSK02026",
     "gameDate": "20260826",
     "opponent": "SSG",

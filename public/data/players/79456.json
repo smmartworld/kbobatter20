@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260829SKHT02026",
+    "gameDate": "20260829",
+    "opponent": "KIA",
+    "inning": 10,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "이지영",
+    "batterPcode": "79456",
+    "pitcherName": "조상우",
+    "pitcherPcode": "63342",
+    "resultCode": "O",
+    "resultText": "이지영 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260821KTSK02026",
     "gameDate": "20260821",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260719HTSK02026",
-    "gameDate": "20260719",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이지영",
-    "batterPcode": "79456",
-    "pitcherName": "정해영",
-    "pitcherPcode": "50662",
-    "resultCode": "H",
-    "resultText": "이지영 : 좌익수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "137",
     "lastPitchType": "슬라이더"
   }
 ]

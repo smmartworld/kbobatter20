@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260829NCHH02026",
+    "gameDate": "20260829",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "정우주",
+    "pitcherPcode": "55743",
+    "resultCode": "O",
+    "resultText": "김한별 : 3루수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260827NCLG02026",
     "gameDate": "20260827",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260704NCHT02026",
-    "gameDate": "20260704",
-    "opponent": "KIA",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "BB",
-    "resultText": "김한별 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]
