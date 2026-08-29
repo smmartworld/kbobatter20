@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260829WOOB02026",
+    "gameDate": "20260829",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "BB",
+    "resultText": "박찬혁 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260827SSWO02026",
     "gameDate": "20260827",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260821HTWO02026",
-    "gameDate": "20260821",
-    "opponent": "KIA",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "양현종",
-    "pitcherPcode": "77637",
-    "resultCode": "H",
-    "resultText": "박찬혁 : 투수 왼쪽 번트안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]
