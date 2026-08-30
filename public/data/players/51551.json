@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260830LGLT02026",
+    "gameDate": "20260830",
+    "opponent": "LG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "나승엽 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260829LGLT02026",
     "gameDate": "20260829",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260821LTOB02026",
-    "gameDate": "20260821",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "윤태호",
-    "pitcherPcode": "52202",
-    "resultCode": "E",
-    "resultText": "나승엽 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "직구"
   }
 ]

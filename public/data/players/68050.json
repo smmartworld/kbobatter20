@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260830NCHH02026",
+    "gameDate": "20260830",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "강백호",
+    "batterPcode": "68050",
+    "pitcherName": "테일러",
+    "pitcherPcode": "56966",
+    "resultCode": "BB",
+    "resultText": "강백호 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260829NCHH02026",
     "gameDate": "20260829",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260823LGHH02026",
-    "gameDate": "20260823",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "강백호",
-    "batterPcode": "68050",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "O",
-    "resultText": "강백호 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
   }
 ]
