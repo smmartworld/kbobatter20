@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260830WOOB02026",
+    "gameDate": "20260830",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "최재영",
+    "batterPcode": "56338",
+    "pitcherName": "박치국",
+    "pitcherPcode": "67266",
+    "resultCode": "K",
+    "resultText": "최재영 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260827SSWO02026",
     "gameDate": "20260827",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 12,
     "lastPitchSpeed": "137",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260422NCWO02026",
-    "gameDate": "20260422",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "최재영",
-    "batterPcode": "56338",
-    "pitcherName": "신민혁",
-    "pitcherPcode": "68902",
-    "resultCode": "K",
-    "resultText": "최재영 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "포크"
   }
 ]
