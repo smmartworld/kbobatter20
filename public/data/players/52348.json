@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260901SKWO02026",
+    "gameDate": "20260901",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "BB",
+    "resultText": "박찬혁 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260830WOOB02026",
     "gameDate": "20260830",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260821HTWO02026",
-    "gameDate": "20260821",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "김태형",
-    "pitcherPcode": "55610",
-    "resultCode": "O",
-    "resultText": "박찬혁 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]
