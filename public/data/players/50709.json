@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260901HHKT02026",
+    "gameDate": "20260901",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "주권",
+    "pitcherPcode": "65060",
+    "resultCode": "O",
+    "resultText": "박정현 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260830NCHH02026",
     "gameDate": "20260830",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "삼성",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "김태훈",
-    "pitcherPcode": "62360",
-    "resultCode": "O",
-    "resultText": "박정현 : 3루수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

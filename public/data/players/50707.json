@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260901HHKT02026",
+    "gameDate": "20260901",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "주권",
+    "pitcherPcode": "65060",
+    "resultCode": "H",
+    "resultText": "최인호 : 우중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260829NCHH02026",
     "gameDate": "20260829",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "138",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260814HHSS02026",
-    "gameDate": "20260814",
-    "opponent": "삼성",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "최원태",
-    "pitcherPcode": "65320",
-    "resultCode": "O",
-    "resultText": "최인호 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "체인지업"
   }
 ]
