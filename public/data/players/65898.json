@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260902SKWO02026",
+    "gameDate": "20260902",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김웅빈",
+    "batterPcode": "65898",
+    "pitcherName": "조병현",
+    "pitcherPcode": "51897",
+    "resultCode": "BB",
+    "resultText": "김웅빈 : 몸에 맞는 볼",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260901SKWO02026",
     "gameDate": "20260901",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "140",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260825SSWO02026",
-    "gameDate": "20260825",
-    "opponent": "삼성",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김웅빈",
-    "batterPcode": "65898",
-    "pitcherName": "보스",
-    "pitcherPcode": "56402",
-    "resultCode": "O",
-    "resultText": "김웅빈 : 3루수 파울플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
     "lastPitchType": "커터"
   }
 ]

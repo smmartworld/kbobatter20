@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260902LGOB02026",
+    "gameDate": "20260902",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "강승호",
+    "batterPcode": "63123",
+    "pitcherName": "케네디",
+    "pitcherPcode": "56168",
+    "resultCode": "H",
+    "resultText": "강승호 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260830WOOB02026",
     "gameDate": "20260830",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260726SSOB02026",
-    "gameDate": "20260726",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "강승호",
-    "batterPcode": "63123",
-    "pitcherName": "이재희",
-    "pitcherPcode": "51460",
-    "resultCode": "BB",
-    "resultText": "강승호 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

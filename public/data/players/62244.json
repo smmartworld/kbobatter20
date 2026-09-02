@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260902LTSS02026",
+    "gameDate": "20260902",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "박세혁",
+    "batterPcode": "62244",
+    "pitcherName": "이영재",
+    "pitcherPcode": "55503",
+    "resultCode": "K",
+    "resultText": "박세혁 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 10,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260901LTSS02026",
     "gameDate": "20260901",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260508SSNC02026",
-    "gameDate": "20260508",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박세혁",
-    "batterPcode": "62244",
-    "pitcherName": "목지훈",
-    "pitcherPcode": "53973",
-    "resultCode": "O",
-    "resultText": "박세혁 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
