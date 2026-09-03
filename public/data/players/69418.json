@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260903LTSS02026",
+    "gameDate": "20260903",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "최준용",
+    "pitcherPcode": "50556",
+    "resultCode": "O",
+    "resultText": "박승규 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260829KTSS02026",
     "gameDate": "20260829",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260819SKSS02026",
-    "gameDate": "20260819",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "최용준",
-    "pitcherPcode": "50650",
-    "resultCode": "BB",
-    "resultText": "박승규 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

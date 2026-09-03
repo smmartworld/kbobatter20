@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260903HHKT02026",
+    "gameDate": "20260903",
+    "opponent": "한화",
+    "inning": 5,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "김서현",
+    "pitcherPcode": "53754",
+    "resultCode": "3B",
+    "resultText": "장진혁 : 좌중간 3루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260901HHKT02026",
     "gameDate": "20260901",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260813KTNC02026",
-    "gameDate": "20260813",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "장진혁",
-    "batterPcode": "66706",
-    "pitcherName": "신영우",
-    "pitcherPcode": "53919",
-    "resultCode": "BB",
-    "resultText": "장진혁 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

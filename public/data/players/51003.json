@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260903HHKT02026",
+    "gameDate": "20260903",
+    "opponent": "한화",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "강재민",
+    "pitcherPcode": "50705",
+    "resultCode": "K",
+    "resultText": "권동진 : 삼진 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260829KTSS02026",
     "gameDate": "20260829",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260816WOKT02026",
-    "gameDate": "20260816",
-    "opponent": "키움",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "원종현",
-    "pitcherPcode": "76118",
-    "resultCode": "H",
-    "resultText": "권동진 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
     "lastPitchType": "투심"
   }
 ]

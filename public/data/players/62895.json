@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260903SKWO02026",
+    "gameDate": "20260903",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "한유섬",
+    "batterPcode": "62895",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "K",
+    "resultText": "한유섬 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260902SKWO02026",
     "gameDate": "20260902",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 8,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260818SKSS02026",
-    "gameDate": "20260818",
-    "opponent": "삼성",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "한유섬",
-    "batterPcode": "62895",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "BB",
-    "resultText": "한유섬 : 몸에 맞는 볼",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "149",
     "lastPitchType": "직구"
   }
 ]
