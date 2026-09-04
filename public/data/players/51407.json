@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260904SSLG02026",
+    "gameDate": "20260904",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "케네디",
+    "pitcherPcode": "56168",
+    "resultCode": "O",
+    "resultText": "이창용 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260827SSWO02026",
     "gameDate": "20260827",
     "opponent": "키움",
