@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260904HHLT02026",
+    "gameDate": "20260904",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "한지윤",
+    "batterPcode": "55767",
+    "pitcherName": "김기준",
+    "pitcherPcode": "53540",
+    "resultCode": "H",
+    "resultText": "한지윤 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260903HHKT02026",
     "gameDate": "20260903",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "121",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260825HHSK02026",
-    "gameDate": "20260825",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "한지윤",
-    "batterPcode": "55767",
-    "pitcherName": "전영준",
-    "pitcherPcode": "52809",
-    "resultCode": "GDP",
-    "resultText": "한지윤 : 유격수 병살타 아웃 (유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

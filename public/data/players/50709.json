@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260904HHLT02026",
+    "gameDate": "20260904",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "김기준",
+    "pitcherPcode": "53540",
+    "resultCode": "GDP",
+    "resultText": "박정현 : 3루수 병살타 아웃 (3루수->2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260903HHKT02026",
     "gameDate": "20260903",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "139",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260815HHSS02026",
-    "gameDate": "20260815",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "이승현",
-    "pitcherPcode": "51454",
-    "resultCode": "O",
-    "resultText": "박정현 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "122",
-    "lastPitchType": "커브"
   }
 ]

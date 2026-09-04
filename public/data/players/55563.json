@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260904HHLT02026",
+    "gameDate": "20260904",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "권민규",
+    "pitcherPcode": "55764",
+    "resultCode": "BB",
+    "resultText": "박재엽 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260826LTHT02026",
     "gameDate": "20260826",
     "opponent": "KIA",
