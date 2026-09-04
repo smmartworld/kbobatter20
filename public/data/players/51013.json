@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260904KTHT02026",
+    "gameDate": "20260904",
+    "opponent": "KIA",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "유준규",
+    "batterPcode": "51013",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "유준규 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260903HHKT02026",
     "gameDate": "20260903",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260522NCKT02026",
-    "gameDate": "20260522",
-    "opponent": "NC",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "유준규",
-    "batterPcode": "51013",
-    "pitcherName": "이준혁",
-    "pitcherPcode": "52992",
-    "resultCode": "O",
-    "resultText": "유준규 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "투심"
   }
 ]
