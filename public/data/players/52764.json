@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "허인서 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "121",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260903HHKT02026",
     "gameDate": "20260903",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260827HHSK02026",
-    "gameDate": "20260827",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "HR",
-    "resultText": "허인서 : 좌중간 뒤 홈런 (홈런거리:115M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

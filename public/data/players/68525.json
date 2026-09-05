@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "한동희",
+    "batterPcode": "68525",
+    "pitcherName": "황준서",
+    "pitcherPcode": "54729",
+    "resultCode": "H",
+    "resultText": "한동희 : 우중간 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260829LGLT02026",
-    "gameDate": "20260829",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "한동희",
-    "batterPcode": "68525",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "O",
-    "resultText": "한동희 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "슬라이더"
   }
 ]

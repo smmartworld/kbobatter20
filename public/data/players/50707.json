@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "최인호 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "139",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260819HTHH02026",
-    "gameDate": "20260819",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "GDP",
-    "resultText": "최인호 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "포크"
   }
 ]

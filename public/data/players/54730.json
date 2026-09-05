@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "GDP",
+    "resultText": "페라자 : 1루수 병살타 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "130",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260829NCHH02026",
-    "gameDate": "20260829",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "라일리",
-    "pitcherPcode": "55903",
-    "resultCode": "O",
-    "resultText": "페라자 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "슬라이더"
   }
 ]

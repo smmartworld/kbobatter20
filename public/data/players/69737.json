@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "H",
+    "resultText": "노시환 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260830NCHH02026",
-    "gameDate": "20260830",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "신영우",
-    "pitcherPcode": "53919",
-    "resultCode": "GDP",
-    "resultText": "노시환 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "슬라이더"
   }
 ]

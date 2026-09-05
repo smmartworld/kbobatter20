@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "황성빈",
+    "batterPcode": "50500",
+    "pitcherName": "황준서",
+    "pitcherPcode": "54729",
+    "resultCode": "O",
+    "resultText": "황성빈 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260829LGLT02026",
-    "gameDate": "20260829",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "황성빈",
-    "batterPcode": "50500",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "H",
-    "resultText": "황성빈 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

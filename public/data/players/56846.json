@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905OBSK02026",
+    "gameDate": "20260905",
+    "opponent": "두산",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김요셉",
+    "batterPcode": "56846",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "O",
+    "resultText": "김요셉 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260904OBSK02026",
     "gameDate": "20260904",
     "opponent": "두산",

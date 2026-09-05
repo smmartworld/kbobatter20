@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905OBSK02026",
+    "gameDate": "20260905",
+    "opponent": "SSG",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "양석환",
+    "batterPcode": "64153",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "GDP",
+    "resultText": "양석환 : 투수 병살 실책으로 출루 (1루수->유격수->투수 실책)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904OBSK02026",
     "gameDate": "20260904",
     "opponent": "SSG",

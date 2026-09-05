@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905HHLT02026",
+    "gameDate": "20260905",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "황준서",
+    "pitcherPcode": "54729",
+    "resultCode": "O",
+    "resultText": "레이예스 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904HHLT02026",
     "gameDate": "20260904",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "124",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260829LGLT02026",
-    "gameDate": "20260829",
-    "opponent": "LG",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "카라스코",
-    "pitcherPcode": "56103",
-    "resultCode": "O",
-    "resultText": "레이예스 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

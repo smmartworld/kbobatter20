@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905KTHT02026",
+    "gameDate": "20260905",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김현수",
+    "batterPcode": "76290",
+    "pitcherName": "양현종",
+    "pitcherPcode": "77637",
+    "resultCode": "E",
+    "resultText": "김현수 : 투수 실책으로 출루 (1루수->투수 포구 실책)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904KTHT02026",
     "gameDate": "20260904",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260827OBKT02026",
-    "gameDate": "20260827",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김현수",
-    "batterPcode": "76290",
-    "pitcherName": "김정우",
-    "pitcherPcode": "68830",
-    "resultCode": "H",
-    "resultText": "김현수 : 중견수 오른쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "117",
-    "lastPitchType": "커브"
   }
 ]
