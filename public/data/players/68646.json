@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905KTHT02026",
+    "gameDate": "20260905",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "로건",
+    "pitcherPcode": "55912",
+    "resultCode": "H",
+    "resultText": "한준수 : 1루수 맞고 2루수 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260904KTHT02026",
     "gameDate": "20260904",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260815OBHT02026",
-    "gameDate": "20260815",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "BB",
-    "resultText": "한준수 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]

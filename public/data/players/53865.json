@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260905OBSK02026",
+    "gameDate": "20260905",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "O",
+    "resultText": "김정민 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904OBSK02026",
     "gameDate": "20260904",
     "opponent": "두산",

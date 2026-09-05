@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260905OBSK02026",
+    "gameDate": "20260905",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김성현",
+    "batterPcode": "76802",
+    "pitcherName": "최민석",
+    "pitcherPcode": "55268",
+    "resultCode": "K",
+    "resultText": "김성현 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  }
+]
