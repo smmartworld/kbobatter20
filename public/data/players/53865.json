@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906OBSK02026",
+    "gameDate": "20260906",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "김한중",
+    "pitcherPcode": "55221",
+    "resultCode": "BB",
+    "resultText": "김정민 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260905OBSK02026",
     "gameDate": "20260905",
     "opponent": "두산",
