@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906SSLG02026",
+    "gameDate": "20260906",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "이상영",
+    "pitcherPcode": "69168",
+    "resultCode": "2B",
+    "resultText": "이창용 : 우익수 오른쪽 2루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260904SSLG02026",
     "gameDate": "20260904",
     "opponent": "LG",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906KTHT02026",
+    "gameDate": "20260906",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "정현창",
+    "batterPcode": "55926",
+    "pitcherName": "우규민",
+    "pitcherPcode": "73117",
+    "resultCode": "E",
+    "resultText": "정현창 : 유격수 땅볼 실책으로 출루 (유격수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260904KTHT02026",
     "gameDate": "20260904",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260812SSHT02026",
-    "gameDate": "20260812",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "정현창",
-    "batterPcode": "55926",
-    "pitcherName": "이승현",
-    "pitcherPcode": "51454",
-    "resultCode": "O",
-    "resultText": "정현창 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

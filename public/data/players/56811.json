@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906OBSK02026",
+    "gameDate": "20260906",
+    "opponent": "두산",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "안재연",
+    "batterPcode": "56811",
+    "pitcherName": "김정우",
+    "pitcherPcode": "68830",
+    "resultCode": "O",
+    "resultText": "안재연 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260819SKSS02026",
     "gameDate": "20260819",
     "opponent": "삼성",
