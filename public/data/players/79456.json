@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906OBSK02026",
+    "gameDate": "20260906",
+    "opponent": "두산",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이지영",
+    "batterPcode": "79456",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "GDP",
+    "resultText": "이지영 : 2루수 병살타 아웃 (2루수->유격수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260905OBSK02026",
     "gameDate": "20260905",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260730OBSK02026",
-    "gameDate": "20260730",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이지영",
-    "batterPcode": "79456",
-    "pitcherName": "김정우",
-    "pitcherPcode": "68830",
-    "resultCode": "2B",
-    "resultText": "이지영 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

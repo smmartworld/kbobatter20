@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260906SSLG02026",
+    "gameDate": "20260906",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "O",
+    "resultText": "박동원 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 8,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260905SSLG02026",
     "gameDate": "20260905",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260826NCLG02026",
-    "gameDate": "20260826",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "BB",
-    "resultText": "박동원 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 8,
-    "lastPitchSpeed": "120",
-    "lastPitchType": "커브"
   }
 ]
