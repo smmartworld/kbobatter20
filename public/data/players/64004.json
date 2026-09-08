@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908SKKT02026",
+    "gameDate": "20260908",
+    "opponent": "SSG",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김민혁",
+    "batterPcode": "64004",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "O",
+    "resultText": "김민혁 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260906KTHT02026",
     "gameDate": "20260906",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "114",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260902HHKT02026",
-    "gameDate": "20260902",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김민혁",
-    "batterPcode": "64004",
-    "pitcherName": "류현진",
-    "pitcherPcode": "76715",
-    "resultCode": "H",
-    "resultText": "김민혁 : 좌중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

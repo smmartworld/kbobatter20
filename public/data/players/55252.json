@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908OBHH02026",
+    "gameDate": "20260908",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "박준순",
+    "batterPcode": "55252",
+    "pitcherName": "류현진",
+    "pitcherPcode": "76715",
+    "resultCode": "K",
+    "resultText": "박준순 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260906OBSK02026",
     "gameDate": "20260906",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "140",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260830WOOB02026",
-    "gameDate": "20260830",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "박준순",
-    "batterPcode": "55252",
-    "pitcherName": "김선기",
-    "pitcherPcode": "66018",
-    "resultCode": "O",
-    "resultText": "박준순 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "커브"
   }
 ]
