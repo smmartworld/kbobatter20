@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908SKKT02026",
+    "gameDate": "20260908",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "권동진",
+    "batterPcode": "51003",
+    "pitcherName": "전영준",
+    "pitcherPcode": "52809",
+    "resultCode": "K",
+    "resultText": "권동진 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260906KTHT02026",
     "gameDate": "20260906",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "151",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260823KTSK02026",
-    "gameDate": "20260823",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "권동진",
-    "batterPcode": "51003",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "H",
-    "resultText": "권동진 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "146",
     "lastPitchType": "커터"
   }
 ]

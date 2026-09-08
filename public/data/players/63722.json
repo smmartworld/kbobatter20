@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908SKKT02026",
+    "gameDate": "20260908",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "한승택",
+    "batterPcode": "63722",
+    "pitcherName": "이건욱",
+    "pitcherPcode": "64861",
+    "resultCode": "H",
+    "resultText": "한승택 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260906KTHT02026",
     "gameDate": "20260906",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "150",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260826OBKT02026",
-    "gameDate": "20260826",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한승택",
-    "batterPcode": "63722",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "한승택 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
   }
 ]

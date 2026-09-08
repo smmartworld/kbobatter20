@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908LTNC02026",
+    "gameDate": "20260908",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박재엽",
+    "batterPcode": "55563",
+    "pitcherName": "김태경",
+    "pitcherPcode": "50992",
+    "resultCode": "O",
+    "resultText": "박재엽 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260906HHLT02026",
     "gameDate": "20260906",
     "opponent": "한화",

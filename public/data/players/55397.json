@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908WOLG02026",
+    "gameDate": "20260908",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "전태현",
+    "batterPcode": "55397",
+    "pitcherName": "배재준",
+    "pitcherPcode": "63145",
+    "resultCode": "O",
+    "resultText": "전태현 : 1루수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260904NCWO02026",
     "gameDate": "20260904",
     "opponent": "NC",

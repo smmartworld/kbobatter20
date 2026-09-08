@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908WOLG02026",
+    "gameDate": "20260908",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "이강준",
+    "pitcherPcode": "50036",
+    "resultCode": "H",
+    "resultText": "천성호 : 3루수 앞 내야안타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260906SSLG02026",
     "gameDate": "20260906",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260804LGSK02026",
-    "gameDate": "20260804",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "김민준",
-    "pitcherPcode": "56840",
-    "resultCode": "HR",
-    "resultText": "천성호 : 우익수 뒤 홈런 (홈런거리:115M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "121",
-    "lastPitchType": "커브"
   }
 ]

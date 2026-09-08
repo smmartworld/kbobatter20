@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908WOLG02026",
+    "gameDate": "20260908",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "O",
+    "resultText": "이주헌 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260906SSLG02026",
     "gameDate": "20260906",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "139",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260821LGHH02026",
-    "gameDate": "20260821",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "짐머맨",
-    "pitcherPcode": "56799",
-    "resultCode": "2B",
-    "resultText": "이주헌 : 좌익수 뒤 2루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

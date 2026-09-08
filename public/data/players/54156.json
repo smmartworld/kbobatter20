@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260908WOLG02026",
+    "gameDate": "20260908",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "손용준",
+    "batterPcode": "54156",
+    "pitcherName": "이강준",
+    "pitcherPcode": "50036",
+    "resultCode": "K",
+    "resultText": "손용준 : 삼진 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260906SSLG02026",
     "gameDate": "20260906",
     "opponent": "삼성",
