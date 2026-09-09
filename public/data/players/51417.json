@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909KTSS02026",
+    "gameDate": "20260909",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "김현준",
+    "batterPcode": "51417",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "O",
+    "resultText": "김현준 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260822SSNC02026",
     "gameDate": "20260822",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 7,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724SSOB02026",
-    "gameDate": "20260724",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김현준",
-    "batterPcode": "51417",
-    "pitcherName": "박신지",
-    "pitcherPcode": "68249",
-    "resultCode": "H",
-    "resultText": "김현준 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

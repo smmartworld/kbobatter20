@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909LGHH02026",
+    "gameDate": "20260909",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "문보경",
+    "batterPcode": "69102",
+    "pitcherName": "김서현",
+    "pitcherPcode": "53754",
+    "resultCode": "BB",
+    "resultText": "문보경 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260905SSLG02026",
     "gameDate": "20260905",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260830LGLT02026",
-    "gameDate": "20260830",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "문보경",
-    "batterPcode": "69102",
-    "pitcherName": "나균안",
-    "pitcherPcode": "67539",
-    "resultCode": "O",
-    "resultText": "문보경 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909KTSS02026",
+    "gameDate": "20260909",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "O",
+    "resultText": "이창용 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260906SSLG02026",
     "gameDate": "20260906",
     "opponent": "LG",

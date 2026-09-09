@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909LGHH02026",
+    "gameDate": "20260909",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "한지윤",
+    "batterPcode": "55767",
+    "pitcherName": "배재준",
+    "pitcherPcode": "63145",
+    "resultCode": "HR",
+    "resultText": "한지윤 : 우익수 뒤 홈런 (홈런거리:110M)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260905HHLT02026",
     "gameDate": "20260905",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "140",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260826HHSK02026",
-    "gameDate": "20260826",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "한지윤",
-    "batterPcode": "55767",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "O",
-    "resultText": "한지윤 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

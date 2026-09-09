@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909LGHH02026",
+    "gameDate": "20260909",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "배승수",
+    "batterPcode": "55798",
+    "pitcherName": "조원태",
+    "pitcherPcode": "52149",
+    "resultCode": "BB",
+    "resultText": "배승수 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260902HHKT02026",
     "gameDate": "20260902",
     "opponent": "KT",

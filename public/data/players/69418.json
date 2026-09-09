@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909KTSS02026",
+    "gameDate": "20260909",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "O",
+    "resultText": "박승규 : 3루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260908HTSS02026",
     "gameDate": "20260908",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260826SSWO02026",
-    "gameDate": "20260826",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "이강준",
-    "pitcherPcode": "50036",
-    "resultCode": "H",
-    "resultText": "박승규 : 유격수 왼쪽 내야안타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "투심"
   }
 ]
