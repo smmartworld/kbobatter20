@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260909NCHT02026",
+    "gameDate": "20260909",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김도영",
+    "batterPcode": "52605",
+    "pitcherName": "송명기",
+    "pitcherPcode": "69962",
+    "resultCode": "O",
+    "resultText": "김도영 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260908HTSS02026",
     "gameDate": "20260908",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 4,
     "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260902HTNC02026",
-    "gameDate": "20260902",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "김도영",
-    "batterPcode": "52605",
-    "pitcherName": "손주환",
-    "pitcherPcode": "54904",
-    "resultCode": "E",
-    "resultText": "김도영 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "143",
     "lastPitchType": "슬라이더"
   }
 ]
