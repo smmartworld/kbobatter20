@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260910KTLT02026",
+    "gameDate": "20260910",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "강현우",
+    "batterPcode": "50066",
+    "pitcherName": "구승민",
+    "pitcherPcode": "63543",
+    "resultCode": "O",
+    "resultText": "강현우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260611SSKT02026",
     "gameDate": "20260611",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260424KTSK02026",
-    "gameDate": "20260424",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "강현우",
-    "batterPcode": "50066",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "H",
-    "resultText": "강현우 : 좌익수 왼쪽 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]
