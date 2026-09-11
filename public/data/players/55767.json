@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260911NCHH02026",
+    "gameDate": "20260911",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "한지윤",
+    "batterPcode": "55767",
+    "pitcherName": "배재환",
+    "pitcherPcode": "64995",
+    "resultCode": "O",
+    "resultText": "한지윤 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260909LGHH02026",
     "gameDate": "20260909",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260826HHSK02026",
-    "gameDate": "20260826",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "한지윤",
-    "batterPcode": "55767",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "H",
-    "resultText": "한지윤 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "투심"
   }
 ]

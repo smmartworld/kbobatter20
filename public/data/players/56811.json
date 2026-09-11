@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260911SKHT02026",
+    "gameDate": "20260911",
+    "opponent": "KIA",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "안재연",
+    "batterPcode": "56811",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "O",
+    "resultText": "안재연 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260910HHSK02026",
     "gameDate": "20260910",
     "opponent": "한화",

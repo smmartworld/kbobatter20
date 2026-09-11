@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260911KTLT02026",
+    "gameDate": "20260911",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "박정민",
+    "pitcherPcode": "56536",
+    "resultCode": "O",
+    "resultText": "이정훈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260910KTLT02026",
     "gameDate": "20260910",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 3,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260624SKKT02026",
-    "gameDate": "20260624",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "이건욱",
-    "pitcherPcode": "64861",
-    "resultCode": "BB",
-    "resultText": "이정훈 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]
