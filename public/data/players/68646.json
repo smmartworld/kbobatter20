@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912HTKT02026",
+    "gameDate": "20260912",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "H",
+    "resultText": "한준수 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260910NCHT02026",
     "gameDate": "20260910",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "123",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260815OBHT02026",
-    "gameDate": "20260815",
-    "opponent": "두산",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "이병헌",
-    "pitcherPcode": "52204",
-    "resultCode": "O",
-    "resultText": "한준수 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]

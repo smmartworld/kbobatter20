@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912NCOB02026",
+    "gameDate": "20260912",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "홍종표",
+    "batterPcode": "50600",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "O",
+    "resultText": "홍종표 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260901HTNC02026",
     "gameDate": "20260901",
     "opponent": "KIA",
