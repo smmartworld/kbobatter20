@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912NCOB02026",
+    "gameDate": "20260912",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "이우성 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260910NCHT02026",
     "gameDate": "20260910",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "123",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260826NCLG02026",
-    "gameDate": "20260826",
-    "opponent": "LG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "이우성 : 좌익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "체인지업"
   }
 ]

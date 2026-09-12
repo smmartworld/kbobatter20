@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912LGSS02026",
+    "gameDate": "20260912",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "구본혁",
+    "batterPcode": "69100",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "2B",
+    "resultText": "구본혁 : 좌익수 왼쪽 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260909LGHH02026",
     "gameDate": "20260909",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260904SSLG02026",
-    "gameDate": "20260904",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "구본혁",
-    "batterPcode": "69100",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "O",
-    "resultText": "구본혁 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "체인지업"
   }
 ]

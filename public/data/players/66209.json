@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912NCOB02026",
+    "gameDate": "20260912",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "조수행",
+    "batterPcode": "66209",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "3B",
+    "resultText": "조수행 : 우익수 오른쪽 3루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260909SKOB02026",
     "gameDate": "20260909",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 8,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260901LGOB02026",
-    "gameDate": "20260901",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "조수행",
-    "batterPcode": "66209",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "BB",
-    "resultText": "조수행 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "137",
     "lastPitchType": "직구"
   }
 ]

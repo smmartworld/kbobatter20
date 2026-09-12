@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260912NCOB02026",
+    "gameDate": "20260912",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "세베리노",
+    "batterPcode": "56236",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "H",
+    "resultText": "세베리노 : 투수 왼쪽 앞 내야안타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260910WOOB02026",
     "gameDate": "20260910",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260901LGOB02026",
-    "gameDate": "20260901",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "세베리노",
-    "batterPcode": "56236",
-    "pitcherName": "우강훈",
-    "pitcherPcode": "51526",
-    "resultCode": "O",
-    "resultText": "세베리노 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]
