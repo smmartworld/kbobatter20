@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260913LGSS02026",
+    "gameDate": "20260913",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "김강률",
+    "pitcherPcode": "77263",
+    "resultCode": "H",
+    "resultText": "김헌곤 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260912LGSS02026",
     "gameDate": "20260912",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260612SKSS02026",
-    "gameDate": "20260612",
-    "opponent": "SSG",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "노경은",
-    "pitcherPcode": "73211",
-    "resultCode": "H",
-    "resultText": "김헌곤 : 우익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "슬라이더"
   }
 ]

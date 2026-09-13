@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260913LGSS02026",
+    "gameDate": "20260913",
+    "opponent": "LG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "H",
+    "resultText": "이창용 : 중견수 왼쪽 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260909KTSS02026",
     "gameDate": "20260909",
     "opponent": "KT",

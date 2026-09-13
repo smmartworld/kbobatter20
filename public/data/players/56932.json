@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260913NCOB02026",
+    "gameDate": "20260913",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이희성",
+    "batterPcode": "56932",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "O",
+    "resultText": "이희성 : 포수 스트라이크 낫 아웃 (포수->1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260827NCLG02026",
     "gameDate": "20260827",
     "opponent": "LG",
