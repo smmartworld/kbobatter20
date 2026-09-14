@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260913LTKT02026",
+    "gameDate": "20260913",
+    "opponent": "롯데",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "황재균",
+    "batterPcode": "76313",
+    "pitcherName": "이영재",
+    "pitcherPcode": "55503",
+    "resultCode": "K",
+    "resultText": "황재균 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260913NCOB02026",
+    "gameDate": "20260913",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "김건",
+    "batterPcode": "56952",
+    "pitcherName": "타카다",
+    "pitcherPcode": "56212",
+    "resultCode": "K",
+    "resultText": "김건 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  }
+]
