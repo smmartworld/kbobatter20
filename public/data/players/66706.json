@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260915KTHH02026",
+    "gameDate": "20260915",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "권민규",
+    "pitcherPcode": "55764",
+    "resultCode": "H",
+    "resultText": "장진혁 : 우익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 6,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260912HTKT02026",
     "gameDate": "20260912",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260819KTLG02026",
-    "gameDate": "20260819",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "장진혁",
-    "batterPcode": "66706",
-    "pitcherName": "우강훈",
-    "pitcherPcode": "51526",
-    "resultCode": "BB",
-    "resultText": "장진혁 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]
