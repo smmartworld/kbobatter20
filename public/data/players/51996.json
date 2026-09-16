@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260916LGNC02026",
+    "gameDate": "20260916",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오태양",
+    "batterPcode": "51996",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "H",
+    "resultText": "오태양 : 좌익수 왼쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260911NCHH02026",
     "gameDate": "20260911",
     "opponent": "한화",

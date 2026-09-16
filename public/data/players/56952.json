@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260916LGNC02026",
+    "gameDate": "20260916",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "김건",
+    "batterPcode": "56952",
+    "pitcherName": "김진수",
+    "pitcherPcode": "51154",
+    "resultCode": "O",
+    "resultText": "김건 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260913NCOB02026",
     "gameDate": "20260913",
     "opponent": "두산",
