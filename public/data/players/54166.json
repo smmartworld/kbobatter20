@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918LGKT02026",
+    "gameDate": "20260918",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "김현종",
+    "batterPcode": "54166",
+    "pitcherName": "주권",
+    "pitcherPcode": "65060",
+    "resultCode": "K",
+    "resultText": "김현종 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260908WOLG02026",
     "gameDate": "20260908",
     "opponent": "키움",

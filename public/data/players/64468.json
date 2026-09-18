@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918SSHH02026",
+    "gameDate": "20260918",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "박계범",
+    "batterPcode": "64468",
+    "pitcherName": "원종혁",
+    "pitcherPcode": "54702",
+    "resultCode": "O",
+    "resultText": "박계범 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260912LGSS02026",
     "gameDate": "20260912",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260604NCSS02026",
-    "gameDate": "20260604",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박계범",
-    "batterPcode": "64468",
-    "pitcherName": "구창모",
-    "pitcherPcode": "65933",
-    "resultCode": "O",
-    "resultText": "박계범 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "143",
     "lastPitchType": "직구"
   }
 ]

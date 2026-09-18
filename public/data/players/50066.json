@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918LGKT02026",
+    "gameDate": "20260918",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "강현우",
+    "batterPcode": "50066",
+    "pitcherName": "양우진",
+    "pitcherPcode": "56165",
+    "resultCode": "K",
+    "resultText": "강현우 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260910KTLT02026",
     "gameDate": "20260910",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 5,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260424KTSK02026",
-    "gameDate": "20260424",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "강현우",
-    "batterPcode": "50066",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "K",
-    "resultText": "강현우 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 9,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

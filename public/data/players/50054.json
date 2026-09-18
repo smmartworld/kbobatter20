@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918LGKT02026",
+    "gameDate": "20260918",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "주권",
+    "pitcherPcode": "65060",
+    "resultCode": "O",
+    "resultText": "천성호 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260912LGSS02026",
     "gameDate": "20260912",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "129",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260820KTLG02026",
-    "gameDate": "20260820",
-    "opponent": "KT",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "김정운",
-    "pitcherPcode": "53029",
-    "resultCode": "BB",
-    "resultText": "천성호 : 몸에 맞는 볼",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

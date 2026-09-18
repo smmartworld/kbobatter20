@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918SSHH02026",
+    "gameDate": "20260918",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "양우현",
+    "batterPcode": "69403",
+    "pitcherName": "원종혁",
+    "pitcherPcode": "54702",
+    "resultCode": "O",
+    "resultText": "양우현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260912LGSS02026",
     "gameDate": "20260912",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260704SSSK02026",
-    "gameDate": "20260704",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "양우현",
-    "batterPcode": "69403",
-    "pitcherName": "서진용",
-    "pitcherPcode": "61895",
-    "resultCode": "O",
-    "resultText": "양우현 : 1루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "포크"
   }
 ]

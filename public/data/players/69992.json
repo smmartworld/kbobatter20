@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918NCLT02026",
+    "gameDate": "20260918",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "O",
+    "resultText": "최정원 : 스트라이크 낫아웃 폭투",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260917SKNC02026",
     "gameDate": "20260917",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260908LTNC02026",
-    "gameDate": "20260908",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "박세웅",
-    "pitcherPcode": "64021",
-    "resultCode": "O",
-    "resultText": "최정원 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

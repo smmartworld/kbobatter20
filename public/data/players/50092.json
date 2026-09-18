@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260918NCLT02026",
+    "gameDate": "20260918",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "윤준혁",
+    "batterPcode": "50092",
+    "pitcherName": "로드리게스",
+    "pitcherPcode": "56531",
+    "resultCode": "HR",
+    "resultText": "윤준혁 : 좌익수 뒤 홈런 (홈런거리:135M)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "커브"
+  }
+]

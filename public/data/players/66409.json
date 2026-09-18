@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918SSHH02026",
+    "gameDate": "20260918",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "이성규",
+    "batterPcode": "66409",
+    "pitcherName": "박재규",
+    "pitcherPcode": "53706",
+    "resultCode": "BB",
+    "resultText": "이성규 : 몸에 맞는 볼",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260707LGSS02026",
     "gameDate": "20260707",
     "opponent": "LG",

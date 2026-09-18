@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918LGKT02026",
+    "gameDate": "20260918",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "이우찬",
+    "pitcherPcode": "61145",
+    "resultCode": "O",
+    "resultText": "장준원 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260916KTHH02026",
     "gameDate": "20260916",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 1,
     "lastPitchSpeed": "135",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260901HHKT02026",
-    "gameDate": "20260901",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "정우주",
-    "pitcherPcode": "55743",
-    "resultCode": "GDP",
-    "resultText": "장준원 : 유격수 병살타 아웃 (유격수->2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "142",
     "lastPitchType": "직구"
   }
 ]

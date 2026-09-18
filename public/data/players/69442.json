@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918SSHH02026",
+    "gameDate": "20260918",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "박재규",
+    "pitcherPcode": "53706",
+    "resultCode": "O",
+    "resultText": "김도환 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260916SSOB02026",
     "gameDate": "20260916",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260724SSOB02026",
-    "gameDate": "20260724",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "김한중",
-    "pitcherPcode": "55221",
-    "resultCode": "H",
-    "resultText": "김도환 : 좌익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
   }
 ]

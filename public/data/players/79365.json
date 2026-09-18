@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260918LGKT02026",
+    "gameDate": "20260918",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박동원",
+    "batterPcode": "79365",
+    "pitcherName": "장민호",
+    "pitcherPcode": "55010",
+    "resultCode": "BB",
+    "resultText": "박동원 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260916LGNC02026",
     "gameDate": "20260916",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "136",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260903LGOB02026",
-    "gameDate": "20260903",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박동원",
-    "batterPcode": "79365",
-    "pitcherName": "타카다",
-    "pitcherPcode": "56212",
-    "resultCode": "H",
-    "resultText": "박동원 : 우중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 6,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]
