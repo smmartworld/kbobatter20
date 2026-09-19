@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919OBKT02026",
+    "gameDate": "20260919",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "손민석",
+    "batterPcode": "53057",
+    "pitcherName": "서준오",
+    "pitcherPcode": "56241",
+    "resultCode": "O",
+    "resultText": "손민석 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260918LGKT02026",
     "gameDate": "20260918",
     "opponent": "LG",

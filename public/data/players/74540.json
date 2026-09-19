@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919SSLT02026",
+    "gameDate": "20260919",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "강민호",
+    "batterPcode": "74540",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "O",
+    "resultText": "강민호 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "138",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260909KTSS02026",
-    "gameDate": "20260909",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "강민호",
-    "batterPcode": "74540",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "O",
-    "resultText": "강민호 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "체인지업"
   }
 ]

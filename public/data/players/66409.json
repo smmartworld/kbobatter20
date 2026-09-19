@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919SSLT02026",
+    "gameDate": "20260919",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이성규",
+    "batterPcode": "66409",
+    "pitcherName": "김원중",
+    "pitcherPcode": "62528",
+    "resultCode": "BB",
+    "resultText": "이성규 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "한화",

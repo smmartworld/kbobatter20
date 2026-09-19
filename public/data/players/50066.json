@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919OBKT02026",
+    "gameDate": "20260919",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "강현우",
+    "batterPcode": "50066",
+    "pitcherName": "서준오",
+    "pitcherPcode": "56241",
+    "resultCode": "H",
+    "resultText": "강현우 : 우중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260918LGKT02026",
     "gameDate": "20260918",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 5,
     "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260425KTSK02026",
-    "gameDate": "20260425",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "강현우",
-    "batterPcode": "50066",
-    "pitcherName": "타케다",
-    "pitcherPcode": "56823",
-    "resultCode": "K",
-    "resultText": "강현우 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

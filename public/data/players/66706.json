@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919OBKT02026",
+    "gameDate": "20260919",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "장진혁",
+    "batterPcode": "66706",
+    "pitcherName": "서준오",
+    "pitcherPcode": "56241",
+    "resultCode": "2B",
+    "resultText": "장진혁 : 우익수 뒤 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260916KTHH02026",
     "gameDate": "20260916",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260826OBKT02026",
-    "gameDate": "20260826",
-    "opponent": "두산",
-    "inning": 9,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장진혁",
-    "batterPcode": "66706",
-    "pitcherName": "이영하",
-    "pitcherPcode": "66291",
-    "resultCode": "BB",
-    "resultText": "장진혁 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
   }
 ]
