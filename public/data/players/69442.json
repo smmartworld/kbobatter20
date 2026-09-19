@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919SSLT02026",
+    "gameDate": "20260919",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김도환",
+    "batterPcode": "69442",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "김도환 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260725SSOB02026",
-    "gameDate": "20260725",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "김도환",
-    "batterPcode": "69442",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "김도환 : 투수 맞고 유격수 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

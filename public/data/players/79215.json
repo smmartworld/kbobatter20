@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919HTNC02026",
+    "gameDate": "20260919",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "박건우",
+    "batterPcode": "79215",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "박건우 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260918NCLT02026",
     "gameDate": "20260918",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "137",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260912NCOB02026",
-    "gameDate": "20260912",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박건우",
-    "batterPcode": "79215",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "2B",
-    "resultText": "박건우 : 우익수 오른쪽 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "130",
     "lastPitchType": "체인지업"
   }
 ]

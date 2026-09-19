@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919HTNC02026",
+    "gameDate": "20260919",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "O",
+    "resultText": "김휘집 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260918NCLT02026",
     "gameDate": "20260918",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "154",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260912NCOB02026",
-    "gameDate": "20260912",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "박치국",
-    "pitcherPcode": "67266",
-    "resultCode": "O",
-    "resultText": "김휘집 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

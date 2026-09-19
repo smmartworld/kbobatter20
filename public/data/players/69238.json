@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919OBKT02026",
+    "gameDate": "20260919",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "김대한",
+    "batterPcode": "69238",
+    "pitcherName": "대니엘",
+    "pitcherPcode": "56002",
+    "resultCode": "K",
+    "resultText": "김대한 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260918WOOB02026",
     "gameDate": "20260918",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260901LGOB02026",
-    "gameDate": "20260901",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김대한",
-    "batterPcode": "69238",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "K",
-    "resultText": "김대한 : 삼진 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 7,
-    "lastPitchSpeed": "113",
-    "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919HTNC02026",
+    "gameDate": "20260919",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "블레인",
+    "batterPcode": "56950",
+    "pitcherName": "네일",
+    "pitcherPcode": "54640",
+    "resultCode": "H",
+    "resultText": "블레인 : 좌중간 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260918NCLT02026",
     "gameDate": "20260918",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260913NCOB02026",
-    "gameDate": "20260913",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "블레인",
-    "batterPcode": "56950",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "O",
-    "resultText": "블레인 : 3루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

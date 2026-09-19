@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260919HHLG02026",
+    "gameDate": "20260919",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "오지환",
+    "batterPcode": "79109",
+    "pitcherName": "화이트",
+    "pitcherPcode": "56724",
+    "resultCode": "E",
+    "resultText": "오지환 : 포수 땅볼 실책으로 출루 (포수 포구 실책)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260918LGKT02026",
     "gameDate": "20260918",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "129",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260912LGSS02026",
-    "gameDate": "20260912",
-    "opponent": "삼성",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "오지환",
-    "batterPcode": "79109",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "오지환 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 3,
-    "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
   }
 ]
