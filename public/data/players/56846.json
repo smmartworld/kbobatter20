@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260920WOSK02026",
+    "gameDate": "20260920",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김요셉",
+    "batterPcode": "56846",
+    "pitcherName": "임진묵",
+    "pitcherPcode": "55382",
+    "resultCode": "K",
+    "resultText": "김요셉 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260906OBSK02026",
     "gameDate": "20260906",
     "opponent": "두산",

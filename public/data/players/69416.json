@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260920SSLT02026",
+    "gameDate": "20260920",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이해승",
+    "batterPcode": "69416",
+    "pitcherName": "구승민",
+    "pitcherPcode": "63543",
+    "resultCode": "O",
+    "resultText": "이해승 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "한화",

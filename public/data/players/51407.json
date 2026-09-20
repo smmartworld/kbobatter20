@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260920SSLT02026",
+    "gameDate": "20260920",
+    "opponent": "롯데",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이창용",
+    "batterPcode": "51407",
+    "pitcherName": "박세진",
+    "pitcherPcode": "66047",
+    "resultCode": "O",
+    "resultText": "이창용 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260916SSOB02026",
     "gameDate": "20260916",
     "opponent": "두산",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260920HTNC02026",
+    "gameDate": "20260920",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이호연",
+    "batterPcode": "68504",
+    "pitcherName": "이용준",
+    "pitcherPcode": "51948",
+    "resultCode": "BB",
+    "resultText": "이호연 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260915HTSK02026",
     "gameDate": "20260915",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "139",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260904KTHT02026",
-    "gameDate": "20260904",
-    "opponent": "KT",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "이호연",
-    "batterPcode": "68504",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "3B",
-    "resultText": "이호연 : 우익수 오른쪽 3루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]
