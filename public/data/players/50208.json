@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922OBWO02026",
+    "gameDate": "20260922",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "이강준",
+    "pitcherPcode": "50036",
+    "resultCode": "O",
+    "resultText": "오명진 : 유격수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260920OBKT02026",
     "gameDate": "20260920",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 7,
     "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260827OBKT02026",
-    "gameDate": "20260827",
-    "opponent": "KT",
-    "inning": 10,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "박영현",
-    "pitcherPcode": "52060",
-    "resultCode": "O",
-    "resultText": "오명진 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "140",
     "lastPitchType": "직구"
   }
 ]

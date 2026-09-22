@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922NCSS02026",
+    "gameDate": "20260922",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "62360",
+    "resultCode": "O",
+    "resultText": "최정원 : 1루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260920HTNC02026",
     "gameDate": "20260920",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260910NCHT02026",
-    "gameDate": "20260910",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "O",
-    "resultText": "최정원 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "152",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922KTSK02026",
+    "gameDate": "20260922",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "안재연",
+    "batterPcode": "56811",
+    "pitcherName": "김정운",
+    "pitcherPcode": "53029",
+    "resultCode": "O",
+    "resultText": "안재연 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260917SKNC02026",
     "gameDate": "20260917",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260908SKKT02026",
-    "gameDate": "20260908",
-    "opponent": "KT",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "안재연",
-    "batterPcode": "56811",
-    "pitcherName": "소형준",
-    "pitcherPcode": "50030",
-    "resultCode": "H",
-    "resultText": "안재연 : 우중간 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922KTSK02026",
+    "gameDate": "20260922",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "오시후",
+    "batterPcode": "56807",
+    "pitcherName": "김정운",
+    "pitcherPcode": "53029",
+    "resultCode": "H",
+    "resultText": "오시후 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260916SKLT02026",
     "gameDate": "20260916",
     "opponent": "롯데",

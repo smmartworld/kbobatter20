@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922OBWO02026",
+    "gameDate": "20260922",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "김택연",
+    "pitcherPcode": "54263",
+    "resultCode": "O",
+    "resultText": "안치홍 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260920WOSK02026",
     "gameDate": "20260920",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260902SKWO02026",
-    "gameDate": "20260902",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "최용준",
-    "pitcherPcode": "50650",
-    "resultCode": "BB",
-    "resultText": "안치홍 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "체인지업"
   }
 ]

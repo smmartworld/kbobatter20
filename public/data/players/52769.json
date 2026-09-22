@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922LTHH02026",
+    "gameDate": "20260922",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "권광민",
+    "batterPcode": "52769",
+    "pitcherName": "이준서",
+    "pitcherPcode": "56554",
+    "resultCode": "O",
+    "resultText": "권광민 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "삼성",

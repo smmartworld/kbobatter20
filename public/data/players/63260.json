@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922NCSS02026",
+    "gameDate": "20260922",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "이우성",
+    "batterPcode": "63260",
+    "pitcherName": "김재윤",
+    "pitcherPcode": "65062",
+    "resultCode": "O",
+    "resultText": "이우성 : 1루수 파울플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260920HTNC02026",
     "gameDate": "20260920",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260910NCHT02026",
-    "gameDate": "20260910",
-    "opponent": "KIA",
-    "inning": 10,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "이우성",
-    "batterPcode": "63260",
-    "pitcherName": "이의리",
-    "pitcherPcode": "51648",
-    "resultCode": "O",
-    "resultText": "이우성 : 유격수 플라이 아웃",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "140",
-    "lastPitchType": "슬라이더"
   }
 ]
