@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260922KTSK02026",
+    "gameDate": "20260922",
+    "opponent": "KT",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "H",
+    "resultText": "오태곤 : 중견수 오른쪽 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260920WOSK02026",
     "gameDate": "20260920",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "130",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260816SKLG02026",
-    "gameDate": "20260816",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "조원태",
-    "pitcherPcode": "52149",
-    "resultCode": "O",
-    "resultText": "오태곤 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]
