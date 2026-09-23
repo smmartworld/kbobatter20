@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260923LTHH02026",
+    "gameDate": "20260923",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "전준우",
+    "batterPcode": "78513",
+    "pitcherName": "짐머맨",
+    "pitcherPcode": "56799",
+    "resultCode": "O",
+    "resultText": "전준우 : 2루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260919SSLT02026",
     "gameDate": "20260919",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260912LTWO02026",
-    "gameDate": "20260912",
-    "opponent": "키움",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "전준우",
-    "batterPcode": "78513",
-    "pitcherName": "조영건",
-    "pitcherPcode": "69360",
-    "resultCode": "HR",
-    "resultText": "전준우 : 좌익수 뒤 홈런 (홈런거리:120M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "125",
-    "lastPitchType": "커브"
   }
 ]

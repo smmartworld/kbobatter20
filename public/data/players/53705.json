@@ -1,0 +1,23 @@
+[
+  {
+    "gameId": "20260923LTHH02026",
+    "gameDate": "20260923",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "최원준",
+    "batterPcode": "53705",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "O",
+    "resultText": "최원준 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "포크"
+  }
+]
