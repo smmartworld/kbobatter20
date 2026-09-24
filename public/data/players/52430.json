@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260924SSSK02026",
+    "gameDate": "20260924",
+    "opponent": "SSG",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "김영웅",
+    "batterPcode": "52430",
+    "pitcherName": "김민준",
+    "pitcherPcode": "56840",
+    "resultCode": "BB",
+    "resultText": "김영웅 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 8,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260913LGSS02026",
     "gameDate": "20260913",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "147",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260902LTSS02026",
-    "gameDate": "20260902",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김영웅",
-    "batterPcode": "52430",
-    "pitcherName": "이승헌",
-    "pitcherPcode": "68529",
-    "resultCode": "O",
-    "resultText": "김영웅 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "체인지업"
   }
 ]

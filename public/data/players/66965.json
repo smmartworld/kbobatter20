@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260924NCKT02026",
+    "gameDate": "20260924",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "도태훈",
+    "batterPcode": "66965",
+    "pitcherName": "김정운",
+    "pitcherPcode": "53029",
+    "resultCode": "O",
+    "resultText": "도태훈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260923NCKT02026",
     "gameDate": "20260923",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260611NCWO02026",
-    "gameDate": "20260611",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "도태훈",
-    "batterPcode": "66965",
-    "pitcherName": "박준현",
-    "pitcherPcode": "56318",
-    "resultCode": "BB",
-    "resultText": "도태훈 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "슬라이더"
   }
 ]

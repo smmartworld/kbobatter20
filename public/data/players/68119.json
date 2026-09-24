@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260924LTLG02026",
+    "gameDate": "20260924",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "문성주",
+    "batterPcode": "68119",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "O",
+    "resultText": "문성주 : 중견수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20260804LGSK02026",
     "gameDate": "20260804",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260726LGHH02026",
-    "gameDate": "20260726",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "문성주",
-    "batterPcode": "68119",
-    "pitcherName": "이민우",
-    "pitcherPcode": "65616",
-    "resultCode": "H",
-    "resultText": "문성주 : 중견수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "커터"
   }
 ]
