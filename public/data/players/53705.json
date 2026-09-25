@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260925HHNC02026",
+    "gameDate": "20260925",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "최원준",
+    "batterPcode": "53705",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "O",
+    "resultText": "최원준 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260923LTHH02026",
     "gameDate": "20260923",
     "opponent": "롯데",

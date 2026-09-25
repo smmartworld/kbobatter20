@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260925HHNC02026",
+    "gameDate": "20260925",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "BB",
+    "resultText": "장규현 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 7,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260918SSHH02026",
     "gameDate": "20260918",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "0",
     "lastPitchType": ""
-  },
-  {
-    "gameId": "20260903HHKT02026",
-    "gameDate": "20260903",
-    "opponent": "KT",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "장규현",
-    "batterPcode": "51762",
-    "pitcherName": "우규민",
-    "pitcherPcode": "73117",
-    "resultCode": "2B",
-    "resultText": "장규현 : 우중간 2루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

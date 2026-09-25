@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260925HHNC02026",
+    "gameDate": "20260925",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "권광민",
+    "batterPcode": "52769",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "2B",
+    "resultText": "권광민 : 우중간 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260922LTHH02026",
     "gameDate": "20260922",
     "opponent": "롯데",
