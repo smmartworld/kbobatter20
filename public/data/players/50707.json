@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260926HHNC02026",
+    "gameDate": "20260926",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최인호",
+    "batterPcode": "50707",
+    "pitcherName": "손주환",
+    "pitcherPcode": "54904",
+    "resultCode": "O",
+    "resultText": "최인호 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260925HHNC02026",
     "gameDate": "20260925",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "115",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260918SSHH02026",
-    "gameDate": "20260918",
-    "opponent": "삼성",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "최인호",
-    "batterPcode": "50707",
-    "pitcherName": "장찬희",
-    "pitcherPcode": "56460",
-    "resultCode": "O",
-    "resultText": "최인호 : 중견수 라인드라이브 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

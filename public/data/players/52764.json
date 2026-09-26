@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260926HHNC02026",
+    "gameDate": "20260926",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "신영우",
+    "pitcherPcode": "53919",
+    "resultCode": "BB",
+    "resultText": "허인서 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260925HHNC02026",
     "gameDate": "20260925",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "112",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260919HHLG02026",
-    "gameDate": "20260919",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "임찬규",
-    "pitcherPcode": "61101",
-    "resultCode": "O",
-    "resultText": "허인서 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

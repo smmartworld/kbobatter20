@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260926LGHT02026",
+    "gameDate": "20260926",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "이재원",
+    "batterPcode": "68106",
+    "pitcherName": "이의리",
+    "pitcherPcode": "51648",
+    "resultCode": "BB",
+    "resultText": "이재원 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 6,
+    "lastPitchSpeed": "153",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260924LTLG02026",
     "gameDate": "20260924",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "148",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260804LGSK02026",
-    "gameDate": "20260804",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "이재원",
-    "batterPcode": "68106",
-    "pitcherName": "최민준",
-    "pitcherPcode": "68856",
-    "resultCode": "HR",
-    "resultText": "이재원 : 좌익수 뒤 홈런 (홈런거리:110M)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 6,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "커브"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260926HHNC02026",
+    "gameDate": "20260926",
+    "opponent": "한화",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "조동욱",
+    "pitcherPcode": "54768",
+    "resultCode": "O",
+    "resultText": "김한별 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260925HHNC02026",
     "gameDate": "20260925",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260827NCLG02026",
-    "gameDate": "20260827",
-    "opponent": "LG",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "양우진",
-    "pitcherPcode": "56165",
-    "resultCode": "O",
-    "resultText": "김한별 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]
