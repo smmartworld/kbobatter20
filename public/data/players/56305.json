@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260927WONC02026",
+    "gameDate": "20260927",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "히우라",
+    "batterPcode": "56305",
+    "pitcherName": "클레빈저",
+    "pitcherPcode": "56939",
+    "resultCode": "H",
+    "resultText": "히우라 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260926WOKT02026",
     "gameDate": "20260926",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "138",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260917WOHT02026",
-    "gameDate": "20260917",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 4,
-    "batterName": "히우라",
-    "batterPcode": "56305",
-    "pitcherName": "곽도규",
-    "pitcherPcode": "53609",
-    "resultCode": "BB",
-    "resultText": "히우라 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "투심"
   }
 ]

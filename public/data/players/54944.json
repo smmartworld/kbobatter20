@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260927WONC02026",
+    "gameDate": "20260927",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "데이비슨",
+    "batterPcode": "54944",
+    "pitcherName": "클레빈저",
+    "pitcherPcode": "56939",
+    "resultCode": "O",
+    "resultText": "데이비슨 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260926WOKT02026",
     "gameDate": "20260926",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "126",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260918WOOB02026",
-    "gameDate": "20260918",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "데이비슨",
-    "batterPcode": "54944",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "HR",
-    "resultText": "데이비슨 : 우중간 뒤 홈런 (홈런거리:130M)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]
