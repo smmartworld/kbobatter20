@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260927WONC02026",
+    "gameDate": "20260927",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "박시원",
+    "batterPcode": "50996",
+    "pitcherName": "조영건",
+    "pitcherPcode": "69360",
+    "resultCode": "O",
+    "resultText": "박시원 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260916LGNC02026",
     "gameDate": "20260916",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "140",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260901HTNC02026",
-    "gameDate": "20260901",
-    "opponent": "KIA",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박시원",
-    "batterPcode": "50996",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "H",
-    "resultText": "박시원 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "체인지업"
   }
 ]
