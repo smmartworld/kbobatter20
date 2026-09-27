@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260927LGHT02026",
+    "gameDate": "20260927",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "한준수",
+    "batterPcode": "68646",
+    "pitcherName": "카라스코",
+    "pitcherPcode": "56103",
+    "resultCode": "O",
+    "resultText": "한준수 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260926LGHT02026",
     "gameDate": "20260926",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260917WOHT02026",
-    "gameDate": "20260917",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 2,
-    "batterName": "한준수",
-    "batterPcode": "68646",
-    "pitcherName": "안우진",
-    "pitcherPcode": "68341",
-    "resultCode": "O",
-    "resultText": "한준수 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "153",
     "lastPitchType": "직구"
   }
 ]
