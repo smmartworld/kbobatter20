@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260929WOLT02026",
+    "gameDate": "20260929",
+    "opponent": "롯데",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "안치홍",
+    "batterPcode": "79608",
+    "pitcherName": "박세웅",
+    "pitcherPcode": "64021",
+    "resultCode": "O",
+    "resultText": "안치홍 : 자동 고의4구",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260922OBWO02026",
     "gameDate": "20260922",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260902SKWO02026",
-    "gameDate": "20260902",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "안치홍",
-    "batterPcode": "79608",
-    "pitcherName": "김민",
-    "pitcherPcode": "68043",
-    "resultCode": "O",
-    "resultText": "안치홍 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
     "lastPitchType": "직구"
   }
 ]

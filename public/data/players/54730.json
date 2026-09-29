@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260929HHSS02026",
+    "gameDate": "20260929",
+    "opponent": "삼성",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "페라자",
+    "batterPcode": "54730",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "페라자 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "135",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260927HHLT02026",
     "gameDate": "20260927",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "146",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260922LTHH02026",
-    "gameDate": "20260922",
-    "opponent": "롯데",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "페라자",
-    "batterPcode": "54730",
-    "pitcherName": "비슬리",
-    "pitcherPcode": "56523",
-    "resultCode": "H",
-    "resultText": "페라자 : 투수 맞고 3루수 내야안타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260929KTHT02026",
+    "gameDate": "20260929",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박민",
+    "batterPcode": "50657",
+    "pitcherName": "우규민",
+    "pitcherPcode": "73117",
+    "resultCode": "O",
+    "resultText": "박민 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "120",
+    "lastPitchType": "커브"
+  },
+  {
     "gameId": "20260926LGHT02026",
     "gameDate": "20260926",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260630SKHT02026",
-    "gameDate": "20260630",
-    "opponent": "SSG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "박민",
-    "batterPcode": "50657",
-    "pitcherName": "김건우",
-    "pitcherPcode": "51867",
-    "resultCode": "O",
-    "resultText": "박민 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "119",
-    "lastPitchType": "커브"
   }
 ]
