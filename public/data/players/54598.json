@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260930WOLT02026",
+    "gameDate": "20260930",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이호준",
+    "batterPcode": "54598",
+    "pitcherName": "임진묵",
+    "pitcherPcode": "55382",
+    "resultCode": "O",
+    "resultText": "이호준 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260910KTLT02026",
     "gameDate": "20260910",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "143",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260501LTSK02026",
-    "gameDate": "20260501",
-    "opponent": "SSG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이호준",
-    "batterPcode": "54598",
-    "pitcherName": "이로운",
-    "pitcherPcode": "53892",
-    "resultCode": "BB",
-    "resultText": "이호준 : 볼넷",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "133",
-    "lastPitchType": "슬라이더"
   }
 ]

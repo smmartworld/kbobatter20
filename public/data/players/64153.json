@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260930NCOB02026",
+    "gameDate": "20260930",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "양석환",
+    "batterPcode": "64153",
+    "pitcherName": "전사민",
+    "pitcherPcode": "69969",
+    "resultCode": "BB",
+    "resultText": "양석환 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260929NCOB02026",
     "gameDate": "20260929",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260918WOOB02026",
-    "gameDate": "20260918",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "양석환",
-    "batterPcode": "64153",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "양석환 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "154",
-    "lastPitchType": "직구"
   }
 ]
