@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260930WOLT02026",
+    "gameDate": "20260930",
+    "opponent": "키움",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "노진혁",
+    "batterPcode": "62931",
+    "pitcherName": "김윤하",
+    "pitcherPcode": "54319",
+    "resultCode": "O",
+    "resultText": "노진혁 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260927HHLT02026",
     "gameDate": "20260927",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 3,
     "lastPitchSpeed": "146",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260811LTSK02026",
-    "gameDate": "20260811",
-    "opponent": "SSG",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "노진혁",
-    "batterPcode": "62931",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "O",
-    "resultText": "노진혁 : 포수 파울플라이 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "152",
     "lastPitchType": "투심"
   }
 ]

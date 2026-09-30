@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260930LGSK02026",
+    "gameDate": "20260930",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "최원영",
+    "batterPcode": "52103",
+    "pitcherName": "최민준",
+    "pitcherPcode": "68856",
+    "resultCode": "O",
+    "resultText": "최원영 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260918LGKT02026",
     "gameDate": "20260918",
     "opponent": "KT",

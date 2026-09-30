@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20260930LGSK02026",
+    "gameDate": "20260930",
+    "opponent": "LG",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "임근우",
+    "batterPcode": "52807",
+    "pitcherName": "케네디",
+    "pitcherPcode": "56168",
+    "resultCode": "O",
+    "resultText": "임근우 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260922KTSK02026",
     "gameDate": "20260922",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "152",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260902SKWO02026",
-    "gameDate": "20260902",
-    "opponent": "키움",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "임근우",
-    "batterPcode": "52807",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "O",
-    "resultText": "임근우 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]
