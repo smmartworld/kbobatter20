@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261001NCOB02026",
+    "gameDate": "20261001",
+    "opponent": "NC",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "박찬호",
+    "batterPcode": "64646",
+    "pitcherName": "배재환",
+    "pitcherPcode": "64995",
+    "resultCode": "O",
+    "resultText": "박찬호 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20260930NCOB02026",
     "gameDate": "20260930",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "156",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260922OBWO02026",
-    "gameDate": "20260922",
-    "opponent": "키움",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박찬호",
-    "batterPcode": "64646",
-    "pitcherName": "전준표",
-    "pitcherPcode": "54362",
-    "resultCode": "O",
-    "resultText": "박찬호 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]
