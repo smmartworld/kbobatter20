@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "신상연",
+    "pitcherPcode": "56808",
+    "resultCode": "E",
+    "resultText": "신재인 : 3루수 땅볼 실책으로 출루 (3루수 송구 실책->1루수)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260930NCOB02026",
     "gameDate": "20260930",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "126",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260919HTNC02026",
-    "gameDate": "20260919",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "H",
-    "resultText": "신재인 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

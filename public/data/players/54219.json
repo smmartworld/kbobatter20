@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003OBSS02026",
+    "gameDate": "20261003",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "류현준",
+    "batterPcode": "54219",
+    "pitcherName": "사토시",
+    "pitcherPcode": "56474",
+    "resultCode": "O",
+    "resultText": "류현준 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260927KTOB02026",
     "gameDate": "20260927",
     "opponent": "KT",

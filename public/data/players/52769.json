@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003WOHH02026",
+    "gameDate": "20261003",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "권광민",
+    "batterPcode": "52769",
+    "pitcherName": "유토",
+    "pitcherPcode": "56348",
+    "resultCode": "K",
+    "resultText": "권광민 : 삼진 아웃",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260927HHLT02026",
     "gameDate": "20260927",
     "opponent": "롯데",

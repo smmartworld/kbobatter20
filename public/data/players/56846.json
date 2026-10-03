@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "김요셉",
+    "batterPcode": "56846",
+    "pitcherName": "최요한",
+    "pitcherPcode": "56967",
+    "resultCode": "O",
+    "resultText": "김요셉 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260922KTSK02026",
     "gameDate": "20260922",
     "opponent": "KT",

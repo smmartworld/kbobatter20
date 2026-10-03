@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003LTKT02026",
+    "gameDate": "20261003",
+    "opponent": "롯데",
+    "inning": 7,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "장성우",
+    "batterPcode": "78548",
+    "pitcherName": "이영재",
+    "pitcherPcode": "55503",
+    "resultCode": "HR",
+    "resultText": "장성우 : 좌익수 뒤 홈런 (홈런거리:125M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001KTHT02026",
     "gameDate": "20261001",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 6,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260923NCKT02026",
-    "gameDate": "20260923",
-    "opponent": "NC",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장성우",
-    "batterPcode": "78548",
-    "pitcherName": "손주환",
-    "pitcherPcode": "54904",
-    "resultCode": "O",
-    "resultText": "장성우 : 1루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

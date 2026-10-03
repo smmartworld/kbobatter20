@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003OBSS02026",
+    "gameDate": "20261003",
+    "opponent": "삼성",
+    "inning": 6,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "오명진",
+    "batterPcode": "50208",
+    "pitcherName": "김태훈",
+    "pitcherPcode": "62360",
+    "resultCode": "O",
+    "resultText": "오명진 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260930NCOB02026",
     "gameDate": "20260930",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "155",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260904OBSK02026",
-    "gameDate": "20260904",
-    "opponent": "SSG",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "오명진",
-    "batterPcode": "50208",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "O",
-    "resultText": "오명진 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "커터"
   }
 ]
