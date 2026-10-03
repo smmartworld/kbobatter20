@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "김휘집",
+    "batterPcode": "51344",
+    "pitcherName": "이로운",
+    "pitcherPcode": "53892",
+    "resultCode": "O",
+    "resultText": "김휘집 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261001NCOB02026",
     "gameDate": "20261001",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "138",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260926HHNC02026",
-    "gameDate": "20260926",
-    "opponent": "한화",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "김휘집",
-    "batterPcode": "51344",
-    "pitcherName": "강재민",
-    "pitcherPcode": "50705",
-    "resultCode": "O",
-    "resultText": "김휘집 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

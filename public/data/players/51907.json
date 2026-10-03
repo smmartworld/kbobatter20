@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김주원",
+    "batterPcode": "51907",
+    "pitcherName": "이로운",
+    "pitcherPcode": "53892",
+    "resultCode": "O",
+    "resultText": "김주원 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "152",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001NCOB02026",
     "gameDate": "20261001",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "147",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260912NCOB02026",
-    "gameDate": "20260912",
-    "opponent": "두산",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "김주원",
-    "batterPcode": "51907",
-    "pitcherName": "이용찬",
-    "pitcherPcode": "77211",
-    "resultCode": "O",
-    "resultText": "김주원 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "132",
-    "lastPitchType": "포크"
   }
 ]

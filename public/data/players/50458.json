@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003OBSS02026",
+    "gameDate": "20261003",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 1,
+    "batterName": "김지찬",
+    "batterPcode": "50458",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "O",
+    "resultText": "김지찬 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261001HHSS02026",
     "gameDate": "20261001",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260912LGSS02026",
-    "gameDate": "20260912",
-    "opponent": "LG",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "김지찬",
-    "batterPcode": "50458",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "H",
-    "resultText": "김지찬 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "150",
-    "lastPitchType": "직구"
   }
 ]

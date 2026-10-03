@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003LTKT02026",
+    "gameDate": "20261003",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "나승엽",
+    "batterPcode": "51551",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "O",
+    "resultText": "나승엽 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20260930WOLT02026",
     "gameDate": "20260930",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "136",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260923LTHH02026",
-    "gameDate": "20260923",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "나승엽",
-    "batterPcode": "51551",
-    "pitcherName": "조동욱",
-    "pitcherPcode": "54768",
-    "resultCode": "O",
-    "resultText": "나승엽 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "직구"
   }
 ]

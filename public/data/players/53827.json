@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "에레디아",
+    "batterPcode": "53827",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "에레디아 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "141",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001LGSK02026",
     "gameDate": "20261001",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "124",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260922KTSK02026",
-    "gameDate": "20260922",
-    "opponent": "KT",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "에레디아",
-    "batterPcode": "53827",
-    "pitcherName": "배제성",
-    "pitcherPcode": "65516",
-    "resultCode": "2B",
-    "resultText": "에레디아 : 중견수 앞 2루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "직구"
   }
 ]

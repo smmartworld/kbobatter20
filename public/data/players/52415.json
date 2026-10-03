@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003OBSS02026",
+    "gameDate": "20261003",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "최승용",
+    "pitcherPcode": "51264",
+    "resultCode": "BB",
+    "resultText": "이재현 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 9,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001HHSS02026",
     "gameDate": "20261001",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "141",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260908HTSS02026",
-    "gameDate": "20260908",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "시라카와",
-    "pitcherPcode": "54843",
-    "resultCode": "BB",
-    "resultText": "이재현 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

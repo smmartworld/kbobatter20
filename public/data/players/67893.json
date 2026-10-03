@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "NC",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 1,
+    "batterName": "박성한",
+    "batterPcode": "67893",
+    "pitcherName": "구창모",
+    "pitcherPcode": "65933",
+    "resultCode": "O",
+    "resultText": "박성한 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001LGSK02026",
     "gameDate": "20261001",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260922KTSK02026",
-    "gameDate": "20260922",
-    "opponent": "KT",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "박성한",
-    "batterPcode": "67893",
-    "pitcherName": "전용주",
-    "pitcherPcode": "69047",
-    "resultCode": "O",
-    "resultText": "박성한 : 좌익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
   }
 ]

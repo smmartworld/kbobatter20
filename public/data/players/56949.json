@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261003SKNC02026",
+    "gameDate": "20261003",
+    "opponent": "SSG",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "고준휘",
+    "batterPcode": "56949",
+    "pitcherName": "이로운",
+    "pitcherPcode": "53892",
+    "resultCode": "H",
+    "resultText": "고준휘 : 우익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "142",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20261001NCOB02026",
     "gameDate": "20261001",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "153",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260717OBNC02026",
-    "gameDate": "20260717",
-    "opponent": "두산",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 7,
-    "batterName": "고준휘",
-    "batterPcode": "56949",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "H",
-    "resultText": "고준휘 : 좌중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "스위퍼"
   }
 ]
