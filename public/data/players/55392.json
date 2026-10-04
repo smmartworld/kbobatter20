@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004WOHH02026",
+    "gameDate": "20261004",
+    "opponent": "한화",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "어준서",
+    "batterPcode": "55392",
+    "pitcherName": "박준영",
+    "pitcherPcode": "56709",
+    "resultCode": "BB",
+    "resultText": "어준서 : 볼넷",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260930WOLT02026",
     "gameDate": "20260930",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 6,
     "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260822HTWO02026",
-    "gameDate": "20260822",
-    "opponent": "KIA",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "어준서",
-    "batterPcode": "55392",
-    "pitcherName": "올러",
-    "pitcherPcode": "55633",
-    "resultCode": "BB",
-    "resultText": "어준서 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

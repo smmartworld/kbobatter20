@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004SKNC02026",
+    "gameDate": "20261004",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "타케다",
+    "pitcherPcode": "56823",
+    "resultCode": "O",
+    "resultText": "신재인 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261003SKNC02026",
     "gameDate": "20261003",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "145",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260919HTNC02026",
-    "gameDate": "20260919",
-    "opponent": "KIA",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "전상현",
-    "pitcherPcode": "66609",
-    "resultCode": "O",
-    "resultText": "신재인 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
-    "lastPitchType": "슬라이더"
   }
 ]

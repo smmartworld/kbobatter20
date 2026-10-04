@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004LTKT02026",
+    "gameDate": "20261004",
+    "opponent": "KT",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "고승민",
+    "batterPcode": "69517",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "O",
+    "resultText": "고승민 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261003LTKT02026",
     "gameDate": "20261003",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "127",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260924LTLG02026",
-    "gameDate": "20260924",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "고승민",
-    "batterPcode": "69517",
-    "pitcherName": "케네디",
-    "pitcherPcode": "56168",
-    "resultCode": "SAC",
-    "resultText": "고승민 : 투수 희생번트 아웃 (투수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "128",
-    "lastPitchType": "슬라이더"
   }
 ]

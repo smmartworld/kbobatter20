@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004LTKT02026",
+    "gameDate": "20261004",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 3,
+    "batterName": "레이예스",
+    "batterPcode": "54529",
+    "pitcherName": "배제성",
+    "pitcherPcode": "65516",
+    "resultCode": "H",
+    "resultText": "레이예스 : 좌익수 왼쪽 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261003LTKT02026",
     "gameDate": "20261003",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260924LTLG02026",
-    "gameDate": "20260924",
-    "opponent": "LG",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "레이예스",
-    "batterPcode": "54529",
-    "pitcherName": "고우석",
-    "pitcherPcode": "67119",
-    "resultCode": "H",
-    "resultText": "레이예스 : 중견수 앞 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 6,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

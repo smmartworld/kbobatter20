@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004OBSS02026",
+    "gameDate": "20261004",
+    "opponent": "두산",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "이해승",
+    "batterPcode": "69416",
+    "pitcherName": "김한중",
+    "pitcherPcode": "55221",
+    "resultCode": "K",
+    "resultText": "이해승 : 삼진 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 7,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260920SSLT02026",
     "gameDate": "20260920",
     "opponent": "롯데",

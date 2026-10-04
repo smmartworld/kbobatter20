@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004WOHH02026",
+    "gameDate": "20261004",
+    "opponent": "키움",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "최유빈",
+    "batterPcode": "56793",
+    "pitcherName": "윤석원",
+    "pitcherPcode": "52395",
+    "resultCode": "O",
+    "resultText": "최유빈 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "140",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260915KTHH02026",
     "gameDate": "20260915",
     "opponent": "KT",
