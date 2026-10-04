@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004LTKT02026",
+    "gameDate": "20261004",
+    "opponent": "KT",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "손동현",
+    "pitcherPcode": "69041",
+    "resultCode": "O",
+    "resultText": "장두성 : 3루수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261003LTKT02026",
     "gameDate": "20261003",
     "opponent": "KT",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "135",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260922LTHH02026",
-    "gameDate": "20260922",
-    "opponent": "한화",
-    "inning": 4,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "강재민",
-    "pitcherPcode": "50705",
-    "resultCode": "H",
-    "resultText": "장두성 : 중견수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "139",
     "lastPitchType": "슬라이더"
   }
 ]
