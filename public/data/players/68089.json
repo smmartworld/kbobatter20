@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261004LTKT02026",
+    "gameDate": "20261004",
+    "opponent": "롯데",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "이이무라",
+    "pitcherPcode": "56503",
+    "resultCode": "O",
+    "resultText": "조대현 : 투수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261001KTHT02026",
     "gameDate": "20261001",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "134",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260825OBKT02026",
-    "gameDate": "20260825",
-    "opponent": "두산",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "조대현",
-    "batterPcode": "68089",
-    "pitcherName": "최민석",
-    "pitcherPcode": "55268",
-    "resultCode": "H",
-    "resultText": "조대현 : 좌익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "147",
-    "lastPitchType": "투심"
   }
 ]
