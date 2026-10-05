@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005SKNC02026",
+    "gameDate": "20261005",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "김한별",
+    "batterPcode": "50902",
+    "pitcherName": "박시후",
+    "pitcherPcode": "50812",
+    "resultCode": "O",
+    "resultText": "김한별 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261003SKNC02026",
     "gameDate": "20261003",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260912NCOB02026",
-    "gameDate": "20260912",
-    "opponent": "두산",
-    "inning": 5,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "김한별",
-    "batterPcode": "50902",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "김한별 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "체인지업"
   }
 ]

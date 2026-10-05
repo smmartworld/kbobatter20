@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005SKNC02026",
+    "gameDate": "20261005",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "홍대인",
+    "batterPcode": "55897",
+    "pitcherName": "임정호",
+    "pitcherPcode": "63959",
+    "resultCode": "O",
+    "resultText": "홍대인 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260922KTSK02026",
     "gameDate": "20260922",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260816SKLG02026",
-    "gameDate": "20260816",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "홍대인",
-    "batterPcode": "55897",
-    "pitcherName": "김영우",
-    "pitcherPcode": "55167",
-    "resultCode": "O",
-    "resultText": "홍대인 : 유격수 라인드라이브 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "139",
-    "lastPitchType": "포크"
   }
 ]

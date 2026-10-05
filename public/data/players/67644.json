@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005LTKT02026",
+    "gameDate": "20261005",
+    "opponent": "롯데",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "이정훈",
+    "batterPcode": "67644",
+    "pitcherName": "김기준",
+    "pitcherPcode": "53540",
+    "resultCode": "O",
+    "resultText": "이정훈 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20261004LTKT02026",
     "gameDate": "20261004",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "140",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260719KTLG02026",
-    "gameDate": "20260719",
-    "opponent": "LG",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "이정훈",
-    "batterPcode": "67644",
-    "pitcherName": "우강훈",
-    "pitcherPcode": "51526",
-    "resultCode": "O",
-    "resultText": "이정훈 : 우익수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "141",
-    "lastPitchType": "직구"
   }
 ]

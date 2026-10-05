@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005SKNC02026",
+    "gameDate": "20261005",
+    "opponent": "SSG",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "한재환",
+    "batterPcode": "50903",
+    "pitcherName": "한두솔",
+    "pitcherPcode": "68092",
+    "resultCode": "O",
+    "resultText": "한재환 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261004SKNC02026",
     "gameDate": "20261004",
     "opponent": "SSG",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 2,
     "lastPitchSpeed": "131",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260925HHNC02026",
-    "gameDate": "20260925",
-    "opponent": "한화",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "한재환",
-    "batterPcode": "50903",
-    "pitcherName": "화이트",
-    "pitcherPcode": "56724",
-    "resultCode": "H",
-    "resultText": "한재환 : 좌중간 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
   }
 ]

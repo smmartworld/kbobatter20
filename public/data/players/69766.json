@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005WOHH02026",
+    "gameDate": "20261005",
+    "opponent": "키움",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "유로결",
+    "batterPcode": "69766",
+    "pitcherName": "원종현",
+    "pitcherPcode": "76118",
+    "resultCode": "H",
+    "resultText": "유로결 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260923LTHH02026",
     "gameDate": "20260923",
     "opponent": "롯데",

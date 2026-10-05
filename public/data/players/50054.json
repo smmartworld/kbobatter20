@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005HTLG02026",
+    "gameDate": "20261005",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "천성호",
+    "batterPcode": "50054",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "O",
+    "resultText": "천성호 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20260929LGSK02026",
     "gameDate": "20260929",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "134",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260827NCLG02026",
-    "gameDate": "20260827",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 4,
-    "batterName": "천성호",
-    "batterPcode": "50054",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "3B",
-    "resultText": "천성호 : 우중간 3루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
   }
 ]
