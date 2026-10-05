@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005WOHH02026",
+    "gameDate": "20261005",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "유민",
+    "batterPcode": "52765",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "2B",
+    "resultText": "유민 : 우익수 오른쪽 뒤 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20260920HHLG02026",
     "gameDate": "20260920",
     "opponent": "LG",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "140",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260909LGHH02026",
-    "gameDate": "20260909",
-    "opponent": "LG",
-    "inning": 8,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "유민",
-    "batterPcode": "52765",
-    "pitcherName": "조원태",
-    "pitcherPcode": "52149",
-    "resultCode": "H",
-    "resultText": "유민 : 중견수 왼쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "145",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005WOHH02026",
+    "gameDate": "20261005",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "BB",
+    "resultText": "박정현 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20261004WOHH02026",
     "gameDate": "20261004",
     "opponent": "키움",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 2,
     "lastPitchSpeed": "137",
-    "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260926HHNC02026",
-    "gameDate": "20260926",
-    "opponent": "NC",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "토다",
-    "pitcherPcode": "56911",
-    "resultCode": "O",
-    "resultText": "박정현 : 2루수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "139",
     "lastPitchType": "커터"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005OBSS02026",
+    "gameDate": "20261005",
+    "opponent": "삼성",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "정수빈",
+    "batterPcode": "79231",
+    "pitcherName": "후라도",
+    "pitcherPcode": "53375",
+    "resultCode": "O",
+    "resultText": "정수빈 : 우익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261004OBSS02026",
     "gameDate": "20261004",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "128",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260929NCOB02026",
-    "gameDate": "20260929",
-    "opponent": "NC",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "정수빈",
-    "batterPcode": "79231",
-    "pitcherName": "이재학",
-    "pitcherPcode": "60263",
-    "resultCode": "H",
-    "resultText": "정수빈 : 우익수 앞 1루타",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "체인지업"
   }
 ]

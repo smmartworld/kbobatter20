@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005HTLG02026",
+    "gameDate": "20261005",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "H",
+    "resultText": "이주헌 : 우익수 왼쪽 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20260929LGSK02026",
     "gameDate": "20260929",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "146",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260912LGSS02026",
-    "gameDate": "20260912",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "후라도",
-    "pitcherPcode": "53375",
-    "resultCode": "O",
-    "resultText": "이주헌 : 중견수 플라이 아웃",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "슬라이더"
   }
 ]

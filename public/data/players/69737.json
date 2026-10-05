@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005WOHH02026",
+    "gameDate": "20261005",
+    "opponent": "키움",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 5,
+    "batterName": "노시환",
+    "batterPcode": "69737",
+    "pitcherName": "전준표",
+    "pitcherPcode": "54362",
+    "resultCode": "O",
+    "resultText": "노시환 : 2루수 라인드라이브 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004WOHH02026",
     "gameDate": "20261004",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 2,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260929HHSS02026",
-    "gameDate": "20260929",
-    "opponent": "삼성",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "노시환",
-    "batterPcode": "69737",
-    "pitcherName": "페덱",
-    "pitcherPcode": "56459",
-    "resultCode": "K",
-    "resultText": "노시환 : 삼진 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "149",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005HTLG02026",
+    "gameDate": "20261005",
+    "opponent": "KIA",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "오스틴",
+    "batterPcode": "53123",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "BB",
+    "resultText": "오스틴 : 볼넷",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "132",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261004HTLG02026",
     "gameDate": "20261004",
     "opponent": "KIA",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "151",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260929LGSK02026",
-    "gameDate": "20260929",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 3,
-    "batterName": "오스틴",
-    "batterPcode": "53123",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "H",
-    "resultText": "오스틴 : 우중간 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 1,
-    "lastPitchSpeed": "153",
-    "lastPitchType": "투심"
   }
 ]

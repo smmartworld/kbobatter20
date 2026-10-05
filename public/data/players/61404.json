@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005OBSS02026",
+    "gameDate": "20261005",
+    "opponent": "두산",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 2,
+    "batterName": "김헌곤",
+    "batterPcode": "61404",
+    "pitcherName": "잭로그",
+    "pitcherPcode": "55239",
+    "resultCode": "O",
+    "resultText": "김헌곤 : 유격수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "124",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20261004OBSS02026",
     "gameDate": "20261004",
     "opponent": "두산",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 1,
     "lastPitchSpeed": "155",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260912LGSS02026",
-    "gameDate": "20260912",
-    "opponent": "LG",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "김헌곤",
-    "batterPcode": "61404",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "O",
-    "resultText": "김헌곤 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 5,
-    "lastPitchSpeed": "151",
     "lastPitchType": "직구"
   }
 ]

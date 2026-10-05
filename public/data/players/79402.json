@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005LTKT02026",
+    "gameDate": "20261005",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "김상수",
+    "batterPcode": "79402",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "2B",
+    "resultText": "김상수 : 좌익수 뒤 2루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 3,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004LTKT02026",
     "gameDate": "20261004",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 4,
     "lastPitchSpeed": "137",
-    "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260927KTOB02026",
-    "gameDate": "20260927",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 6,
-    "batterName": "김상수",
-    "batterPcode": "79402",
-    "pitcherName": "최승용",
-    "pitcherPcode": "51264",
-    "resultCode": "SAC",
-    "resultText": "김상수 : 3루수 희생번트 아웃 (3루수->2루수 1루 터치아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005WOHH02026",
+    "gameDate": "20261005",
+    "opponent": "한화",
+    "inning": 1,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "박찬혁",
+    "batterPcode": "52348",
+    "pitcherName": "강건우",
+    "pitcherPcode": "56769",
+    "resultCode": "O",
+    "resultText": "박찬혁 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004WOHH02026",
     "gameDate": "20261004",
     "opponent": "한화",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "133",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260927WONC02026",
-    "gameDate": "20260927",
-    "opponent": "NC",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 5,
-    "batterName": "박찬혁",
-    "batterPcode": "52348",
-    "pitcherName": "전사민",
-    "pitcherPcode": "69969",
-    "resultCode": "H",
-    "resultText": "박찬혁 : 우익수 앞 1루타",
-    "base1": 0,
-    "base2": 1,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "123",
-    "lastPitchType": "스위퍼"
   }
 ]

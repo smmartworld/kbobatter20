@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261005LTKT02026",
+    "gameDate": "20261005",
+    "opponent": "롯데",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "장준원",
+    "batterPcode": "64115",
+    "pitcherName": "김진욱",
+    "pitcherPcode": "51516",
+    "resultCode": "HR",
+    "resultText": "장준원 : 좌익수 뒤 홈런 (홈런거리:105M)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 5,
+    "lastPitchSpeed": "147",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004LTKT02026",
     "gameDate": "20261004",
     "opponent": "롯데",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "156",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260924NCKT02026",
-    "gameDate": "20260924",
-    "opponent": "NC",
-    "inning": 5,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "장준원",
-    "batterPcode": "64115",
-    "pitcherName": "이준혁",
-    "pitcherPcode": "52992",
-    "resultCode": "E",
-    "resultText": "장준원 : 유격수 땅볼 실책으로 출루 (유격수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "스위퍼"
   }
 ]
