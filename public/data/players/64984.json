@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006KTWO02026",
+    "gameDate": "20261006",
+    "opponent": "KT",
+    "inning": 6,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김태진",
+    "batterPcode": "64984",
+    "pitcherName": "박지훈",
+    "pitcherPcode": "56066",
+    "resultCode": "O",
+    "resultText": "김태진 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261005WOHH02026",
     "gameDate": "20261005",
     "opponent": "한화",

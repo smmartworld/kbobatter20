@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006SKHH02026",
+    "gameDate": "20261006",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "신범수",
+    "batterPcode": "66662",
+    "pitcherName": "장유호",
+    "pitcherPcode": "69645",
+    "resultCode": "O",
+    "resultText": "신범수 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261005SKNC02026",
     "gameDate": "20261005",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "152",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260618LTSK02026",
-    "gameDate": "20260618",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신범수",
-    "batterPcode": "66662",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "신범수 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 2,
-    "lastPitchSpeed": "146",
-    "lastPitchType": "커터"
   }
 ]

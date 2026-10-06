@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006KTWO02026",
+    "gameDate": "20261006",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "김시앙",
+    "batterPcode": "51303",
+    "pitcherName": "오원석",
+    "pitcherPcode": "50859",
+    "resultCode": "O",
+    "resultText": "김시앙 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "133",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20260920WOSK02026",
     "gameDate": "20260920",
     "opponent": "SSG",

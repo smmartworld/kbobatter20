@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006SKHH02026",
+    "gameDate": "20261006",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 4,
+    "batterName": "장규현",
+    "batterPcode": "51762",
+    "pitcherName": "변건우",
+    "pitcherPcode": "54808",
+    "resultCode": "O",
+    "resultText": "장규현 : 투수 땅볼 아웃 (투수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "145",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004WOHH02026",
     "gameDate": "20261004",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 8,
     "lastPitchSpeed": "140",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260910HHSK02026",
-    "gameDate": "20260910",
-    "opponent": "SSG",
-    "inning": 3,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "장규현",
-    "batterPcode": "51762",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "BB",
-    "resultText": "장규현 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 8,
-    "lastPitchSpeed": "129",
-    "lastPitchType": "커브"
   }
 ]

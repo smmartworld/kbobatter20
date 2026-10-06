@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006NCLG02026",
+    "gameDate": "20261006",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 4,
+    "batterName": "신재인",
+    "batterPcode": "56909",
+    "pitcherName": "장현식",
+    "pitcherPcode": "63950",
+    "resultCode": "H",
+    "resultText": "신재인 : 좌익수 오른쪽 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "134",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261005SKNC02026",
     "gameDate": "20261005",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "130",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20260920HTNC02026",
-    "gameDate": "20260920",
-    "opponent": "KIA",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신재인",
-    "batterPcode": "56909",
-    "pitcherName": "전상현",
-    "pitcherPcode": "66609",
-    "resultCode": "O",
-    "resultText": "신재인 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
   }
 ]

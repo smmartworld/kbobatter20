@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261006SKHH02026",
+    "gameDate": "20261006",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김요셉",
+    "batterPcode": "56846",
+    "pitcherName": "원종혁",
+    "pitcherPcode": "54702",
+    "resultCode": "BB",
+    "resultText": "김요셉 : 볼넷",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "151",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261003SKNC02026",
     "gameDate": "20261003",
     "opponent": "NC",
