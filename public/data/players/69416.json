@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261007SSKT02026",
+    "gameDate": "20261007",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "이해승",
+    "batterPcode": "69416",
+    "pitcherName": "문용익",
+    "pitcherPcode": "67419",
+    "resultCode": "O",
+    "resultText": "이해승 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20261004OBSS02026",
     "gameDate": "20261004",
     "opponent": "두산",

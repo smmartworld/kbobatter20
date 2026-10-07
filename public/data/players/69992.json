@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261007NCSK02026",
+    "gameDate": "20261007",
+    "opponent": "SSG",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "문승원",
+    "pitcherPcode": "62869",
+    "resultCode": "H",
+    "resultText": "최정원 : 좌익수 앞 1루타",
+    "base1": 0,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "146",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261006NCLG02026",
     "gameDate": "20261006",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "148",
     "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260918NCLT02026",
-    "gameDate": "20260918",
-    "opponent": "롯데",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "O",
-    "resultText": "최정원 : 스트라이크 낫아웃 폭투",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 5,
-    "lastPitchSpeed": "131",
-    "lastPitchType": "스위퍼"
   }
 ]

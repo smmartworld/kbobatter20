@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261007OBLG02026",
+    "gameDate": "20261007",
+    "opponent": "두산",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "신민재",
+    "batterPcode": "65207",
+    "pitcherName": "이영하",
+    "pitcherPcode": "66291",
+    "resultCode": "O",
+    "resultText": "신민재 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 5,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261006NCLG02026",
     "gameDate": "20261006",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "127",
     "lastPitchType": "커브"
-  },
-  {
-    "gameId": "20260924LTLG02026",
-    "gameDate": "20260924",
-    "opponent": "롯데",
-    "inning": 3,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신민재",
-    "batterPcode": "65207",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "H",
-    "resultText": "신민재 : 중견수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 1,
-    "lastPitchSpeed": "153",
-    "lastPitchType": "직구"
   }
 ]

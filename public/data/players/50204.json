@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261007OBLG02026",
+    "gameDate": "20261007",
+    "opponent": "LG",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "박지훈",
+    "batterPcode": "50204",
+    "pitcherName": "손주영",
+    "pitcherPcode": "67143",
+    "resultCode": "O",
+    "resultText": "박지훈 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "149",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261004OBSS02026",
     "gameDate": "20261004",
     "opponent": "삼성",
@@ -397,26 +418,5 @@
     "pitchCount": 4,
     "lastPitchSpeed": "137",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260906OBSK02026",
-    "gameDate": "20260906",
-    "opponent": "SSG",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "박지훈",
-    "batterPcode": "50204",
-    "pitcherName": "윤태현",
-    "pitcherPcode": "52867",
-    "resultCode": "O",
-    "resultText": "박지훈 : 유격수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "134",
-    "lastPitchType": "직구"
   }
 ]
