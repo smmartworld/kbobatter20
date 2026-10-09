@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261009SSSK02026",
+    "gameDate": "20261009",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "오태곤",
+    "batterPcode": "60558",
+    "pitcherName": "페덱",
+    "pitcherPcode": "56459",
+    "resultCode": "O",
+    "resultText": "오태곤 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261006SKHH02026",
     "gameDate": "20261006",
     "opponent": "한화",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 2,
     "lastPitchSpeed": "138",
-    "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260821KTSK02026",
-    "gameDate": "20260821",
-    "opponent": "KT",
-    "inning": 11,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "오태곤",
-    "batterPcode": "60558",
-    "pitcherName": "주권",
-    "pitcherPcode": "65060",
-    "resultCode": "H",
-    "resultText": "오태곤 : 우익수 왼쪽 1루타",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "126",
     "lastPitchType": "체인지업"
   }
 ]
