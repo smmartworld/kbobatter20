@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010LGLT02026",
+    "gameDate": "20261010",
+    "opponent": "LG",
+    "inning": 3,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "장두성",
+    "batterPcode": "68507",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "장두성 : 좌익수 라인드라이브 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 1,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261009LGLT02026",
     "gameDate": "20261009",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "134",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260923LTHH02026",
-    "gameDate": "20260923",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장두성",
-    "batterPcode": "68507",
-    "pitcherName": "장유호",
-    "pitcherPcode": "69645",
-    "resultCode": "O",
-    "resultText": "장두성 : 1루수 땅볼 아웃 (1루수->투수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "144",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010LGLT02026",
+    "gameDate": "20261010",
+    "opponent": "롯데",
+    "inning": 3,
+    "homeOrAway": "0",
+    "batOrder": 9,
+    "batterName": "신민재",
+    "batterPcode": "65207",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "H",
+    "resultText": "신민재 : 중견수 앞 1루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "127",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20261007OBLG02026",
     "gameDate": "20261007",
     "opponent": "두산",
@@ -397,26 +418,5 @@
     "pitchCount": 7,
     "lastPitchSpeed": "135",
     "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260924LTLG02026",
-    "gameDate": "20260924",
-    "opponent": "롯데",
-    "inning": 4,
-    "homeOrAway": "1",
-    "batOrder": 9,
-    "batterName": "신민재",
-    "batterPcode": "65207",
-    "pitcherName": "로드리게스",
-    "pitcherPcode": "56531",
-    "resultCode": "BB",
-    "resultText": "신민재 : 볼넷",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "127",
-    "lastPitchType": "커브"
   }
 ]

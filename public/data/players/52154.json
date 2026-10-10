@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010LGLT02026",
+    "gameDate": "20261010",
+    "opponent": "롯데",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "이주헌",
+    "batterPcode": "52154",
+    "pitcherName": "나균안",
+    "pitcherPcode": "67539",
+    "resultCode": "O",
+    "resultText": "이주헌 : 3루수 땅볼 아웃 (3루수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "139",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20261006NCLG02026",
     "gameDate": "20261006",
     "opponent": "NC",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "135",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20260915LGNC02026",
-    "gameDate": "20260915",
-    "opponent": "NC",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "이주헌",
-    "batterPcode": "52154",
-    "pitcherName": "이용준",
-    "pitcherPcode": "51948",
-    "resultCode": "O",
-    "resultText": "이주헌 : 1루수 땅볼 아웃 (1루수->투수 1루 터치아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "130",
-    "lastPitchType": "슬라이더"
   }
 ]

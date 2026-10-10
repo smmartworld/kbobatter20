@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010LGLT02026",
+    "gameDate": "20261010",
+    "opponent": "LG",
+    "inning": 2,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "손성빈",
+    "batterPcode": "51528",
+    "pitcherName": "톨허스트",
+    "pitcherPcode": "55130",
+    "resultCode": "O",
+    "resultText": "손성빈 : 3루수 앞 땅볼로 출루",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 2,
+    "lastPitchSpeed": "130",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20261009LGLT02026",
     "gameDate": "20261009",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "120",
     "lastPitchType": "스위퍼"
-  },
-  {
-    "gameId": "20261003LTKT02026",
-    "gameDate": "20261003",
-    "opponent": "KT",
-    "inning": 2,
-    "homeOrAway": "0",
-    "batOrder": 7,
-    "batterName": "손성빈",
-    "batterPcode": "51528",
-    "pitcherName": "고영표",
-    "pitcherPcode": "64001",
-    "resultCode": "BB",
-    "resultText": "손성빈 : 볼넷",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 5,
-    "lastPitchSpeed": "138",
-    "lastPitchType": "투심"
   }
 ]
