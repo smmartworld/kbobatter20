@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010SKHT02026",
+    "gameDate": "20261010",
+    "opponent": "KIA",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "문상준",
+    "batterPcode": "50007",
+    "pitcherName": "성영탁",
+    "pitcherPcode": "54610",
+    "resultCode": "H",
+    "resultText": "문상준 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 1,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "136",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20261006SKHH02026",
     "gameDate": "20261006",
     "opponent": "한화",

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010NCHH02026",
+    "gameDate": "20261010",
+    "opponent": "한화",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "박시원",
+    "batterPcode": "50996",
+    "pitcherName": "장유호",
+    "pitcherPcode": "69645",
+    "resultCode": "O",
+    "resultText": "박시원 : 유격수 앞 땅볼로 출루",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 5,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261009HTNC02026",
     "gameDate": "20261009",
     "opponent": "KIA",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 3,
     "lastPitchSpeed": "137",
-    "lastPitchType": "포크"
-  },
-  {
-    "gameId": "20260906NCWO02026",
-    "gameDate": "20260906",
-    "opponent": "키움",
-    "inning": 7,
-    "homeOrAway": "0",
-    "batOrder": 8,
-    "batterName": "박시원",
-    "batterPcode": "50996",
-    "pitcherName": "알칸타라",
-    "pitcherPcode": "69045",
-    "resultCode": "O",
-    "resultText": "박시원 : 2루수 라인드라이브 아웃",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 2,
-    "lastPitchSpeed": "133",
     "lastPitchType": "포크"
   }
 ]

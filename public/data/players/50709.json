@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010NCHH02026",
+    "gameDate": "20261010",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 9,
+    "batterName": "박정현",
+    "batterPcode": "50709",
+    "pitcherName": "이준혁",
+    "pitcherPcode": "52992",
+    "resultCode": "O",
+    "resultText": "박정현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 1,
+    "outCount": 2,
+    "pitchCount": 3,
+    "lastPitchSpeed": "128",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20261007HHWO02026",
     "gameDate": "20261007",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "136",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20261001HHSS02026",
-    "gameDate": "20261001",
-    "opponent": "삼성",
-    "inning": 9,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "박정현",
-    "batterPcode": "50709",
-    "pitcherName": "김재윤",
-    "pitcherPcode": "65062",
-    "resultCode": "O",
-    "resultText": "박정현 : 우익수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "145",
-    "lastPitchType": "직구"
   }
 ]

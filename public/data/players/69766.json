@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010NCHH02026",
+    "gameDate": "20261010",
+    "opponent": "NC",
+    "inning": 8,
+    "homeOrAway": "1",
+    "batOrder": 6,
+    "batterName": "유로결",
+    "batterPcode": "69766",
+    "pitcherName": "토다",
+    "pitcherPcode": "56911",
+    "resultCode": "2B",
+    "resultText": "유로결 : 우중간 2루타",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 3,
+    "lastPitchSpeed": "126",
+    "lastPitchType": "스위퍼"
+  },
+  {
     "gameId": "20261006SKHH02026",
     "gameDate": "20261006",
     "opponent": "SSG",
