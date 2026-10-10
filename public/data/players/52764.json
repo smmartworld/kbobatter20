@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010NCHH02026",
+    "gameDate": "20261010",
+    "opponent": "NC",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 7,
+    "batterName": "허인서",
+    "batterPcode": "52764",
+    "pitcherName": "최요한",
+    "pitcherPcode": "56967",
+    "resultCode": "BB",
+    "resultText": "허인서 : 볼넷",
+    "base1": 1,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 1,
+    "pitchCount": 4,
+    "lastPitchSpeed": "144",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261007HHWO02026",
     "gameDate": "20261007",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "144",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20261003WOHH02026",
-    "gameDate": "20261003",
-    "opponent": "키움",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 6,
-    "batterName": "허인서",
-    "batterPcode": "52764",
-    "pitcherName": "하영민",
-    "pitcherPcode": "64350",
-    "resultCode": "O",
-    "resultText": "허인서 : 포수 스트라이크 낫 아웃 (포수 태그아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 7,
-    "lastPitchSpeed": "135",
-    "lastPitchType": "포크"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010SKHT02026",
+    "gameDate": "20261010",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 2,
+    "batterName": "김정민",
+    "batterPcode": "53865",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "O",
+    "resultText": "김정민 : 2루수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 2,
+    "lastPitchSpeed": "131",
+    "lastPitchType": "포크"
+  },
+  {
     "gameId": "20261007NCSK02026",
     "gameDate": "20261007",
     "opponent": "NC",
@@ -396,27 +417,6 @@
     "outCount": 0,
     "pitchCount": 4,
     "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260929LGSK02026",
-    "gameDate": "20260929",
-    "opponent": "LG",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "김정민",
-    "batterPcode": "53865",
-    "pitcherName": "톨허스트",
-    "pitcherPcode": "55130",
-    "resultCode": "E",
-    "resultText": "김정민 : 1루수 플라이 실책으로 출루 (1루수 포구 실책)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "146",
     "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261010NCHH02026",
+    "gameDate": "20261010",
+    "opponent": "한화",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "최정원",
+    "batterPcode": "69992",
+    "pitcherName": "이형범",
+    "pitcherPcode": "62951",
+    "resultCode": "O",
+    "resultText": "최정원 : 좌익수 플라이 아웃",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261007NCSK02026",
     "gameDate": "20261007",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "141",
     "lastPitchType": "커터"
-  },
-  {
-    "gameId": "20260919HTNC02026",
-    "gameDate": "20260919",
-    "opponent": "KIA",
-    "inning": 1,
-    "homeOrAway": "1",
-    "batOrder": 1,
-    "batterName": "최정원",
-    "batterPcode": "69992",
-    "pitcherName": "네일",
-    "pitcherPcode": "54640",
-    "resultCode": "O",
-    "resultText": "최정원 : 2루수 땅볼 아웃 (2루수->1루수 송구아웃)",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 4,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "투심"
   }
 ]
