@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261011LTHT02026",
+    "gameDate": "20261011",
+    "opponent": "KIA",
+    "inning": 2,
+    "homeOrAway": "0",
+    "batOrder": 7,
+    "batterName": "전준우",
+    "batterPcode": "78513",
+    "pitcherName": "올러",
+    "pitcherPcode": "55633",
+    "resultCode": "O",
+    "resultText": "전준우 : 유격수 땅볼 아웃 (유격수->1루수 송구아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 2,
+    "lastPitchSpeed": "148",
+    "lastPitchType": "커터"
+  },
+  {
     "gameId": "20261010LGLT02026",
     "gameDate": "20261010",
     "opponent": "LG",
@@ -397,26 +418,5 @@
     "pitchCount": 1,
     "lastPitchSpeed": "149",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260923LTHH02026",
-    "gameDate": "20260923",
-    "opponent": "한화",
-    "inning": 8,
-    "homeOrAway": "0",
-    "batOrder": 2,
-    "batterName": "전준우",
-    "batterPcode": "78513",
-    "pitcherName": "짐머맨",
-    "pitcherPcode": "56799",
-    "resultCode": "O",
-    "resultText": "전준우 : 2루수 앞 땅볼로 출루",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 2,
-    "pitchCount": 4,
-    "lastPitchSpeed": "136",
-    "lastPitchType": "체인지업"
   }
 ]

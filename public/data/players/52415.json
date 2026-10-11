@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261011KTSS02026",
+    "gameDate": "20261011",
+    "opponent": "KT",
+    "inning": 1,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "이재현",
+    "batterPcode": "52415",
+    "pitcherName": "고영표",
+    "pitcherPcode": "64001",
+    "resultCode": "SAC",
+    "resultText": "이재현 : 좌익수 희생플라이 아웃",
+    "base1": 0,
+    "base2": 1,
+    "base3": 1,
+    "outCount": 0,
+    "pitchCount": 4,
+    "lastPitchSpeed": "123",
+    "lastPitchType": "체인지업"
+  },
+  {
     "gameId": "20261009SSSK02026",
     "gameDate": "20261009",
     "opponent": "SSG",
@@ -397,26 +418,5 @@
     "pitchCount": 9,
     "lastPitchSpeed": "146",
     "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20261001HHSS02026",
-    "gameDate": "20261001",
-    "opponent": "한화",
-    "inning": 7,
-    "homeOrAway": "1",
-    "batOrder": 3,
-    "batterName": "이재현",
-    "batterPcode": "52415",
-    "pitcherName": "주현상",
-    "pitcherPcode": "65707",
-    "resultCode": "HR",
-    "resultText": "이재현 : 좌익수 뒤 홈런 (홈런거리:115M)",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 2,
-    "pitchCount": 1,
-    "lastPitchSpeed": "124",
-    "lastPitchType": "커브"
   }
 ]
