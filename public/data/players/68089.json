@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261011KTSS02026",
+    "gameDate": "20261011",
+    "opponent": "삼성",
+    "inning": 8,
+    "homeOrAway": "0",
+    "batOrder": 8,
+    "batterName": "조대현",
+    "batterPcode": "68089",
+    "pitcherName": "임기영",
+    "pitcherPcode": "62754",
+    "resultCode": "O",
+    "resultText": "조대현 : 중견수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 7,
+    "lastPitchSpeed": "138",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261007SSKT02026",
     "gameDate": "20261007",
     "opponent": "삼성",
@@ -396,27 +417,6 @@
     "outCount": 1,
     "pitchCount": 1,
     "lastPitchSpeed": "142",
-    "lastPitchType": "직구"
-  },
-  {
-    "gameId": "20260902HHKT02026",
-    "gameDate": "20260902",
-    "opponent": "한화",
-    "inning": 6,
-    "homeOrAway": "1",
-    "batOrder": 8,
-    "batterName": "조대현",
-    "batterPcode": "68089",
-    "pitcherName": "박상원",
-    "pitcherPcode": "67703",
-    "resultCode": "H",
-    "resultText": "조대현 : 좌익수 오른쪽 1루타",
-    "base1": 1,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 3,
-    "lastPitchSpeed": "147",
     "lastPitchType": "직구"
   }
 ]

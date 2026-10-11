@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261011KTSS02026",
+    "gameDate": "20261011",
+    "opponent": "삼성",
+    "inning": 7,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "문상철",
+    "batterPcode": "64007",
+    "pitcherName": "이승현",
+    "pitcherPcode": "51454",
+    "resultCode": "O",
+    "resultText": "문상철 : 좌익수 플라이 아웃",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 1,
+    "lastPitchSpeed": "143",
+    "lastPitchType": "투심"
+  },
+  {
     "gameId": "20261007SSKT02026",
     "gameDate": "20261007",
     "opponent": "삼성",
