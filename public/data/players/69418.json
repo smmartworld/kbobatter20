@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261012KTSS02026",
+    "gameDate": "20261012",
+    "opponent": "KT",
+    "inning": 9,
+    "homeOrAway": "1",
+    "batOrder": 3,
+    "batterName": "박승규",
+    "batterPcode": "69418",
+    "pitcherName": "박영현",
+    "pitcherPcode": "52060",
+    "resultCode": "HR",
+    "resultText": "박승규 : 좌익수 뒤 홈런 (홈런거리:100M)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 0,
+    "pitchCount": 6,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261011KTSS02026",
     "gameDate": "20261011",
     "opponent": "KT",
@@ -397,26 +418,5 @@
     "pitchCount": 3,
     "lastPitchSpeed": "131",
     "lastPitchType": "체인지업"
-  },
-  {
-    "gameId": "20261005OBSS02026",
-    "gameDate": "20261005",
-    "opponent": "두산",
-    "inning": 2,
-    "homeOrAway": "1",
-    "batOrder": 5,
-    "batterName": "박승규",
-    "batterPcode": "69418",
-    "pitcherName": "잭로그",
-    "pitcherPcode": "55239",
-    "resultCode": "O",
-    "resultText": "박승규 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 1,
-    "pitchCount": 4,
-    "lastPitchSpeed": "148",
-    "lastPitchType": "직구"
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261012LGHT02026",
+    "gameDate": "20261012",
+    "opponent": "KIA",
+    "inning": 9,
+    "homeOrAway": "0",
+    "batOrder": 6,
+    "batterName": "홍창기",
+    "batterPcode": "66108",
+    "pitcherName": "전상현",
+    "pitcherPcode": "66609",
+    "resultCode": "O",
+    "resultText": "홍창기 : 1루수 땅볼 아웃 (1루수 1루 터치아웃)",
+    "base1": 0,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 2,
+    "pitchCount": 4,
+    "lastPitchSpeed": "137",
+    "lastPitchType": "슬라이더"
+  },
+  {
     "gameId": "20261010LGLT02026",
     "gameDate": "20261010",
     "opponent": "롯데",
@@ -396,27 +417,6 @@
     "outCount": 2,
     "pitchCount": 5,
     "lastPitchSpeed": "154",
-    "lastPitchType": "투심"
-  },
-  {
-    "gameId": "20260929LGSK02026",
-    "gameDate": "20260929",
-    "opponent": "SSG",
-    "inning": 1,
-    "homeOrAway": "0",
-    "batOrder": 1,
-    "batterName": "홍창기",
-    "batterPcode": "66108",
-    "pitcherName": "아빌라",
-    "pitcherPcode": "56801",
-    "resultCode": "O",
-    "resultText": "홍창기 : 중견수 플라이 아웃",
-    "base1": 0,
-    "base2": 0,
-    "base3": 0,
-    "outCount": 0,
-    "pitchCount": 2,
-    "lastPitchSpeed": "149",
     "lastPitchType": "투심"
   }
 ]

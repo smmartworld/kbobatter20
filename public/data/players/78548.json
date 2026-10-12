@@ -1,5 +1,26 @@
 [
   {
+    "gameId": "20261012KTSS02026",
+    "gameDate": "20261012",
+    "opponent": "삼성",
+    "inning": 5,
+    "homeOrAway": "0",
+    "batOrder": 5,
+    "batterName": "장성우",
+    "batterPcode": "78548",
+    "pitcherName": "배찬승",
+    "pitcherPcode": "55455",
+    "resultCode": "H",
+    "resultText": "장성우 : 좌익수 앞 1루타",
+    "base1": 1,
+    "base2": 0,
+    "base3": 0,
+    "outCount": 1,
+    "pitchCount": 1,
+    "lastPitchSpeed": "150",
+    "lastPitchType": "직구"
+  },
+  {
     "gameId": "20261006KTWO02026",
     "gameDate": "20261006",
     "opponent": "키움",
@@ -397,26 +418,5 @@
     "pitchCount": 5,
     "lastPitchSpeed": "132",
     "lastPitchType": "슬라이더"
-  },
-  {
-    "gameId": "20260930KTHT02026",
-    "gameDate": "20260930",
-    "opponent": "KIA",
-    "inning": 6,
-    "homeOrAway": "0",
-    "batOrder": 9,
-    "batterName": "장성우",
-    "batterPcode": "78548",
-    "pitcherName": "성영탁",
-    "pitcherPcode": "54610",
-    "resultCode": "GDP",
-    "resultText": "장성우 : 3루수 병살타 아웃 (3루수->1루수 송구아웃)",
-    "base1": 1,
-    "base2": 1,
-    "base3": 1,
-    "outCount": 1,
-    "pitchCount": 3,
-    "lastPitchSpeed": "143",
-    "lastPitchType": "투심"
   }
 ]
