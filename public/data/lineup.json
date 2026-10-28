@@ -4750,16 +4750,16 @@
       "teamCode": "LT",
       "teamName": "롯데",
       "posCode": 0,
-      "position": "포수",
+      "position": "투수",
       "backNumber": 69,
       "hitType": "우투우타",
-      "seasonAvg": ".262",
-      "seasonObp": ".295",
-      "seasonSlg": ".310",
-      "seasonOps": ".605",
-      "seasonHit": 11,
+      "seasonAvg": ".---",
+      "seasonObp": ".---",
+      "seasonSlg": ".---",
+      "seasonOps": ".---",
+      "seasonHit": 0,
       "seasonHr": 0,
-      "seasonRbi": 2
+      "seasonRbi": 0
     },
     {
       "pcode": "55530",
