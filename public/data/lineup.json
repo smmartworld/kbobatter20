@@ -4020,13 +4020,13 @@
       "position": "내야수",
       "backNumber": 6,
       "hitType": "우투우타",
-      "seasonAvg": ".191",
-      "seasonObp": ".247",
-      "seasonSlg": ".221",
-      "seasonOps": ".468",
-      "seasonHit": 13,
+      "seasonAvg": ".---",
+      "seasonObp": ".---",
+      "seasonSlg": ".---",
+      "seasonOps": ".---",
+      "seasonHit": 0,
       "seasonHr": 0,
-      "seasonRbi": 3
+      "seasonRbi": 0
     },
     {
       "pcode": "64340",
