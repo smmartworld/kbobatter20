@@ -108,16 +108,16 @@
       "teamCode": "SS",
       "teamName": "삼성",
       "posCode": 0,
-      "position": "내야수",
+      "position": "외야수",
       "backNumber": 56,
       "hitType": "우투좌타",
-      "seasonAvg": ".183",
-      "seasonObp": ".280",
-      "seasonSlg": ".220",
-      "seasonOps": ".500",
-      "seasonHit": 15,
+      "seasonAvg": ".---",
+      "seasonObp": ".---",
+      "seasonSlg": ".---",
+      "seasonOps": ".---",
+      "seasonHit": 0,
       "seasonHr": 0,
-      "seasonRbi": 2
+      "seasonRbi": 0
     },
     {
       "pcode": "50458",
